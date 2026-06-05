@@ -1,0 +1,7 @@
+[
+  { "id": "scene-classroom", "name": "Classroom", "src": "/assets/scenes/classroom.svg" },
+  { "id": "scene-city", "name": "City", "src": "/assets/scenes/city.svg" },
+  { "id": "scene-space", "name": "Space", "src": "/assets/scenes/space.svg" },
+  { "id": "scene-park", "name": "Park", "src": "/assets/scenes/park.svg" },
+  { "id": "scene-bedroom", "name": "Bedroom", "src": "/assets/scenes/bedroom.svg" }
+]

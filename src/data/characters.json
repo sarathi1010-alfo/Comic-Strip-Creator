@@ -1,0 +1,7 @@
+[
+  { "id": "char-hero-boy", "name": "Hero Boy", "src": "/assets/characters/hero-boy.svg", "defaultSize": { "width": 120, "height": 180 } },
+  { "id": "char-villain-girl", "name": "Villain Girl", "src": "/assets/characters/villain-girl.svg", "defaultSize": { "width": 120, "height": 180 } },
+  { "id": "char-robot", "name": "Robot", "src": "/assets/characters/robot.svg", "defaultSize": { "width": 140, "height": 160 } },
+  { "id": "char-cat", "name": "Cat", "src": "/assets/characters/cat.svg", "defaultSize": { "width": 80, "height": 80 } },
+  { "id": "char-alien", "name": "Alien", "src": "/assets/characters/alien.svg", "defaultSize": { "width": 110, "height": 170 } }
+]

@@ -1,0 +1,6 @@
+[
+  { "id": "bubble-normal", "name": "Speech", "src": "/assets/bubbles/normal.svg", "defaultSize": { "width": 150, "height": 100 } },
+  { "id": "bubble-thought", "name": "Thought", "src": "/assets/bubbles/thought.svg", "defaultSize": { "width": 150, "height": 100 } },
+  { "id": "bubble-shout", "name": "Shout", "src": "/assets/bubbles/shout.svg", "defaultSize": { "width": 160, "height": 110 } },
+  { "id": "bubble-narration", "name": "Narration", "src": "/assets/bubbles/narration.svg", "defaultSize": { "width": 180, "height": 60 } }
+]

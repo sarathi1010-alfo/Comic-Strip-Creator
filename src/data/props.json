@@ -1,0 +1,7 @@
+[
+  { "id": "prop-laptop", "name": "Laptop", "src": "/assets/props/laptop.svg", "defaultSize": { "width": 60, "height": 50 } },
+  { "id": "prop-sword", "name": "Sword", "src": "/assets/props/sword.svg", "defaultSize": { "width": 40, "height": 120 } },
+  { "id": "prop-coffee", "name": "Coffee", "src": "/assets/props/coffee.svg", "defaultSize": { "width": 30, "height": 40 } },
+  { "id": "prop-explosion", "name": "Explosion", "src": "/assets/props/explosion.svg", "defaultSize": { "width": 150, "height": 150 } },
+  { "id": "prop-car", "name": "Car", "src": "/assets/props/car.svg", "defaultSize": { "width": 200, "height": 100 } }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "tpl-hero-origin",
+    "title": "Hero Origin",
+    "description": "A 3-panel template introducing a hero.",
+    "thumbnail": "/assets/templates/hero-origin.svg",
+    "comic": {
+      "id": "comic-1",
+      "title": "My Hero Origin",
+      "panels": [
+        {
+          "id": "panel-1",
+          "order": 0,
+          "elements": [
+            { "id": "el-1", "assetId": "scene-city", "type": "scene", "position": { "x": 0, "y": 0 }, "size": { "width": 100, "height": 100 }, "zIndex": 0 }
+          ]
+        },
+        {
+          "id": "panel-2",
+          "order": 1,
+          "elements": [
+            { "id": "el-2", "assetId": "scene-park", "type": "scene", "position": { "x": 0, "y": 0 }, "size": { "width": 100, "height": 100 }, "zIndex": 0 },
+            { "id": "el-3", "assetId": "char-hero-boy", "type": "character", "position": { "x": 20, "y": 50 }, "size": { "width": 120, "height": 180 }, "zIndex": 1 }
+          ]
+        },
+        {
+          "id": "panel-3",
+          "order": 2,
+          "elements": [
+            { "id": "el-4", "assetId": "scene-space", "type": "scene", "position": { "x": 0, "y": 0 }, "size": { "width": 100, "height": 100 }, "zIndex": 0 },
+            { "id": "el-5", "assetId": "prop-explosion", "type": "prop", "position": { "x": 50, "y": 50 }, "size": { "width": 150, "height": 150 }, "zIndex": 1 },
+            { "id": "el-6", "assetId": "bubble-shout", "type": "bubble", "position": { "x": 10, "y": 10 }, "size": { "width": 160, "height": 110 }, "zIndex": 2, "text": "BOOM!" }
+          ]
+        }
+      ]
+    }
+  }
+]
