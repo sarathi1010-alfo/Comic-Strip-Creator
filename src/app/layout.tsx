@@ -21,6 +21,9 @@ const bangers = Bangers({
 });
 
 export const metadata: Metadata = {
+  other: {
+    "google-adsense-account": "ca-pub-6393936268623951"
+  },
   title: "Comic Strip Creator",
   description: "Create stunning comic strips in minutes — no design skills required.",
 };
