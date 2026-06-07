@@ -20,12 +20,42 @@ const bangers = Bangers({
   subsets: ["latin"],
 });
 
+const baseUrl = "https://comicstripcreator.alfo.online";
+const title = "Comic Strip Creator — Free Online Comic Maker | alfo.online";
+const description = "Create stunning comic strips in minutes — no design skills required. Free online comic maker with custom panels, speech bubbles, and assets.";
+
 export const metadata: Metadata = {
+  metadataBase: new URL(baseUrl),
+  title,
+  description,
+  keywords: ["free comic maker", "comic strip creator", "online comic builder", "custom comics", "speech bubbles"],
+  alternates: {
+    canonical: baseUrl,
+  },
+  openGraph: {
+    title,
+    description,
+    url: baseUrl,
+    siteName: "Comic Strip Creator",
+    type: "website",
+    images: [
+      {
+        url: "/og-image.jpg",
+        width: 1200,
+        height: 630,
+        alt: title,
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title,
+    description,
+    images: ["/og-image.jpg"],
+  },
   other: {
     "google-adsense-account": "ca-pub-6393936268623951"
   },
-  title: "Comic Strip Creator",
-  description: "Create stunning comic strips in minutes — no design skills required.",
 };
 
 export default function RootLayout({
@@ -33,9 +63,46 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  // Base Schema.org JSON-LD (WebApplication)
+  const schemaOrgJSONLD = {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": "Comic Strip Creator",
+    "url": baseUrl,
+    "description": description,
+    "applicationCategory": "DesignApplication",
+    "operatingSystem": "All",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    }
+  };
+
   // Use dark mode by default for the creator aesthetic
   return (
     <html lang="en" className="dark">
+      <head>
+        {/* GA4 Analytics Block Placeholder */}
+        <script async src={`https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX`}></script>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'G-XXXXXXXXXX', {
+                page_path: window.location.pathname,
+              });
+            `,
+          }}
+        />
+        {/* Schema.org */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaOrgJSONLD) }}
+        />
+      </head>
       <body
         className={`${inter.variable} ${comicNeue.variable} ${bangers.variable} antialiased font-sans bg-background text-foreground`}
       >
