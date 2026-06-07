@@ -92,3 +92,63 @@ export function generateSchemaOrg() {
     }
   };
 }
+
+/**
+ * Automated Metadata Generation Pipeline for Tools
+ */
+export interface ToolMetadataProps {
+  toolName: string;
+  cluster: string;
+  primaryAction: string;
+  path: string;
+  keyBenefit?: string;
+}
+
+export function generateProgrammaticMetadata({
+  toolName,
+  cluster,
+  primaryAction,
+  path,
+  keyBenefit = "free, no sign-up required"
+}: ToolMetadataProps): Metadata {
+  const titleTemplates = [
+    `${toolName} — Free Online ${primaryAction} | ${siteConfig.siteName}`,
+    `Free ${toolName} Tool — ${primaryAction} Instantly`,
+    `${toolName}: The Best Tool to ${primaryAction}`
+  ];
+
+  const descTemplates = [
+    `Use our free ${toolName} to ${primaryAction} online. ${keyBenefit.charAt(0).toUpperCase() + keyBenefit.slice(1)}. Fast, secure, and accurate.`,
+    `Need to ${primaryAction}? The ${toolName} from ${siteConfig.siteName} is the perfect solution. ${keyBenefit.charAt(0).toUpperCase() + keyBenefit.slice(1)}.`
+  ];
+
+  // Auto-select shortest title that conveys meaning to prevent truncation
+  const title = titleTemplates.reduce((a, b) => a.length <= b.length ? a : b);
+  // Auto-select shortest valid description
+  const description = descTemplates.reduce((a, b) => a.length <= b.length ? a : b);
+
+  return constructMetadata({
+    title,
+    description,
+    path,
+    keywords: [toolName.toLowerCase(), cluster.toLowerCase(), primaryAction.toLowerCase()]
+  });
+}
+
+/**
+ * Generates FAQ Schema specifically optimized for AI Overviews
+ */
+export function generateFAQSchema(faqs: { question: string, answer: string }[]) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": faqs.map(faq => ({
+      "@type": "Question",
+      "name": faq.question,
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": faq.answer
+      }
+    }))
+  };
+}
