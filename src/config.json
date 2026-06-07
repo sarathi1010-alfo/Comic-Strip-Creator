@@ -1,0 +1,27 @@
+{
+  "siteName": "Comic Strip Creator",
+  "primaryKeyword": "free comic maker",
+  "toolType": "Design",
+  "relatedTools": [
+    {
+      "name": "Palette Flow",
+      "url": "https://paletteflow.alfo.online",
+      "description": "Generate beautiful color palettes for your comics"
+    },
+    {
+      "name": "Font Fusion",
+      "url": "https://fontfusion.alfo.online",
+      "description": "Pair fonts perfectly for your speech bubbles"
+    },
+    {
+      "name": "Image Compressor",
+      "url": "https://compresspro.alfo.online",
+      "description": "Compress exported comics before sharing"
+    },
+    {
+      "name": "Brand Forge",
+      "url": "https://brandforge.alfo.online",
+      "description": "Create a unified brand kit for your series"
+    }
+  ]
+}

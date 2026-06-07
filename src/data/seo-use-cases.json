@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "4-panel-comic-strip",
+    "title": "Free 4-Panel Comic Strip Maker",
+    "primaryKeyword": "4 panel comic strip",
+    "h1": "Create a 4-Panel Comic Strip in Minutes",
+    "description": "Design your own 4-panel comic strip for free. Our online creator has ready-made templates, speech bubbles, and characters.",
+    "intro": "The 4-panel comic strip is the standard format for webcomics and newspaper comics. It provides the perfect structure for a quick joke, a short story, or a punchy observation. Our free online comic maker lets you drag and drop elements to build your perfect 4-panel comic without needing any design skills.",
+    "faqs": [
+      {
+        "question": "What is the standard size for a 4-panel comic?",
+        "answer": "A standard 4-panel comic is usually read horizontally and is typically 1200x300 pixels to fit comfortably on most social media feeds and screens."
+      },
+      {
+        "question": "Can I export my 4-panel comic?",
+        "answer": "Yes, you can export your finished 4-panel comic as a high-quality PNG image for free."
+      }
+    ]
+  },
+  {
+    "slug": "school-project-comic",
+    "title": "Comic Strip Maker for School Projects",
+    "primaryKeyword": "school project comic",
+    "h1": "Build an Educational Comic for School Projects",
+    "description": "The perfect comic strip maker for students and teachers. Build educational stories for school projects easily and for free.",
+    "intro": "Visual storytelling is one of the best ways to present information. Whether it's a history report, a science explanation, or a creative writing assignment, turning your school project into a comic strip makes it engaging and fun. Our drag-and-drop editor is perfect for students of all ages.",
+    "faqs": [
+      {
+        "question": "Is this tool free for students?",
+        "answer": "Yes, our comic strip creator is 100% free with no hidden fees, making it perfect for students and classrooms."
+      },
+      {
+        "question": "Do I need to create an account?",
+        "answer": "No signup is required! You can start creating your school project comic immediately."
+      }
+    ]
+  }
+]
