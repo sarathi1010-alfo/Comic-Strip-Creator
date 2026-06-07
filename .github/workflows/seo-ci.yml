@@ -1,0 +1,42 @@
+name: SEO CI Pipeline
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  seo-checks:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run Linter
+        run: npm run lint
+
+      - name: Check Build
+        run: npm run build
+
+      # Future expansion:
+      # - name: Validate JSON Data Sources
+      #   run: node scripts/validate-json.js
+      #
+      # - name: Lighthouse CI
+      #   uses: treosh/lighthouse-ci-action@v10
+      #
+      # - name: Submit Sitemaps to GSC (Only on main push)
+      #   if: github.ref == 'refs/heads/main'
+      #   env:
+      #     GOOGLE_APPLICATION_CREDENTIALS: ${{ secrets.GCP_CREDENTIALS }}
+      #   run: node scripts/submit-sitemap.js
