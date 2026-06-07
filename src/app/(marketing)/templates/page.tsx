@@ -2,6 +2,8 @@ import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import templatesData from "@/data/templates.json";
 
+import seoTemplatesData from "@/data/seo-templates.json";
+
 export default function TemplatesPage() {
   return (
     <div className="container mx-auto px-4 py-16">
@@ -10,6 +12,13 @@ export default function TemplatesPage() {
         <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
           Start with a pre-built layout and customize it to make it your own.
         </p>
+        <div className="mt-8 flex flex-wrap justify-center gap-4">
+          {seoTemplatesData.map((category) => (
+            <Link key={category.category} href={`/templates/${category.category}`} className="text-sm text-primary hover:underline font-medium">
+               Browse {category.title} &rarr;
+            </Link>
+          ))}
+        </div>
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">

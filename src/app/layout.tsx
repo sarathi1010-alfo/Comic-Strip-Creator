@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Inter, Comic_Neue, Bangers } from "next/font/google";
 import "./globals.css";
 import { TooltipProvider } from "@/components/ui/tooltip";
+import { GoogleAnalytics } from '@next/third-parties/google';
 
 const inter = Inter({
   variable: "--font-sans",
@@ -83,20 +84,6 @@ export default function RootLayout({
   return (
     <html lang="en" className="dark">
       <head>
-        {/* GA4 Analytics Block Placeholder */}
-        <script async src={`https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX`}></script>
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `
-              window.dataLayer = window.dataLayer || [];
-              function gtag(){dataLayer.push(arguments);}
-              gtag('js', new Date());
-              gtag('config', 'G-XXXXXXXXXX', {
-                page_path: window.location.pathname,
-              });
-            `,
-          }}
-        />
         {/* Schema.org */}
         <script
           type="application/ld+json"
@@ -108,6 +95,7 @@ export default function RootLayout({
       >
         <TooltipProvider>{children}</TooltipProvider>
       </body>
+      <GoogleAnalytics gaId="G-XXXXXXXXXX" />
     </html>
   );
 }

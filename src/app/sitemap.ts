@@ -1,7 +1,39 @@
 import { MetadataRoute } from 'next';
+import useCasesData from '@/data/seo-use-cases.json';
+import blogData from '@/data/seo-blog.json';
+import vsData from '@/data/seo-vs.json';
+import templatesData from '@/data/seo-templates.json';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://comicstripcreator.alfo.online';
+
+  const useCaseRoutes = useCasesData.map((useCase) => ({
+    url: `${baseUrl}/use-cases/${useCase.slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.7,
+  }));
+
+  const blogRoutes = blogData.map((post) => ({
+    url: `${baseUrl}/blog/${post.slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.7,
+  }));
+
+  const vsRoutes = vsData.map((post) => ({
+    url: `${baseUrl}/vs/${post.slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.7,
+  }));
+
+  const templateRoutes = templatesData.map((post) => ({
+    url: `${baseUrl}/templates/${post.category}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.7,
+  }));
 
   return [
     {
@@ -46,5 +78,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'yearly',
       priority: 0.3,
     },
+    ...useCaseRoutes,
+    ...blogRoutes,
+    ...vsRoutes,
+    ...templateRoutes,
   ];
 }

@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { Button } from '@/components/ui/button';
-import useCasesData from '@/data/seo-use-cases.json';
+import vsData from '@/data/seo-vs.json';
 import siteConfig from '@/config.json';
 
 type Props = {
@@ -11,7 +11,7 @@ type Props = {
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const resolvedParams = await params;
-  const useCase = useCasesData.find((item) => item.slug === resolvedParams.slug);
+  const useCase = vsData.find((item) => item.slug === resolvedParams.slug);
 
   if (!useCase) {
     return { title: 'Not Found' };
@@ -22,20 +22,22 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     description: useCase.description,
     keywords: [useCase.primaryKeyword, "free comic maker", "comic strip creator"],
     alternates: {
-      canonical: `${siteConfig.baseUrl}/use-cases/${useCase.slug}`
+      canonical: `${siteConfig.baseUrl}/vs/${useCase.slug}`
     }
   };
 }
 
 export function generateStaticParams() {
-  return useCasesData.map((item) => ({
+  return vsData.map((item) => ({
     slug: item.slug,
   }));
 }
 
+type FAQ = { question: string, answer: string };
+
 export default async function UseCasePage({ params }: Props) {
   const resolvedParams = await params;
-  const useCase = useCasesData.find((item) => item.slug === resolvedParams.slug);
+  const useCase = vsData.find((item) => item.slug === resolvedParams.slug);
 
   if (!useCase) {
     notFound();
@@ -45,7 +47,7 @@ export default async function UseCasePage({ params }: Props) {
   const faqSchema = useCase.faqs && useCase.faqs.length > 0 ? {
     "@context": "https://schema.org",
     "@type": "FAQPage",
-    "mainEntity": useCase.faqs.map(faq => ({
+    "mainEntity": useCase.faqs.map((faq: FAQ) => ({
       "@type": "Question",
       "name": faq.question,
       "acceptedAnswer": {
@@ -86,7 +88,7 @@ export default async function UseCasePage({ params }: Props) {
           <div className="mt-16">
             <h2 className="text-3xl font-bangers mb-8">Frequently Asked Questions</h2>
             <div className="space-y-6">
-              {useCase.faqs.map((faq, index) => (
+              {useCase.faqs.map((faq: FAQ, index) => (
                 <div key={index} className="bg-muted/30 p-6 rounded-lg">
                   <h3 className="font-bold text-xl mb-2">{faq.question}</h3>
                   <p className="text-muted-foreground">{faq.answer}</p>

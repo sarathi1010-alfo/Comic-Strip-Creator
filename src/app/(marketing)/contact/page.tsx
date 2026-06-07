@@ -6,12 +6,13 @@ export default function ContactPage() {
         Have questions, feedback, or need support? We&apos;re here to help! Fill out the form below or reach out to us directly.
       </p>
 
-      <form className="space-y-6">
+      <form action="https://formspree.io/f/placeholder_id" method="POST" className="space-y-6">
         <div>
           <label htmlFor="name" className="block text-sm font-medium mb-2">Name</label>
           <input
             type="text"
             id="name"
+            name="name"
             className="w-full flex h-10 rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50"
             placeholder="Your Name"
             required
@@ -22,6 +23,7 @@ export default function ContactPage() {
           <input
             type="email"
             id="email"
+            name="email"
             className="w-full flex h-10 rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50"
             placeholder="your@email.com"
             required
@@ -31,6 +33,7 @@ export default function ContactPage() {
           <label htmlFor="message" className="block text-sm font-medium mb-2">Message</label>
           <textarea
             id="message"
+            name="message"
             rows={5}
             className="w-full flex rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50"
             placeholder="How can we help?"
