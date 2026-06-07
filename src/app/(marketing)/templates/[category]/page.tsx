@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { Button } from '@/components/ui/button';
 import templateData from '@/data/seo-templates.json';
 import siteConfig from '@/config.json';
+import { constructMetadata } from '@/lib/seo';
 
 type Props = {
   params: Promise<{ category: string }>;
@@ -17,14 +18,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     return { title: 'Not Found' };
   }
 
-  return {
+  return constructMetadata({
     title: `${useCase.title} | ${siteConfig.siteName}`,
     description: useCase.description,
+    path: `/templates/${useCase.category}`,
     keywords: [useCase.primaryKeyword, "free comic maker", "comic strip creator"],
-    alternates: {
-      canonical: `${siteConfig.baseUrl}/use-cases/${useCase.category}`
-    }
-  };
+  });
 }
 
 export function generateStaticParams() {

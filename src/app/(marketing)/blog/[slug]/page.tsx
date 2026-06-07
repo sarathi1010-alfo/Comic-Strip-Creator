@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { Button } from '@/components/ui/button';
 import blogData from '@/data/seo-blog.json';
 import siteConfig from '@/config.json';
+import { constructMetadata } from '@/lib/seo';
 
 type Props = {
   params: Promise<{ slug: string }>;
@@ -17,14 +18,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     return { title: 'Not Found' };
   }
 
-  return {
+  return constructMetadata({
     title: `${useCase.title} | ${siteConfig.siteName}`,
     description: useCase.description,
+    path: `/blog/${useCase.slug}`,
     keywords: [useCase.primaryKeyword, "free comic maker", "comic strip creator"],
-    alternates: {
-      canonical: `${siteConfig.baseUrl}/blog/${useCase.slug}`
-    }
-  };
+  });
 }
 
 export function generateStaticParams() {

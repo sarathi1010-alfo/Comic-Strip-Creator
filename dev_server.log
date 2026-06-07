@@ -7,23 +7,10 @@
    - Network:      http://192.168.0.2:3000
 
  ✓ Starting...
- ✓ Ready in 1416ms
- ○ Compiling /contact ...
- ✓ Compiled /contact in 6s
- HEAD /contact 200 in 6892ms
- GET /contact 200 in 428ms
+ ✓ Ready in 2.4s
  ○ Compiling / ...
- ✓ Compiled / in 1144ms
- GET / 200 in 1706ms
- ○ Compiling /blog ...
- ✓ Compiled /blog in 721ms
- GET /blog 200 in 1054ms
- ○ Compiling /vs ...
- ✓ Compiled /vs in 745ms
- GET /vs 200 in 1001ms
- ○ Compiling /templates ...
- ✓ Compiled /templates in 719ms
- GET /templates 200 in 1091ms
- ○ Compiling /use-cases ...
- ✓ Compiled /use-cases in 838ms
- GET /use-cases 200 in 1091ms
+ ✓ Compiled / in 8.9s
+ HEAD / 200 in 10043ms
+ ○ Compiling /blog/[slug] ...
+ ✓ Compiled /blog/[slug] in 818ms
+ GET /blog/how-to-write-funny-comic-strips 200 in 2163ms

@@ -3,9 +3,10 @@ import useCasesData from '@/data/seo-use-cases.json';
 import blogData from '@/data/seo-blog.json';
 import vsData from '@/data/seo-vs.json';
 import templatesData from '@/data/seo-templates.json';
+import { getBaseUrl } from '@/lib/seo';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://comicstripcreator.alfo.online';
+  const baseUrl = getBaseUrl();
 
   const useCaseRoutes = useCasesData.map((useCase) => ({
     url: `${baseUrl}/use-cases/${useCase.slug}`,

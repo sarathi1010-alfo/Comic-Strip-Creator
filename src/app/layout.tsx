@@ -3,6 +3,7 @@ import { Inter, Comic_Neue, Bangers } from "next/font/google";
 import "./globals.css";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import { GoogleAnalytics } from '@next/third-parties/google';
+import { constructMetadata, generateSchemaOrg } from "@/lib/seo";
 
 const inter = Inter({
   variable: "--font-sans",
@@ -21,39 +22,16 @@ const bangers = Bangers({
   subsets: ["latin"],
 });
 
-const baseUrl = "https://comicstripcreator.alfo.online";
 const title = "Comic Strip Creator — Free Online Comic Maker | alfo.online";
 const description = "Create stunning comic strips in minutes — no design skills required. Free online comic maker with custom panels, speech bubbles, and assets.";
 
 export const metadata: Metadata = {
-  metadataBase: new URL(baseUrl),
-  title,
-  description,
-  keywords: ["free comic maker", "comic strip creator", "online comic builder", "custom comics", "speech bubbles"],
-  alternates: {
-    canonical: baseUrl,
-  },
-  openGraph: {
+  ...constructMetadata({
     title,
     description,
-    url: baseUrl,
-    siteName: "Comic Strip Creator",
-    type: "website",
-    images: [
-      {
-        url: "/og-image.jpg",
-        width: 1200,
-        height: 630,
-        alt: title,
-      },
-    ],
-  },
-  twitter: {
-    card: "summary_large_image",
-    title,
-    description,
-    images: ["/og-image.jpg"],
-  },
+    path: "/",
+    keywords: ["free comic maker", "comic strip creator", "online comic builder", "custom comics", "speech bubbles"],
+  }),
   other: {
     "google-adsense-account": "ca-pub-6393936268623951"
   },
@@ -65,20 +43,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   // Base Schema.org JSON-LD (WebApplication)
-  const schemaOrgJSONLD = {
-    "@context": "https://schema.org",
-    "@type": "WebApplication",
-    "name": "Comic Strip Creator",
-    "url": baseUrl,
-    "description": description,
-    "applicationCategory": "DesignApplication",
-    "operatingSystem": "All",
-    "offers": {
-      "@type": "Offer",
-      "price": "0",
-      "priceCurrency": "USD"
-    }
-  };
+  const schemaOrgJSONLD = generateSchemaOrg();
 
   // Use dark mode by default for the creator aesthetic
   return (
