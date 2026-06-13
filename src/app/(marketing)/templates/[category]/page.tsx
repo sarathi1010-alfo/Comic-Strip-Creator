@@ -3,8 +3,10 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { Button } from '@/components/ui/button';
 import templateData from '@/data/seo-templates.json';
-import siteConfig from '@/config.json';
-import { constructMetadata } from '@/lib/seo';
+
+import { resolveMetadata } from '@/lib/seo/resolveMetadata';
+import { buildCategoryMeta } from '@/lib/seo/metaFactories';
+
 
 type Props = {
   params: Promise<{ category: string }>;
@@ -18,12 +20,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     return { title: 'Not Found' };
   }
 
-  return constructMetadata({
-    title: `${useCase.title} | ${siteConfig.siteName}`,
-    description: useCase.description,
-    path: `/templates/${useCase.category}`,
-    keywords: [useCase.primaryKeyword, "free comic maker", "comic strip creator"],
-  });
+  return resolveMetadata(buildCategoryMeta(useCase));
 }
 
 export function generateStaticParams() {

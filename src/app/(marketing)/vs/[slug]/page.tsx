@@ -3,8 +3,10 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { Button } from '@/components/ui/button';
 import vsData from '@/data/seo-vs.json';
-import siteConfig from '@/config.json';
-import { constructMetadata } from '@/lib/seo';
+
+import { resolveMetadata } from '@/lib/seo/resolveMetadata';
+import { buildLandingMeta } from '@/lib/seo/metaFactories';
+
 
 type Props = {
   params: Promise<{ slug: string }>;
@@ -18,12 +20,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     return { title: 'Not Found' };
   }
 
-  return constructMetadata({
-    title: `${useCase.title} | ${siteConfig.siteName}`,
-    description: useCase.description,
-    path: `/vs/${useCase.slug}`,
-    keywords: [useCase.primaryKeyword, "free comic maker", "comic strip creator"],
-  });
+  return resolveMetadata(buildLandingMeta(useCase));
 }
 
 export function generateStaticParams() {
