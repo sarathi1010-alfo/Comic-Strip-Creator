@@ -3,8 +3,11 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { Button } from '@/components/ui/button';
 import blogData from '@/data/seo-blog.json';
-import siteConfig from '@/config.json';
-import { constructMetadata } from '@/lib/seo';
+
+import { resolveMetadata } from '@/lib/seo/resolveMetadata';
+import { buildBlogPostMeta } from '@/lib/seo/metaFactories';
+import { buildArticleSchema, buildBreadcrumbSchema } from '@/lib/seo/buildSchema';
+import { JsonLd } from '@/components/JsonLd';
 
 type Props = {
   params: Promise<{ slug: string }>;
@@ -18,12 +21,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     return { title: 'Not Found' };
   }
 
-  return constructMetadata({
-    title: `${useCase.title} | ${siteConfig.siteName}`,
-    description: useCase.description,
-    path: `/blog/${useCase.slug}`,
-    keywords: [useCase.primaryKeyword, "free comic maker", "comic strip creator"],
-  });
+  return resolveMetadata(buildBlogPostMeta(useCase));
 }
 
 export function generateStaticParams() {
@@ -58,15 +56,19 @@ export default async function UseCasePage({ params }: Props) {
 
   return (
     <div className="container mx-auto px-4 py-16 max-w-4xl">
-      {faqSchema && (
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
-        />
-      )}
+      <JsonLd schema={buildArticleSchema(buildBlogPostMeta(useCase))} />
+      <JsonLd schema={buildBreadcrumbSchema(buildBlogPostMeta(useCase).breadcrumbs || [])} />
+      {faqSchema && <JsonLd schema={faqSchema} />}
 
       <article className="prose prose-invert prose-lg max-w-none">
-        <h1 className="text-4xl md:text-5xl font-bangers text-primary mb-6">{useCase.h1}</h1>
+        <header className="mb-10">
+          <h1 className="text-4xl md:text-5xl font-bangers text-primary mb-4">{useCase.h1}</h1>
+          <div className="flex items-center text-sm text-muted-foreground space-x-4 mb-6">
+            <address className="not-italic">By ComicStrip Team</address>
+            <span>•</span>
+            <time dateTime={new Date().toISOString()}>{new Date().toLocaleDateString()}</time>
+          </div>
+        </header>
         <p className="text-xl text-muted-foreground mb-12 leading-relaxed">
           {useCase.intro}
         </p>

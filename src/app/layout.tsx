@@ -3,7 +3,10 @@ import { Inter, Comic_Neue, Bangers } from "next/font/google";
 import "./globals.css";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import { GoogleAnalytics } from '@next/third-parties/google';
-import { constructMetadata, generateSchemaOrg } from "@/lib/seo";
+import { resolveMetadata } from "@/lib/seo/resolveMetadata";
+import { buildLandingMeta } from "@/lib/seo/metaFactories";
+import { buildOrganizationSchema, buildWebsiteSchema } from "@/lib/seo/buildSchema";
+import { JsonLd } from "@/components/JsonLd";
 
 const inter = Inter({
   variable: "--font-sans",
@@ -22,16 +25,15 @@ const bangers = Bangers({
   subsets: ["latin"],
 });
 
-const title = "Comic Strip Creator — Free Online Comic Maker | alfo.online";
 const description = "Create stunning comic strips in minutes — no design skills required. Free online comic maker with custom panels, speech bubbles, and assets.";
 
 export const metadata: Metadata = {
-  ...constructMetadata({
-    title,
+  ...resolveMetadata(buildLandingMeta({
+    title: "Comic Strip Creator — Free Online Comic Maker",
     description,
-    path: "/",
-    keywords: ["free comic maker", "comic strip creator", "online comic builder", "custom comics", "speech bubbles"],
-  }),
+    slug: "/",
+    faqs: []
+  }), true),
   other: {
     "google-adsense-account": "ca-pub-6393936268623951"
   },
@@ -42,18 +44,20 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
-  // Base Schema.org JSON-LD (WebApplication)
-  const schemaOrgJSONLD = generateSchemaOrg();
+
 
   // Use dark mode by default for the creator aesthetic
   return (
     <html lang="en" className="dark">
       <head>
-        {/* Schema.org */}
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaOrgJSONLD) }}
-        />
+        {/* Core Web Vitals SEO Signals */}
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
+
+
+
+        <JsonLd schema={buildOrganizationSchema()} />
+        <JsonLd schema={buildWebsiteSchema()} />
       </head>
       <body
         className={`${inter.variable} ${comicNeue.variable} ${bangers.variable} antialiased font-sans bg-background text-foreground`}
