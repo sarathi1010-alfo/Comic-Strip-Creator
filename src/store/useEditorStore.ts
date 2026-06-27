@@ -23,6 +23,10 @@ interface EditorState {
   bringForward: (panelId: string, elementId: string) => void;
   sendBackward: (panelId: string, elementId: string) => void;
   duplicateElement: (panelId: string, elementId: string) => void;
+  applyLayoutPreset: (preset: 'vertical' | 'classic' | 'hero' | 'grid') => void;
+  distributeEvenly: () => void;
+  customAssets: Array<{ id: string; name: string; src: string; type: 'character' | 'scene' | 'prop' | 'bubble'; defaultSize: { width: number; height: number } }>;
+  addCustomAsset: (asset: { id: string; name: string; src: string; type: 'character' | 'scene' | 'prop' | 'bubble'; defaultSize: { width: number; height: number } }) => void;
 }
 
 const generateInitialComic = (): Comic => ({
@@ -32,7 +36,8 @@ const generateInitialComic = (): Comic => ({
     { id: uuidv4(), order: 0, elements: [] },
     { id: uuidv4(), order: 1, elements: [] },
     { id: uuidv4(), order: 2, elements: [] }
-  ]
+  ],
+  layoutMode: 'vertical'
 });
 
 export const useEditorStore = create<EditorState>()(
@@ -41,6 +46,7 @@ export const useEditorStore = create<EditorState>()(
       comic: generateInitialComic(),
       selectedPanelId: null,
       selectedElementId: null,
+      customAssets: [],
 
       setComic: (comic) => set({ comic, selectedPanelId: null, selectedElementId: null }),
 
@@ -180,6 +186,40 @@ export const useEditorStore = create<EditorState>()(
         return { comic: { ...state.comic, panels } };
       }),
 
+      applyLayoutPreset: (preset) => set((state) => {
+        const targetCount = preset === 'grid' ? 4 : 3; // vertical/classic/hero = 3, grid = 4
+        let newPanels = [...state.comic.panels];
+
+        if (newPanels.length < targetCount) {
+          // Add panels
+          while (newPanels.length < targetCount) {
+            newPanels.push({ id: uuidv4(), order: newPanels.length, elements: [] });
+          }
+        } else if (newPanels.length > targetCount) {
+          // Remove panels (only if empty to be safe, or just truncate for simplicity of preset)
+          newPanels = newPanels.slice(0, targetCount);
+        }
+
+        return {
+          comic: {
+            ...state.comic,
+            layoutMode: preset,
+            panels: newPanels
+          }
+        };
+      }),
+
+      distributeEvenly: () => set((state) => ({
+        comic: {
+          ...state.comic,
+          layoutMode: 'vertical'
+        }
+      })),
+
+      addCustomAsset: (asset) => set((state) => ({
+        customAssets: [...state.customAssets, asset]
+      })),
+
       duplicateElement: (panelId, elementId) => set((state) => {
         const newElementId = uuidv4();
         const panels = state.comic.panels.map(panel => {
@@ -213,7 +253,7 @@ export const useEditorStore = create<EditorState>()(
       name: 'comic-strip-storage',
       storage: createJSONStorage(() => localStorage),
       // Only persist the comic, not the UI selection state
-      partialize: (state) => ({ comic: state.comic })
+      partialize: (state) => ({ comic: state.comic, customAssets: state.customAssets })
     }
   )
 );

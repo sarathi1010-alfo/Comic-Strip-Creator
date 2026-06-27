@@ -1,0 +1,14 @@
+<<<<<<< SEARCH
+export interface Comic {
+  id: string;
+  title: string;
+  panels: Panel[];
+}
+=======
+export interface Comic {
+  id: string;
+  title: string;
+  panels: Panel[];
+  layoutMode?: 'vertical' | 'classic' | 'hero' | 'grid';
+}
+>>>>>>> REPLACE

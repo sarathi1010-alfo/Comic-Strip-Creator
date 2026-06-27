@@ -34,6 +34,7 @@ export interface Comic {
   id: string;
   title: string;
   panels: Panel[];
+  layoutMode?: 'vertical' | 'classic' | 'hero' | 'grid';
 }
 
 // Asset Database Models
