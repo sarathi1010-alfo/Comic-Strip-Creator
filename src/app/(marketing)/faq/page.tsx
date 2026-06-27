@@ -47,6 +47,34 @@ const faqs = [
     question: 'Do I need to create an account to start?',
     answer: 'No signup is required to start creating! You can jump right into the editor and start building your comic immediately.',
   },
+  {
+    question: 'How do I choose the right comic idea?',
+    answer: 'Choose an idea that resonates with your personal experiences or interests. If you find a concept funny or intriguing, your passion will translate into the final comic.',
+  },
+  {
+    question: 'How many panels should a comic page have?',
+    answer: 'A standard comic page typically has between 5 to 9 panels, but this can vary greatly depending on the genre and the pacing required. Action scenes often use fewer, larger panels, while dialogue-heavy scenes may use more.',
+  },
+  {
+    question: 'What is the rule of three in comedy?',
+    answer: 'The rule of three is a comedic principle where the first two elements set up a pattern, and the third element subverts that pattern to create the punchline. In a 4-panel comic, panels 1 and 2 often establish the premise, panel 3 escalates it, and panel 4 delivers the twist.',
+  },
+  {
+    question: 'How do I make my characters expressions funnier?',
+    answer: 'Funnier expressions often rely on exaggeration. Pushing the boundaries of realistic anatomy to show extreme shock, joy, or confusion can instantly make a panel more humorous. Using distinct eye shapes, large mouths, and action lines helps convey the emotion clearly.',
+  },
+  {
+    question: 'What is the gutter in a comic?',
+    answer: 'The gutter is the blank space between panels. It acts as a visual pause and represents the passage of time or a shift in location between the events depicted in the panels.',
+  },
+  {
+    question: 'What font should I use for my comic?',
+    answer: 'For standard dialogue, use a clean, legible comic font (often all-caps). For our tools, we recommend "Comic Neue" for a playful, readable style. Avoid using generic fonts like Arial or Times New Roman, as they break the visual immersion.',
+  },
+  {
+    question: 'How do I design a main character vs a background character?',
+    answer: 'Main characters usually have more detailed, distinct designs with specific color palettes to make them stand out. Background characters should have simpler designs and muted colors so they don\'t distract from the main action.',
+  },
 ];
 
 export default function FAQPage() {
