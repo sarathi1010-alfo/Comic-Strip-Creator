@@ -19,6 +19,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/terms-of-service',
     '/privacy-policy',
     '/blog',
+    '/faq',
     '/use-cases',
     '/vs',
     '/templates',
