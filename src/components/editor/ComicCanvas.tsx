@@ -78,7 +78,12 @@ export function ComicCanvas() {
             {comic.title}
           </h1>
 
-          <div className="grid grid-cols-1 gap-6 w-full max-w-xl mx-auto">
+          <div className={
+            comic.layoutMode === 'classic' ? "grid grid-cols-3 gap-2 w-full max-w-4xl mx-auto" :
+            comic.layoutMode === 'hero' ? "grid grid-cols-2 gap-2 w-full max-w-4xl mx-auto [&>*:first-child]:col-span-2" :
+            comic.layoutMode === 'grid' ? "grid grid-cols-2 gap-2 w-full max-w-4xl mx-auto" :
+            "flex flex-col gap-6 w-full max-w-xl mx-auto"
+          }>
             {comic.panels.map(panel => (
               <ComicPanel key={panel.id} panel={panel} />
             ))}

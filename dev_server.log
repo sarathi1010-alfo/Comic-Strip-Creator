@@ -7,10 +7,8 @@
    - Network:      http://192.168.0.2:3000
 
  ✓ Starting...
- ✓ Ready in 2.4s
- ○ Compiling / ...
- ✓ Compiled / in 8.9s
- HEAD / 200 in 10043ms
- ○ Compiling /blog/[slug] ...
- ✓ Compiled /blog/[slug] in 818ms
- GET /blog/how-to-write-funny-comic-strips 200 in 2163ms
+ ✓ Compiled middleware in 413ms
+ ✓ Ready in 2.1s
+ ○ Compiling /editor ...
+ ✓ Compiled /editor in 11.2s
+ GET /editor 200 in 14208ms
