@@ -1,0 +1,58 @@
+[
+  {
+    "slug": "superhero-comic-maker",
+    "title": "Superhero Comic Maker Online",
+    "primaryKeyword": "superhero comic maker",
+    "h1": "Create Your Own Superhero Comic",
+    "description": "Build epic superhero stories with our free online comic maker.",
+    "intro": "Unleash your imagination and design the next great hero or villain.",
+    "faqs": [
+      {
+        "question": "Can I create custom superpowers?",
+        "answer": "You can use visual effects from our asset library to represent various superpowers."
+      }
+    ]
+  },
+  {
+    "slug": "manga-style-comic",
+    "title": "Manga Style Comic Creator",
+    "primaryKeyword": "manga style comic",
+    "h1": "Make Manga Style Comics Online",
+    "description": "Create authentic-looking manga comics with right-to-left layouts and expressive characters.",
+    "intro": "Dive into the world of manga and create your own shonen or shoujo masterpiece.",
+    "faqs": [
+      {
+        "question": "Does this support right-to-left reading?",
+        "answer": "Yes, you can arrange panels to be read right-to-left in true manga style."
+      }
+    ]
+  },
+  {
+    "slug": "humor-comic-strip",
+    "title": "Humor Comic Strip Generator",
+    "primaryKeyword": "humor comic strip",
+    "h1": "Generate Funny Humor Comic Strips",
+    "description": "Craft hilarious jokes and funny situations with our humor comic strip generator.",
+    "intro": "Make people laugh with your own customized humor comic strips.",
+    "faqs": [
+      {
+        "question": "What are good humor setups?",
+        "answer": "Start with a relatable everyday situation and escalate it to absurdity."
+      }
+    ]
+  },
+  {
+    "slug": "fantasy-adventure-comic",
+    "title": "Fantasy Adventure Comic Builder",
+    "primaryKeyword": "fantasy adventure comic",
+    "h1": "Build Fantasy Adventure Comics",
+    "description": "Design mystical worlds and epic quests with our fantasy comic builder.",
+    "intro": "Embark on an epic journey filled with magic, monsters, and heroes.",
+    "faqs": [
+      {
+        "question": "Are there fantasy props available?",
+        "answer": "Yes, our asset library includes swords, magic effects, and mythical creatures."
+      }
+    ]
+  }
+]
