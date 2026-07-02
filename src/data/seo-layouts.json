@@ -4,12 +4,20 @@
     "title": "3 Panel Comic Strip Maker",
     "primaryKeyword": "3 panel comic",
     "h1": "Create a 3-Panel Comic Strip",
-    "description": "The perfect format for quick jokes. Make 3-panel comics easily.",
-    "intro": "Master the rule of three with this classic comic format.",
+    "description": "The perfect format for quick jokes. Make 3-panel comics easily with our specialized maker.",
+    "intro": "Master the rule of three with this classic comic format. Our 3-panel comic strip maker is optimized for creators who want to deliver fast, impactful storytelling or humor in a concise sequence.",
     "faqs": [
       {
-        "question": "Why use a 3-panel format?",
-        "answer": "It perfectly matches the setup, escalation, and punchline structure of classic jokes."
+        "question": "Why use a 3-panel format for my comic?",
+        "answer": "It perfectly matches the classic setup, escalation, and punchline structure of traditional jokes and short observations, making it highly effective for social media engagement."
+      },
+      {
+        "question": "Can I convert a 3-panel strip into a 4-panel one later?",
+        "answer": "Yes, our flexible editor allows you to add or remove panels at any time while preserving your existing artwork and text."
+      },
+      {
+        "question": "Is this layout mobile-friendly?",
+        "answer": "Absolutely. The 3-panel horizontal layout is one of the most readable formats on mobile devices and fits perfectly into newsfeeds."
       }
     ]
   },
@@ -18,12 +26,20 @@
     "title": "4 Panel Comic Creator",
     "primaryKeyword": "4 panel comic",
     "h1": "Design a 4-Panel Comic",
-    "description": "Build traditional 4-panel comic strips for social media or webcomics.",
-    "intro": "The gold standard for webcomics, giving you a bit more room for story.",
+    "description": "Build traditional 4-panel comic strips for social media or webcomics with our intuitive creator.",
+    "intro": "The gold standard for webcomics, giving you a bit more room for story and character development. Our 4-panel comic creator provides the additional beat you need for more sophisticated pacing.",
     "faqs": [
       {
-        "question": "Is 4 panels better than 3?",
-        "answer": "It allows for a longer setup or a double beat before the punchline, depending on your pacing needs."
+        "question": "Is 4 panels better than 3 for storytelling?",
+        "answer": "It depends on your pacing. 4 panels allow for a longer setup, a double beat for comedic timing, or more space to establish a character's reaction before the resolution."
+      },
+      {
+        "question": "What is the most common arrangement for a 4-panel comic?",
+        "answer": "The most common arrangements are a single horizontal row or a 2x2 square grid, both of which are supported by our tool."
+      },
+      {
+        "question": "Can I use different aspect ratios for each panel?",
+        "answer": "Yes, you can adjust the size and ratio of individual panels to create a more dynamic and custom layout within the 4-panel structure."
       }
     ]
   },
@@ -32,12 +48,20 @@
     "title": "6 Panel Comic Strip Builder",
     "primaryKeyword": "6 panel comic",
     "h1": "Build Elaborate 6-Panel Comics",
-    "description": "Tell more complex stories with our 6-panel comic builder.",
-    "intro": "For narratives that need more space to breathe and develop.",
+    "description": "Tell more complex stories with our specialized 6-panel comic builder.",
+    "intro": "For narratives that need more space to breathe and develop, our 6-panel comic strip builder offers the perfect canvas for more elaborate plots and detailed sequences.",
     "faqs": [
       {
-        "question": "How should I arrange a 6-panel comic?",
-        "answer": "A 2x3 grid is common, but a 3x2 grid works well for wider displays."
+        "question": "How should I arrange a 6-panel comic for web reading?",
+        "answer": "A 2x3 grid is common for desktop displays, while a 3x2 grid or a vertical stack works well for mobile-first platforms like Webtoon or Instagram carousels."
+      },
+      {
+        "question": "Is 6 panels too many for a single comic strip?",
+        "answer": "Not at all! 6 panels are ideal for short educational stories, complex action sequences, or any narrative that requires significant character interaction."
+      },
+      {
+        "question": "Can I mix and match panel sizes in a 6-panel layout?",
+        "answer": "Yes, our builder supports custom grid configurations, allowing you to have one large focal panel and five smaller supporting panels for a more dynamic look."
       }
     ]
   }

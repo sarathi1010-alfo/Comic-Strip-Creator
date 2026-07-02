@@ -4,12 +4,20 @@
     "title": "Chibi Character Comic Creator",
     "primaryKeyword": "chibi character creator",
     "h1": "Create Comics with Cute Chibi Characters",
-    "description": "Design adorable chibi-style comics with oversized heads and big expressions.",
-    "intro": "Bring cuteness overload to your comic strips.",
+    "description": "Design adorable chibi-style comics with oversized heads and big expressions with our chibi character creator.",
+    "intro": "Bring cuteness overload to your comic strips. Our chibi character creator provides a vast array of adorable assets specifically designed for this popular and expressive art style.",
     "faqs": [
       {
-        "question": "What is chibi style?",
-        "answer": "Chibi is a highly stylized caricature format where characters are small and chubby, often used for comedic effect."
+        "question": "What exactly is chibi style?",
+        "answer": "Chibi is a highly stylized caricature format common in anime and manga where characters are drawn with large heads, small bodies, and oversized expressions, often used for comedic or 'kawaii' effects."
+      },
+      {
+        "question": "Can I customize the expressions of my chibi characters?",
+        "answer": "Yes, our creator includes dozens of unique chibi-style facial expressions, from 'sparkle eyes' to 'exaggerated sweat drops,' to perfectly capture any emotion."
+      },
+      {
+        "question": "Is this chibi creator good for beginners?",
+        "answer": "It's perfect for beginners! The simple shapes and clear expressions make it one of the easiest styles to use for storytelling, especially for those new to comic creation."
       }
     ]
   }
