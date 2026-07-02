@@ -3,6 +3,13 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { Button } from '@/components/ui/button';
 import blogData from '@/data/seo-blog.json';
+import markdownit from 'markdown-it';
+
+const md = markdownit({
+  html: true,
+  linkify: true,
+  typographer: true,
+});
 
 import { resolveMetadata } from '@/lib/seo/resolveMetadata';
 import { buildBlogPostMeta } from '@/lib/seo/metaFactories';
@@ -69,9 +76,10 @@ export default async function UseCasePage({ params }: Props) {
             <time dateTime={new Date().toISOString()}>{new Date().toLocaleDateString()}</time>
           </div>
         </header>
-        <p className="text-xl text-muted-foreground mb-12 leading-relaxed">
-          {useCase.intro}
-        </p>
+        <div
+          className="text-xl text-muted-foreground mb-12 leading-relaxed markdown-content"
+          dangerouslySetInnerHTML={{ __html: md.render(useCase.intro) }}
+        />
 
         {/* Embedded Tool CTA */}
         <div className="bg-card border border-primary/20 rounded-xl p-8 text-center my-16 shadow-lg shadow-primary/5">
