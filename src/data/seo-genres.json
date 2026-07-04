@@ -8,8 +8,16 @@
     "intro": "Unleash your imagination and design the next great hero or villain.",
     "faqs": [
       {
-        "question": "Can I create custom superpowers?",
-        "answer": "You can use visual effects from our asset library to represent various superpowers."
+        "question": "What powers can I give my superhero?",
+        "answer": "You can use our effects library to add lightning, fire, energy blasts, and more to represent any superpower."
+      },
+      {
+        "question": "Can I design my own superhero costume?",
+        "answer": "Yes, you can mix and match various character assets and colors to create a unique costume for your hero."
+      },
+      {
+        "question": "How do I create a superhero secret identity?",
+        "answer": "Use the character customizer to create two versions of your character: one in civilian clothes and one in their hero suit."
       }
     ]
   },
@@ -22,8 +30,16 @@
     "intro": "Dive into the world of manga and create your own shonen or shoujo masterpiece.",
     "faqs": [
       {
-        "question": "Does this support right-to-left reading?",
-        "answer": "Yes, you can arrange panels to be read right-to-left in true manga style."
+        "question": "Does this maker support manga screen tones?",
+        "answer": "Yes, our asset library includes various dot patterns and screen tones to give your comic an authentic manga look."
+      },
+      {
+        "question": "Can I create right-to-left layouts?",
+        "answer": "Absolutely. You can manually arrange the panels and speech bubbles to follow the traditional Japanese reading order."
+      },
+      {
+        "question": "What manga genres can I create?",
+        "answer": "Our tool is versatile enough for Shonen action, Shoujo romance, Seinen drama, and even Gag manga styles."
       }
     ]
   },
@@ -36,8 +52,16 @@
     "intro": "Make people laugh with your own customized humor comic strips.",
     "faqs": [
       {
-        "question": "What are good humor setups?",
-        "answer": "Start with a relatable everyday situation and escalate it to absurdity."
+        "question": "What is the best way to write a punchline?",
+        "answer": "A good punchline often subverts the expectations built up in the previous panels. Surprise your readers with an unexpected twist."
+      },
+      {
+        "question": "How do I time a joke in a 4-panel strip?",
+        "answer": "Use the first two panels for setup, the third for escalation, and the fourth for the final payoff or reaction."
+      },
+      {
+        "question": "Can I use visual gags instead of dialogue?",
+        "answer": "Yes! Some of the funniest comics are entirely silent, relying on character expressions and physical comedy to tell the joke."
       }
     ]
   },
@@ -50,8 +74,16 @@
     "intro": "Embark on an epic journey filled with magic, monsters, and heroes.",
     "faqs": [
       {
-        "question": "Are there fantasy props available?",
-        "answer": "Yes, our asset library includes swords, magic effects, and mythical creatures."
+        "question": "Are there fantasy backgrounds available?",
+        "answer": "Yes, we have a wide range of backgrounds including medieval castles, enchanted forests, and mystical dungeons."
+      },
+      {
+        "question": "Can I add dragons and other mythical creatures?",
+        "answer": "Our assets library contains various fantasy creatures, from dragons and goblins to elves and dwarves."
+      },
+      {
+        "question": "How do I show magic spells in my comic?",
+        "answer": "Use the special effects tab to add glowing auras, magic circles, and sparkling particles to your panels."
       }
     ]
   }

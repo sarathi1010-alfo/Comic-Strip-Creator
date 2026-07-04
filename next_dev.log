@@ -1,0 +1,122 @@
+   ▲ Next.js 15.5.19 (Turbopack)
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.0.2:3000
+
+ ✓ Star   ▲ Next.js 15.5.19 (Turbopack)
+   - Local:        http://localhost:3001
+   - Network:      http://192.168.0.2:3001
+
+ ✓ Starting...
+ ○ Compiling middleware ...
+ ✓ Compiled middleware in 604ms
+ ✓ Ready in 2.4s
+[?25h
+to participate in this anonymous program, by visiting the following URL:
+https://nextjs.org/telemetry
+
+ ✓ Compiled middleware in 468ms
+ ✓ Ready in 2.3s
+ ○ Compiling / ...
+ ✓ Compiled / in 8.7s
+ HEAD / 200 in 10455ms
+ GET / 200 in 585ms
+ ○ Compiling /blog/[slug] ...
+ ✓ Compiled /blog/[slug] in 1309ms
+ GET /blog/comic-strip-guide 200 in 3095ms
+ ○ Compiling /genres/[slug] ...
+ ✓ Compiled /genres/[slug] in 930ms
+ GET /genres/superhero-comic-maker 200 in 2606ms
+ GET /genres/manga-style-comic 200 in 397ms
+ GET /genres/humor-comic-strip 200 in 434ms
+ GET /genres/fantasy-adventure-comic 200 in 482ms
+ ○ Compiling /layouts/[slug] ...
+ ✓ Compiled /layouts/[slug] in 878ms
+ GET /layouts/3-panel-comic 200 in 2142ms
+ GET /layouts/4-panel-comic 200 in 521ms
+ GET /layouts/6-panel-comic 200 in 285ms
+ ○ Compiling /styles/[slug] ...
+ ✓ Compiled /styles/[slug] in 751ms
+ GET /styles/chibi-character-creator 200 in 2203ms
+ GET /blog/comic-strip-guide 200 in 500ms
+ GET / 200 in 328ms
+ ○ Compiling /editor ...
+ ✓ Compiled /editor in 5.3s
+ GET /editor 200 in 6066ms
+ ✓ Compiled in 789ms
+ GET / 200 in 592ms
+ ✓ Compiled /blog/[slug] in 59ms
+ GET /blog/comic-strip-guide 200 in 1496ms
+ GET /genres/superhero-comic-maker 200 in 465ms
+ GET /genres/manga-style-comic 200 in 563ms
+ GET /genres/humor-comic-strip 200 in 502ms
+ GET /genres/fantasy-adventure-comic 200 in 398ms
+ GET /layouts/3-panel-comic 200 in 513ms
+ GET /layouts/4-panel-comic 200 in 534ms
+ GET /layouts/6-panel-comic 200 in 667ms
+ GET /styles/chibi-character-creator 200 in 586ms
+ GET /blog/comic-strip-guide 200 in 740ms
+ GET / 200 in 493ms
+ GET /editor 200 in 331ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/app/.next/static/development/_buildManifest.js.tmp.vgsmudzem7p'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/app/.next/static/development/_buildManifest.js.tmp.vgsmudzem7p'
+}
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 2.5s
+ ⨯ [Error: ENOENT: no such file or directory, open '/app/.next/static/development/_buildManifest.js.tmp.6c62sbcznul'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/app/.next/static/development/_buildManifest.js.tmp.6c62sbcznul'
+}
+[Error: ENOENT: no such file or directory, open '/app/.next/static/development/_buildManifest.js.tmp.vgsmudzem7p'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/app/.next/static/development/_buildManifest.js.tmp.vgsmudzem7p'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/app/.next/static/development/_buildManifest.js.tmp.lc4i59v7bn'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/app/.next/static/development/_buildManifest.js.tmp.lc4i59v7bn'
+}
+[Error: ENOENT: no such file or directory, open '/app/.next/static/development/_buildManifest.js.tmp.ji0yznxl1ni'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/app/.next/static/development/_buildManifest.js.tmp.ji0yznxl1ni'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/app/.next/static/development/_buildManifest.js.tmp.k3z5t360dt'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/app/.next/static/development/_buildManifest.js.tmp.k3z5t360dt'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/app/.next/static/development/_buildManifest.js.tmp.gsthmoj455q'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/app/.next/static/development/_buildManifest.js.tmp.gsthmoj455q'
+}
+[Error: ENOENT: no such file or directory, open '/app/.next/static/development/_buildManifest.js.tmp.k3z5t360dt'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/app/.next/static/development/_buildManifest.js.tmp.k3z5t360dt'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/app/.next/static/development/_buildManifest.js.tmp.qr2p5buun3p'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/app/.next/static/development/_buildManifest.js.tmp.qr2p5buun3p'
+}
+[Error: ENOENT: no such file or directory, open '/app/.next/static/development/_buildManifest.js.tmp.oek50gzfaw'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/app/.next/static/development/_buildManifest.js.tmp.oek50gzfaw'
+}
+[?25h

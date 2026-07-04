@@ -8,6 +8,7 @@ import { resolveMetadata } from '@/lib/seo/resolveMetadata';
 import { buildBlogPostMeta } from '@/lib/seo/metaFactories';
 import { buildArticleSchema, buildBreadcrumbSchema } from '@/lib/seo/buildSchema';
 import { JsonLd } from '@/components/JsonLd';
+import ReactMarkdown from 'react-markdown';
 
 type Props = {
   params: Promise<{ slug: string }>;
@@ -69,9 +70,20 @@ export default async function UseCasePage({ params }: Props) {
             <time dateTime={new Date().toISOString()}>{new Date().toLocaleDateString()}</time>
           </div>
         </header>
-        <p className="text-xl text-muted-foreground mb-12 leading-relaxed">
-          {useCase.intro}
-        </p>
+        <div className="text-xl text-muted-foreground mb-12 leading-relaxed">
+          <ReactMarkdown
+            components={{
+              h2: ({ ...props }) => <h2 className="text-3xl font-bangers mt-12 mb-6 text-foreground" {...props} />,
+              h3: ({ ...props }) => <h3 className="text-2xl font-bangers mt-8 mb-4 text-foreground" {...props} />,
+              p: ({ ...props }) => <p className="mb-6" {...props} />,
+              ul: ({ ...props }) => <ul className="list-disc list-inside mb-6" {...props} />,
+              li: ({ ...props }) => <li className="mb-2" {...props} />,
+              strong: ({ ...props }) => <strong className="text-primary font-bold" {...props} />,
+            }}
+          >
+            {useCase.intro}
+          </ReactMarkdown>
+        </div>
 
         {/* Embedded Tool CTA */}
         <div className="bg-card border border-primary/20 rounded-xl p-8 text-center my-16 shadow-lg shadow-primary/5">
