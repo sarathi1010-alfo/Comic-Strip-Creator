@@ -8,8 +8,16 @@
     "intro": "Bring cuteness overload to your comic strips.",
     "faqs": [
       {
-        "question": "What is chibi style?",
-        "answer": "Chibi is a highly stylized caricature format where characters are small and chubby, often used for comedic effect."
+        "question": "What defines the chibi art style?",
+        "answer": "Chibi characters are known for their \"super-deformed\" appearance: large heads, small bodies, and highly exaggerated expressions."
+      },
+      {
+        "question": "Can I make a serious comic in chibi style?",
+        "answer": "While usually used for humor, chibi style can be used for \"slice of life\" or emotional stories by focusing on expressive facial features."
+      },
+      {
+        "question": "Are there specific chibi props available?",
+        "answer": "Yes, our library includes oversized props and cute accessories that complement the chibi character proportions."
       }
     ]
   }

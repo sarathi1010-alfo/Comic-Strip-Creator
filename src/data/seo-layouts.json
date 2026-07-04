@@ -8,8 +8,16 @@
     "intro": "Master the rule of three with this classic comic format.",
     "faqs": [
       {
-        "question": "Why use a 3-panel format?",
-        "answer": "It perfectly matches the setup, escalation, and punchline structure of classic jokes."
+        "question": "When should I use a 3-panel layout?",
+        "answer": "The 3-panel layout is ideal for quick, punchy jokes that follow the classic setup, conflict, and resolution structure."
+      },
+      {
+        "question": "Is a 3-panel strip better for social media?",
+        "answer": "Yes, its horizontal format is very readable on mobile feeds and works perfectly for platforms like Twitter or Reddit."
+      },
+      {
+        "question": "Can I change the aspect ratio of the 3 panels?",
+        "answer": "You can adjust the width of each individual panel to emphasize different moments in your story."
       }
     ]
   },
@@ -22,8 +30,16 @@
     "intro": "The gold standard for webcomics, giving you a bit more room for story.",
     "faqs": [
       {
-        "question": "Is 4 panels better than 3?",
-        "answer": "It allows for a longer setup or a double beat before the punchline, depending on your pacing needs."
+        "question": "What are the benefits of a 4-panel layout?",
+        "answer": "The 4-panel layout gives you an extra beat to build tension or add a secondary joke before the final punchline."
+      },
+      {
+        "question": "How is a 4-panel strip usually structured?",
+        "answer": "Commonly, panels 1 and 2 set the scene, panel 3 provides a twist or escalation, and panel 4 delivers the conclusion."
+      },
+      {
+        "question": "Is 4-panel the standard for webcomics?",
+        "answer": "Yes, many of the world's most popular webcomics use a 4-panel square or horizontal grid for consistent daily storytelling."
       }
     ]
   },
@@ -36,8 +52,16 @@
     "intro": "For narratives that need more space to breathe and develop.",
     "faqs": [
       {
-        "question": "How should I arrange a 6-panel comic?",
-        "answer": "A 2x3 grid is common, but a 3x2 grid works well for wider displays."
+        "question": "What kind of stories need 6 panels?",
+        "answer": "6 panels are great for short narratives that require more dialogue, character development, or a more complex series of events."
+      },
+      {
+        "question": "How should I arrange a 6-panel grid?",
+        "answer": "A 2x3 or 3x2 grid is standard. A 2x3 grid works well for vertical scrolling, while a 3x2 grid is better for desktop screens."
+      },
+      {
+        "question": "Can I combine panels in a 6-panel layout?",
+        "answer": "Yes, you can merge adjacent panels to create larger \"hero\" panels for significant moments in your 6-panel story."
       }
     ]
   }
