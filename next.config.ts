@@ -1,7 +1,15 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  async redirects() {
+    return [
+      {
+        source: '/tips/:path*',
+        destination: '/blog/comic-strip-guide',
+        permanent: true,
+      },
+    ];
+  },
 };
 
 export default nextConfig;

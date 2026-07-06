@@ -10,6 +10,10 @@
       {
         "question": "Can I create custom superpowers?",
         "answer": "You can use visual effects from our asset library to represent various superpowers."
+      },
+      {
+        "question": "Can I use these comics for commercial purposes?",
+        "answer": "Yes, comics created with ComicFlow can be used for your own projects, social media, and commercial marketing."
       }
     ]
   },
@@ -24,6 +28,10 @@
       {
         "question": "Does this support right-to-left reading?",
         "answer": "Yes, you can arrange panels to be read right-to-left in true manga style."
+      },
+      {
+        "question": "Can I use these comics for commercial purposes?",
+        "answer": "Yes, comics created with ComicFlow can be used for your own projects, social media, and commercial marketing."
       }
     ]
   },
@@ -38,6 +46,10 @@
       {
         "question": "What are good humor setups?",
         "answer": "Start with a relatable everyday situation and escalate it to absurdity."
+      },
+      {
+        "question": "Can I use these comics for commercial purposes?",
+        "answer": "Yes, comics created with ComicFlow can be used for your own projects, social media, and commercial marketing."
       }
     ]
   },
@@ -52,6 +64,10 @@
       {
         "question": "Are there fantasy props available?",
         "answer": "Yes, our asset library includes swords, magic effects, and mythical creatures."
+      },
+      {
+        "question": "Can I use these comics for commercial purposes?",
+        "answer": "Yes, comics created with ComicFlow can be used for your own projects, social media, and commercial marketing."
       }
     ]
   }

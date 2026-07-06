@@ -1,3 +1,5 @@
+import ReactMarkdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
@@ -77,14 +79,12 @@ export default async function StylePage({ params }: Props) {
         <header className="mb-10">
           <h1 className="text-4xl md:text-5xl font-bangers text-primary mb-4">{item.h1}</h1>
           <div className="flex items-center text-sm text-muted-foreground space-x-4 mb-6">
-            <address className="not-italic">By ComicStrip Team</address>
+            <address className="not-italic">By ComicFlow Team</address>
             <span>•</span>
             <time dateTime={new Date().toISOString()}>{new Date().toLocaleDateString()}</time>
           </div>
         </header>
-        <p className="text-xl text-muted-foreground mb-12 leading-relaxed">
-          {item.intro}
-        </p>
+        <div className="text-xl text-muted-foreground mb-12 leading-relaxed prose prose-invert prose-lg max-w-none"><ReactMarkdown remarkPlugins={[remarkGfm]}>{item.intro}</ReactMarkdown></div>
 
         {/* Embedded Tool CTA */}
         <div className="bg-card border border-primary/20 rounded-xl p-8 text-center my-16 shadow-lg shadow-primary/5">
