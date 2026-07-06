@@ -10,6 +10,10 @@
       {
         "question": "Why use a 3-panel format?",
         "answer": "It perfectly matches the setup, escalation, and punchline structure of classic jokes."
+      },
+      {
+        "question": "Can I change the layout after I start?",
+        "answer": "Yes, you can switch between different layout presets at any time in the editor."
       }
     ]
   },
@@ -24,6 +28,10 @@
       {
         "question": "Is 4 panels better than 3?",
         "answer": "It allows for a longer setup or a double beat before the punchline, depending on your pacing needs."
+      },
+      {
+        "question": "Can I change the layout after I start?",
+        "answer": "Yes, you can switch between different layout presets at any time in the editor."
       }
     ]
   },
@@ -38,6 +46,10 @@
       {
         "question": "How should I arrange a 6-panel comic?",
         "answer": "A 2x3 grid is common, but a 3x2 grid works well for wider displays."
+      },
+      {
+        "question": "Can I change the layout after I start?",
+        "answer": "Yes, you can switch between different layout presets at any time in the editor."
       }
     ]
   }
