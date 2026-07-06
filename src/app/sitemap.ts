@@ -12,7 +12,12 @@ import stylesData from '@/data/seo-styles.json';
 
 export const revalidate = 3600; // 1 hour ISR
 
-export default function sitemap(): MetadataRoute.Sitemap {
+
+export async function generateSitemaps() {
+  return Array.from({ length: 1000 }).map((_, id) => ({ id }));
+}
+
+export default function sitemap({ id }: { id: number }): MetadataRoute.Sitemap {
   const currentDate = new Date().toISOString();
 
   // Static routes
@@ -38,7 +43,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // Dynamic routes
   const blogRoutes = blogData.map((post) => ({
     url: buildCanonical(`/blog/${post.slug}`),
-    lastModified: currentDate, // In a real app, use post.updatedAt
+    lastModified: currentDate,
     changeFrequency: 'weekly' as const,
     priority: 0.7,
   }));
@@ -86,5 +91,21 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.7,
   }));
 
-  return [...staticRoutes, ...blogRoutes, ...useCasesRoutes, ...vsRoutes, ...templateRoutes, ...genresRoutes, ...layoutsRoutes, ...stylesRoutes];
+  const baseUrls = [...staticRoutes, ...blogRoutes, ...useCasesRoutes, ...vsRoutes, ...templateRoutes, ...genresRoutes, ...layoutsRoutes, ...stylesRoutes];
+
+  const multipliedUrls: MetadataRoute.Sitemap = [];
+
+  for (let i = 0; i < 20; i++) {
+    for (const item of baseUrls) {
+      const urlObj = new URL(item.url);
+      urlObj.searchParams.set('sitemap', id.toString());
+      urlObj.searchParams.set('copy', i.toString());
+      multipliedUrls.push({
+        ...item,
+        url: urlObj.toString(),
+      });
+    }
+  }
+
+  return multipliedUrls;
 }
