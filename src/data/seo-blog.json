@@ -19,7 +19,8 @@
         "question": "What is the best layout for a joke comic?",
         "answer": "The classic 4-panel horizontal layout is often considered the best for joke comics, as it allows for a steady rhythm: introduction, setup, escalation, and the final punchline."
       }
-    ]
+    ],
+    "updatedAt": "2026-07-07"
   },
   {
     "slug": "how-to-write-funny-comic-strips",
@@ -50,7 +51,7 @@
         "answer": "Common mistakes include over-explaining the joke, crowding the panels with too much text, and failing to set up the premise clearly in the beginning. Remember: brevity is the soul of wit."
       }
     ],
-    "updatedAt": "2026-07-06"
+    "updatedAt": "2026-07-07"
   },
   {
     "slug": "how-to-create-action-comic-strips",
@@ -69,7 +70,7 @@
         "answer": "Action scenes benefit from slanted, diagonal panel borders, overlapping elements (like a fist breaking out of a panel), and a mix of wide establishing shots and tight close-ups to vary the pacing."
       }
     ],
-    "updatedAt": "2026-07-06"
+    "updatedAt": "2026-07-07"
   },
   {
     "slug": "how-to-create-fantasy-comic-strips",

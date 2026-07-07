@@ -15,7 +15,8 @@
         "question": "Can I change the layout after I start?",
         "answer": "Yes, you can switch between different layout presets at any time in the editor."
       }
-    ]
+    ],
+    "updatedAt": "2026-07-07"
   },
   {
     "slug": "4-panel-comic",
@@ -33,7 +34,8 @@
         "question": "Can I change the layout after I start?",
         "answer": "Yes, you can switch between different layout presets at any time in the editor."
       }
-    ]
+    ],
+    "updatedAt": "2026-07-07"
   },
   {
     "slug": "6-panel-comic",
@@ -51,6 +53,7 @@
         "question": "Can I change the layout after I start?",
         "answer": "Yes, you can switch between different layout presets at any time in the editor."
       }
-    ]
+    ],
+    "updatedAt": "2026-07-07"
   }
 ]
