@@ -30,12 +30,12 @@ interface EditorState {
 }
 
 const generateInitialComic = (): Comic => ({
-  id: uuidv4(),
+  id: 'default-comic',
   title: 'Untitled Comic',
   panels: [
-    { id: uuidv4(), order: 0, elements: [] },
-    { id: uuidv4(), order: 1, elements: [] },
-    { id: uuidv4(), order: 2, elements: [] }
+    { id: 'default-panel-0', order: 0, elements: [] },
+    { id: 'default-panel-1', order: 1, elements: [] },
+    { id: 'default-panel-2', order: 2, elements: [] }
   ],
   layoutMode: 'vertical'
 });

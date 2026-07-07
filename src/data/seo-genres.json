@@ -15,7 +15,8 @@
         "question": "Can I use these comics for commercial purposes?",
         "answer": "Yes, comics created with ComicFlow can be used for your own projects, social media, and commercial marketing."
       }
-    ]
+    ],
+    "updatedAt": "2026-07-07"
   },
   {
     "slug": "manga-style-comic",
@@ -33,7 +34,8 @@
         "question": "Can I use these comics for commercial purposes?",
         "answer": "Yes, comics created with ComicFlow can be used for your own projects, social media, and commercial marketing."
       }
-    ]
+    ],
+    "updatedAt": "2026-07-07"
   },
   {
     "slug": "humor-comic-strip",
@@ -51,7 +53,8 @@
         "question": "Can I use these comics for commercial purposes?",
         "answer": "Yes, comics created with ComicFlow can be used for your own projects, social media, and commercial marketing."
       }
-    ]
+    ],
+    "updatedAt": "2026-07-07"
   },
   {
     "slug": "fantasy-adventure-comic",
@@ -69,6 +72,7 @@
         "question": "Can I use these comics for commercial purposes?",
         "answer": "Yes, comics created with ComicFlow can be used for your own projects, social media, and commercial marketing."
       }
-    ]
+    ],
+    "updatedAt": "2026-07-07"
   }
 ]
