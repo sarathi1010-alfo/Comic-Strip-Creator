@@ -14,10 +14,8 @@ async function submitIndexing() {
     scopes: ['https://www.googleapis.com/auth/indexing'],
   });
 
-  const client = await auth.getClient();
-  const indexing = google.indexing({ version: 'v3', auth: client });
+  const indexing = google.indexing({ version: 'v3', auth: await auth.getClient() });
 
-  // Read URLs from stdin or arguments
   const urls = process.argv.slice(2);
 
   for (const url of urls) {
@@ -29,7 +27,7 @@ async function submitIndexing() {
           type: 'URL_UPDATED',
         },
       });
-      console.log(`✅ Successfully submitted: ${url}`, res.data);
+      console.log(`✅ Successfully submitted: ${url}`);
     } catch (err) {
       console.error(`❌ Failed to submit: ${url}`, err.message);
     }
