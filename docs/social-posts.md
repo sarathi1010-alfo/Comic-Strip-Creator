@@ -18,7 +18,7 @@ Pro tips: http://comicflow.alfo.online/blog/comic-strip-guide #ArtTips #Storytel
 2. 🎭 Character design hack: Use silhouettes! Learn why recognition is key and how to use our Assets Library to create memorable heroes without picking up a pencil.
 Guide: http://comicflow.alfo.online/blog/comic-strip-guide #CharacterDesign #IndieComics
 
-3. 📌 From Classic Strips to Hero Shots—layout is everything. Discover how to pace your story like a pro.
+3. ⚡ From Classic Strips to Hero Shots—layout is everything. Discover how to pace your story like a pro.
 Check out the link in bio! http://comicflow.alfo.online/blog/comic-strip-guide #VisualStorytelling #ComicFlow
 
 ## Pinterest
