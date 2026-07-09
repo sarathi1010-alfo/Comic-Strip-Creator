@@ -36,9 +36,6 @@ permissions:
   contents: write
   pull-requests: write
 
-env:
-  GH_TOKEN: ${{ secrets.PAT }}
-
 jobs:
   # ── Incoming / upcoming: fires live on open, push, reopen ──
   direct:
@@ -48,7 +45,6 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: ${{ github.head_ref }}
-          token: ${{ secrets.PAT }}
           fetch-depth: 2
 
       - name: Run auto-fix
@@ -62,11 +58,13 @@ jobs:
           commit_message: "chore: automated update [skip ci]"
 
       - name: Submit changed URLs to Google Indexing API
+        env:
+          GCP_SA_KEY: ${{ secrets.GCP_SA_KEY }}
         run: |
           # >>> CUSTOMIZE THIS: map changed files to real URLs for your site <<<
-          echo '${{ secrets.GCP_SA_KEY }}' > /tmp/gcp-key.json
+          echo "$GCP_SA_KEY" > /tmp/gcp-key.json
           gcloud auth activate-service-account --key-file=/tmp/gcp-key.json --quiet
-          ACCESS_TOKEN=$(gcloud auth print-access-token)
+          ACCESS_TOKEN=$(gcloud auth print-access-token --scopes=https://www.googleapis.com/auth/indexing)
           rm -f /tmp/gcp-key.json
 
           for f in $(git diff --name-only HEAD~1 HEAD); do
@@ -80,6 +78,8 @@ jobs:
 
       - name: Resolve default branch and PR base
         id: branchcheck
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           default_branch=$(gh repo view "$GITHUB_REPOSITORY" --json defaultBranchRef --jq .defaultBranchRef.name)
           base_branch=$(gh pr view ${{ github.event.pull_request.number }} --repo "$GITHUB_REPOSITORY" --json baseRefName --jq .baseRefName)
@@ -88,6 +88,8 @@ jobs:
 
       - name: Auto-merge into default branch
         if: steps.branchcheck.outputs.base == steps.branchcheck.outputs.default
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           gh pr merge ${{ github.event.pull_request.number }} \
             --merge --auto --delete-branch \
@@ -102,6 +104,8 @@ jobs:
       prs: ${{ steps.list.outputs.prs }}
     steps:
       - id: list
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           if [ -n "${{ github.event.inputs.pr_number }}" ]; then
             echo "prs=[${{ github.event.inputs.pr_number }}]" >> "$GITHUB_OUTPUT"
@@ -121,6 +125,8 @@ jobs:
         pr: ${{ fromJson(needs.discover.outputs.prs) }}
     steps:
       - id: ref
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           headref=$(gh pr view ${{ matrix.pr }} --repo "$GITHUB_REPOSITORY" --json headRefName --jq .headRefName)
           echo "headref=$headref" >> "$GITHUB_OUTPUT"
@@ -128,7 +134,6 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: ${{ steps.ref.outputs.headref }}
-          token: ${{ secrets.PAT }}
           fetch-depth: 2
 
       - name: Run auto-fix
@@ -143,11 +148,13 @@ jobs:
           branch: ${{ steps.ref.outputs.headref }}
 
       - name: Submit changed URLs to Google Indexing API
+        env:
+          GCP_SA_KEY: ${{ secrets.GCP_SA_KEY }}
         run: |
           # >>> CUSTOMIZE THIS: map changed files to real URLs for your site <<<
-          echo '${{ secrets.GCP_SA_KEY }}' > /tmp/gcp-key.json
+          echo "$GCP_SA_KEY" > /tmp/gcp-key.json
           gcloud auth activate-service-account --key-file=/tmp/gcp-key.json --quiet
-          ACCESS_TOKEN=$(gcloud auth print-access-token)
+          ACCESS_TOKEN=$(gcloud auth print-access-token --scopes=https://www.googleapis.com/auth/indexing)
           rm -f /tmp/gcp-key.json
 
           for f in $(git diff --name-only HEAD~1 HEAD); do
@@ -170,7 +177,7 @@ jobs:
       - name: Merge PRs ascending, resolving conflicts via Jules
         env:
           JULES_API_KEY: ${{ secrets.JULES_API_KEY }}
-          PAT: ${{ secrets.PAT }}
+          PAT: ${{ secrets.PAT || github.token }}
         run: |
           prs='${{ needs.discover.outputs.prs }}'
           owner="${GITHUB_REPOSITORY%%/*}"
@@ -192,7 +199,7 @@ jobs:
           for pr in $(echo "$prs" | jq -r '.[]'); do
             echo "=== PR #$pr ==="
 
-            mergeable=$(gh pr view "$pr" --repo "$GITHUB_REPOSITORY" --json mergeable --jq .mergeable)
+            mergeable=$(GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }} gh pr view "$pr" --repo "$GITHUB_REPOSITORY" --json mergeable --jq .mergeable)
             echo "PR #$pr initial mergeable: '$mergeable'"
 
             # mergeable is computed async by GitHub -- if it's still UNKNOWN, poll
@@ -200,7 +207,7 @@ jobs:
             for k in $(seq 1 6); do
               [ "$mergeable" != "UNKNOWN" ] && break
               sleep 5
-              mergeable=$(gh pr view "$pr" --repo "$GITHUB_REPOSITORY" --json mergeable --jq .mergeable)
+              mergeable=$(GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }} gh pr view "$pr" --repo "$GITHUB_REPOSITORY" --json mergeable --jq .mergeable)
               echo "PR #$pr mergeable recheck $k: '$mergeable'"
             done
 
@@ -210,7 +217,7 @@ jobs:
 
             if [ "$mergeable" = "CONFLICTING" ] && [ -n "$source_name" ]; then
               echo "PR #$pr has conflicts -> requesting Jules to resolve"
-              headref=$(gh pr view "$pr" --repo "$GITHUB_REPOSITORY" --json headRefName --jq .headRefName)
+              headref=$(GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }} gh pr view "$pr" --repo "$GITHUB_REPOSITORY" --json headRefName --jq .headRefName)
 
               create_resp=$(curl -s -X POST "https://jules.googleapis.com/v1alpha/sessions" \
                 -H "X-Goog-Api-Key: $JULES_API_KEY" \
@@ -274,7 +281,7 @@ jobs:
                       # (not UNKNOWN) instead of trusting the first read after a push.
                       mergeable="UNKNOWN"
                       for j in $(seq 1 10); do
-                        mergeable=$(gh pr view "$pr" --repo "$GITHUB_REPOSITORY" --json mergeable --jq .mergeable)
+                        mergeable=$(GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }} gh pr view "$pr" --repo "$GITHUB_REPOSITORY" --json mergeable --jq .mergeable)
                         echo "  mergeable recheck $j: $mergeable"
                         [ "$mergeable" != "UNKNOWN" ] && break
                         sleep 5
@@ -293,6 +300,6 @@ jobs:
               continue
             fi
 
-            gh pr merge "$pr" --merge --admin --delete-branch --repo "$GITHUB_REPOSITORY" \
+            GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }} gh pr merge "$pr" --merge --admin --delete-branch --repo "$GITHUB_REPOSITORY" \
               || echo "PR #$pr: merge failed"
           done

@@ -74,7 +74,7 @@ export function buildArticleSchema(meta: SeoMeta) {
     },
     "speakable": {
       "@type": "SpeakableSpecification",
-      "cssSelector": ["h1", ".article-summary", ".tldr"]
+      "cssSelector": ["h1", ".ai-snapshot", ".tldr"]
     }
   };
 
