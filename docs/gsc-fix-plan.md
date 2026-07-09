@@ -1,12 +1,29 @@
-# Google Search Console Fix Plan - alfo.online
+# Google Search Console (GSC) Fix Plan - 2026-07-09
 
-## Coverage Issues Identified
-- **Excluded by 'noindex' tag**: Verify that only /api, /admin, and /checkout are noindexed via middleware.
-- **Discovered - currently not indexed**: Priority URLs for ComicFlow (blog and genres) should be force-pushed via IndexNow and Sitemap ping.
-- **404 Errors**: Redirect any old 'Tips' URLs that might be broken to the new /blog/comic-strip-guide.
+## Current Status Analysis (Hypothetical GSC Snapshot)
+- **Excluded (Discovered - currently not indexed):** 14 pages.
+- **Crawled - currently not indexed:** 8 pages.
+- **404 Errors:** 0 (Verified via local build & E2E).
+- **Core Web Vitals:** Passing (Verified via Lighthouse locally).
 
-## Action Items
-1. **Trigger IndexNow**: Already completed for the 9 new URLs.
-2. **Ping Sitemap**: Done via Google/Bing endpoints.
-3. **Internal Link Refresh**: Updated existing 'Tips' content to point to the new guide to boost crawl depth.
-4. **Validation**: Check GSC 'URL Inspection' tool in 48 hours to confirm indexing status.
+## Priority Fixes
+
+### 1. Accelerate Indexing for New Content
+The new Tier 1 article (`/blog/comic-strip-guide`) and 8 programmatic pages must be indexed immediately.
+- **Action:** Manual URL inspection and "Request Indexing" for `/blog/comic-strip-guide`.
+- **Action:** Verify Sitemap inclusion (confirmed in `public/sitemap.xml`).
+- **Action:** Submit sitemap via GSC dashboard manually since local `submit-sitemap.js` requires GCP keys.
+
+### 2. Address "Discovered - currently not indexed"
+This usually indicates crawl budget issues or low-quality content signals.
+- **Action:** Verify that all programmatic pages have at least 300 words of unique content (H1 + Intro + FAQs).
+- **Action:** Ensure canonical tags are correctly pointing to self (verified in `metaFactories.ts` usage).
+- **Action:** Monitor these URLs for the next 7 days. If they remain excluded, add 1-2 more internal links from high-authority posts.
+
+### 3. Retroactive Internal Linking Audit
+- **Action:** Check 10 older blog posts for "orphaned" status (low internal inbound links).
+- **Action:** Link these orphaned posts to the new authority guides.
+
+### 4. Technical Hygiene
+- **Action:** Regularly run `node scripts/run_e2e_tests.js` before every push to maintain the Zero Errors Policy.
+- **Action:** Monitor `robots.txt` for unintended `Disallow` rules on marketing paths.
