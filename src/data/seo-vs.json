@@ -12,5 +12,19 @@
         "answer": "Yes! We do not have premium tiers, locked assets, or watermarks. Everything is free forever."
       }
     ]
+  },
+  {
+    "slug": "vs-pixton",
+    "title": "ComicFlow vs Pixton",
+    "primaryKeyword": "comicflow vs pixton",
+    "h1": "ComicFlow vs Pixton: Which Comic Creator is Better?",
+    "description": "A detailed comparison of ComicFlow and Pixton, highlighting features, pricing, and ease of use for students and creators.",
+    "intro": "Choosing between ComicFlow and Pixton depends on your goals: Pixton is a veteran in the educational space, but ComicFlow offers a more modern, AI-integrated workspace for creators who want professional flexibility without the heavy subscription fees.",
+    "faqs": [
+      {
+        "question": "Is ComicFlow easier to use than Pixton?",
+        "answer": "ComicFlow's drag-and-drop interface is designed for speed and modern browsers, making it slightly more intuitive for beginners, whereas Pixton has a deeper but more complex asset management system."
+      }
+    ]
   }
 ]
