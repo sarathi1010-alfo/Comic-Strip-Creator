@@ -78,7 +78,7 @@
     "primaryKeyword": "fantasy comic strips",
     "h1": "How to Create Fantasy Comic Strips — Complete Guide",
     "description": "Master world-building, magic systems, and creature design for your fantasy comic strips.",
-    "intro": "The best fantasy comic strips feature rich world-building, compelling magic systems, and unique character designs. Creating a believable fantasy world requires consistency in your lore and visual aesthetics. Whether you're drawing high fantasy epics or lighthearted D&D adventures, this guide will help you craft immersive environments, design fantastical creatures, and establish rules for your magical elements.",
+    "intro": "The best fantasy comic strips feature rich world-building, compelling magic systems, and unique character designs. Creating a believable fantasy world requires consistency in your lore and visual aesthetics. Whether you're drawing high fantasy epics or lighthearted D&D adventures, this guide will help you craft immersive environments, design fantastical creatures, and establish rules for your magical elements.\n\nFor more tips, check out our [comprehensive guide on how to create a comic strip online for beginners](/blog/comic-strip-guide).",
     "faqs": [
       {
         "question": "How do I introduce world-building without overwhelming the reader?",
@@ -88,7 +88,8 @@
         "question": "What colors work best for fantasy comics?",
         "answer": "Fantasy comics often use distinct color palettes to define different regions or magical elements. Earthy tones work well for medieval settings, while vibrant, glowing colors can represent magic and mystical environments."
       }
-    ]
+    ],
+    "updatedAt": "2026-07-11"
   },
   {
     "slug": "how-to-create-sci-fi-comic-strips",
@@ -96,7 +97,7 @@
     "primaryKeyword": "sci-fi comic strips",
     "h1": "How to Create Sci-Fi Comic Strips — Complete Guide",
     "description": "Design futuristic technology, alien worlds, and compelling sci-fi narratives for your comic strips.",
-    "intro": "The best sci-fi comic strips feature imaginative technology, speculative concepts, and detailed futuristic environments. Sci-fi storytelling relies heavily on visual design to communicate advanced concepts quickly. From cyberpunk cities to interstellar spacecraft, this guide will teach you how to conceptualize futuristic technology, design alien species, and ground your speculative ideas in relatable character conflicts.",
+    "intro": "The best sci-fi comic strips feature imaginative technology, speculative concepts, and detailed futuristic environments. Sci-fi storytelling relies heavily on visual design to communicate advanced concepts quickly. From cyberpunk cities to interstellar spacecraft, this guide will teach you how to conceptualize futuristic technology, design alien species, and ground your speculative ideas in relatable character conflicts.\n\nFor more tips, check out our [comprehensive guide on how to create a comic strip online for beginners](/blog/comic-strip-guide).",
     "faqs": [
       {
         "question": "How can I make futuristic technology look believable?",
@@ -106,7 +107,8 @@
         "question": "What are common themes in sci-fi comics?",
         "answer": "Common sci-fi themes include the consequences of advanced technology, space exploration, dystopian societies, artificial intelligence, and encounters with alien life."
       }
-    ]
+    ],
+    "updatedAt": "2026-07-11"
   },
   {
     "slug": "100-comic-strip-ideas",
