@@ -16,7 +16,7 @@
         "answer": "Yes, comics created with ComicFlow can be used for your own projects, social media, and commercial marketing campaigns."
       }
     ],
-    "updatedAt": "2026-07-12"
+    "updatedAt": "2026-07-14"
   },
   {
     "slug": "manga-style-comic",
@@ -35,7 +35,7 @@
         "answer": "Yes, we have a dedicated library of manga-inspired onomatopoeia for both action and atmospheric sounds."
       }
     ],
-    "updatedAt": "2026-07-12"
+    "updatedAt": "2026-07-14"
   },
   {
     "slug": "humor-comic-strip",
@@ -54,7 +54,7 @@
         "answer": "Yes, you can upload your own images to use as custom backgrounds for your humor strips."
       }
     ],
-    "updatedAt": "2026-07-12"
+    "updatedAt": "2026-07-14"
   },
   {
     "slug": "fantasy-adventure-comic",
@@ -73,6 +73,6 @@
         "answer": "Yes, you can save your custom character configurations to maintain consistency across your fantasy series."
       }
     ],
-    "updatedAt": "2026-07-12"
+    "updatedAt": "2026-07-14"
   }
 ]
