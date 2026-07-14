@@ -20,7 +20,7 @@
         "answer": "The classic 4-panel horizontal layout is often considered the best for joke comics, as it allows for a steady rhythm: introduction, setup, escalation, and the final punchline."
       }
     ],
-    "updatedAt": "2026-07-12"
+    "updatedAt": "2026-07-14"
   },
   {
     "slug": "how-to-write-funny-comic-strips",
@@ -116,7 +116,8 @@
     "primaryKeyword": "comic strip ideas",
     "h1": "100+ Comic Strip Ideas to Spark Your Creativity",
     "description": "Never stare at a blank page again. Browse our massive list of over 100 comic strip ideas and prompts.",
-    "intro": "The best way to overcome creator's block is to start with a strong, actionable prompt because it gives your imagination a defined starting point. We've compiled a massive list of over 100 comic strip ideas spanning multiple genres, from everyday slice-of-life observations to bizarre sci-fi scenarios. Whether you need a quick joke for a 4-panel strip or the seed for an ongoing narrative, you'll find inspiration here.",
+    "intro": "The best way to overcome creator's block is to start with a strong, actionable prompt because it gives your imagination a defined starting point. We've compiled a massive list of over 100 comic strip ideas spanning multiple genres, from everyday slice-of-life observations to bizarre sci-fi scenarios. Whether you need a quick joke for a 4-panel strip or the seed for an ongoing narrative, you'll find inspiration here.\n\nFor a complete walkthrough on getting started, don’t miss our [beginner’s guide to creating comic strips online](/blog/comic-strip-guide).",
+    "updatedAt": "2026-07-14",
     "faqs": [
       {
         "question": "How do I choose the right comic idea?",
@@ -210,7 +211,8 @@
     "primaryKeyword": "how to write a comic script",
     "h1": "How to Write a Comic Script — Step-by-Step",
     "description": "Learn the industry-standard formats and techniques for writing engaging comic book scripts.",
-    "intro": "The best way to write a comic script is to format it clearly, detailing the panel descriptions, character actions, and dialogue separately, because this ensures the artist (or AI generator) understands exactly what to visualize. Writing for comics is distinct from screenwriting or prose; it requires thinking in terms of static images and page turns. This step-by-step guide will show you how to structure your script for maximum visual impact.",
+    "intro": "The best way to write a comic script is to format it clearly, detailing the panel descriptions, character actions, and dialogue separately, because this ensures the artist (or AI generator) understands exactly what to visualize. Writing for comics is distinct from screenwriting or prose; it requires thinking in terms of static images and page turns. This step-by-step guide will show you how to structure your script for maximum visual impact.\n\nFor a complete walkthrough on getting started, don’t miss our [beginner’s guide to creating comic strips online](/blog/comic-strip-guide).",
+    "updatedAt": "2026-07-14",
     "faqs": [
       {
         "question": "What is the standard comic script format?",

@@ -1,4 +1,4 @@
-# Social Media Distribution Posts - Comic Strip Guide
+# Social Media Distribution Posts - Comic Strip Guide (2026-07-14)
 
 ## Twitter/X (4 Posts)
 
