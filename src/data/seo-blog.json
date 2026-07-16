@@ -20,7 +20,7 @@
         "answer": "The classic 4-panel horizontal layout is often considered the best for joke comics, as it allows for a steady rhythm: introduction, setup, escalation, and the final punchline."
       }
     ],
-    "updatedAt": "2026-07-14"
+    "updatedAt": "2026-07-16"
   },
   {
     "slug": "how-to-write-funny-comic-strips",
@@ -192,7 +192,7 @@
     "primaryKeyword": "comic book lettering",
     "h1": "Comic Book Lettering — Fonts, Speech Bubbles, and Sound Effects",
     "description": "Master the art of comic book lettering, including font selection, speech bubble placement, and dynamic sound effects.",
-    "intro": "The best way to letter a comic is to treat the text as an integral part of the artwork because poor lettering can ruin the reading flow and obscure important visuals. Lettering is the voice of your comic. It dictates volume, tone, and pacing. In this guide, we'll teach you how to craft perfect speech bubbles, choose readable fonts, design expressive sound effects (SFX), and integrate your lettering seamlessly into your panel layouts.",
+    "intro": "The best way to letter a comic is to treat the text as an integral part of the artwork because poor lettering can ruin the reading flow and obscure important visuals. Lettering is the voice of your comic. It dictates volume, tone, and pacing. In this guide, we'll teach you how to craft perfect speech bubbles, choose readable fonts, design expressive sound effects (SFX), and integrate your lettering seamlessly into your panel layouts.\n\nLooking for a complete walkthrough? Check out our [beginner’s guide to creating comic strips online](/blog/comic-strip-guide).",
     "faqs": [
       {
         "question": "What font should I use for my comic?",
@@ -203,7 +203,7 @@
         "answer": "Place speech bubbles so they follow the natural reading order (left to right, top to bottom in Western comics). Ensure they don't cover important character expressions or vital background information."
       }
     ],
-    "updatedAt": "2026-07-12"
+    "updatedAt": "2026-07-16"
   },
   {
     "slug": "how-to-write-a-comic-script",
@@ -249,7 +249,7 @@
     "primaryKeyword": "superhero comic strips",
     "h1": "How to Create Superhero Comic Strips — Complete Guide",
     "description": "Learn the essentials of creating superhero comic strips, from dynamic action poses to designing iconic costumes.",
-    "intro": "The best way to create a superhero comic strip is to focus on dynamic action poses, clear silhouettes, and a strong moral conflict between the protagonist and antagonist. Superheroes are defined by their abilities and their choices. In this guide, we will explore the key tropes of the superhero genre, how to design a memorable hero, and how to script action-packed panels that keep readers engaged.",
+    "intro": "The best way to create a superhero comic strip is to focus on dynamic action poses, clear silhouettes, and a strong moral conflict between the protagonist and antagonist. Superheroes are defined by their abilities and their choices. In this guide, we will explore the key tropes of the superhero genre, how to design a memorable hero, and how to script action-packed panels that keep readers engaged.\n\nLooking for a complete walkthrough? Check out our [beginner’s guide to creating comic strips online](/blog/comic-strip-guide).",
     "faqs": [
       {
         "question": "What makes a good superhero character design?",
@@ -259,7 +259,8 @@
         "question": "How do I show superpowers in a static comic panel?",
         "answer": "Use action lines, energy effects (like glowing auras or lightning), and dramatic perspective to convey the impact and scale of superpowers in a static image."
       }
-    ]
+    ],
+    "updatedAt": "2026-07-16"
   },
   {
     "slug": "slice-of-life-comic-ideas",
