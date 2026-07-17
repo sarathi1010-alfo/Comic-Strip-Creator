@@ -74,5 +74,81 @@
       }
     ],
     "updatedAt": "2026-07-16"
+  },
+  {
+    "slug": "noir-comic-maker",
+    "title": "Noir Comic Maker",
+    "primaryKeyword": "noir comic maker",
+    "h1": "Create Gritty Noir Comics Online",
+    "description": "Use our noir comic maker to craft dark, suspenseful detective stories with high-contrast shadows and moody atmospheres.",
+    "intro": "Create Gritty Noir Comics Online. Step into the shadows and craft your own gripping detective stories, crime thrillers, and mysterious narratives with our specialized noir comic maker. The noir genre is defined by its striking visual style—high-contrast lighting, deep shadows, and a pervasive sense of moral ambiguity. Our platform equips you with the exact tools needed to replicate this iconic aesthetic without requiring years of illustration experience. \n\nOur extensive asset library includes classic noir archetypes: hardboiled detectives, enigmatic femme fatales, shadowy informants, and corrupt officials. You can place these characters in atmospheric backgrounds like rain-slicked city streets, smoky detective offices, and dimly lit alleyways. The editor makes it easy to manipulate shadows and light, allowing you to create the dramatic silhouettes and intense mood that are hallmarks of the genre. Whether you’re writing a classic whodunit or a modern neo-noir thriller, our intuitive interface lets you focus on building tension and suspense. Start using our noir comic maker today and plunge your readers into a world of intrigue and mystery!\n\n## Why Use Our Noir Comic Maker?\nUsing a specialized tool allows you to focus on the narrative and character development without getting bogged down in technical drawing details. Our platform is designed to be intuitive for beginners while offering the depth that seasoned storytellers appreciate. With a wide range of assets and flexible layout options, you can create professional-looking comics in minutes. Join our community of thousands of creators and start bringing your unique stories to life today.",
+    "faqs": [
+      {
+        "question": "What makes a comic noir?",
+        "answer": "Noir comics are characterized by high-contrast black-and-white art (chiaroscuro), themes of crime and moral ambiguity, and cynical protagonists like private detectives."
+      },
+      {
+        "question": "Can I add rain and fog effects?",
+        "answer": "Yes, our asset library includes atmospheric effects like rain, fog, and smoke to enhance your scene's mood."
+      }
+    ],
+    "updatedAt": "2026-07-17"
+  },
+  {
+    "slug": "romance-comic-creator",
+    "title": "Romance Comic Creator",
+    "primaryKeyword": "romance comic creator",
+    "h1": "Build Beautiful Romance Comics",
+    "description": "Tell sweeping love stories and slice-of-life dramas with our dedicated romance comic creator.",
+    "intro": "Build Beautiful Romance Comics. Capture the magic of falling in love, the drama of heartbreak, and the warmth of everyday relationships with our romance comic creator. Romance is one of the most popular and emotionally resonant genres in comic storytelling, and our platform is designed to help you convey those subtle feelings beautifully. Whether you’re creating a sweeping historical romance, a modern high school love triangle, or a cozy slice-of-life diary, we have the tools you need.\n\nOur asset library features a wide array of expressive characters capable of showing nuanced emotions—from a shy blush to a tearful confession. You’ll find romantic backgrounds like sunset-lit parks, cozy cafes, and starlit balconies. We also provide genre-specific effects like floating hearts, sparkling backgrounds (screentones), and emotive speech bubbles to perfectly match the tone of your scene. The intuitive drag-and-drop editor allows you to easily control pacing, ensuring those quiet, tender moments have the space they need to impact the reader. Start sharing your love stories with the world using our romance comic creator today!\n\n## Why Use Our Romance Comic Creator?\nUsing a specialized tool allows you to focus on the narrative and character development without getting bogged down in technical drawing details. Our platform is designed to be intuitive for beginners while offering the depth that seasoned storytellers appreciate. With a wide range of assets and flexible layout options, you can create professional-looking comics in minutes. Join our community of thousands of creators and start bringing your unique stories to life today.",
+    "faqs": [
+      {
+        "question": "How do I show emotion without dialogue?",
+        "answer": "Use our expressive character assets and visual effects like blushing, sweat drops, or sparkling backgrounds to convey emotion visually."
+      },
+      {
+        "question": "Are there specific layouts for romance?",
+        "answer": "Yes, vertical layouts with larger panels work well for romantic beats, allowing you to focus on character expressions."
+      }
+    ],
+    "updatedAt": "2026-07-17"
+  },
+  {
+    "slug": "horror-comic-generator",
+    "title": "Horror Comic Generator",
+    "primaryKeyword": "horror comic generator",
+    "h1": "Generate Terrifying Horror Comics",
+    "description": "Scare your readers with creepy characters, haunted settings, and suspenseful layouts using our horror comic generator.",
+    "intro": "Generate Terrifying Horror Comics. Dive into the macabre and unleash your darkest nightmares with our horror comic generator. Horror comics rely heavily on atmosphere, pacing, and the element of surprise to terrify readers. Our platform provides you with all the chilling assets and layout flexibility needed to craft spine-tingling tales of terror, suspense, and the supernatural. Whether you are creating a classic ghost story, a gory zombie apocalypse, or psychological psychological thriller, you can build it here.\n\nOur asset library is stocked with creepy characters, monsters, ghosts, and terrified victims. Set the scene with eerie backgrounds like abandoned asylums, haunted houses, dark forests, and foggy graveyards. Use our specialized sound effect texts and jagged speech bubbles to convey screams and unsettling noises. The intuitive layout editor is crucial for horror: you can use small, claustrophobic panels to build tension, and then utilize a sudden, large splash panel for the ultimate jump scare. Start using our horror comic generator today and see how easy it is to keep your readers up at night!\n\n## Why Use Our Horror Comic Generator?\nUsing a specialized tool allows you to focus on the narrative and character development without getting bogged down in technical drawing details. Our platform is designed to be intuitive for beginners while offering the depth that seasoned storytellers appreciate. With a wide range of assets and flexible layout options, you can create professional-looking comics in minutes. Join our community of thousands of creators and start bringing your unique stories to life today.",
+    "faqs": [
+      {
+        "question": "How do I build suspense in a comic?",
+        "answer": "Use a series of smaller panels focusing on specific details (like a turning doorknob or a widening eye) to slow down the reading pace before a scare."
+      },
+      {
+        "question": "Are there monstrous assets available?",
+        "answer": "Yes, our library includes various creatures, zombies, ghosts, and other supernatural entities."
+      }
+    ],
+    "updatedAt": "2026-07-17"
+  },
+  {
+    "slug": "sci-fi-comic-builder",
+    "title": "Sci-Fi Comic Builder",
+    "primaryKeyword": "sci-fi comic builder",
+    "h1": "Build Futuristic Sci-Fi Comics",
+    "description": "Explore the galaxy, design futuristic cities, and tell speculative stories with our sci-fi comic builder.",
+    "intro": "Build Futuristic Sci-Fi Comics. Blast off into the unknown and construct your own futuristic universes with our dedicated sci-fi comic builder. Science fiction is a genre bounded only by imagination, and our platform gives you the tools to visualize advanced technology, alien worlds, and speculative futures without needing a degree in digital illustration. Whether you’re charting a grand space opera, a gritty cyberpunk dystopia, or a thought-provoking post-apocalyptic survival tale, we have the assets you need.\n\nOur expansive library features futuristic characters like cyborgs, astronauts, aliens, and mecha-pilots. You can place them against stunning backdrops of neon-lit cities, interstellar spacecraft interiors, and strange alien landscapes. We also provide high-tech props, energy weapons, and holographic interface effects to bring your world to life. The editor allows you to easily create dynamic action sequences or expansive establishing shots that convey the immense scale of your sci-fi setting. Start using our sci-fi comic builder today and launch your readers into a new dimension of storytelling!\n\n## Why Use Our Sci-Fi Comic Builder?\nUsing a specialized tool allows you to focus on the narrative and character development without getting bogged down in technical drawing details. Our platform is designed to be intuitive for beginners while offering the depth that seasoned storytellers appreciate. With a wide range of assets and flexible layout options, you can create professional-looking comics in minutes. Join our community of thousands of creators and start bringing your unique stories to life today.",
+    "faqs": [
+      {
+        "question": "Does the library include alien characters?",
+        "answer": "Yes, we have a variety of alien character designs, robots, and futuristic humans available in the asset library."
+      },
+      {
+        "question": "Can I create a cyberpunk style comic?",
+        "answer": "Absolutely. You can use our neon city backgrounds, cybernetic props, and dark color palettes to achieve a perfect cyberpunk aesthetic."
+      }
+    ],
+    "updatedAt": "2026-07-17"
   }
 ]

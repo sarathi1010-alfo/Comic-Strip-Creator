@@ -15,6 +15,15 @@ const assert = require('assert');
     'http://localhost:3000/layouts/4-panel-comic',
     'http://localhost:3000/layouts/6-panel-comic',
     'http://localhost:3000/styles/chibi-character-creator',
+    'http://localhost:3000/blog/comic-color-theory-guide',
+    'http://localhost:3000/genres/noir-comic-maker',
+    'http://localhost:3000/genres/romance-comic-creator',
+    'http://localhost:3000/genres/horror-comic-generator',
+    'http://localhost:3000/genres/sci-fi-comic-builder',
+    'http://localhost:3000/layouts/vertical-scroll-comic',
+    'http://localhost:3000/layouts/2-panel-comic-layout',
+    'http://localhost:3000/styles/pixel-art-comic-creator',
+    'http://localhost:3000/styles/webtoon-style-comic-maker',
   ];
 
   page.on('console', msg => {
