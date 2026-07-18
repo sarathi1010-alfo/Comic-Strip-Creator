@@ -64,7 +64,7 @@ export default function RootLayout({
       >
         <TooltipProvider>{children}</TooltipProvider>
       </body>
-      <GoogleAnalytics gaId="G-XXXXXXXXXX" />
+      <GoogleAnalytics gaId="G-HZQ3QT11QC" />
     </html>
   );
 }
