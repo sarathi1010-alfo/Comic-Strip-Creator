@@ -6,6 +6,15 @@ const assert = require('assert');
   const page = await browser.newPage();
 
   const urlsToTest = [
+    'http://localhost:3000/blog/advanced-dialogue-techniques',
+    'http://localhost:3000/genres/western-comic-maker',
+    'http://localhost:3000/genres/mystery-comic-maker',
+    'http://localhost:3000/genres/slice-of-life-comic-creator',
+    'http://localhost:3000/genres/educational-comic-generator',
+    'http://localhost:3000/layouts/1-panel-gag-cartoon',
+    'http://localhost:3000/layouts/5-panel-comic-layout',
+    'http://localhost:3000/layouts/9-panel-grid-comic',
+    'http://localhost:3000/styles/pop-art-comic-maker',
     'http://localhost:3000/blog/comic-strip-guide',
     'http://localhost:3000/genres/superhero-comic-maker',
     'http://localhost:3000/genres/manga-style-comic',

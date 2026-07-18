@@ -1,5 +1,50 @@
 [
   {
+    "slug": "1-panel-gag-cartoon",
+    "title": "1 Panel Gag Cartoon Maker",
+    "primaryKeyword": "1 panel gag cartoon",
+    "h1": "Create a 1-Panel Gag Cartoon",
+    "description": "Make quick, punchy single-panel gag cartoons easily with our intuitive editor.",
+    "intro": "Create a 1-Panel Gag Cartoon. The single-panel comic is the ultimate test of conciseness. Often seen in editorial cartoons or classic publications like The New Yorker, the 1-panel layout requires the setup and punchline to happen simultaneously. \n\n## Why Use Our 1 Panel Layout?\nIt forces you to perfect the marriage of image and caption. Use our tool to set the perfect scene and let your wit do the rest.",
+    "faqs": [
+      {
+        "question": "How do you write a 1-panel comic?",
+        "answer": "The image usually provides the setup or context, and the caption at the bottom (or a single speech bubble) delivers the punchline."
+      }
+    ],
+    "updatedAt": "2026-07-18"
+  },
+  {
+    "slug": "5-panel-comic-layout",
+    "title": "5 Panel Comic Layout Creator",
+    "primaryKeyword": "5 panel comic layout",
+    "h1": "Design with a 5-Panel Comic Layout",
+    "description": "Expand your storytelling with the versatile 5-panel layout. Perfect for longer jokes and deeper narratives.",
+    "intro": "Design with a 5-Panel Comic Layout. When three or four panels just aren't enough to deliver your story's pacing, the 5-panel layout offers extra breathing room. It’s excellent for adding an extra beat to a joke, a reaction shot, or extending a dramatic pause.\n\n## Why Use a 5-Panel Layout?\nIt gives you the flexibility to play with pacing. You can have a rapid sequence of small actions leading up to a larger payoff in the final panel.",
+    "faqs": [
+      {
+        "question": "When should I use 5 panels instead of 4?",
+        "answer": "Use 5 panels when you need an extra beat for timing, such as a silent reaction shot before the final punchline."
+      }
+    ],
+    "updatedAt": "2026-07-18"
+  },
+  {
+    "slug": "9-panel-grid-comic",
+    "title": "9 Panel Grid Comic Creator",
+    "primaryKeyword": "9 panel grid comic",
+    "h1": "Master the 9-Panel Grid Comic Layout",
+    "description": "Create dense, highly structured stories using the classic 9-panel grid layout famous in comic books.",
+    "intro": "Master the 9-Panel Grid. Famous for its use in seminal works like Watchmen, the 9-panel grid (a 3x3 layout) provides a strict, rhythmic structure to your storytelling. It allows for dense information delivery and incredible control over pacing.\n\n## Why Use the 9-Panel Grid?\nThe uniform size of the panels creates a metronome-like reading pace. It’s perfect for detailed conversations, montages, or a slow build-up of tension.",
+    "faqs": [
+      {
+        "question": "Is the 9-panel grid hard to use?",
+        "answer": "It requires more planning, as you have less space per panel, but it offers unparalleled control over the pacing of your story."
+      }
+    ],
+    "updatedAt": "2026-07-18"
+  },
+  {
     "slug": "3-panel-comic",
     "title": "3 Panel Comic Strip Maker",
     "primaryKeyword": "3 panel comic",
