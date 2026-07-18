@@ -1,5 +1,69 @@
 [
   {
+    "slug": "western-comic-maker",
+    "title": "Western Comic Maker Online",
+    "primaryKeyword": "western comic maker",
+    "h1": "Create Your Own Western Comic",
+    "description": "Build epic western stories with our free online comic maker. Design cowboys, outlaws, and desert scenes.",
+    "intro": "Create Your Own Western Comic. Step into the wild west and design thrilling tales of cowboys, outlaws, and sheriffs. Whether you're crafting a classic standoff at high noon or a sprawling journey across the desert, our western comic maker provides the tools you need. Access a library of frontier backgrounds, vintage props, and rugged characters. \n\n## Why Use Our Western Comic Maker?\nBring the frontier to life without needing advanced drawing skills. Focus on the narrative of your classic western tale, utilizing our specialized assets to create authentic-feeling saloons, deserts, and train heists.",
+    "faqs": [
+      {
+        "question": "Can I add horses and carriages?",
+        "answer": "Yes, our asset library includes various props fitting for a western setting."
+      },
+      {
+        "question": "Is this tool free to use?",
+        "answer": "Yes, ComicFlow is free to use for creating and exporting your comics."
+      }
+    ],
+    "updatedAt": "2026-07-18"
+  },
+  {
+    "slug": "mystery-comic-maker",
+    "title": "Mystery Comic Maker Online",
+    "primaryKeyword": "mystery comic maker",
+    "h1": "Create Your Own Mystery Comic",
+    "description": "Build suspenseful mystery stories with our free online comic maker. Design detectives, clues, and crime scenes.",
+    "intro": "Create Your Own Mystery Comic. Craft intricate puzzles and thrilling whodunits. From foggy London streets to modern forensic labs, our mystery comic maker gives you the atmosphere and assets needed to keep your readers guessing. Utilize magnifying glasses, clue boards, and shadowy figures to build suspense.\n\n## Why Use Our Mystery Comic Maker?\nFocus on the twists and turns of your plot rather than the technicalities of drawing. Our platform offers atmospheric backgrounds and expressive characters perfect for dramatic reveals and tense interrogations.",
+    "faqs": [
+      {
+        "question": "How do I create a moody atmosphere?",
+        "answer": "Use our darker backgrounds and adjust the color palette of your characters to fit a noir or mysterious tone."
+      }
+    ],
+    "updatedAt": "2026-07-18"
+  },
+  {
+    "slug": "slice-of-life-comic-creator",
+    "title": "Slice of Life Comic Creator",
+    "primaryKeyword": "slice of life comic creator",
+    "h1": "Create Slice of Life Comics Easily",
+    "description": "Tell relatable everyday stories with our slice of life comic creator. Perfect for daily observations and humor.",
+    "intro": "Create Slice of Life Comics. Turn everyday moments into engaging stories. The slice of life genre thrives on relatability and humor found in mundane situations. Our creator provides everyday settings like coffee shops, living rooms, and offices, along with highly expressive characters to capture nuanced emotions.\n\n## Why Use Our Slice of Life Creator?\nIt’s the perfect tool for observational comedy and personal journaling. You don't need epic explosions; you just need the right facial expression to land a joke about morning coffee.",
+    "faqs": [
+      {
+        "question": "What makes a good slice of life comic?",
+        "answer": "Relatability and expressive characters. Focus on small, everyday interactions that people universally understand."
+      }
+    ],
+    "updatedAt": "2026-07-18"
+  },
+  {
+    "slug": "educational-comic-generator",
+    "title": "Educational Comic Generator",
+    "primaryKeyword": "educational comic generator",
+    "h1": "Generate Educational Comics for Learning",
+    "description": "Make learning fun with our educational comic generator. Perfect for teachers, students, and instructional designers.",
+    "intro": "Generate Educational Comics. Transform dry facts into engaging visual narratives. Whether you are a teacher explaining historical events or an instructional designer breaking down a complex process, comics are a proven way to increase retention and engagement. \n\n## Why Use Our Educational Comic Generator?\nVisuals combined with text help break down complex subjects. Use our tool to create clear, step-by-step instructional materials that students will actually want to read.",
+    "faqs": [
+      {
+        "question": "Can I use these for my classroom?",
+        "answer": "Absolutely! Comics created here are perfect for classroom materials, presentations, and student assignments."
+      }
+    ],
+    "updatedAt": "2026-07-18"
+  },
+  {
     "slug": "superhero-comic-maker",
     "title": "Superhero Comic Maker Online",
     "primaryKeyword": "superhero comic maker",

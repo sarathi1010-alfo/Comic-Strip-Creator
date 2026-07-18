@@ -1,5 +1,20 @@
 [
   {
+    "slug": "pop-art-comic-maker",
+    "title": "Pop Art Comic Maker Online",
+    "primaryKeyword": "pop art comic maker",
+    "h1": "Create Vibrant Pop Art Comics",
+    "description": "Design bold, colorful comics inspired by classic Pop Art styles. Use halftone dots and bright colors easily.",
+    "intro": "Create Vibrant Pop Art Comics. Channel the bold aesthetics of the 1960s with our Pop Art style maker. Known for bright primary colors, thick outlines, and Ben-Day dots, this style makes a massive visual impact.\n\n## Why Choose the Pop Art Style?\nIt's instantly recognizable and highly engaging. Whether you're making a retro advertisement, a bold artistic statement, or just a fun stylized comic, the Pop Art tools will make your work stand out.",
+    "faqs": [
+      {
+        "question": "How do I get that vintage comic look?",
+        "answer": "Use bright, saturated primary colors and apply halftone dot patterns to your backgrounds to mimic vintage printing techniques."
+      }
+    ],
+    "updatedAt": "2026-07-18"
+  },
+  {
     "slug": "chibi-character-creator",
     "title": "Chibi Character Comic Creator",
     "primaryKeyword": "chibi character creator",
