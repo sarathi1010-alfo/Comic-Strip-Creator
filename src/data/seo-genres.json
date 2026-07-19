@@ -214,5 +214,65 @@
       }
     ],
     "updatedAt": "2026-07-17"
+  },
+  {
+    "slug": "thriller-comic-maker",
+    "title": "Thriller Comic Maker Online",
+    "primaryKeyword": "thriller comic maker",
+    "h1": "Create Suspenseful Thriller Comics",
+    "description": "Build suspense and tension with our thriller comic maker. Perfect for mystery and psychological stories.",
+    "intro": "Create Suspenseful Thriller Comics. A great thriller comic keeps readers on the edge of their seats. With our tools, you can perfectly pace your suspenseful stories. \n\n## Why Use Our Thriller Comic Maker?\nOur library offers assets that are perfectly suited for building tension, from moody backgrounds to expressive characters.",
+    "faqs": [
+      {
+        "question": "How do I build suspense in a comic?",
+        "answer": "Pacing is key. Use smaller panels to build tension and larger panels for big reveals."
+      }
+    ],
+    "updatedAt": "2026-07-19"
+  },
+  {
+    "slug": "cyberpunk-comic-creator",
+    "title": "Cyberpunk Comic Creator Online",
+    "primaryKeyword": "cyberpunk comic creator",
+    "h1": "Design Futuristic Cyberpunk Comics",
+    "description": "Dive into a neon-soaked dystopian future with our cyberpunk comic creator. Sci-fi storytelling made easy.",
+    "intro": "Design Futuristic Cyberpunk Comics. High tech, low life. The cyberpunk genre is defined by neon lights, gritty urban environments, and advanced technology. \n\n## Why Choose Our Cyberpunk Tools?\nWe provide futuristic backgrounds and sci-fi characters so you can start telling your dystopian stories right away.",
+    "faqs": [
+      {
+        "question": "What makes a comic cyberpunk?",
+        "answer": "Cyberpunk typically features advanced technology, AI, and a gritty, often dystopian society."
+      }
+    ],
+    "updatedAt": "2026-07-19"
+  },
+  {
+    "slug": "historical-comic-generator",
+    "title": "Historical Comic Generator",
+    "primaryKeyword": "historical comic generator",
+    "h1": "Bring History to Life with Our Comic Generator",
+    "description": "Create educational and engaging historical comics with our specialized assets and intuitive editor.",
+    "intro": "Bring History to Life. Historical comics are a fantastic way to make the past engaging and accessible. \n\n## Perfect for Education\nWhether you are a teacher looking to engage your students or a history buff wanting to share a story, our generator has the tools you need.",
+    "faqs": [
+      {
+        "question": "Can I use this for school projects?",
+        "answer": "Absolutely! Our tool is widely used by students and teachers to create engaging educational content."
+      }
+    ],
+    "updatedAt": "2026-07-19"
+  },
+  {
+    "slug": "parody-comic-maker",
+    "title": "Parody Comic Maker Online",
+    "primaryKeyword": "parody comic maker",
+    "h1": "Create Hilarious Parody Comics",
+    "description": "Poke fun at popular culture with our parody comic maker. Exaggerate characters and situations easily.",
+    "intro": "Create Hilarious Parody Comics. Parody is a time-honored comedic tradition. With our easy-to-use editor, you can create hilarious send-ups of your favorite movies, books, or real-life events. \n\n## Tools for Comedy\nUse exaggerated expressions and clever speech bubbles to deliver your satirical punchlines effectively.",
+    "faqs": [
+      {
+        "question": "What makes a good parody comic?",
+        "answer": "A good parody exaggerates the identifiable features or tropes of its subject for comedic effect."
+      }
+    ],
+    "updatedAt": "2026-07-19"
   }
 ]

@@ -138,5 +138,50 @@
       }
     ],
     "updatedAt": "2026-07-17"
+  },
+  {
+    "slug": "7-panel-comic",
+    "title": "7 Panel Comic Layout Maker",
+    "primaryKeyword": "7 panel comic layout",
+    "h1": "Design with a 7-Panel Comic Layout",
+    "description": "Create longer, more detailed narrative sequences with the flexible 7-panel layout.",
+    "intro": "Design with a 7-Panel Comic Layout. The 7-panel layout offers a unique rhythm that is perfect for complex gags or detailed narrative sequences that require more beats than standard layouts. \n\n## Why Use a 7-Panel Layout?\nIt gives you the space to establish a scene, build tension, offer a false resolution, and then deliver the final punchline.",
+    "faqs": [
+      {
+        "question": "When should I use a 7-panel layout?",
+        "answer": "Use it when your story or joke requires multiple beats or a complex setup that cannot fit into standard 4 or 6 panel grids."
+      }
+    ],
+    "updatedAt": "2026-07-19"
+  },
+  {
+    "slug": "8-panel-grid",
+    "title": "8 Panel Grid Comic Creator",
+    "primaryKeyword": "8 panel grid",
+    "h1": "Master the 8-Panel Grid Comic Layout",
+    "description": "Create balanced, highly structured stories using a classic 2x4 or 4x2 8-panel grid.",
+    "intro": "Master the 8-Panel Grid. The 8-panel grid offers a fantastic balance of structure and space. It is highly versatile, allowing for both rapid action sequences and detailed conversations. \n\n## Why the 8-Panel Grid?\nIt provides a steady, rhythmic reading experience while allowing enough panels to tell a substantial short story on a single page.",
+    "faqs": [
+      {
+        "question": "How do I format an 8-panel grid?",
+        "answer": "Common formats include a 2-by-4 arrangement or a 4-by-2 arrangement, depending on whether you want wider or taller panels."
+      }
+    ],
+    "updatedAt": "2026-07-19"
+  },
+  {
+    "slug": "infinite-canvas-comic",
+    "title": "Infinite Canvas Comic Maker",
+    "primaryKeyword": "infinite canvas comic",
+    "h1": "Create Seamless Infinite Canvas Comics",
+    "description": "Break free from page borders with the infinite canvas layout. Perfect for digital-first reading experiences.",
+    "intro": "Create Seamless Infinite Canvas Comics. Pioneered for the digital age, the infinite canvas allows you to tell stories without the constraints of physical page dimensions. \n\n## The Digital Advantage\nThis layout allows readers to scroll seamlessly through a story, enabling unique transitions and pacing techniques impossible in print.",
+    "faqs": [
+      {
+        "question": "What is an infinite canvas comic?",
+        "answer": "It is a digital-first comic format where the story flows continuously without being broken into traditional pages, often optimized for scrolling."
+      }
+    ],
+    "updatedAt": "2026-07-19"
   }
 ]
