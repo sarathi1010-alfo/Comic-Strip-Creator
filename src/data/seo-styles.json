@@ -85,5 +85,24 @@
       }
     ],
     "updatedAt": "2026-07-19"
+  },
+  {
+    "slug": "manga-shonen-style-creator",
+    "title": "Manga Shonen Style Creator",
+    "primaryKeyword": "manga shonen style creator",
+    "h1": "Manga Shonen Style Creator: Action and Emotion",
+    "description": "Create high-energy manga comics in the Shonen style. Build epic battles and emotional character arcs.",
+    "intro": "## Crafting Shonen Style Manga\n\nThe Shonen style of manga is defined by its high energy, intense action, and deep emotional stakes. Whether it's a tournament arc or a quest to save the world, this style demands dynamic visuals and expressive characters.\n\nWith our online creator, you can easily replicate the tropes of the genre. Use our asset library to construct epic battles, dramatic power-ups, and intense rivalries. Focus on the core themes of friendship, effort, and victory, while our tools help you lay out the fast-paced action sequences.",
+    "faqs": [
+      {
+        "question": "What defines the Shonen style?",
+        "answer": "Shonen manga typically features young protagonists, high-stakes action, themes of friendship and perseverance, and very dynamic panel layouts."
+      },
+      {
+        "question": "Can I use black and white styles?",
+        "answer": "Yes, you can choose assets and backgrounds that fit a traditional monochromatic manga aesthetic."
+      }
+    ],
+    "updatedAt": "2026-07-20"
   }
 ]

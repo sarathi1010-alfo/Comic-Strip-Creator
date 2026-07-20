@@ -274,5 +274,81 @@
       }
     ],
     "updatedAt": "2026-07-19"
+  },
+  {
+    "slug": "supernatural-comic-maker",
+    "title": "Supernatural Comic Maker Online",
+    "primaryKeyword": "supernatural comic maker",
+    "h1": "Supernatural Comic Maker: Create Ghostly Tales",
+    "description": "Create spooky, supernatural comics with our free online tool. Perfect for ghosts, vampires, and paranormal mysteries.",
+    "intro": "## Create Supernatural and Paranormal Comics\n\nBring your ghostly tales and paranormal investigations to life with our supernatural comic maker. Whether you're telling a story about a haunted house, a vampire romance, or a team of ghost hunters, having the right tools is essential. \n\nOur platform provides all the atmospheric assets you need. Add eerie fog, creepy mansions, and otherworldly creatures to your panels. You don't need to be an expert artist to capture the perfect spooky mood. Just drag and drop to build tension and mystery in your sequential art.",
+    "faqs": [
+      {
+        "question": "Can I make ghost comics with this tool?",
+        "answer": "Yes, we have a variety of supernatural assets including ghosts, monsters, and creepy backgrounds."
+      },
+      {
+        "question": "Is it good for creating mystery comics?",
+        "answer": "Absolutely. You can easily build suspenseful scenes and dialogue for your paranormal mysteries."
+      }
+    ],
+    "updatedAt": "2026-07-20"
+  },
+  {
+    "slug": "steampunk-comic-creator",
+    "title": "Steampunk Comic Creator Online",
+    "primaryKeyword": "steampunk comic creator",
+    "h1": "Steampunk Comic Creator: Build Victorian Sci-Fi Worlds",
+    "description": "Design intricate steampunk comics featuring airships, gears, and Victorian aesthetics with our free online generator.",
+    "intro": "## Design Your Own Steampunk Adventures\n\nDive into a world of brass, gears, and steam power with our steampunk comic creator. Steampunk blends Victorian-era aesthetics with retro-futuristic technology, offering a visually rich sandbox for storytellers.\n\nCraft epic adventures aboard massive airships, or tell grounded stories in smog-filled, clockwork cities. Our extensive library of props and backgrounds allows you to assemble intricate steampunk environments without having to draw every individual gear and pipe. Combine Victorian fashion with sci-fi gadgets to create a truly unique visual style.",
+    "faqs": [
+      {
+        "question": "Does the library include steampunk props?",
+        "answer": "Yes, our asset library contains various industrial and Victorian-inspired items perfect for steampunk settings."
+      },
+      {
+        "question": "Do I need to draw the backgrounds myself?",
+        "answer": "No, you can use our pre-made industrial backgrounds or build your own by layering different assets."
+      }
+    ],
+    "updatedAt": "2026-07-20"
+  },
+  {
+    "slug": "zombie-comic-generator",
+    "title": "Zombie Comic Generator Online",
+    "primaryKeyword": "zombie comic generator",
+    "h1": "Zombie Comic Generator: Tell Survival Stories",
+    "description": "Create thrilling zombie apocalypse comics online. Build tension, design survivors, and tell your undead stories.",
+    "intro": "## Survive the Undead in Your Own Comic\n\nTell gripping stories of survival, horror, and humanity with our zombie comic generator. The zombie apocalypse genre is a classic setting for exploring character dynamics and high-stakes tension.\n\nWhether your story focuses on the initial outbreak or the struggle to rebuild society years later, our platform gives you the tools to visualize it. Set up barricaded safe houses, ruined city streets, and tense standoffs. Focus on the emotional weight of survival while our drag-and-drop editor handles the complex backgrounds and character poses.",
+    "faqs": [
+      {
+        "question": "Are there horror elements available?",
+        "answer": "Yes, you can utilize darker, grittier assets to fit the tone of a zombie survival story."
+      },
+      {
+        "question": "Can I create action scenes easily?",
+        "answer": "Our varied character poses and dynamic layouts make it simple to construct intense action sequences."
+      }
+    ],
+    "updatedAt": "2026-07-20"
+  },
+  {
+    "slug": "post-apocalyptic-comic-maker",
+    "title": "Post-Apocalyptic Comic Maker",
+    "primaryKeyword": "post-apocalyptic comic maker",
+    "h1": "Post-Apocalyptic Comic Maker: Wasteland Adventures",
+    "description": "Design gritty, post-apocalyptic comics online. Build wasteland environments and tell stories of survival.",
+    "intro": "## Craft Stories in the Wasteland\n\nExplore the ruins of civilization with our post-apocalyptic comic maker. This genre allows for incredible creativity in world-building, from desolate, sun-scorched deserts to overgrown, abandoned cities.\n\nOur editor provides the perfect canvas for your wasteland adventures. Assemble scenes of scavengers searching for supplies, or nomadic warriors crossing the ruined earth. The key to a great post-apocalyptic story is the atmosphere, and our easy-to-use tools let you quickly establish a sense of isolation and danger in every panel.",
+    "faqs": [
+      {
+        "question": "What kind of backgrounds are available for this genre?",
+        "answer": "You can use desolate landscapes, ruined cities, and abandoned interiors to set your post-apocalyptic scene."
+      },
+      {
+        "question": "Can I customize the characters to look like survivors?",
+        "answer": "Yes, you can select characters with appropriate clothing and expressions to fit your gritty narrative."
+      }
+    ],
+    "updatedAt": "2026-07-20"
   }
 ]

@@ -183,5 +183,62 @@
       }
     ],
     "updatedAt": "2026-07-19"
+  },
+  {
+    "slug": "10-panel-comic-layout",
+    "title": "10-Panel Comic Layout",
+    "primaryKeyword": "10 panel comic layout",
+    "h1": "10-Panel Comic Layout: Dense Storytelling",
+    "description": "Learn how to use a 10-panel comic layout for dense, complex storytelling and intricate pacing.",
+    "intro": "## Mastering the 10-Panel Layout\n\nThe 10-panel comic layout is a powerhouse for dense storytelling. Unlike simpler grids, 10 panels allow for rapid pacing, complex conversations, and detailed sequential action on a single page. \n\nThis layout is often used in graphic novels to convey a lot of information quickly, or to break down a fast-paced action sequence into tiny, manageable beats. When using a 10-panel layout, it is crucial to balance dialogue and art; too much text will quickly overwhelm the small panel sizes.",
+    "faqs": [
+      {
+        "question": "When should I use a 10-panel layout?",
+        "answer": "Use it when you have a dense scene, a rapid-fire conversation, or a fast-paced action sequence that needs to be broken down into many small beats."
+      },
+      {
+        "question": "Is it too cluttered for mobile reading?",
+        "answer": "It can be, so it's important to keep the artwork simple and text sparse if you expect readers to view it on small screens."
+      }
+    ],
+    "updatedAt": "2026-07-20"
+  },
+  {
+    "slug": "12-panel-grid-comic",
+    "title": "12-Panel Grid Comic Layout",
+    "primaryKeyword": "12 panel grid comic",
+    "h1": "12-Panel Grid Comic Layout: The Classic Structure",
+    "description": "Explore the 12-panel grid layout, a classic format for structured, rhythmic comic storytelling.",
+    "intro": "## The Structure of the 12-Panel Grid\n\nThe 12-panel grid is a highly structured, rhythmic layout. Often arranged in a 3x4 or 4x3 configuration, it provides a steady, ticking-clock pacing to your narrative. \n\nThis grid is excellent for showing the passage of time, montages, or very deliberate, slow-paced dialogue scenes. Because the panels are uniform, any deviation (like combining two panels into one larger one) has a massive visual impact. It forces the creator to be extremely economical with their composition.",
+    "faqs": [
+      {
+        "question": "Why is the 12-panel grid so effective?",
+        "answer": "Its uniform nature creates a steady rhythm, making it perfect for montages and highlighting the passage of time."
+      },
+      {
+        "question": "Can I break the grid?",
+        "answer": "Yes! Combining panels within a 12-panel grid is a powerful way to emphasize specific moments."
+      }
+    ],
+    "updatedAt": "2026-07-20"
+  },
+  {
+    "slug": "diagonal-panel-comic",
+    "title": "Diagonal Panel Comic Layout",
+    "primaryKeyword": "diagonal panel comic layout",
+    "h1": "Diagonal Panel Comic Layout: Dynamic Action",
+    "description": "Use diagonal panels to add extreme dynamic energy, tension, and action to your comic layouts.",
+    "intro": "## Creating Energy with Diagonal Panels\n\nTo inject raw energy and movement into a scene, look no further than the diagonal panel layout. By breaking away from traditional horizontal and vertical lines, diagonal panels create a sense of imbalance and speed.\n\nThis technique is heavily used in action comics and manga to emphasize sword swings, explosions, and falling characters. The skewed lines naturally lead the reader's eye in unexpected directions, making the page feel alive and chaotic. Use this layout sparingly to maximize its impact.",
+    "faqs": [
+      {
+        "question": "When are diagonal panels best used?",
+        "answer": "They are best used in high-action sequences, fights, or moments of extreme emotional distress where you want the reader to feel a sense of chaos."
+      },
+      {
+        "question": "Are diagonal panels hard to read?",
+        "answer": "They can be if overused. Always ensure the flow of the dialogue and action still leads the reader clearly from one panel to the next."
+      }
+    ],
+    "updatedAt": "2026-07-20"
   }
 ]
