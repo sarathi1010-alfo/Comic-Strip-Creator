@@ -1,5 +1,50 @@
 [
   {
+    "slug": "16-panel-grid-comic",
+    "title": "16 Panel Grid Comic Layout",
+    "primaryKeyword": "16 panel grid comic",
+    "h1": "Master the 16-Panel Grid",
+    "description": "Create dense, highly structured narratives with the complex 16-panel grid layout.",
+    "intro": "Master the 16-Panel Grid. Famous for its use in highly detailed sequential art, the 16-panel grid (a 4x4 layout) provides a strict, rhythmic structure to your storytelling. It allows for incredibly dense information delivery and meticulous control over pacing.\n\n## Why Use the 16-Panel Grid?\nThe uniform, small size of the panels creates a rapid reading pace. It’s perfect for detailed actions, claustrophobic settings, or a fast build-up of tension.",
+    "faqs": [
+      {
+        "question": "Is a 16-panel grid hard to use?",
+        "answer": "It requires significant planning due to the limited space per panel, but offers unparalleled control over timing."
+      }
+    ],
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "slug": "circular-panel-comic-layout",
+    "title": "Circular Panel Comic Layout",
+    "primaryKeyword": "circular panel comic layout",
+    "h1": "Design with Circular Panels",
+    "description": "Break the mold with circular panel layouts, perfect for dream sequences and unique framing.",
+    "intro": "Design with Circular Panels. For narratives that need to step outside the box, circular panels offer a unique aesthetic. When a simple square isn't enough, this format allows for soft transitions, dreamlike sequences, and focusing the reader's eye like a spotlight. It's the ideal choice for emphasizing a character's internal thoughts or isolated moments.\n\n## Why Use Circular Panels?\nUsing non-traditional shapes breaks the reader's expectations and can signal a shift in reality, time, or emotion within the story.",
+    "faqs": [
+      {
+        "question": "When should I use circular panels?",
+        "answer": "Use circular panels to depict dreams, memories, or to draw intense focus to a specific element."
+      }
+    ],
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "slug": "irregular-panel-comic-layout",
+    "title": "Irregular Panel Comic Layout",
+    "primaryKeyword": "irregular panel comic layout",
+    "h1": "Create Chaos with Irregular Panels",
+    "description": "Use jagged, irregular panels to convey action, confusion, and dynamic energy in your comics.",
+    "intro": "Create Chaos with Irregular Panels. The irregular panel layout breaks the rules of the standard grid, using angled, jagged, or overlapping frames to create a sense of frantic energy. This layout is perfectly optimized for high-octane action sequences, explosions, or depicting a character's mental breakdown.\n\n## Why Use Irregular Panels?\nIt fundamentally changes the pacing and feeling of a page, replacing order with dynamic, unpredictable movement.",
+    "faqs": [
+      {
+        "question": "How do irregular panels affect reading flow?",
+        "answer": "They can make the reading flow more erratic and fast-paced, reflecting the chaos happening within the scene."
+      }
+    ],
+    "updatedAt": "2026-07-22"
+  },
+  {
     "slug": "1-panel-gag-cartoon",
     "title": "1 Panel Gag Cartoon Maker",
     "primaryKeyword": "1 panel gag cartoon",

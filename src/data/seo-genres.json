@@ -1,5 +1,65 @@
 [
   {
+    "slug": "mythology-comic-maker",
+    "title": "Mythology Comic Maker Online",
+    "primaryKeyword": "mythology comic maker",
+    "h1": "Create Epic Mythology Comics",
+    "description": "Design mythological tales with gods, monsters, and ancient settings using our free online mythology comic maker.",
+    "intro": "Create Epic Mythology Comics. Step into the world of gods, heroes, and legendary beasts. Whether you're adapting ancient Greek myths or creating your own pantheon, our mythology comic maker provides the tools you need. Access ancient temples, mythical weapons, and divine characters to bring your epic tales to life.\n\n## Why Use Our Mythology Comic Maker?\nBring ancient legends to life without needing advanced artistic skills. Focus on the grand narratives of your mythological world, utilizing our specialized assets to create authentic-feeling divine realms and heroic quests.",
+    "faqs": [
+      {
+        "question": "Can I add mythological creatures?",
+        "answer": "Yes, our library includes various creatures fitting for a mythological setting."
+      }
+    ],
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "slug": "fairy-tale-comic-creator",
+    "title": "Fairy Tale Comic Creator Online",
+    "primaryKeyword": "fairy tale comic creator",
+    "h1": "Design Enchanting Fairy Tale Comics",
+    "description": "Craft magical fairy tales with princes, princesses, and enchanted forests using our online comic creator.",
+    "intro": "Design Enchanting Fairy Tale Comics. Craft magical stories filled with princesses, talking animals, and enchanted castles. From classic Brothers Grimm adaptations to modern magical realism, our fairy tale comic creator gives you the atmosphere and assets needed to keep your readers spellbound. Utilize magic wands, royal garbs, and mystical woods to build wonder.\n\n## Why Use Our Fairy Tale Comic Creator?\nFocus on the magic and wonder of your plot. Our platform offers whimsical backgrounds and expressive characters perfect for enchanting narratives.",
+    "faqs": [
+      {
+        "question": "How do I create a magical atmosphere?",
+        "answer": "Use bright, whimsical colors and fantastical props to establish an enchanting setting."
+      }
+    ],
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "slug": "dystopian-comic-generator",
+    "title": "Dystopian Comic Generator",
+    "primaryKeyword": "dystopian comic generator",
+    "h1": "Create Gritty Dystopian Comics",
+    "description": "Build oppressive, futuristic dystopian stories easily with our intuitive online comic generator.",
+    "intro": "Create Gritty Dystopian Comics. The dystopian genre explores society's darkest potential futures. Featuring oppressive regimes and ruined cityscapes, this genre requires a specific aesthetic. \n\n## Why Use Our Dystopian Layout?\nIt helps you establish a bleak, immersive atmosphere. Use our tool to set the perfect desolate scene and let your grim narrative unfold.",
+    "faqs": [
+      {
+        "question": "How do you write a dystopian comic?",
+        "answer": "Focus on the societal conflicts and the environment, using stark contrasts and oppressive imagery."
+      }
+    ],
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "slug": "space-opera-comic-builder",
+    "title": "Space Opera Comic Builder",
+    "primaryKeyword": "space opera comic builder",
+    "h1": "Build Grand Space Opera Comics",
+    "description": "Expand your sci-fi storytelling with grand space operas. Design galaxies, spaceships, and alien worlds.",
+    "intro": "Build Grand Space Opera Comics. When simple sci-fi isn't enough, the space opera offers extra breathing room for epic, galaxy-spanning narratives. It’s excellent for adding grandeur, exploring alien civilizations, and staging massive space battles.\n\n## Why Use a Space Opera Setting?\nIt gives you the flexibility to play with vast scales. You can have intimate character moments set against the backdrop of crumbling stellar empires.",
+    "faqs": [
+      {
+        "question": "What defines a space opera comic?",
+        "answer": "A space opera focuses on sweeping, epic narratives involving space warfare, interstellar romance, and grand adventure."
+      }
+    ],
+    "updatedAt": "2026-07-22"
+  },
+  {
     "slug": "western-comic-maker",
     "title": "Western Comic Maker Online",
     "primaryKeyword": "western comic maker",
