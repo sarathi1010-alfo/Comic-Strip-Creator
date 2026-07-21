@@ -1,5 +1,20 @@
 [
   {
+    "slug": "line-art-comic-creator",
+    "title": "Line Art Comic Creator",
+    "primaryKeyword": "line art comic creator",
+    "h1": "Create Striking Line Art Comics",
+    "description": "Design elegant, minimalist comics focusing purely on line work and high contrast.",
+    "intro": "Create Striking Line Art Comics. Channel the raw energy of sketches and detailed inking with our Line Art style maker. Known for high contrast, intricate cross-hatching, and minimalist elegance, this style makes a sophisticated visual statement.\n\n## Why Choose the Line Art Style?\nIt's timeless and highly expressive. Whether you're making a moody indie comic, a quick sketch diary, or focusing purely on composition, line art tools strip away distractions to highlight your core drawing.",
+    "faqs": [
+      {
+        "question": "How do I make good line art?",
+        "answer": "Focus on line weight, contrast, and clean composition to ensure the image reads clearly without color."
+      }
+    ],
+    "updatedAt": "2026-07-22"
+  },
+  {
     "slug": "pop-art-comic-maker",
     "title": "Pop Art Comic Maker Online",
     "primaryKeyword": "pop art comic maker",
