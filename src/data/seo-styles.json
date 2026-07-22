@@ -1,5 +1,65 @@
 [
   {
+    "slug": "retro-comic-style",
+    "title": "Retro Comic Style Maker",
+    "primaryKeyword": "retro comic style",
+    "h1": "Create Vintage Retro Comics",
+    "description": "Design comics with a classic, vintage look, complete with distressed textures and muted colors.",
+    "intro": "Create Vintage Retro Comics. Give your modern stories a classic feel with faded colors, paper textures, and vintage typography.\n\n## Why Go Retro?\nA retro style evokes nostalgia and can add a sense of history or timelessness to your narrative.",
+    "faqs": [
+      {
+        "question": "How do I make my comic look vintage?",
+        "answer": "Use a muted color palette, add a slight yellow tint for aged paper, and apply a subtle grain or halftone texture."
+      }
+    ],
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "slug": "pixel-art-style",
+    "title": "Pixel Art Comic Style Creator",
+    "primaryKeyword": "pixel art comic",
+    "h1": "Design Retro Pixel Art Comics",
+    "description": "Create nostalgic, 8-bit style comics with our pixel art comic creator tools.",
+    "intro": "Design Retro Pixel Art Comics. Tap into video game nostalgia and create stories with a distinct, blocky aesthetic.\n\n## The Charm of Pixel Art\nPixel art forces you to convey emotion and action with minimal detail, resulting in a charming and focused style.",
+    "faqs": [
+      {
+        "question": "Is pixel art hard to read in comics?",
+        "answer": "No, as long as the color contrast is good and the characters are clearly defined."
+      }
+    ],
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "slug": "pop-art-comic-style",
+    "title": "Pop Art Comic Style Maker",
+    "primaryKeyword": "pop art comic style",
+    "h1": "Create Bold Pop Art Comics",
+    "description": "Design striking comics with bright colors and halftone dots inspired by the Pop Art movement.",
+    "intro": "Create Bold Pop Art Comics. Make a statement with high-contrast colors, thick outlines, and classic halftone patterns.\n\n## Why Use Pop Art Style?\nIt's instantly recognizable and incredibly striking, perfect for retro themes or making a bold visual impact.",
+    "faqs": [
+      {
+        "question": "What defines pop art style in comics?",
+        "answer": "Primary colors, heavy black outlines, and the use of Ben-Day dots for shading and texture."
+      }
+    ],
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "slug": "watercolor-comic-style",
+    "title": "Watercolor Comic Style Creator",
+    "primaryKeyword": "watercolor comic style",
+    "h1": "Design Beautiful Watercolor Comics",
+    "description": "Create comics with a soft, artistic watercolor aesthetic using our online tools.",
+    "intro": "Design Beautiful Watercolor Comics. Give your story a delicate, painted look that evokes emotion and artistry.\n\n## The Appeal of Watercolor\nThe soft edges and blended colors of watercolor are perfect for poignant, emotional, or nature-focused stories.",
+    "faqs": [
+      {
+        "question": "How do I achieve a watercolor look digitally?",
+        "answer": "Use soft, semi-transparent brushes and layer colors to mimic the blending of traditional watercolors."
+      }
+    ],
+    "updatedAt": "2026-07-22"
+  },
+  {
     "slug": "line-art-comic-creator",
     "title": "Line Art Comic Creator",
     "primaryKeyword": "line art comic creator",
@@ -73,7 +133,7 @@
     "primaryKeyword": "webtoon style comic maker",
     "h1": "Design Webtoon Style Comics Online",
     "description": "Create long-form, full-color, vertically scrolling comics in the popular Webtoon style with our dedicated maker.",
-    "intro": "Design Webtoon Style Comics Online. Embrace the most popular digital comic format in the world with our dedicated Webtoon style comic maker. The \"Webtoon\" style isn't just about vertical scrolling; it's characterized by full-color artwork, cinematic pacing, extensive use of digital effects, and a focus on dramatic character interactions. Our platform is built to help you replicate this highly polished, professional look without requiring a full studio of assistants.\n\nOur asset library is packed with the high-quality, expressive characters and detailed backgrounds typical of top-tier webcomics. We provide specific tools to help you master the Webtoon aesthetic, including easy-to-use screentones, dramatic lighting overlays, and stylized sound effects. The editor is optimized for managing the long, continuous canvases required for this format, allowing you to easily adjust the spacing between panels to control the narrative rhythm—a crucial skill for Webtoon creators. Whether you are aiming to be the next big romance author or an action-fantasy star, our Webtoon style comic maker gives you the professional edge you need. Start building your digital empire today!\n\n## Why Use Our Webtoon Style Comic Maker?\nUsing a specialized tool allows you to focus on the narrative and character development without getting bogged down in technical drawing details. Our platform is designed to be intuitive for beginners while offering the depth that seasoned storytellers appreciate. With a wide range of assets and flexible layout options, you can create professional-looking comics in minutes. Join our community of thousands of creators and start bringing your unique stories to life today.",
+    "intro": "Design Webtoon Style Comics Online. Embrace the most popular digital comic format in the world with our dedicated Webtoon style comic maker. The \"Webtoon\" style isn't just about vertical scrolling; it's characterized by full-color artwork, cinematic pacing, extensive use of digital effects, and a focus on dramatic character interactions. Our platform is built to help you replicate this highly polished, professional look without requiring a full studio of assistants.\n\nOur asset library is packed with the high-quality, expressive characters and detailed backgrounds typical of top-tier webcomics. We provide specific tools to help you master the Webtoon aesthetic, including easy-to-use screentones, dramatic lighting overlays, and stylized sound effects. The editor is optimized for managing the long, continuous canvases required for this format, allowing you to easily adjust the spacing between panels to control the narrative rhythm\u2014a crucial skill for Webtoon creators. Whether you are aiming to be the next big romance author or an action-fantasy star, our Webtoon style comic maker gives you the professional edge you need. Start building your digital empire today!\n\n## Why Use Our Webtoon Style Comic Maker?\nUsing a specialized tool allows you to focus on the narrative and character development without getting bogged down in technical drawing details. Our platform is designed to be intuitive for beginners while offering the depth that seasoned storytellers appreciate. With a wide range of assets and flexible layout options, you can create professional-looking comics in minutes. Join our community of thousands of creators and start bringing your unique stories to life today.",
     "faqs": [
       {
         "question": "What is the Webtoon style?",
