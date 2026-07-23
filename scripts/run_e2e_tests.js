@@ -6,6 +6,16 @@ const assert = require('assert');
   const page = await browser.newPage();
 
   const urlsToTest = [
+    'http://localhost:3000/blog/comic-composition-perspective-guide',
+    'http://localhost:3000/genres/mecha-comic-maker',
+    'http://localhost:3000/genres/sports-comic-creator',
+    'http://localhost:3000/genres/historical-fiction-comic-maker',
+    'http://localhost:3000/layouts/splash-page-comic-layout',
+    'http://localhost:3000/layouts/comic-book-cover-layout',
+    'http://localhost:3000/layouts/2x2-grid-comic-layout',
+    'http://localhost:3000/styles/comic-book-inking-style',
+    'http://localhost:3000/styles/manga-shojo-style-creator',
+
     'http://localhost:3000/blog/mastering-comic-pacing-guide',
     'http://localhost:3000/genres/mythology-comic-maker',
     'http://localhost:3000/genres/fairy-tale-comic-creator',

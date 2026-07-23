@@ -1,5 +1,43 @@
 [
   {
+    "slug": "comic-book-inking-style",
+    "title": "Comic Book Inking Style Creator",
+    "primaryKeyword": "comic book inking style",
+    "h1": "Create Classic Comic Book Inking Styles",
+    "description": "Emulate the look of traditional comic book inking with our specialized tools. Perfect for high-contrast, moody artwork.",
+    "intro": "Create Classic Comic Book Inking Styles. Inking is what gives traditional comic books their weight, contrast, and definition. Our inking style creator allows you to emulate the look of brush pens, crowquill nibs, and heavy black spotting. This style is essential for noir stories, gritty urban dramas, or any narrative that relies on stark contrast and deep shadows to convey mood. By focusing purely on black and white line art and heavy spotting, you can create incredibly powerful and striking visuals.\n\n## Why Use Our Inking Style Creator?\nUsing a specialized tool allows you to focus on the narrative and character development without getting bogged down in technical drawing details. Our platform is designed to be intuitive for beginners while offering the depth that seasoned storytellers appreciate. With a wide range of assets and flexible layout options, you can create professional-looking comics in minutes. Join our community of thousands of creators and start bringing your unique stories to life today.",
+    "faqs": [
+      {
+        "question": "What makes good comic inking?",
+        "answer": "Good inking isn't just tracing; it's using line weight and black areas (spotting blacks) to create depth, light, and texture."
+      },
+      {
+        "question": "Can I use this for noir comics?",
+        "answer": "Absolutely, heavy inking and high contrast are the defining visual characteristics of the noir genre."
+      }
+    ],
+    "updatedAt": "2026-07-23"
+  },
+  {
+    "slug": "manga-shojo-style-creator",
+    "title": "Manga Shojo Style Creator",
+    "primaryKeyword": "manga shojo style creator",
+    "h1": "Design Beautiful Manga Shojo Style Comics",
+    "description": "Create emotional, expressive manga in the Shojo style. Perfect for romance, drama, and beautiful character designs.",
+    "intro": "Design Beautiful Manga Shojo Style Comics. The Shojo style of manga is renowned for its focus on romance, intricate character relationships, and highly expressive, beautiful artwork. Characterized by large, emotive eyes, delicate line work, and the extensive use of floral or abstract screentones to convey mood, this style is perfect for character-driven dramas. Our platform provides the specific assets and effects needed to capture this delicate and emotional aesthetic, allowing you to tell touching stories of love and friendship.\n\n## Why Use Our Shojo Style Creator?\nUsing a specialized tool allows you to focus on the narrative and character development without getting bogged down in technical drawing details. Our platform is designed to be intuitive for beginners while offering the depth that seasoned storytellers appreciate. With a wide range of assets and flexible layout options, you can create professional-looking comics in minutes. Join our community of thousands of creators and start bringing your unique stories to life today.",
+    "faqs": [
+      {
+        "question": "What is the difference between Shonen and Shojo styles?",
+        "answer": "While Shonen focuses on action and dynamic energy, Shojo emphasizes emotion, relationships, and intricate, delicate character designs."
+      },
+      {
+        "question": "Can I use screentones in this style?",
+        "answer": "Yes, Shojo manga often uses abstract or floral screentones in the background to emphasize a character's feelings, which can be emulated in our editor."
+      }
+    ],
+    "updatedAt": "2026-07-23"
+  },
+  {
     "slug": "retro-comic-style",
     "title": "Retro Comic Style Maker",
     "primaryKeyword": "retro comic style",
@@ -133,7 +171,7 @@
     "primaryKeyword": "webtoon style comic maker",
     "h1": "Design Webtoon Style Comics Online",
     "description": "Create long-form, full-color, vertically scrolling comics in the popular Webtoon style with our dedicated maker.",
-    "intro": "Design Webtoon Style Comics Online. Embrace the most popular digital comic format in the world with our dedicated Webtoon style comic maker. The \"Webtoon\" style isn't just about vertical scrolling; it's characterized by full-color artwork, cinematic pacing, extensive use of digital effects, and a focus on dramatic character interactions. Our platform is built to help you replicate this highly polished, professional look without requiring a full studio of assistants.\n\nOur asset library is packed with the high-quality, expressive characters and detailed backgrounds typical of top-tier webcomics. We provide specific tools to help you master the Webtoon aesthetic, including easy-to-use screentones, dramatic lighting overlays, and stylized sound effects. The editor is optimized for managing the long, continuous canvases required for this format, allowing you to easily adjust the spacing between panels to control the narrative rhythm\u2014a crucial skill for Webtoon creators. Whether you are aiming to be the next big romance author or an action-fantasy star, our Webtoon style comic maker gives you the professional edge you need. Start building your digital empire today!\n\n## Why Use Our Webtoon Style Comic Maker?\nUsing a specialized tool allows you to focus on the narrative and character development without getting bogged down in technical drawing details. Our platform is designed to be intuitive for beginners while offering the depth that seasoned storytellers appreciate. With a wide range of assets and flexible layout options, you can create professional-looking comics in minutes. Join our community of thousands of creators and start bringing your unique stories to life today.",
+    "intro": "Design Webtoon Style Comics Online. Embrace the most popular digital comic format in the world with our dedicated Webtoon style comic maker. The \"Webtoon\" style isn't just about vertical scrolling; it's characterized by full-color artwork, cinematic pacing, extensive use of digital effects, and a focus on dramatic character interactions. Our platform is built to help you replicate this highly polished, professional look without requiring a full studio of assistants.\n\nOur asset library is packed with the high-quality, expressive characters and detailed backgrounds typical of top-tier webcomics. We provide specific tools to help you master the Webtoon aesthetic, including easy-to-use screentones, dramatic lighting overlays, and stylized sound effects. The editor is optimized for managing the long, continuous canvases required for this format, allowing you to easily adjust the spacing between panels to control the narrative rhythm—a crucial skill for Webtoon creators. Whether you are aiming to be the next big romance author or an action-fantasy star, our Webtoon style comic maker gives you the professional edge you need. Start building your digital empire today!\n\n## Why Use Our Webtoon Style Comic Maker?\nUsing a specialized tool allows you to focus on the narrative and character development without getting bogged down in technical drawing details. Our platform is designed to be intuitive for beginners while offering the depth that seasoned storytellers appreciate. With a wide range of assets and flexible layout options, you can create professional-looking comics in minutes. Join our community of thousands of creators and start bringing your unique stories to life today.",
     "faqs": [
       {
         "question": "What is the Webtoon style?",
