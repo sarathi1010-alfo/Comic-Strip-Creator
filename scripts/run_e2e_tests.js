@@ -78,6 +78,15 @@ const assert = require('assert');
     'http://localhost:3000/styles/pop-art-comic-style',
     'http://localhost:3000/styles/pixel-art-style',
     'http://localhost:3000/styles/retro-comic-style',
+    'http://localhost:3000/blog/comic-inking-rendering-guide',
+    'http://localhost:3000/genres/cyberpunk-noir-comic-maker',
+    'http://localhost:3000/genres/urban-fantasy-comic-creator',
+    'http://localhost:3000/genres/historical-romance-comic-maker',
+    'http://localhost:3000/genres/space-western-comic-generator',
+    'http://localhost:3000/layouts/asymmetrical-panel-comic-layout',
+    'http://localhost:3000/layouts/widescreen-comic-layout',
+    'http://localhost:3000/layouts/overlapping-panel-comic',
+    'http://localhost:3000/styles/vintage-newspaper-comic-style',
   ];
 
   page.on('console', msg => {
