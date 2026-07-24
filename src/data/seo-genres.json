@@ -497,5 +497,81 @@
       }
     ],
     "updatedAt": "2026-07-20"
+  },
+  {
+    "slug": "cyberpunk-noir-comic-maker",
+    "title": "Cyberpunk Noir Comic Maker Online",
+    "primaryKeyword": "cyberpunk noir comic maker",
+    "h1": "Create Gritty Cyberpunk Noir Comics",
+    "description": "Build futuristic detective stories with our cyberpunk noir comic maker. Features neon-lit cityscapes and cybernetic characters.",
+    "intro": "Create Gritty Cyberpunk Noir Comics. Combine the high-tech, low-life aesthetics of cyberpunk with the moody, investigative elements of classic noir. Dive into neon-lit cityscapes, rain-slicked alleyways, and shadowy corporate boardrooms. Our platform provides assets specifically tailored for this genre, including cybernetic character enhancements, futuristic weaponry, and sprawling dystopian backgrounds. Using our cyberpunk noir comic maker, you can focus on building tension, uncovering conspiracies, and telling gripping stories of rogue AI and hardboiled detectives.\n\n## Why Use Our Cyberpunk Noir Comic Maker?\nUsing a specialized tool allows you to focus on the narrative and character development without getting bogged down in technical drawing details. Our platform is designed to be intuitive for beginners while offering the depth that seasoned storytellers appreciate. With a wide range of assets and flexible layout options, you can create professional-looking comics in minutes. Join our community of thousands of creators and start bringing your unique stories to life today.",
+    "faqs": [
+      {
+        "question": "What is cyberpunk noir?",
+        "answer": "Cyberpunk noir combines futuristic, high-tech settings with the dark, cynical, and investigative themes of classic noir detective fiction."
+      },
+      {
+        "question": "Does the maker include neon effects?",
+        "answer": "Yes, our asset library includes props and backgrounds with high-contrast, neon-lit aesthetics perfect for the genre."
+      }
+    ],
+    "updatedAt": "2026-07-24"
+  },
+  {
+    "slug": "urban-fantasy-comic-creator",
+    "title": "Urban Fantasy Comic Creator",
+    "primaryKeyword": "urban fantasy comic creator",
+    "h1": "Design Epic Urban Fantasy Comics",
+    "description": "Mix magic with modern life using our urban fantasy comic creator. Perfect for stories of secret worlds hidden in plain sight.",
+    "intro": "Design Epic Urban Fantasy Comics. Urban fantasy brings magic, mythical creatures, and ancient secrets into modern-day settings. Whether your story features vampires running nightclubs, wizards solving crimes in the city, or hidden magical academies, our creator provides the perfect blend of contemporary and fantastical assets. Combine modern city backgrounds with glowing magical effects and supernatural character designs. Our urban fantasy comic creator is designed to help you build these rich, layered worlds easily, letting your imagination run wild in the streets of the modern world.\n\n## Why Use Our Urban Fantasy Comic Creator?\nUsing a specialized tool allows you to focus on the narrative and character development without getting bogged down in technical drawing details. Our platform is designed to be intuitive for beginners while offering the depth that seasoned storytellers appreciate. With a wide range of assets and flexible layout options, you can create professional-looking comics in minutes. Join our community of thousands of creators and start bringing your unique stories to life today.",
+    "faqs": [
+      {
+        "question": "What is an urban fantasy comic?",
+        "answer": "Urban fantasy comics blend magical and supernatural elements with a modern, contemporary urban setting."
+      },
+      {
+        "question": "Can I mix normal and magical assets?",
+        "answer": "Absolutely. You can place fantasy characters like elves or vampires into modern settings like coffee shops or subway stations."
+      }
+    ],
+    "updatedAt": "2026-07-24"
+  },
+  {
+    "slug": "historical-romance-comic-maker",
+    "title": "Historical Romance Comic Maker",
+    "primaryKeyword": "historical romance comic maker",
+    "h1": "Create Sweeping Historical Romance Comics",
+    "description": "Tell tales of love in bygone eras with our historical romance comic maker. Features period-accurate attire and elegant settings.",
+    "intro": "Create Sweeping Historical Romance Comics. Transport your readers to the elegant ballrooms of the Regency era, the rugged frontiers of the Wild West, or the dramatic courts of medieval Europe. Historical romance requires a specific aesthetic, focusing on period attire, majestic backgrounds, and expressive character interactions. Our historical romance comic maker provides a curated selection of assets to help you set the scene for dramatic declarations of love and quiet moments of connection. Focus on the emotional journey of your characters without worrying about drawing complex historical costumes.\n\n## Why Use Our Historical Romance Comic Maker?\nUsing a specialized tool allows you to focus on the narrative and character development without getting bogged down in technical drawing details. Our platform is designed to be intuitive for beginners while offering the depth that seasoned storytellers appreciate. With a wide range of assets and flexible layout options, you can create professional-looking comics in minutes. Join our community of thousands of creators and start bringing your unique stories to life today.",
+    "faqs": [
+      {
+        "question": "Do you have historical costume assets?",
+        "answer": "Yes, our library includes various character assets wearing attire suited for different historical periods."
+      },
+      {
+        "question": "How do I show romantic tension?",
+        "answer": "Use close-up panels, subtle facial expressions, and strategic speech bubble placement to build emotional tension between characters."
+      }
+    ],
+    "updatedAt": "2026-07-24"
+  },
+  {
+    "slug": "space-western-comic-generator",
+    "title": "Space Western Comic Generator",
+    "primaryKeyword": "space western comic generator",
+    "h1": "Build Thrilling Space Western Comics",
+    "description": "Combine frontier grit with cosmic scale. Use our space western comic generator to tell stories of galactic outlaws and cosmic sheriffs.",
+    "intro": "Build Thrilling Space Western Comics. The space western genre takes the themes, tropes, and aesthetics of the classic American West and transplants them into outer space. Think rugged bounty hunters on desert planets, dusty cantinas on the edge of the galaxy, and high-tech train robberies. Our space western comic generator provides a unique mix of assets, blending rustic frontier elements with futuristic sci-fi technology. Create compelling narratives of survival, justice, and exploration on the final frontier with ease.\n\n## Why Use Our Space Western Comic Generator?\nUsing a specialized tool allows you to focus on the narrative and character development without getting bogged down in technical drawing details. Our platform is designed to be intuitive for beginners while offering the depth that seasoned storytellers appreciate. With a wide range of assets and flexible layout options, you can create professional-looking comics in minutes. Join our community of thousands of creators and start bringing your unique stories to life today.",
+    "faqs": [
+      {
+        "question": "What is a space western?",
+        "answer": "A space western is a subgenre of science fiction that incorporates the themes, tropes, and settings of westerns into a futuristic, space-faring context."
+      },
+      {
+        "question": "Does the generator have alien characters?",
+        "answer": "Yes, you can mix human frontier characters with various alien designs from our asset library."
+      }
+    ],
+    "updatedAt": "2026-07-24"
   }
 ]

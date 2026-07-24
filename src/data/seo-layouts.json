@@ -372,5 +372,62 @@
       }
     ],
     "updatedAt": "2026-07-20"
+  },
+  {
+    "slug": "asymmetrical-panel-comic-layout",
+    "title": "Asymmetrical Panel Comic Layout",
+    "primaryKeyword": "asymmetrical panel comic layout",
+    "h1": "Dynamic Storytelling with Asymmetrical Layouts",
+    "description": "Break the grid. Use our asymmetrical panel comic layout to create dynamic, energetic, and unpredictable comic pages.",
+    "intro": "Dynamic Storytelling with Asymmetrical Layouts. The traditional grid is fantastic for steady pacing, but when you need to convey chaos, intense action, or fractured mental states, an asymmetrical panel layout is your best tool. Breaking the grid by using uneven, slanted, or irregularly shaped panels forces the reader's eye to move unpredictably, heightening the energy of the page. Our platform makes it easy to manipulate panel borders and sizes, allowing you to design pages that feel alive. Whether it's a high-speed car chase or a sudden magical explosion, asymmetrical layouts give your art the kinetic impact it deserves.\n\n## Why Use an Asymmetrical Layout?\nUsing a specialized tool allows you to focus on the narrative and character development without getting bogged down in technical drawing details. Our platform is designed to be intuitive for beginners while offering the depth that seasoned storytellers appreciate. With a wide range of assets and flexible layout options, you can create professional-looking comics in minutes. Join our community of thousands of creators and start bringing your unique stories to life today.",
+    "faqs": [
+      {
+        "question": "When should I use asymmetrical panels?",
+        "answer": "Use them for high-action sequences, moments of sudden surprise, or to convey a sense of instability and chaos."
+      },
+      {
+        "question": "Can I tilt panels in the editor?",
+        "answer": "Yes, our layout tools allow you to adjust panel angles and sizes to break away from standard grids."
+      }
+    ],
+    "updatedAt": "2026-07-24"
+  },
+  {
+    "slug": "widescreen-comic-layout",
+    "title": "Widescreen Comic Layout",
+    "primaryKeyword": "widescreen comic layout",
+    "h1": "Cinematic Widescreen Comic Layout",
+    "description": "Create sweeping, cinematic stories with our widescreen comic layout. Perfect for epic landscapes and group shots.",
+    "intro": "Cinematic Widescreen Comic Layout. Bring the feeling of a blockbuster movie to your comic with a widescreen panel layout. By utilizing long, horizontal panels that stretch across the page, you can emphasize vast landscapes, sweeping battlefields, or tense standoffs between groups of characters. This layout slows down the reading pace, inviting the reader to linger on the details of the environment. Our platform provides the tools to easily set up widescreen formats, perfect for the opening establishing shots of your sci-fi epic or western showdown.\n\n## Why Use a Widescreen Layout?\nUsing a specialized tool allows you to focus on the narrative and character development without getting bogged down in technical drawing details. Our platform is designed to be intuitive for beginners while offering the depth that seasoned storytellers appreciate. With a wide range of assets and flexible layout options, you can create professional-looking comics in minutes. Join our community of thousands of creators and start bringing your unique stories to life today.",
+    "faqs": [
+      {
+        "question": "What is a widescreen layout best for?",
+        "answer": "It is ideal for establishing shots, large group scenes, and emphasizing the scale of an environment."
+      },
+      {
+        "question": "Does it work well on mobile?",
+        "answer": "Widescreen panels can be effective on mobile if the reader is viewing in landscape mode, or if used sparingly in a vertical scroll format."
+      }
+    ],
+    "updatedAt": "2026-07-24"
+  },
+  {
+    "slug": "overlapping-panel-comic",
+    "title": "Overlapping Panel Comic Layout",
+    "primaryKeyword": "overlapping panel comic",
+    "h1": "Create Depth with Overlapping Panels",
+    "description": "Layer your story. Use our overlapping panel comic tools to create complex compositions and guide the reader's eye seamlessly.",
+    "intro": "Create Depth with Overlapping Panels. Overlapping panels is an advanced layout technique that can add incredible depth and a sense of simultaneity to your comic pages. Instead of placing panels side-by-side with gutters in between, you place a smaller panel partially over a larger one. This can be used to show a detail within a larger scene (like a close-up of a ticking bomb over an establishing shot of a room), or to link two actions happening at the exact same moment. Our editor handles layers smoothly, allowing you to create these complex, visually striking layouts without confusing the reader's eye.\n\n## Why Use Overlapping Panels?\nUsing a specialized tool allows you to focus on the narrative and character development without getting bogged down in technical drawing details. Our platform is designed to be intuitive for beginners while offering the depth that seasoned storytellers appreciate. With a wide range of assets and flexible layout options, you can create professional-looking comics in minutes. Join our community of thousands of creators and start bringing your unique stories to life today.",
+    "faqs": [
+      {
+        "question": "How do overlapping panels affect reading order?",
+        "answer": "They usually signal that the events in the overlapping panels are happening simultaneously or are directly related details of the larger background panel."
+      },
+      {
+        "question": "Can I add borders to overlapping panels?",
+        "answer": "Yes, maintaining a strong border (often white or black) on the top panel is crucial to separate it visually from the panel underneath."
+      }
+    ],
+    "updatedAt": "2026-07-24"
   }
 ]
