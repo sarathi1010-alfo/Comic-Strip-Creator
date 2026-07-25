@@ -1,5 +1,43 @@
 [
   {
+    "slug": "minimalist-comic-style",
+    "title": "Minimalist Comic Style Creator",
+    "primaryKeyword": "minimalist comic style",
+    "h1": "Create Comics in a Minimalist Style",
+    "description": "Embrace the power of less with our minimalist comic style creator. Use clean lines, negative space, and simple colors for maximum impact.",
+    "intro": "Embrace the power of less with our minimalist comic style creator. Minimalism in comics strips away extraneous details, focusing entirely on the core narrative and essential character expressions. This style relies on clean line work, abundant negative space, and restricted color palettes to communicate ideas clearly and elegantly. It is a highly effective style for philosophical stories, subtle humor, or striking visual design.\n\n## Why Choose the Minimalist Comic Style?\nThe minimalist approach proves that you don't need hyper-realistic rendering to tell a compelling story. By reducing visual noise, the reader's attention is drawn directly to the dialogue and the fundamental actions of the characters. Our creator tool provides crisp, untextured assets and bold, flat colors that are perfect for assembling striking minimalist strips quickly and effectively.",
+    "faqs": [
+      {
+        "question": "Does minimalist mean easy to draw?",
+        "answer": "Not necessarily. While there are fewer lines, every line must be purposeful and accurate, making strong composition and anatomy crucial."
+      },
+      {
+        "question": "What colors work best for minimalist comics?",
+        "answer": "Monochromatic palettes or a limited two-to-three color scheme work best to maintain the clean, uncluttered aesthetic."
+      }
+    ],
+    "updatedAt": "2026-07-25"
+  },
+  {
+    "slug": "gothic-comic-style",
+    "title": "Gothic Comic Style Maker",
+    "primaryKeyword": "gothic comic style",
+    "h1": "Design Dark Tales with the Gothic Comic Style",
+    "description": "Craft moody and atmospheric stories with our Gothic comic style maker. Perfect for horror, romance, and dark fantasy narratives.",
+    "intro": "Craft moody and atmospheric stories with our Gothic comic style maker. The Gothic aesthetic is defined by heavy shadows, ornate architecture, dramatic lighting, and a pervasive sense of melancholy or dread. This style is the perfect vehicle for horror stories, dark fantasy, and tragic romances. It relies heavily on high contrast (chiaroscuro) and intricate, often unsettling details.\n\n## Why Use the Gothic Comic Style?\nIf your story deals with themes of madness, the supernatural, or brooding protagonists, the Gothic style instantly sets the appropriate tone. Our library includes assets tailored for this aesthetic, from crumbling castles and eerie graveyards to characters with expressive, shadowed features. Learn to master spotting blacks and heavy inking to bring your dark tales to life.",
+    "faqs": [
+      {
+        "question": "What makes a comic look Gothic?",
+        "answer": "Heavy use of solid blacks, high-contrast lighting, ornate but decaying environments, and a muted or monochromatic color palette."
+      },
+      {
+        "question": "Is this style only for horror comics?",
+        "answer": "No, it is also widely used for dark fantasy, mystery, and tragic romance stories."
+      }
+    ],
+    "updatedAt": "2026-07-25"
+  },
+  {
     "slug": "comic-book-inking-style",
     "title": "Comic Book Inking Style Creator",
     "primaryKeyword": "comic book inking style",

@@ -1,5 +1,62 @@
 [
   {
+    "slug": "3x3-grid-comic-layout",
+    "title": "3x3 Grid Comic Layout: The Classic 9-Panel Page",
+    "primaryKeyword": "3x3 grid comic layout",
+    "h1": "Master the 3x3 Grid Comic Layout",
+    "description": "Learn how to use the classic 3x3 grid comic layout (9-panel grid) to control pacing, build tension, and structure complex narratives.",
+    "intro": "Learn how to use the classic 3x3 grid comic layout, also known as the 9-panel grid. This layout is a cornerstone of comic book storytelling, famously utilized in masterpieces like Watchmen. The rigid structure of the 3x3 grid provides a steady, rhythmic heartbeat to your story, allowing you to control the pacing with incredible precision. It forces the creator to distill the narrative down to its most essential beats, making every panel count.\n\n## Why Use the 3x3 Grid Comic Layout?\nThe strength of the 9-panel grid lies in its consistency and its flexibility. While the panels are uniform in size, they can be combined to create larger horizontal or vertical panels for dramatic effect. This grid is perfect for dense, character-driven stories, intricate dialogue scenes, or slow-building suspense. By establishing a firm baseline, any deviation from the grid feels significant and impactful to the reader.",
+    "faqs": [
+      {
+        "question": "What is the 3x3 grid best used for?",
+        "answer": "It is excellent for controlling pacing, delivering dense dialogue, and creating a steady, rhythmic reading experience."
+      },
+      {
+        "question": "Can I merge panels in a 3x3 grid?",
+        "answer": "Yes, combining panels within the grid (e.g., merging three panels into one wide tier) is a common technique to emphasize important moments."
+      }
+    ],
+    "updatedAt": "2026-07-25"
+  },
+  {
+    "slug": "4x4-grid-comic-layout",
+    "title": "4x4 Grid Comic Layout: The Dense 16-Panel Grid",
+    "primaryKeyword": "4x4 grid comic layout",
+    "h1": "Master the 4x4 Grid Comic Layout for Dense Storytelling",
+    "description": "Explore the 4x4 grid comic layout (16-panel grid). Discover how to use this high-density layout for fast-paced action or claustrophobic tension.",
+    "intro": "Explore the 4x4 grid comic layout, also known as the 16-panel grid. This high-density layout is a challenging but incredibly rewarding structure for advanced comic creators. With 16 distinct beats on a single page, this grid allows for rapid-fire dialogue, frantic action sequences, or the detailed breakdown of a complex mechanical process. It can also be used to create a feeling of claustrophobia or overwhelming information.\n\n## Why Use the 4x4 Grid Comic Layout?\nThe 16-panel grid requires immense discipline. Because each panel is relatively small, artists must focus on close-ups and essential details, paring away unnecessary background information. This layout is fantastic for conveying the passage of time in small increments or for showing multiple characters' reactions simultaneously. It's a bold choice that demands the reader's full attention.",
+    "faqs": [
+      {
+        "question": "Isn't a 16-panel grid too small to draw in?",
+        "answer": "The panels are small, which requires the artist to focus on close-ups, essential details, and clear, uncluttered compositions."
+      },
+      {
+        "question": "When should I use a 4x4 grid?",
+        "answer": "Use it for rapid dialogue, frantic action, conveying a strict passage of time, or creating a feeling of claustrophobia."
+      }
+    ],
+    "updatedAt": "2026-07-25"
+  },
+  {
+    "slug": "7-panel-irregular-comic",
+    "title": "7-Panel Irregular Comic Layout",
+    "primaryKeyword": "7-panel irregular comic layout",
+    "h1": "Dynamic Storytelling with the 7-Panel Irregular Comic Layout",
+    "description": "Break the mold with a 7-panel irregular comic layout. Learn how to use varying panel sizes to guide the reader's eye and emphasize key moments.",
+    "intro": "Break the mold with a 7-panel irregular comic layout. Unlike strict grids, irregular layouts use panels of varying sizes and shapes to dictate the flow and energy of the page. A 7-panel layout provides enough space for a complete narrative sequence—an establishing shot, a build-up of action or dialogue, a climax, and a resolution—while keeping the visual presentation dynamic and unpredictable.\n\n## Why Use a 7-Panel Irregular Layout?\nIrregular layouts are all about controlling the reader's focus. A massive panel will naturally draw the eye and slow the reader down, implying importance or a significant passage of time. Conversely, small, tight panels speed up the reading pace, creating a sense of urgency. By mastering the 7-panel irregular layout, you can guide the reader's emotional journey through the page entirely through the architecture of your panels.",
+    "faqs": [
+      {
+        "question": "How do I decide which panels should be larger?",
+        "answer": "The largest panels should be reserved for the most important narrative beats, such as an establishing shot, a dramatic reveal, or a key action sequence."
+      },
+      {
+        "question": "Does an irregular layout confuse readers?",
+        "answer": "It can if not designed carefully. Always ensure the panels flow in a clear Z-pattern (left to right, top to bottom) to maintain readability."
+      }
+    ],
+    "updatedAt": "2026-07-25"
+  },
+  {
     "slug": "splash-page-comic-layout",
     "title": "Splash Page Comic Layout Maker",
     "primaryKeyword": "splash page comic layout",
