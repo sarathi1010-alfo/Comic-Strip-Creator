@@ -1,5 +1,62 @@
 [
   {
+    "slug": "fantasy-romance-comic-maker",
+    "title": "Fantasy Romance Comic Maker",
+    "primaryKeyword": "fantasy romance comic maker",
+    "h1": "Fantasy Romance Comic Maker: Epic Love Stories",
+    "description": "Create sweeping fantasy romance comics with our specialized maker. Combine magical settings with deep emotional storytelling.",
+    "intro": "Create sweeping fantasy romance comics with our specialized maker. The fantasy romance genre offers the perfect blend of epic stakes and intimate, emotional storytelling. From star-crossed lovers in warring magical kingdoms to unexpected encounters with mythical beings, our tools provide everything you need to bring your vision to life. Our extensive library includes intricate magical assets, breathtaking landscapes, and expressive character designs tailored for emotional depth.\n\n## Why Use Our Fantasy Romance Comic Maker?\nCrafting a compelling fantasy romance requires balancing world-building with character chemistry. Our platform is designed to make this process seamless. Whether you are an experienced artist or a beginner storyteller, you can focus on writing beautiful dialogue and planning your scenes, while our drag-and-drop interface handles the heavy lifting. Start your epic love story today with professional-grade layouts and assets.",
+    "faqs": [
+      {
+        "question": "Are there magical backgrounds available?",
+        "answer": "Yes, we offer a wide variety of enchanted forests, mystical castles, and otherworldly landscapes."
+      },
+      {
+        "question": "Can I customize character expressions for emotional scenes?",
+        "answer": "Absolutely. Our asset library includes a wide range of facial expressions perfect for conveying romance, heartbreak, and joy."
+      }
+    ],
+    "updatedAt": "2026-07-25"
+  },
+  {
+    "slug": "sci-fi-comedy-comic-creator",
+    "title": "Sci-Fi Comedy Comic Creator",
+    "primaryKeyword": "sci-fi comedy comic creator",
+    "h1": "Sci-Fi Comedy Comic Creator: Hilarious Adventures in Space",
+    "description": "Launch into laughter with our sci-fi comedy comic creator. Build wacky space adventures and futuristic farces.",
+    "intro": "Launch into laughter with our sci-fi comedy comic creator. Why settle for serious space operas when you can explore the galaxy with a crew of misfits? The sci-fi comedy genre is all about subverting futuristic tropes, dealing with alien absurdities, and finding humor in the vastness of space. Our creator equips you with quirky alien designs, malfunctioning robot props, and bizarre planetary backgrounds to set the perfect comedic stage.\n\n## Why Choose Our Sci-Fi Comedy Comic Creator?\nComedy relies heavily on timing and visual gags. Our intuitive panel layouts allow you to perfectly pace your jokes, from the setup in the first panel to the hilarious punchline in the last. You don't need to be a master illustrator to be funny. Use our extensive library of sci-fi assets to bring your wacky scripts to life quickly and easily. Join other creators making the galaxy a funnier place.",
+    "faqs": [
+      {
+        "question": "Do you have funny alien characters?",
+        "answer": "Yes, our library features a variety of unique, bizarre, and humorous alien character designs."
+      },
+      {
+        "question": "Can I use classic comedy comic layouts?",
+        "answer": "Definitely. We provide standard 3-panel and 4-panel strip layouts that are ideal for delivering punchlines."
+      }
+    ],
+    "updatedAt": "2026-07-25"
+  },
+  {
+    "slug": "superhero-parody-comic-maker",
+    "title": "Superhero Parody Comic Maker",
+    "primaryKeyword": "superhero parody comic maker",
+    "h1": "Superhero Parody Comic Maker: Spoof the Caped Crusaders",
+    "description": "Poke fun at superhero tropes with our dedicated parody comic maker. Create hilarious spoofs of your favorite comic book heroes.",
+    "intro": "Poke fun at superhero tropes with our dedicated parody comic maker. Sometimes, the best way to enjoy a genre is to lovingly mock it. Superhero parodies allow you to take the over-the-top action, ridiculous costumes, and melodramatic dialogue of mainstream comics and turn them on their head. Our tool provides all the classic superhero archetypes, exaggerated props, and dynamic action backgrounds you need to craft the perfect spoof.\n\n## Why Use Our Superhero Parody Comic Maker?\nCreating a parody requires recognizing the familiar elements of a genre and twisting them for comedic effect. Our platform makes it easy to set up these familiar scenarios. Whether it's a hero with a completely useless superpower or a villain whose evil plan makes no sense, you can bring these ideas to life without needing advanced drawing skills. Start spoofing the caped crusaders today!",
+    "faqs": [
+      {
+        "question": "Are there generic superhero costumes in the library?",
+        "answer": "Yes, we have a variety of classic, recognizable superhero and supervillain costume parts you can mix and match."
+      },
+      {
+        "question": "Can I add classic comic book sound effects?",
+        "answer": "Absolutely. We have a robust selection of dynamic 'BAM!' and 'POW!' speech bubbles perfect for superhero parodies."
+      }
+    ],
+    "updatedAt": "2026-07-25"
+  },
+  {
     "slug": "mecha-comic-maker",
     "title": "Mecha Comic Maker Online",
     "primaryKeyword": "mecha comic maker",
