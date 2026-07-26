@@ -96,6 +96,16 @@ const assert = require('assert');
     'http://localhost:3000/layouts/7-panel-irregular-comic',
     'http://localhost:3000/styles/minimalist-comic-style',
     'http://localhost:3000/styles/gothic-comic-style',
+
+    'http://localhost:3000/blog/comic-lettering-sound-effects-guide',
+    'http://localhost:3000/genres/martial-arts-comic-maker',
+    'http://localhost:3000/genres/vampire-comic-creator',
+    'http://localhost:3000/genres/time-travel-comic-generator',
+    'http://localhost:3000/genres/spy-espionage-comic-builder',
+    'http://localhost:3000/layouts/circle-panel-comic',
+    'http://localhost:3000/layouts/triangle-panel-comic',
+    'http://localhost:3000/layouts/layered-panel-comic',
+    'http://localhost:3000/styles/charcoal-comic-style',
   ];
 
   page.on('console', msg => {
