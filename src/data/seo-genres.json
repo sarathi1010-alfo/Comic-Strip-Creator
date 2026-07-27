@@ -1,5 +1,81 @@
 [
   {
+    "slug": "post-cyberpunk-comic-maker",
+    "title": "Post-Cyberpunk Comic Maker",
+    "primaryKeyword": "post-cyberpunk comic maker",
+    "h1": "Post-Cyberpunk Comic Maker: Beyond the Neon",
+    "description": "Create stories set in a post-cyberpunk world with our online maker. Focus on the sociological impacts of advanced technology and rebuilding society.",
+    "intro": "## Explore the Post-Cyberpunk World\n\nWhile traditional cyberpunk focuses on high-tech and low-life dystopias, post-cyberpunk explores a world where advanced technology is everyday and society is adapting rather than collapsing. \n\nOur editor provides assets for both the sleek utopian elements and the gritty, lived-in reality of post-cyberpunk environments. Build comics that focus on transhumanism, AI integration, and everyday life in a highly networked future. It's the perfect toolkit for nuanced, character-driven sci-fi.",
+    "faqs": [
+      {
+        "question": "How does post-cyberpunk differ from cyberpunk?",
+        "answer": "Post-cyberpunk often features protagonists who are integrated into society (like cops or corporate workers) rather than outcast rebels, and the tone is sometimes more optimistic or pragmatic about technology."
+      },
+      {
+        "question": "Are there assets for advanced technology?",
+        "answer": "Yes, our library includes various futuristic props, augmentations, and integrated cityscapes."
+      }
+    ],
+    "updatedAt": "2026-07-27"
+  },
+  {
+    "slug": "magic-realism-comic-creator",
+    "title": "Magic Realism Comic Creator",
+    "primaryKeyword": "magic realism comic creator",
+    "h1": "Magic Realism Comic Creator: The Extraordinary Everyday",
+    "description": "Blend the mundane with the magical using our magic realism comic creator. Perfect for stories where the impossible is just part of daily life.",
+    "intro": "## Blend the Mundane with the Magical\n\nMagic realism introduces fantastical, magical elements into otherwise mundane, realistic settings as if they were perfectly normal. It's a genre that relies heavily on a grounded atmosphere punctuated by moments of wonder.\n\nOur comic creator lets you seamlessly mix everyday backgrounds—like a quiet suburban kitchen or a bustling office—with subtle magical props and character effects. You can tell stories where a character casually talks to ghosts or where flowers bloom from the ceiling, all with a few clicks.",
+    "faqs": [
+      {
+        "question": "What is magic realism in comics?",
+        "answer": "It's a style where magical events occur in a mundane setting, and the characters accept these events as a normal part of life."
+      },
+      {
+        "question": "How do I create a magic realism atmosphere?",
+        "answer": "Start with a highly realistic, everyday setting and introduce one or two impossible elements. Keep the character reactions understated to maintain the genre's tone."
+      }
+    ],
+    "updatedAt": "2026-07-27"
+  },
+  {
+    "slug": "superhero-origin-comic-maker",
+    "title": "Superhero Origin Comic Maker",
+    "primaryKeyword": "superhero origin comic maker",
+    "h1": "Superhero Origin Comic Maker: Tell Their First Story",
+    "description": "Craft compelling origin stories for your heroes with our specialized comic maker. From ordinary beginnings to extraordinary awakenings.",
+    "intro": "## Tell Their First Story\n\nEvery great hero has a beginning. The origin story is a staple of the superhero genre, focusing on the moment a character gains their powers or makes the decision to fight for justice.\n\nOur platform provides all the assets you need to transition a character from their everyday life to their new superhero identity. Set the scene in a laboratory, a glowing meteor crash site, or a dark alleyway. With expressive character poses and dynamic action effects, you can easily illustrate the dramatic shift from ordinary to extraordinary.",
+    "faqs": [
+      {
+        "question": "How do I show a character gaining powers?",
+        "answer": "You can use glowing effects, dramatic lighting (achieved through our color adjustment tools), and intense character expressions to signify the moment of transformation."
+      },
+      {
+        "question": "Can I show 'before and after' character designs?",
+        "answer": "Yes, you can use our standard civilian characters in early panels and switch to costumed superhero assets in the later panels of your strip."
+      }
+    ],
+    "updatedAt": "2026-07-27"
+  },
+  {
+    "slug": "detective-noir-comic-generator",
+    "title": "Detective Noir Comic Generator",
+    "primaryKeyword": "detective noir comic generator",
+    "h1": "Detective Noir Comic Generator: Solve the Case",
+    "description": "Build moody, hardboiled detective stories with our noir comic generator. Features trench coats, dimly lit offices, and shadowy alleyways.",
+    "intro": "## Solve the Case in the Shadows\n\nClassic detective noir is defined by its cynical tone, intricate mysteries, and striking, high-contrast visual style (chiaroscuro). It's a world of morally gray characters, smoky rooms, and dangerous secrets.\n\nOur generator provides the perfect toolkit for crafting hardboiled fiction. Utilize assets like dimly lit private eye offices, rain-swept city streets, and characters in classic trench coats and fedoras. Focus on the internal monologue and the twisting plot while we handle the moody backgrounds.",
+    "faqs": [
+      {
+        "question": "How do I get the 'noir' look?",
+        "answer": "Noir relies heavily on high contrast. Use our black-and-white or desaturated filters, and position your characters in scenes with heavy shadows and stark lighting."
+      },
+      {
+        "question": "What kind of stories work best?",
+        "answer": "Murder mysteries, corruption scandals, and tales of betrayal fit perfectly within the noir genre constraints."
+      }
+    ],
+    "updatedAt": "2026-07-27"
+  },
+  {
     "slug": "martial-arts-comic-maker",
     "title": "Martial Arts Comic Maker",
     "description": "Create dynamic martial arts comics with action-packed templates.",
@@ -282,7 +358,7 @@
     "primaryKeyword": "space opera comic builder",
     "h1": "Build Grand Space Opera Comics",
     "description": "Expand your sci-fi storytelling with grand space operas. Design galaxies, spaceships, and alien worlds.",
-    "intro": "Build Grand Space Opera Comics. When simple sci-fi isn't enough, the space opera offers extra breathing room for epic, galaxy-spanning narratives. It\u2019s excellent for adding grandeur, exploring alien civilizations, and staging massive space battles.\n\n## Why Use a Space Opera Setting?\nIt gives you the flexibility to play with vast scales. You can have intimate character moments set against the backdrop of crumbling stellar empires.",
+    "intro": "Build Grand Space Opera Comics. When simple sci-fi isn't enough, the space opera offers extra breathing room for epic, galaxy-spanning narratives. It’s excellent for adding grandeur, exploring alien civilizations, and staging massive space battles.\n\n## Why Use a Space Opera Setting?\nIt gives you the flexibility to play with vast scales. You can have intimate character moments set against the backdrop of crumbling stellar empires.",
     "faqs": [
       {
         "question": "What defines a space opera comic?",
@@ -331,7 +407,7 @@
     "primaryKeyword": "slice of life comic creator",
     "h1": "Create Slice of Life Comics Easily",
     "description": "Tell relatable everyday stories with our slice of life comic creator. Perfect for daily observations and humor.",
-    "intro": "Create Slice of Life Comics. Turn everyday moments into engaging stories. The slice of life genre thrives on relatability and humor found in mundane situations. Our creator provides everyday settings like coffee shops, living rooms, and offices, along with highly expressive characters to capture nuanced emotions.\n\n## Why Use Our Slice of Life Creator?\nIt\u2019s the perfect tool for observational comedy and personal journaling. You don't need epic explosions; you just need the right facial expression to land a joke about morning coffee.",
+    "intro": "Create Slice of Life Comics. Turn everyday moments into engaging stories. The slice of life genre thrives on relatability and humor found in mundane situations. Our creator provides everyday settings like coffee shops, living rooms, and offices, along with highly expressive characters to capture nuanced emotions.\n\n## Why Use Our Slice of Life Creator?\nIt’s the perfect tool for observational comedy and personal journaling. You don't need epic explosions; you just need the right facial expression to land a joke about morning coffee.",
     "faqs": [
       {
         "question": "What makes a good slice of life comic?",
@@ -399,7 +475,7 @@
     "primaryKeyword": "humor comic strip",
     "h1": "Generate Funny Humor Comic Strips",
     "description": "Craft hilarious jokes and funny situations with our humor comic strip generator. Perfect for social media funnies.",
-    "intro": "Generate Funny Humor Comic Strips. Make people laugh with your own customized humor comic strips and viral-ready gags. Humor is all about timing, and our humor comic strip generator is built to help you master the rhythm of the punchline. Whether you're aiming for a quick one-panel observation, a classic three-panel daily strip, or a longer narrative joke, we provide the flexible layouts you need to land every beat. Our asset library is filled with expressive characters capable of conveying shock, annoyance, joy, sarcasm, and every subtle emotion in between\u2014perfect for building relatable comedic situations. From office-themed backgrounds to everyday household settings and bizarre surreal environments, you can set the stage for any scenario. Use our specialized speech bubble tools to control the rhythm of your dialogue, ensuring your jokes have the space they need to breathe and the visual impact they deserve. You can easily share your hilarious creations directly to social media or export them for your personal blog or portfolio. Start experimenting with different setups and subversions today, and see how easy it is to become a comic strip comedian with the power of ComicFlow!\n\n## Why Use Our Humor Comic Strip Generator?\nUsing a specialized tool allows you to focus on the narrative and character development without getting bogged down in technical drawing details. Our platform is designed to be intuitive for beginners while offering the depth that seasoned storytellers appreciate. With a wide range of assets and flexible layout options, you can create professional-looking comics in minutes. Whether you are working on a personal project, a classroom assignment, or a marketing campaign, our creator provides the perfect balance of ease of use and creative freedom. Join our community of thousands of creators and start bringing your unique stories to life today. Every comic you create is a step forward in your storytelling journey, and we are here to provide the best possible tools for your success.",
+    "intro": "Generate Funny Humor Comic Strips. Make people laugh with your own customized humor comic strips and viral-ready gags. Humor is all about timing, and our humor comic strip generator is built to help you master the rhythm of the punchline. Whether you're aiming for a quick one-panel observation, a classic three-panel daily strip, or a longer narrative joke, we provide the flexible layouts you need to land every beat. Our asset library is filled with expressive characters capable of conveying shock, annoyance, joy, sarcasm, and every subtle emotion in between—perfect for building relatable comedic situations. From office-themed backgrounds to everyday household settings and bizarre surreal environments, you can set the stage for any scenario. Use our specialized speech bubble tools to control the rhythm of your dialogue, ensuring your jokes have the space they need to breathe and the visual impact they deserve. You can easily share your hilarious creations directly to social media or export them for your personal blog or portfolio. Start experimenting with different setups and subversions today, and see how easy it is to become a comic strip comedian with the power of ComicFlow!\n\n## Why Use Our Humor Comic Strip Generator?\nUsing a specialized tool allows you to focus on the narrative and character development without getting bogged down in technical drawing details. Our platform is designed to be intuitive for beginners while offering the depth that seasoned storytellers appreciate. With a wide range of assets and flexible layout options, you can create professional-looking comics in minutes. Whether you are working on a personal project, a classroom assignment, or a marketing campaign, our creator provides the perfect balance of ease of use and creative freedom. Join our community of thousands of creators and start bringing your unique stories to life today. Every comic you create is a step forward in your storytelling journey, and we are here to provide the best possible tools for your success.",
     "faqs": [
       {
         "question": "What are good humor setups?",
@@ -418,7 +494,7 @@
     "primaryKeyword": "fantasy adventure comic",
     "h1": "Build Fantasy Adventure Comics",
     "description": "Design mystical worlds, epic quests, and magical characters with our fantasy comic builder.",
-    "intro": "Build Fantasy Adventure Comics. Embark on an epic journey filled with magic, monsters, and legendary heroes. Our fantasy adventure comic builder gives you the keys to an entire kingdom of creative possibilities. Design mystical worlds where dragons soar over enchanted forests, or gritty dungeons filled with ancient treasures and dangerous traps. With a vast selection of high-fantasy characters\u2014including brave knights, wise wizards, cunning rogues, and mythical creatures\u2014you can assemble your party and start your quest in seconds. Our library also features a wide variety of magical props and spell effects to add that extra layer of wonder to your panels. The intuitive layout tools allow you to switch between wide, sweeping establishing shots of epic landscapes and tight, tense combat sequences. Whether you are chronicling a long-running tabletop campaign or telling a standalone mythical tale, ComicFlow provides the professional features needed to make your fantasy comic truly legendary. Your adventure starts here, and the only limit is your imagination! Join thousands of other world-builders and start your epic fantasy saga today.\n\n## Why Use Our Fantasy Adventure Comic Builder?\nUsing a specialized tool allows you to focus on the narrative and character development without getting bogged down in technical drawing details. Our platform is designed to be intuitive for beginners while offering the depth that seasoned storytellers appreciate. With a wide range of assets and flexible layout options, you can create professional-looking comics in minutes. Whether you are working on a personal project, a classroom assignment, or a marketing campaign, our creator provides the perfect balance of ease of use and creative freedom. Join our community of thousands of creators and start bringing your unique stories to life today. Every comic you create is a step forward in your storytelling journey, and we are here to provide the best possible tools for your success.",
+    "intro": "Build Fantasy Adventure Comics. Embark on an epic journey filled with magic, monsters, and legendary heroes. Our fantasy adventure comic builder gives you the keys to an entire kingdom of creative possibilities. Design mystical worlds where dragons soar over enchanted forests, or gritty dungeons filled with ancient treasures and dangerous traps. With a vast selection of high-fantasy characters—including brave knights, wise wizards, cunning rogues, and mythical creatures—you can assemble your party and start your quest in seconds. Our library also features a wide variety of magical props and spell effects to add that extra layer of wonder to your panels. The intuitive layout tools allow you to switch between wide, sweeping establishing shots of epic landscapes and tight, tense combat sequences. Whether you are chronicling a long-running tabletop campaign or telling a standalone mythical tale, ComicFlow provides the professional features needed to make your fantasy comic truly legendary. Your adventure starts here, and the only limit is your imagination! Join thousands of other world-builders and start your epic fantasy saga today.\n\n## Why Use Our Fantasy Adventure Comic Builder?\nUsing a specialized tool allows you to focus on the narrative and character development without getting bogged down in technical drawing details. Our platform is designed to be intuitive for beginners while offering the depth that seasoned storytellers appreciate. With a wide range of assets and flexible layout options, you can create professional-looking comics in minutes. Whether you are working on a personal project, a classroom assignment, or a marketing campaign, our creator provides the perfect balance of ease of use and creative freedom. Join our community of thousands of creators and start bringing your unique stories to life today. Every comic you create is a step forward in your storytelling journey, and we are here to provide the best possible tools for your success.",
     "faqs": [
       {
         "question": "Are there fantasy props available?",
@@ -437,7 +513,7 @@
     "primaryKeyword": "noir comic maker",
     "h1": "Create Gritty Noir Comics Online",
     "description": "Use our noir comic maker to craft dark, suspenseful detective stories with high-contrast shadows and moody atmospheres.",
-    "intro": "Create Gritty Noir Comics Online. Step into the shadows and craft your own gripping detective stories, crime thrillers, and mysterious narratives with our specialized noir comic maker. The noir genre is defined by its striking visual style\u2014high-contrast lighting, deep shadows, and a pervasive sense of moral ambiguity. Our platform equips you with the exact tools needed to replicate this iconic aesthetic without requiring years of illustration experience. \n\nOur extensive asset library includes classic noir archetypes: hardboiled detectives, enigmatic femme fatales, shadowy informants, and corrupt officials. You can place these characters in atmospheric backgrounds like rain-slicked city streets, smoky detective offices, and dimly lit alleyways. The editor makes it easy to manipulate shadows and light, allowing you to create the dramatic silhouettes and intense mood that are hallmarks of the genre. Whether you\u2019re writing a classic whodunit or a modern neo-noir thriller, our intuitive interface lets you focus on building tension and suspense. Start using our noir comic maker today and plunge your readers into a world of intrigue and mystery!\n\n## Why Use Our Noir Comic Maker?\nUsing a specialized tool allows you to focus on the narrative and character development without getting bogged down in technical drawing details. Our platform is designed to be intuitive for beginners while offering the depth that seasoned storytellers appreciate. With a wide range of assets and flexible layout options, you can create professional-looking comics in minutes. Join our community of thousands of creators and start bringing your unique stories to life today.",
+    "intro": "Create Gritty Noir Comics Online. Step into the shadows and craft your own gripping detective stories, crime thrillers, and mysterious narratives with our specialized noir comic maker. The noir genre is defined by its striking visual style—high-contrast lighting, deep shadows, and a pervasive sense of moral ambiguity. Our platform equips you with the exact tools needed to replicate this iconic aesthetic without requiring years of illustration experience. \n\nOur extensive asset library includes classic noir archetypes: hardboiled detectives, enigmatic femme fatales, shadowy informants, and corrupt officials. You can place these characters in atmospheric backgrounds like rain-slicked city streets, smoky detective offices, and dimly lit alleyways. The editor makes it easy to manipulate shadows and light, allowing you to create the dramatic silhouettes and intense mood that are hallmarks of the genre. Whether you’re writing a classic whodunit or a modern neo-noir thriller, our intuitive interface lets you focus on building tension and suspense. Start using our noir comic maker today and plunge your readers into a world of intrigue and mystery!\n\n## Why Use Our Noir Comic Maker?\nUsing a specialized tool allows you to focus on the narrative and character development without getting bogged down in technical drawing details. Our platform is designed to be intuitive for beginners while offering the depth that seasoned storytellers appreciate. With a wide range of assets and flexible layout options, you can create professional-looking comics in minutes. Join our community of thousands of creators and start bringing your unique stories to life today.",
     "faqs": [
       {
         "question": "What makes a comic noir?",
@@ -456,7 +532,7 @@
     "primaryKeyword": "romance comic creator",
     "h1": "Build Beautiful Romance Comics",
     "description": "Tell sweeping love stories and slice-of-life dramas with our dedicated romance comic creator.",
-    "intro": "Build Beautiful Romance Comics. Capture the magic of falling in love, the drama of heartbreak, and the warmth of everyday relationships with our romance comic creator. Romance is one of the most popular and emotionally resonant genres in comic storytelling, and our platform is designed to help you convey those subtle feelings beautifully. Whether you\u2019re creating a sweeping historical romance, a modern high school love triangle, or a cozy slice-of-life diary, we have the tools you need.\n\nOur asset library features a wide array of expressive characters capable of showing nuanced emotions\u2014from a shy blush to a tearful confession. You\u2019ll find romantic backgrounds like sunset-lit parks, cozy cafes, and starlit balconies. We also provide genre-specific effects like floating hearts, sparkling backgrounds (screentones), and emotive speech bubbles to perfectly match the tone of your scene. The intuitive drag-and-drop editor allows you to easily control pacing, ensuring those quiet, tender moments have the space they need to impact the reader. Start sharing your love stories with the world using our romance comic creator today!\n\n## Why Use Our Romance Comic Creator?\nUsing a specialized tool allows you to focus on the narrative and character development without getting bogged down in technical drawing details. Our platform is designed to be intuitive for beginners while offering the depth that seasoned storytellers appreciate. With a wide range of assets and flexible layout options, you can create professional-looking comics in minutes. Join our community of thousands of creators and start bringing your unique stories to life today.",
+    "intro": "Build Beautiful Romance Comics. Capture the magic of falling in love, the drama of heartbreak, and the warmth of everyday relationships with our romance comic creator. Romance is one of the most popular and emotionally resonant genres in comic storytelling, and our platform is designed to help you convey those subtle feelings beautifully. Whether you’re creating a sweeping historical romance, a modern high school love triangle, or a cozy slice-of-life diary, we have the tools you need.\n\nOur asset library features a wide array of expressive characters capable of showing nuanced emotions—from a shy blush to a tearful confession. You’ll find romantic backgrounds like sunset-lit parks, cozy cafes, and starlit balconies. We also provide genre-specific effects like floating hearts, sparkling backgrounds (screentones), and emotive speech bubbles to perfectly match the tone of your scene. The intuitive drag-and-drop editor allows you to easily control pacing, ensuring those quiet, tender moments have the space they need to impact the reader. Start sharing your love stories with the world using our romance comic creator today!\n\n## Why Use Our Romance Comic Creator?\nUsing a specialized tool allows you to focus on the narrative and character development without getting bogged down in technical drawing details. Our platform is designed to be intuitive for beginners while offering the depth that seasoned storytellers appreciate. With a wide range of assets and flexible layout options, you can create professional-looking comics in minutes. Join our community of thousands of creators and start bringing your unique stories to life today.",
     "faqs": [
       {
         "question": "How do I show emotion without dialogue?",
@@ -494,7 +570,7 @@
     "primaryKeyword": "sci-fi comic builder",
     "h1": "Build Futuristic Sci-Fi Comics",
     "description": "Explore the galaxy, design futuristic cities, and tell speculative stories with our sci-fi comic builder.",
-    "intro": "Build Futuristic Sci-Fi Comics. Blast off into the unknown and construct your own futuristic universes with our dedicated sci-fi comic builder. Science fiction is a genre bounded only by imagination, and our platform gives you the tools to visualize advanced technology, alien worlds, and speculative futures without needing a degree in digital illustration. Whether you\u2019re charting a grand space opera, a gritty cyberpunk dystopia, or a thought-provoking post-apocalyptic survival tale, we have the assets you need.\n\nOur expansive library features futuristic characters like cyborgs, astronauts, aliens, and mecha-pilots. You can place them against stunning backdrops of neon-lit cities, interstellar spacecraft interiors, and strange alien landscapes. We also provide high-tech props, energy weapons, and holographic interface effects to bring your world to life. The editor allows you to easily create dynamic action sequences or expansive establishing shots that convey the immense scale of your sci-fi setting. Start using our sci-fi comic builder today and launch your readers into a new dimension of storytelling!\n\n## Why Use Our Sci-Fi Comic Builder?\nUsing a specialized tool allows you to focus on the narrative and character development without getting bogged down in technical drawing details. Our platform is designed to be intuitive for beginners while offering the depth that seasoned storytellers appreciate. With a wide range of assets and flexible layout options, you can create professional-looking comics in minutes. Join our community of thousands of creators and start bringing your unique stories to life today.",
+    "intro": "Build Futuristic Sci-Fi Comics. Blast off into the unknown and construct your own futuristic universes with our dedicated sci-fi comic builder. Science fiction is a genre bounded only by imagination, and our platform gives you the tools to visualize advanced technology, alien worlds, and speculative futures without needing a degree in digital illustration. Whether you’re charting a grand space opera, a gritty cyberpunk dystopia, or a thought-provoking post-apocalyptic survival tale, we have the assets you need.\n\nOur expansive library features futuristic characters like cyborgs, astronauts, aliens, and mecha-pilots. You can place them against stunning backdrops of neon-lit cities, interstellar spacecraft interiors, and strange alien landscapes. We also provide high-tech props, energy weapons, and holographic interface effects to bring your world to life. The editor allows you to easily create dynamic action sequences or expansive establishing shots that convey the immense scale of your sci-fi setting. Start using our sci-fi comic builder today and launch your readers into a new dimension of storytelling!\n\n## Why Use Our Sci-Fi Comic Builder?\nUsing a specialized tool allows you to focus on the narrative and character development without getting bogged down in technical drawing details. Our platform is designed to be intuitive for beginners while offering the depth that seasoned storytellers appreciate. With a wide range of assets and flexible layout options, you can create professional-looking comics in minutes. Join our community of thousands of creators and start bringing your unique stories to life today.",
     "faqs": [
       {
         "question": "Does the library include alien characters?",

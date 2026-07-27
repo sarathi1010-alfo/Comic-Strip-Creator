@@ -6,6 +6,17 @@ const assert = require('assert');
   const page = await browser.newPage();
 
   const urlsToTest = [
+
+    'http://localhost:3000/blog/comic-anatomy-proportions-guide',
+    'http://localhost:3000/genres/post-cyberpunk-comic-maker',
+    'http://localhost:3000/genres/magic-realism-comic-creator',
+    'http://localhost:3000/genres/superhero-origin-comic-maker',
+    'http://localhost:3000/genres/detective-noir-comic-generator',
+    'http://localhost:3000/layouts/comic-book-spread-layout',
+    'http://localhost:3000/layouts/diamond-panel-comic-layout',
+    'http://localhost:3000/layouts/honeycomb-panel-comic-layout',
+    'http://localhost:3000/styles/gritty-comic-style',
+
     'http://localhost:3000/blog/comic-composition-perspective-guide',
     'http://localhost:3000/genres/mecha-comic-maker',
     'http://localhost:3000/genres/sports-comic-creator',
