@@ -1,5 +1,68 @@
 [
   {
+    "slug": "comic-book-spread-layout",
+    "title": "Comic Book Spread Layout",
+    "description": "Design massive, two-page spreads for your most impactful comic moments.",
+    "h1": "Comic Book Spread Layout - Maximum Visual Impact",
+    "intro": "## How to use a 2-page spread layout?\n\n> **AI Snapshot**: A comic book spread connects two pages into a single continuous image, maximizing visual impact for epic establishing shots, massive battles, or significant narrative reveals.\n\nThe 2-Page Spread is the ultimate layout for creating a sense of scale and awe. By removing the boundary between the left and right pages, you effectively double your canvas size. This layout is typically reserved for the most important moments in a comic—the arrival of a giant monster, a sprawling alien landscape, or the climax of a massive battle. When designing a spread, be mindful of the 'gutter' (the center fold of the book) and avoid placing crucial information, like text or detailed character faces, directly in the middle.",
+    "faqs": [
+      {
+        "question": "When should I use a 2-page spread?",
+        "answer": "Use it sparingly for moments that require maximum visual impact and scale, such as major reveals or large-scale environments."
+      },
+      {
+        "question": "What is the danger of the center fold?",
+        "answer": "In printed comics, the center where the pages are bound (the gutter) can obscure artwork. It's best to keep important details away from the direct center."
+      }
+    ],
+    "updatedAt": "2026-07-27",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "diamond-panel-comic-layout",
+    "title": "Diamond Panel Comic Layout",
+    "description": "Use diamond-shaped panels to create a sense of unease, instability, or dynamic action.",
+    "h1": "Diamond Panel Comic Layout - Dynamic and Unstable",
+    "intro": "## How to use a diamond panel layout?\n\n> **AI Snapshot**: Diamond panels create a striking, unstable visual dynamic. They are excellent for portraying disorientation, magical effects, or high-speed, chaotic action sequences.\n\nDiamond panels are a sharp departure from standard horizontal and vertical grids. Because they balance on a single point, they inherently feel unstable and dynamic. This makes them perfect for action sequences where characters are thrown off balance, or for scenes involving magic, explosions, or psychological disorientation. They can be tricky to compose within, as the corners create dead space, but when used effectively, they instantly inject energy into a page layout.",
+    "faqs": [
+      {
+        "question": "What mood do diamond panels convey?",
+        "answer": "They convey instability, high energy, chaos, and sometimes an otherworldly or magical feeling."
+      },
+      {
+        "question": "How do I arrange text in a diamond panel?",
+        "answer": "Keep text centered and avoid placing it too far into the narrow top or bottom corners where it might feel cramped."
+      }
+    ],
+    "updatedAt": "2026-07-27",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "honeycomb-panel-comic-layout",
+    "title": "Honeycomb Panel Comic Layout",
+    "description": "Create complex, interconnected stories using a hexagonal honeycomb panel layout.",
+    "h1": "Honeycomb Panel Comic Layout - Interconnected Storytelling",
+    "intro": "## How to use a honeycomb panel layout?\n\n> **AI Snapshot**: Honeycomb (hexagonal) panels allow for multi-directional reading paths and are perfect for showing interconnected events, hive-minds, or complex, simultaneous actions.\n\nThe Honeycomb layout uses tessellating hexagons to create a complex web of panels. This is an advanced layout that challenges the traditional left-to-right reading order, often allowing the reader's eye to branch out in multiple directions. It is conceptually brilliant for stories involving hive-mind alien species, complex conspiracies, or showing multiple characters experiencing simultaneous events in different locations. It requires careful planning to ensure the reader doesn't get lost, but the visual result is stunning.",
+    "faqs": [
+      {
+        "question": "What is the main challenge of a honeycomb layout?",
+        "answer": "The biggest challenge is guiding the reader's eye. Because panels connect on six sides, the intended reading order must be very clearly established through visual cues."
+      },
+      {
+        "question": "When is the best time to use this layout?",
+        "answer": "It is best used for showcasing simultaneous events, complex interconnected themes, or sci-fi/alien environments."
+      }
+    ],
+    "updatedAt": "2026-07-27",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
     "slug": "circle-panel-comic",
     "title": "Circle Panel Comic Layout",
     "description": "Experiment with circular panels to create a unique and flowing comic narrative.",
@@ -48,7 +111,7 @@
     "title": "Layered Panel Comic Layout",
     "description": "Create depth and complex narratives by overlapping and layering your comic panels.",
     "h1": "Layered Panel Comic Layout - Depth and Complexity",
-    "intro": "## How to use a layered panel layout?\n\n> **AI Snapshot**: Layered panels, where one panel overlaps another, create a 3D effect on the page and can indicate simultaneous actions or a character breaking the fourth wall.\n\nThe Layered Panel Comic Layout is a sophisticated technique that breaks the traditional 2D grid by placing panels on top of one another. This approach creates a literal sense of depth and can be used to show multiple perspectives of the same event simultaneously. It is also highly effective for emphasizing a sudden, intrusive thought or action\u2014like a loud sound effect or a character jumping 'out' of the scene. By carefully arranging your panels and utilizing elements from the [Assets Library](/assets), you can create complex, visually engaging pages that challenge the standard reading format and immerse the audience.",
+    "intro": "## How to use a layered panel layout?\n\n> **AI Snapshot**: Layered panels, where one panel overlaps another, create a 3D effect on the page and can indicate simultaneous actions or a character breaking the fourth wall.\n\nThe Layered Panel Comic Layout is a sophisticated technique that breaks the traditional 2D grid by placing panels on top of one another. This approach creates a literal sense of depth and can be used to show multiple perspectives of the same event simultaneously. It is also highly effective for emphasizing a sudden, intrusive thought or action—like a loud sound effect or a character jumping 'out' of the scene. By carefully arranging your panels and utilizing elements from the [Assets Library](/assets), you can create complex, visually engaging pages that challenge the standard reading format and immerse the audience.",
     "faqs": [
       {
         "question": "What is a layered panel layout?",
@@ -109,7 +172,7 @@
     "primaryKeyword": "7-panel irregular comic layout",
     "h1": "Dynamic Storytelling with the 7-Panel Irregular Comic Layout",
     "description": "Break the mold with a 7-panel irregular comic layout. Learn how to use varying panel sizes to guide the reader's eye and emphasize key moments.",
-    "intro": "Break the mold with a 7-panel irregular comic layout. Unlike strict grids, irregular layouts use panels of varying sizes and shapes to dictate the flow and energy of the page. A 7-panel layout provides enough space for a complete narrative sequence\u2014an establishing shot, a build-up of action or dialogue, a climax, and a resolution\u2014while keeping the visual presentation dynamic and unpredictable.\n\n## Why Use a 7-Panel Irregular Layout?\nIrregular layouts are all about controlling the reader's focus. A massive panel will naturally draw the eye and slow the reader down, implying importance or a significant passage of time. Conversely, small, tight panels speed up the reading pace, creating a sense of urgency. By mastering the 7-panel irregular layout, you can guide the reader's emotional journey through the page entirely through the architecture of your panels.",
+    "intro": "Break the mold with a 7-panel irregular comic layout. Unlike strict grids, irregular layouts use panels of varying sizes and shapes to dictate the flow and energy of the page. A 7-panel layout provides enough space for a complete narrative sequence—an establishing shot, a build-up of action or dialogue, a climax, and a resolution—while keeping the visual presentation dynamic and unpredictable.\n\n## Why Use a 7-Panel Irregular Layout?\nIrregular layouts are all about controlling the reader's focus. A massive panel will naturally draw the eye and slow the reader down, implying importance or a significant passage of time. Conversely, small, tight panels speed up the reading pace, creating a sense of urgency. By mastering the 7-panel irregular layout, you can guide the reader's emotional journey through the page entirely through the architecture of your panels.",
     "faqs": [
       {
         "question": "How do I decide which panels should be larger?",
@@ -215,7 +278,7 @@
     "primaryKeyword": "16 panel grid comic",
     "h1": "Master the 16-Panel Grid",
     "description": "Create dense, highly structured narratives with the complex 16-panel grid layout.",
-    "intro": "Master the 16-Panel Grid. Famous for its use in highly detailed sequential art, the 16-panel grid (a 4x4 layout) provides a strict, rhythmic structure to your storytelling. It allows for incredibly dense information delivery and meticulous control over pacing.\n\n## Why Use the 16-Panel Grid?\nThe uniform, small size of the panels creates a rapid reading pace. It\u2019s perfect for detailed actions, claustrophobic settings, or a fast build-up of tension.",
+    "intro": "Master the 16-Panel Grid. Famous for its use in highly detailed sequential art, the 16-panel grid (a 4x4 layout) provides a strict, rhythmic structure to your storytelling. It allows for incredibly dense information delivery and meticulous control over pacing.\n\n## Why Use the 16-Panel Grid?\nThe uniform, small size of the panels creates a rapid reading pace. It’s perfect for detailed actions, claustrophobic settings, or a fast build-up of tension.",
     "faqs": [
       {
         "question": "Is a 16-panel grid hard to use?",
@@ -275,7 +338,7 @@
     "primaryKeyword": "5 panel comic layout",
     "h1": "Design with a 5-Panel Comic Layout",
     "description": "Expand your storytelling with the versatile 5-panel layout. Perfect for longer jokes and deeper narratives.",
-    "intro": "Design with a 5-Panel Comic Layout. When three or four panels just aren't enough to deliver your story's pacing, the 5-panel layout offers extra breathing room. It\u2019s excellent for adding an extra beat to a joke, a reaction shot, or extending a dramatic pause.\n\n## Why Use a 5-Panel Layout?\nIt gives you the flexibility to play with pacing. You can have a rapid sequence of small actions leading up to a larger payoff in the final panel.",
+    "intro": "Design with a 5-Panel Comic Layout. When three or four panels just aren't enough to deliver your story's pacing, the 5-panel layout offers extra breathing room. It’s excellent for adding an extra beat to a joke, a reaction shot, or extending a dramatic pause.\n\n## Why Use a 5-Panel Layout?\nIt gives you the flexibility to play with pacing. You can have a rapid sequence of small actions leading up to a larger payoff in the final panel.",
     "faqs": [
       {
         "question": "When should I use 5 panels instead of 4?",
@@ -290,7 +353,7 @@
     "primaryKeyword": "9 panel grid comic",
     "h1": "Master the 9-Panel Grid Comic Layout",
     "description": "Create dense, highly structured stories using the classic 9-panel grid layout famous in comic books.",
-    "intro": "Master the 9-Panel Grid. Famous for its use in seminal works like Watchmen, the 9-panel grid (a 3x3 layout) provides a strict, rhythmic structure to your storytelling. It allows for dense information delivery and incredible control over pacing.\n\n## Why Use the 9-Panel Grid?\nThe uniform size of the panels creates a metronome-like reading pace. It\u2019s perfect for detailed conversations, montages, or a slow build-up of tension.",
+    "intro": "Master the 9-Panel Grid. Famous for its use in seminal works like Watchmen, the 9-panel grid (a 3x3 layout) provides a strict, rhythmic structure to your storytelling. It allows for dense information delivery and incredible control over pacing.\n\n## Why Use the 9-Panel Grid?\nThe uniform size of the panels creates a metronome-like reading pace. It’s perfect for detailed conversations, montages, or a slow build-up of tension.",
     "faqs": [
       {
         "question": "Is the 9-panel grid hard to use?",
