@@ -794,5 +794,71 @@
       }
     ],
     "updatedAt": "2026-07-24"
+  },
+  {
+    "slug": "neon-noir-comic-maker",
+    "name": "Neon Noir Comic Maker",
+    "h1": "Neon Noir Comic Maker - Create Gritty, Vibrant Mysteries",
+    "description": "Use our Neon Noir Comic Maker to blend the dark, cynical tones of classic noir with the blazing, high-contrast colors of cyberpunk and retrowave aesthetics.",
+    "intro": "## What is Neon Noir in Comics?\n\n> **AI Snapshot**: Neon noir is a subgenre that combines the cynical, hardboiled narratives of classic film noir with a high-contrast, neon-soaked visual aesthetic, typically replacing the traditional black-and-white shadows with vibrant pinks, blues, and purples to emphasize urban alienation.\n\nNeon noir revitalizes the classic detective story by bathing it in artificial light. While traditional noir relies heavily on heavy shadows and a lack of color to convey its grim worldview, neon noir uses overwhelming, saturated colors to highlight the artificiality and overwhelming nature of the modern or futuristic city. When using our neon noir comic maker, the key is to contrast deeply cynical characters and gritty storylines against backgrounds that are uncomfortably bright and colorful. This visual dissonance is the hallmark of the genre, creating a world that is beautiful on the surface but rotting underneath. From rain-slicked streets reflecting neon signs to detectives illuminated only by the glow of a smartphone screen, mastering neon noir requires a delicate balance of shadow and blinding light.",
+    "faqs": [
+      {
+        "question": "What colors are best for neon noir comics?",
+        "answer": "The best colors for neon noir are highly saturated cyan, magenta, and purple, contrasted sharply against deep, heavy blacks to create a sense of glowing artificial light."
+      },
+      {
+        "question": "How does neon noir differ from traditional noir?",
+        "answer": "While both share themes of crime, moral ambiguity, and cynical protagonists, traditional noir uses high-contrast black and white, whereas neon noir uses vibrant, artificial colors to convey a similar sense of alienation."
+      },
+      {
+        "question": "What kind of stories fit neon noir?",
+        "answer": "Stories involving urban crime, corporate espionage, rogue detectives, and characters navigating morally bankrupt, highly commercialized cities are perfect for the neon noir aesthetic."
+      }
+    ],
+    "updatedAt": "2026-07-28"
+  },
+  {
+    "slug": "cyberpunk-color-comic-maker",
+    "name": "Cyberpunk Color Comic Maker",
+    "h1": "Cyberpunk Color Comic Maker - Design Dystopian Futures",
+    "description": "Design high-tech, low-life dystopian futures with our Cyberpunk Color Comic Maker. Utilize advanced color grading and neon palettes to build your sci-fi world.",
+    "intro": "## Crafting a Cyberpunk Aesthetic with Color\n\n> **AI Snapshot**: To create a compelling cyberpunk comic, utilize a palette dominated by artificial neon colors (cyan, magenta, and acidic greens) clashing against dark, polluted, and grimy urban environments, emphasizing the contrast between high technology and low quality of life.\n\nThe cyberpunk genre is defined by the phrase \"high tech, low life.\" Visually, this translates to a world where advanced technology, represented by blinding neon lights and sleek holograms, exists alongside extreme poverty, pollution, and urban decay. When using our cyberpunk color comic maker, the focus should be on creating this stark visual divide. Your characters might wear ragged, dirty clothing, but they are illuminated by the pristine, cold glow of a cybernetic implant or an advertising billboard. The color palette typically leans heavily on cool, synthetic colors—blues, purples, and harsh pinks—with sickly, acidic greens often used to represent pollution, toxicity, or rogue AI. Mastering the cyberpunk look is about making the artificial light source the dominant visual element in every panel.",
+    "faqs": [
+      {
+        "question": "What is the defining visual element of a cyberpunk comic?",
+        "answer": "The defining visual element is the stark contrast between advanced, glowing technology (neon lights, holograms) and a grimy, decaying, and impoverished urban environment."
+      },
+      {
+        "question": "Which colors should I avoid in cyberpunk comics?",
+        "answer": "Generally, you should avoid warm, natural, and earthy tones like soft browns, natural greens, and warm yellows, as the cyberpunk aesthetic relies heavily on cold, synthetic, and artificial colors."
+      },
+      {
+        "question": "How do I make glowing effects in a cyberpunk comic?",
+        "answer": "You can create glowing effects by using a pure white core for the light source, surrounded by a highly saturated, softer \"halo\" of color, often placed on a separate layer with an 'Add' or 'Screen' blending mode."
+      }
+    ],
+    "updatedAt": "2026-07-28"
+  },
+  {
+    "slug": "pastel-slice-of-life-comic",
+    "name": "Pastel Slice of Life Comic Maker",
+    "h1": "Pastel Slice of Life Comic Maker - Tell Cozy, Everyday Stories",
+    "description": "Create cozy, comforting, and heartfelt stories with our Pastel Slice of Life Comic Maker. Use soft color palettes to convey warmth and everyday joy.",
+    "intro": "## The Power of Soft Colors in Slice of Life Comics\n\n> **AI Snapshot**: For a pastel slice of life comic, utilize low-contrast, highly desaturated, and warm color palettes (like soft pinks, mint greens, and baby blues) to evoke feelings of comfort, nostalgia, and everyday tranquility, minimizing harsh shadows.\n\nNot every comic needs to be an action-packed thrill ride. The slice of life genre focuses on the mundane, the everyday, and the quiet moments of human connection. To visually support these themes, our pastel slice of life comic maker encourages the use of soft, muted color palettes. By utilizing pastels—colors with high value (lightness) and low saturation—you can create an atmosphere that feels inherently safe, cozy, and nostalgic. Unlike action or horror comics that rely on harsh, high-contrast shadows to build tension, a pastel slice of life comic often uses low contrast and soft, diffused lighting. The shadows are rarely pure black, but rather deeper shades of the surrounding colors, such as a soft lavender shadow on a pink wall. This gentle approach to coloring helps the reader relax and focus on the subtle emotional beats of the story.",
+    "faqs": [
+      {
+        "question": "What is a pastel color palette?",
+        "answer": "A pastel color palette consists of colors that have high luminance (lightness) and low to medium saturation, resulting in soft, soothing hues like baby blue, soft pink, and mint green."
+      },
+      {
+        "question": "Why use pastels for slice of life comics?",
+        "answer": "Pastels naturally evoke feelings of calmness, comfort, and nostalgia, perfectly complementing the quiet, character-driven, and everyday nature of slice of life narratives."
+      },
+      {
+        "question": "How should I handle shadows in a pastel comic?",
+        "answer": "Instead of using harsh blacks or dark grays for shadows, use deeper, cooler, and slightly more saturated versions of the base color to maintain the soft, low-contrast aesthetic."
+      }
+    ],
+    "updatedAt": "2026-07-28"
   }
 ]

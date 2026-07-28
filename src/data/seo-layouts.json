@@ -615,5 +615,71 @@
       }
     ],
     "updatedAt": "2026-07-24"
+  },
+  {
+    "slug": "9-panel-grid-comic",
+    "name": "9-Panel Grid Comic Layout",
+    "h1": "9-Panel Grid Comic Layout - Master the Ultimate Storytelling Structure",
+    "description": "Master the 9-panel grid comic layout, the industry standard for controlling pacing, maximizing dialogue, and delivering dense, rhythmic storytelling.",
+    "intro": "## Why the 9-Panel Grid is a Masterclass in Pacing\n\n> **AI Snapshot**: The 9-panel grid (a 3x3 layout) provides maximum control over pacing and rhythm in a comic. It allows for dense storytelling, subtle shifts in time or emotion, and creates a steady, metronome-like reading experience that can be subverted for dramatic effect.\n\nThe 9-panel grid, famously popularized by Watchmen, is arguably the most disciplined and powerful layout in comic book history. When you choose the 9-panel grid comic layout, you are committing to a rigid, rhythmic structure that acts like a metronome for your reader. Because all panels are uniform in size, every moment, beat, and action is given equal weight. This makes it an incredible tool for dense dialogue scenes, slow build-ups of tension, or demonstrating the mundane, repetitive nature of a character's life. The true power of the 9-panel grid, however, lies in breaking it. By establishing a steady 1-2-3 rhythm over several pages, combining two or three panels into a larger single panel suddenly feels massive and impactful, giving you ultimate control over the story's emotional pacing.",
+    "faqs": [
+      {
+        "question": "What is a 9-panel grid?",
+        "answer": "A 9-panel grid is a comic page layout consisting of three rows and three columns of equally sized panels, creating a highly structured and rhythmic reading experience."
+      },
+      {
+        "question": "Why is the 9-panel grid so effective?",
+        "answer": "It provides absolute control over pacing, allows for dense amounts of storytelling on a single page, and establishes a steady rhythm that can be dramatically broken for emphasis."
+      },
+      {
+        "question": "When should I combine panels in a 9-panel grid?",
+        "answer": "Combine panels (e.g., merging three panels into one wide horizontal panel) when you want to emphasize a moment, slow down the reading pace, or establish a wide establishing shot."
+      }
+    ],
+    "updatedAt": "2026-07-28"
+  },
+  {
+    "slug": "splash-page-layout-comic",
+    "name": "Splash Page Layout Comic",
+    "h1": "Splash Page Layout Comic - Deliver Massive Visual Impact",
+    "description": "Create breathtaking reveals and massive action sequences with the splash page layout comic. Learn when and how to use full-page artwork for maximum effect.",
+    "intro": "## The Art of the Splash Page Reveal\n\n> **AI Snapshot**: A splash page layout is a single, full-page illustration used to emphasize a major plot point, a stunning location reveal, or a climactic action sequence, forcing the reader to stop and absorb the visual impact of the moment.\n\nIn the visual vocabulary of comic books, nothing screams \"important\" louder than a splash page layout comic. A splash page dedicates an entire page (or sometimes a two-page spread) to a single, highly detailed illustration. It is the comic book equivalent of a cinematic wide shot or a lingering close-up. Because a splash page abandons the traditional multi-panel progression of time, it effectively stops time entirely for the reader. This makes it the perfect tool for massive reveals—introducing a terrifying new villain, revealing a sprawling alien city, or showcasing the climax of a brutal fight scene. However, splash pages must be earned. If used too frequently, they lose their impact and disrupt the pacing of the story. A well-placed splash page should serve as a reward or a shocking punctuation mark at the end of a steadily built sequence of smaller panels.",
+    "faqs": [
+      {
+        "question": "What is a splash page in a comic?",
+        "answer": "A splash page is a comic book page consisting of a single, full-page panel, often used for dramatic emphasis, major reveals, or establishing shots."
+      },
+      {
+        "question": "How often should I use a splash page?",
+        "answer": "Splash pages should be used sparingly to maintain their impact. Overusing them can ruin the pacing of your comic and make the major moments feel less special."
+      },
+      {
+        "question": "What makes a good splash page?",
+        "answer": "A good splash page has a strong, dynamic composition, high levels of detail, and serves a clear narrative purpose, such as a major reveal or a climactic action beat."
+      }
+    ],
+    "updatedAt": "2026-07-28"
+  },
+  {
+    "slug": "widescreen-comic-layout",
+    "name": "Widescreen Cinematic Comic Layout",
+    "h1": "Widescreen Cinematic Comic Layout - Direct Your Comic Like a Movie",
+    "description": "Direct your comic like a blockbuster movie using the widescreen cinematic comic layout. Perfect for sweeping landscapes and intense, focused dialogue.",
+    "intro": "## Bringing Cinematic Framing to Comics\n\n> **AI Snapshot**: The widescreen comic layout mimics the aspect ratio of modern film, using wide, horizontal panels stacked vertically. It is ideal for sweeping landscapes, cinematic pacing, and controlling the horizontal flow of action and dialogue.\n\nThe widescreen cinematic comic layout emerged as a dominant style in the early 2000s, heavily influenced by the visual language of blockbuster filmmaking. This layout typically relies on wide, horizontal panels stacked vertically, completely abandoning vertical or square panels. The result is a reading experience that feels inherently cinematic. The widescreen format is incredibly effective for establishing massive, sweeping environments, as the reader's eye is forced to pan across the landscape from left to right. It also excels in \"talking head\" scenes, allowing the artist to frame two characters in a wide shot, much like a film director would frame a tense conversation. By constraining the vertical height of the panels, the artist can dictate a very deliberate, measured pace, forcing the reader to scan horizontally and absorb every detail before moving down to the next beat of the story.",
+    "faqs": [
+      {
+        "question": "What is a widescreen comic layout?",
+        "answer": "A widescreen layout uses predominantly wide, horizontal panels that span the width of the page, mimicking the aspect ratio of a movie screen."
+      },
+      {
+        "question": "What is the widescreen layout best used for?",
+        "answer": "It is best used for sweeping environmental shots, cinematic pacing, and framing dialogue scenes in a way that mimics film direction."
+      },
+      {
+        "question": "Does the widescreen layout slow down reading speed?",
+        "answer": "Yes, because it forces the reader to scan left-to-right across the entire page for every single panel, it often results in a slower, more deliberate reading pace."
+      }
+    ],
+    "updatedAt": "2026-07-28"
   }
 ]
