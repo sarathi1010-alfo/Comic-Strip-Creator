@@ -4,6 +4,9 @@ const assert = require('assert');
   const browser = await chromium.launch({ headless: true });
   const page = await browser.newPage();
   const urlsToTest = [
+    'http://localhost:3000/use-cases',
+    'http://localhost:3000/techniques',
+    'http://localhost:3000/genres',
     'http://localhost:3000/genres/neon-noir-comic-maker',
     'http://localhost:3000/genres/cyberpunk-color-comic-maker',
     'http://localhost:3000/genres/pastel-slice-of-life-comic',
