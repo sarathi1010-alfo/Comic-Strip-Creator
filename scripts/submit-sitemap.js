@@ -14,7 +14,9 @@ const { google } = require('googleapis');
 require('dotenv').config();
 
 // Configuration
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://comic.alfo.online';
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://comicflow.alfo.online';
+const INDEXNOW_KEY = process.env.INDEXNOW_KEY || '11aa11a111a1111a1111111aa11a11a1';
+const fetch = require('node-fetch'); // Assuming node-fetch or native fetch in node 18+
 const CREDENTIALS_PATH = process.env.GOOGLE_APPLICATION_CREDENTIALS; // Path to your service account JSON
 
 const sitemapsToSubmit = [
@@ -53,6 +55,31 @@ async function submitSitemaps() {
         console.error(`❌ Failed to submit: ${feedpath}`);
         console.error(submitError.message);
       }
+    }
+
+
+    // Trigger IndexNow
+    try {
+      console.log('Triggering IndexNow API...');
+      const response = await fetch('https://api.indexnow.org/indexnow', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json; charset=utf-8'
+        },
+        body: JSON.stringify({
+          host: new URL(SITE_URL).hostname,
+          key: INDEXNOW_KEY,
+          keyLocation: `${SITE_URL}/${INDEXNOW_KEY}.txt`,
+          urlList: sitemapsToSubmit // or pass specific URLs
+        })
+      });
+      if (response.ok) {
+        console.log('✅ Successfully triggered IndexNow API');
+      } else {
+        console.error('❌ Failed to trigger IndexNow API:', response.status, await response.text());
+      }
+    } catch (e) {
+      console.error('❌ Failed to trigger IndexNow API:', e.message);
     }
 
     console.log('Sitemap submission process complete.');
