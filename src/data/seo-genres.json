@@ -1,5 +1,77 @@
 [
   {
+    "slug": "superhero-team-comic-maker",
+    "name": "Superhero Team Comic Maker",
+    "h1": "Superhero Team Comic Maker - Assemble Your Squad",
+    "description": "Create epic ensemble stories with our Superhero Team Comic Maker. Design team dynamics, group shots, and massive crossover events.",
+    "intro": "## Building Your Ultimate Superhero Team\n\n> **AI Snapshot**: To create a compelling superhero team comic, establish distinct visual identities and power sets for each member, use varied panel layouts to showcase individual strengths, and create epic group shots to emphasize unity against a common threat.\n\nThe superhero team comic is a staple of the genre, offering complex interpersonal dynamics and large-scale action that solo stories can't match. When using our superhero team comic maker, the challenge lies in balancing a large cast of characters. Each member needs a distinct visual design, clear power set, and a specific role within the group (e.g., the leader, the powerhouse, the tactician). Our editor provides the tools to manage these complex layouts, allowing you to seamlessly transition from intimate character interactions to massive, multi-page battle sequences. By carefully managing screen time and utilizing our extensive asset library, you can craft an ensemble story that feels both epic in scale and deeply personal.",
+    "faqs": [
+      {
+        "question": "How do I balance multiple characters in a single panel?",
+        "answer": "Use depth and perspective, placing key speakers in the foreground and supporting members in the background to avoid clutter."
+      },
+      {
+        "question": "What is the key to a good superhero team?",
+        "answer": "A good team has complementary powers and conflicting personalities, which naturally generates both narrative tension and dynamic action sequences."
+      }
+    ],
+    "updatedAt": "2026-07-28"
+  },
+  {
+    "slug": "villain-origin-comic-creator",
+    "name": "Villain Origin Comic Creator",
+    "h1": "Villain Origin Comic Creator - Tell the Dark Side of the Story",
+    "description": "Explore the tragic backstories of your antagonists with our Villain Origin Comic Creator. Design compelling motivations and dark character arcs.",
+    "intro": "## Crafting the Perfect Villain Origin Story\n\n> **AI Snapshot**: A strong villain origin comic focuses on the tragic flaws and external pressures that push a character to the dark side, using darker color palettes and jagged panel layouts to visually represent their descent into villainy.\n\nEvery great hero needs an equally compelling villain, and the best villains are those whose motivations we understand, even if we condemn their actions. Our villain origin comic creator allows you to delve into the psychology of your antagonists. This subgenre often requires a darker, more somber visual tone. You'll want to utilize heavy shadows, dramatic lighting, and color palettes that shift from warm to cool as the character's worldview becomes more cynical. The panel pacing should reflect their psychological state, perhaps becoming more chaotic or fractured as they lose control. By carefully mapping their tragic arc and using the visual tools provided in our editor, you can create antagonists that readers love to hate, or maybe even sympathize with.",
+    "faqs": [
+      {
+        "question": "What makes a villain origin story compelling?",
+        "answer": "The most compelling origin stories give the villain a relatable motivation or a tragic past, making their eventual turn to evil understandable, if not justifiable."
+      },
+      {
+        "question": "How should I visually represent a character's turn to evil?",
+        "answer": "Use visual metaphors like darkening color palettes, heavier inking, and more aggressive or angular panel layouts to mirror their internal changes."
+      }
+    ],
+    "updatedAt": "2026-07-28"
+  },
+  {
+    "slug": "cyberpunk-hacker-comic-generator",
+    "name": "Cyberpunk Hacker Comic Generator",
+    "h1": "Cyberpunk Hacker Comic Generator - Jack Into the Matrix",
+    "description": "Design thrilling cyber-espionage stories with our Cyberpunk Hacker Comic Generator. Visualize the digital realm and high-tech heists.",
+    "intro": "## Visualizing the Digital Frontier\n\n> **AI Snapshot**: To effectively create a cyberpunk hacker comic, contrast the gritty, realistic physical world with highly stylized, abstract, and neon-lit representations of the digital realm, using unique panel borders to differentiate between the two.\n\nThe cyberpunk hacker subgenre presents a unique visual challenge: how do you make someone typing at a computer look exciting? Our cyberpunk hacker comic generator provides the assets and tools needed to visualize the digital realm. The key is to create two distinct visual styles within your comic. The physical world should be dark, grimy, and realistic, while the 'cyberspace' or digital world should be vibrant, abstract, and geometrically complex. You can use different color palettes, panel borders, or even completely different rendering styles to distinguish between a character sitting in a dark room and their avatar navigating a neon-lit data fortress. This contrast is essential for conveying the duality of the cyberpunk experience.",
+    "faqs": [
+      {
+        "question": "How do I make hacking scenes visually interesting?",
+        "answer": "Instead of showing a character typing, visualize the digital space as a physical environment that their avatar must navigate, filled with glowing data streams and security countermeasures."
+      },
+      {
+        "question": "What color palettes work best for cyberspace?",
+        "answer": "Highly saturated, artificial colors like neon green, cyan, and magenta against pure black backgrounds work best to convey a digital environment."
+      }
+    ],
+    "updatedAt": "2026-07-28"
+  },
+  {
+    "slug": "high-fantasy-comic-builder",
+    "name": "High Fantasy Comic Builder",
+    "h1": "High Fantasy Comic Builder - Craft Epic Worlds",
+    "description": "Build sprawling magical kingdoms and epic quests with our High Fantasy Comic Builder. Design unique races, magic systems, and ancient landscapes.",
+    "intro": "## Building Expansive High Fantasy Worlds\n\n> **AI Snapshot**: High fantasy comics require immense attention to world-building, utilizing detailed establishing shots, unique character designs for different races, and vibrant color palettes to differentiate magical elements from mundane reality.\n\nHigh fantasy is a genre defined by its scale. It involves entirely fictional worlds, complex magic systems, and epic quests that span continents. Our high fantasy comic builder gives you the extensive asset library needed to bring these sprawling visions to life. When creating high fantasy, establishing shots are crucial; you need to frequently show the reader the grand scale of the world, from towering castles to ancient forests. Character design is equally important, requiring distinct visual cues to differentiate various races and classes. The magic system should also have a consistent visual logic, using specific colors and shapes for different types of spells. By meticulously planning these visual elements, you can create a deeply immersive world that readers will want to explore for dozens of issues.",
+    "faqs": [
+      {
+        "question": "What is the difference between high fantasy and low fantasy?",
+        "answer": "High fantasy is set in a completely fictional, secondary world with its own rules (like Lord of the Rings), while low fantasy is set in the real world with magical elements intruding (like Harry Potter)."
+      },
+      {
+        "question": "How do I visually organize a complex magic system?",
+        "answer": "Assign specific colors, aura shapes, and sound effect styles to different types of magic so the reader can instantly recognize them during action sequences."
+      }
+    ],
+    "updatedAt": "2026-07-28"
+  },
+  {
     "slug": "post-cyberpunk-comic-maker",
     "title": "Post-Cyberpunk Comic Maker",
     "primaryKeyword": "post-cyberpunk comic maker",

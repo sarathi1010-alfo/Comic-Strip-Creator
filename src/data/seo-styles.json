@@ -1,5 +1,27 @@
 [
   {
+    "slug": "retro-sci-fi-comic-style",
+    "name": "Retro Sci-Fi Comic Style",
+    "h1": "Retro Sci-Fi Comic Style - Return to the Golden Age of Tomorrow",
+    "description": "Create classic, pulp-inspired science fiction stories with our Retro Sci-Fi Comic Style maker, featuring sleek rockets, ray guns, and primary colors.",
+    "intro": "## Capturing the Optimism of Retro Futurism\n\n> **AI Snapshot**: The retro sci-fi comic style embraces the aesthetic of 1950s pulp magazines, characterized by sleek, silver spaceships, bubble helmets, bright primary colors, and a sense of optimistic, adventurous exploration.\n\nThe retro sci-fi comic style (often called Raygun Gothic or atompunk) is a nostalgic look back at how the mid-20th century envisioned the future. It is a world of sleek, finned rocket ships, domed cities on alien worlds, and heroes armed with glowing ray guns. When designing in this style, realism takes a back seat to bold, iconic shapes and vibrant colors. The color palette heavily favors bright reds, blues, and yellows, often avoiding the gritty, desaturated tones of modern sci-fi. The line work is typically clean and confident, with minimal rendering, allowing the bold colors to carry the visual weight. This style is perfect for stories that capture a sense of wonder, high adventure, and the limitless potential of space exploration, free from the cynical overtones of cyberpunk or dystopian fiction.",
+    "faqs": [
+      {
+        "question": "What defines the retro sci-fi aesthetic?",
+        "answer": "It is defined by smooth, aerodynamic shapes (fins, curves), classic sci-fi tropes (bubble helmets, ray guns), and a bright, optimistic color palette."
+      },
+      {
+        "question": "How does it differ from cyberpunk?",
+        "answer": "Retro sci-fi is generally optimistic, bright, and focused on space exploration, while cyberpunk is pessimistic, dark, and focused on terrestrial urban decay and rogue technology."
+      },
+      {
+        "question": "Should I use complex shading for this style?",
+        "answer": "No, this style usually benefits from clean, flat coloring or simple cel-shading to maintain its bold, graphic, and pulp-inspired look."
+      }
+    ],
+    "updatedAt": "2026-07-28"
+  },
+  {
     "slug": "gritty-comic-style",
     "title": "Gritty Comic Style Creator",
     "primaryKeyword": "gritty comic style",
