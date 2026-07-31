@@ -1,10 +1,67 @@
 [
   {
+    "slug": "dynamic-action-panel-layout",
+    "title": "Dynamic Action Panel Layout",
+    "primaryKeyword": "dynamic action panel layout",
+    "h1": "Use the Dynamic Action Panel Layout for Intense Comics",
+    "description": "Master the dynamic action panel layout. Use tilted borders, overlapping panels, and varied shapes to inject energy into your fight scenes.",
+    "intro": "When your characters leap into battle, a standard, rigid grid won't cut it. The dynamic action panel layout is designed to break the rules and inject pure kinetic energy into your comic pages. This layout is characterized by tilted panel borders (Dutch angles), overlapping panels, and jagged, irregular shapes. These techniques purposefully disorient the reader slightly, mimicking the chaotic, fast-paced nature of a fight scene. By breaking the conventional grid, you force the reader's eye to move erratically across the page, matching the speed of the action. Our editor makes it easy to manipulate panel borders, allowing you to create sharp angles that emphasize a punch or a fall. Using this layout effectively will make your action sequences feel frantic, impactful, and unforgettable. Learn how to master the chaos today!",
+    "faqs": [
+      {
+        "question": "When should I use a dynamic action layout?",
+        "answer": "Reserve this layout for high-intensity moments like fight scenes, car chases, or sudden, chaotic events where you want the reader to feel the speed and energy."
+      },
+      {
+        "question": "Does it make the comic harder to read?",
+        "answer": "It can if overused. It's important to still ensure the reading flow (left to right, top to bottom) is maintained, even if the panel borders are slanted or overlapping."
+      }
+    ],
+    "updatedAt": "2026-07-29"
+  },
+  {
+    "slug": "manga-action-lines-layout",
+    "title": "Manga Action Lines Layout",
+    "primaryKeyword": "manga action lines layout",
+    "h1": "Manga Action Lines Layout for Speed and Impact",
+    "description": "Enhance your comic's speed and focus with the manga action lines layout. Learn how to use radiating lines to draw the reader's eye.",
+    "intro": "A staple of Japanese comics, the manga action lines layout is a powerful technique for conveying intense speed, sudden realization, or explosive impact. Instead of relying solely on the character's pose, this layout uses dense, radiating lines (often called speed lines or focus lines) within the panel to direct the reader's eye forcefully toward a specific focal point. Whether it's a character charging forward, a shocking reveal, or a devastating blow connecting, these lines create a visual funnel that heightens the drama. Our platform provides easy-to-use action line overlays that can be dropped into any panel, instantly giving your art that authentic manga flair. By combining these lines with dramatic angles and dynamic poses, you can create scenes that feel incredibly fast and emotionally charged. Elevate your visual storytelling with the power of manga action lines.",
+    "faqs": [
+      {
+        "question": "What are action lines used for?",
+        "answer": "Action lines (or focus lines) are used to indicate rapid movement, emphasize a dramatic realization, or draw the reader's attention instantly to the focal point of the panel."
+      },
+      {
+        "question": "Can I use action lines in non-manga comics?",
+        "answer": "Absolutely! While they originated in manga, action lines are highly effective visual tools that can enhance the energy of any comic style."
+      }
+    ],
+    "updatedAt": "2026-07-29"
+  },
+  {
+    "slug": "character-focus-panel-layout",
+    "title": "Character Focus Panel Layout",
+    "primaryKeyword": "character focus panel layout",
+    "h1": "Character Focus Panel Layout for Emotional Storytelling",
+    "description": "Slow down the pacing and highlight emotion with the character focus panel layout. Perfect for dialogue, realizations, and dramatic beats.",
+    "intro": "Not every moment in a comic requires explosive action. The character focus panel layout is designed for the quiet, critical moments of your story where emotion and dialogue take center stage. This layout typically features fewer, larger panels on the page, allowing for detailed close-ups on character expressions and reactions. By stripping away complex backgrounds and utilizing negative space, you force the reader to focus entirely on what the character is feeling or saying. This layout is essential for dramatic reveals, emotional confessions, or tense standoffs. It slows down the reading pace, giving the emotional beats time to breathe and resonate with the audience. Our editor allows you to easily adjust panel sizes to prioritize your characters, ensuring that their subtle expressions and vital dialogue are never lost in the clutter. Master the art of the close-up today.",
+    "faqs": [
+      {
+        "question": "When is the best time to use a character focus layout?",
+        "answer": "Use this layout during important dialogue scenes, emotional reveals, or when you need to slow down the pacing of the story to let a dramatic moment sink in."
+      },
+      {
+        "question": "Should I use backgrounds in a character focus panel?",
+        "answer": "Keep backgrounds minimal or use abstract colors/screentones. The goal is to remove distractions so the reader focuses entirely on the character's expression."
+      }
+    ],
+    "updatedAt": "2026-07-29"
+  },
+  {
     "slug": "5x5-grid-comic-layout",
     "name": "25-Panel Grid Comic Layout",
     "h1": "25-Panel Grid Comic Layout - Master Micro-Pacing",
     "description": "Utilize the ultra-dense 25-panel (5x5) grid to master micro-pacing, subtle facial expressions, and dense, time-compressed storytelling.",
-    "intro": "## The Art of the Micro-Moment\n\n> **AI Snapshot**: The 25-panel grid (5x5) is an extremely dense layout used to slow down reading speed drastically, perfect for analyzing micro-expressions, detailing complex, sequential actions, or creating a claustrophobic atmosphere.\n\nThe 25-panel grid (a 5x5 layout) is an advanced and rarely used structure that offers unparalleled control over micro-pacing. Because each panel is very small, it forces the artist to focus on tiny details\u2014a shifting eye, a ticking clock, a bead of sweat. This layout drastically slows down the reader's pace, as they must process 25 distinct moments on a single page. It is incredibly effective for building intense, claustrophobic tension, dissecting a very fast action (like a magic trick or a martial arts move) into its component parts, or conveying the passage of a long, monotonous period of time. While challenging to draw and letter due to space constraints, mastering this grid can result in some of the most memorable and intense pages in your comic.",
+    "intro": "## The Art of the Micro-Moment\n\n> **AI Snapshot**: The 25-panel grid (5x5) is an extremely dense layout used to slow down reading speed drastically, perfect for analyzing micro-expressions, detailing complex, sequential actions, or creating a claustrophobic atmosphere.\n\nThe 25-panel grid (a 5x5 layout) is an advanced and rarely used structure that offers unparalleled control over micro-pacing. Because each panel is very small, it forces the artist to focus on tiny details—a shifting eye, a ticking clock, a bead of sweat. This layout drastically slows down the reader's pace, as they must process 25 distinct moments on a single page. It is incredibly effective for building intense, claustrophobic tension, dissecting a very fast action (like a magic trick or a martial arts move) into its component parts, or conveying the passage of a long, monotonous period of time. While challenging to draw and letter due to space constraints, mastering this grid can result in some of the most memorable and intense pages in your comic.",
     "faqs": [
       {
         "question": "When should I use a 25-panel grid?",
@@ -58,7 +115,7 @@
     "title": "Comic Book Spread Layout",
     "description": "Design massive, two-page spreads for your most impactful comic moments.",
     "h1": "Comic Book Spread Layout - Maximum Visual Impact",
-    "intro": "## How to use a 2-page spread layout?\n\n> **AI Snapshot**: A comic book spread connects two pages into a single continuous image, maximizing visual impact for epic establishing shots, massive battles, or significant narrative reveals.\n\nThe 2-Page Spread is the ultimate layout for creating a sense of scale and awe. By removing the boundary between the left and right pages, you effectively double your canvas size. This layout is typically reserved for the most important moments in a comic\u2014the arrival of a giant monster, a sprawling alien landscape, or the climax of a massive battle. When designing a spread, be mindful of the 'gutter' (the center fold of the book) and avoid placing crucial information, like text or detailed character faces, directly in the middle.",
+    "intro": "## How to use a 2-page spread layout?\n\n> **AI Snapshot**: A comic book spread connects two pages into a single continuous image, maximizing visual impact for epic establishing shots, massive battles, or significant narrative reveals.\n\nThe 2-Page Spread is the ultimate layout for creating a sense of scale and awe. By removing the boundary between the left and right pages, you effectively double your canvas size. This layout is typically reserved for the most important moments in a comic—the arrival of a giant monster, a sprawling alien landscape, or the climax of a massive battle. When designing a spread, be mindful of the 'gutter' (the center fold of the book) and avoid placing crucial information, like text or detailed character faces, directly in the middle.",
     "faqs": [
       {
         "question": "When should I use a 2-page spread?",
@@ -165,7 +222,7 @@
     "title": "Layered Panel Comic Layout",
     "description": "Create depth and complex narratives by overlapping and layering your comic panels.",
     "h1": "Layered Panel Comic Layout - Depth and Complexity",
-    "intro": "## How to use a layered panel layout?\n\n> **AI Snapshot**: Layered panels, where one panel overlaps another, create a 3D effect on the page and can indicate simultaneous actions or a character breaking the fourth wall.\n\nThe Layered Panel Comic Layout is a sophisticated technique that breaks the traditional 2D grid by placing panels on top of one another. This approach creates a literal sense of depth and can be used to show multiple perspectives of the same event simultaneously. It is also highly effective for emphasizing a sudden, intrusive thought or action\u2014like a loud sound effect or a character jumping 'out' of the scene. By carefully arranging your panels and utilizing elements from the [Assets Library](/assets), you can create complex, visually engaging pages that challenge the standard reading format and immerse the audience.",
+    "intro": "## How to use a layered panel layout?\n\n> **AI Snapshot**: Layered panels, where one panel overlaps another, create a 3D effect on the page and can indicate simultaneous actions or a character breaking the fourth wall.\n\nThe Layered Panel Comic Layout is a sophisticated technique that breaks the traditional 2D grid by placing panels on top of one another. This approach creates a literal sense of depth and can be used to show multiple perspectives of the same event simultaneously. It is also highly effective for emphasizing a sudden, intrusive thought or action—like a loud sound effect or a character jumping 'out' of the scene. By carefully arranging your panels and utilizing elements from the [Assets Library](/assets), you can create complex, visually engaging pages that challenge the standard reading format and immerse the audience.",
     "faqs": [
       {
         "question": "What is a layered panel layout?",
@@ -226,7 +283,7 @@
     "primaryKeyword": "7-panel irregular comic layout",
     "h1": "Dynamic Storytelling with the 7-Panel Irregular Comic Layout",
     "description": "Break the mold with a 7-panel irregular comic layout. Learn how to use varying panel sizes to guide the reader's eye and emphasize key moments.",
-    "intro": "Break the mold with a 7-panel irregular comic layout. Unlike strict grids, irregular layouts use panels of varying sizes and shapes to dictate the flow and energy of the page. A 7-panel layout provides enough space for a complete narrative sequence\u2014an establishing shot, a build-up of action or dialogue, a climax, and a resolution\u2014while keeping the visual presentation dynamic and unpredictable.\n\n## Why Use a 7-Panel Irregular Layout?\nIrregular layouts are all about controlling the reader's focus. A massive panel will naturally draw the eye and slow the reader down, implying importance or a significant passage of time. Conversely, small, tight panels speed up the reading pace, creating a sense of urgency. By mastering the 7-panel irregular layout, you can guide the reader's emotional journey through the page entirely through the architecture of your panels.",
+    "intro": "Break the mold with a 7-panel irregular comic layout. Unlike strict grids, irregular layouts use panels of varying sizes and shapes to dictate the flow and energy of the page. A 7-panel layout provides enough space for a complete narrative sequence—an establishing shot, a build-up of action or dialogue, a climax, and a resolution—while keeping the visual presentation dynamic and unpredictable.\n\n## Why Use a 7-Panel Irregular Layout?\nIrregular layouts are all about controlling the reader's focus. A massive panel will naturally draw the eye and slow the reader down, implying importance or a significant passage of time. Conversely, small, tight panels speed up the reading pace, creating a sense of urgency. By mastering the 7-panel irregular layout, you can guide the reader's emotional journey through the page entirely through the architecture of your panels.",
     "faqs": [
       {
         "question": "How do I decide which panels should be larger?",
@@ -332,7 +389,7 @@
     "primaryKeyword": "16 panel grid comic",
     "h1": "Master the 16-Panel Grid",
     "description": "Create dense, highly structured narratives with the complex 16-panel grid layout.",
-    "intro": "Master the 16-Panel Grid. Famous for its use in highly detailed sequential art, the 16-panel grid (a 4x4 layout) provides a strict, rhythmic structure to your storytelling. It allows for incredibly dense information delivery and meticulous control over pacing.\n\n## Why Use the 16-Panel Grid?\nThe uniform, small size of the panels creates a rapid reading pace. It\u2019s perfect for detailed actions, claustrophobic settings, or a fast build-up of tension.",
+    "intro": "Master the 16-Panel Grid. Famous for its use in highly detailed sequential art, the 16-panel grid (a 4x4 layout) provides a strict, rhythmic structure to your storytelling. It allows for incredibly dense information delivery and meticulous control over pacing.\n\n## Why Use the 16-Panel Grid?\nThe uniform, small size of the panels creates a rapid reading pace. It’s perfect for detailed actions, claustrophobic settings, or a fast build-up of tension.",
     "faqs": [
       {
         "question": "Is a 16-panel grid hard to use?",
@@ -392,7 +449,7 @@
     "primaryKeyword": "5 panel comic layout",
     "h1": "Design with a 5-Panel Comic Layout",
     "description": "Expand your storytelling with the versatile 5-panel layout. Perfect for longer jokes and deeper narratives.",
-    "intro": "Design with a 5-Panel Comic Layout. When three or four panels just aren't enough to deliver your story's pacing, the 5-panel layout offers extra breathing room. It\u2019s excellent for adding an extra beat to a joke, a reaction shot, or extending a dramatic pause.\n\n## Why Use a 5-Panel Layout?\nIt gives you the flexibility to play with pacing. You can have a rapid sequence of small actions leading up to a larger payoff in the final panel.",
+    "intro": "Design with a 5-Panel Comic Layout. When three or four panels just aren't enough to deliver your story's pacing, the 5-panel layout offers extra breathing room. It’s excellent for adding an extra beat to a joke, a reaction shot, or extending a dramatic pause.\n\n## Why Use a 5-Panel Layout?\nIt gives you the flexibility to play with pacing. You can have a rapid sequence of small actions leading up to a larger payoff in the final panel.",
     "faqs": [
       {
         "question": "When should I use 5 panels instead of 4?",
@@ -407,7 +464,7 @@
     "primaryKeyword": "9 panel grid comic",
     "h1": "Master the 9-Panel Grid Comic Layout",
     "description": "Create dense, highly structured stories using the classic 9-panel grid layout famous in comic books.",
-    "intro": "Master the 9-Panel Grid. Famous for its use in seminal works like Watchmen, the 9-panel grid (a 3x3 layout) provides a strict, rhythmic structure to your storytelling. It allows for dense information delivery and incredible control over pacing.\n\n## Why Use the 9-Panel Grid?\nThe uniform size of the panels creates a metronome-like reading pace. It\u2019s perfect for detailed conversations, montages, or a slow build-up of tension.",
+    "intro": "Master the 9-Panel Grid. Famous for its use in seminal works like Watchmen, the 9-panel grid (a 3x3 layout) provides a strict, rhythmic structure to your storytelling. It allows for dense information delivery and incredible control over pacing.\n\n## Why Use the 9-Panel Grid?\nThe uniform size of the panels creates a metronome-like reading pace. It’s perfect for detailed conversations, montages, or a slow build-up of tension.",
     "faqs": [
       {
         "question": "Is the 9-panel grid hard to use?",
@@ -697,7 +754,7 @@
     "name": "Splash Page Layout Comic",
     "h1": "Splash Page Layout Comic - Deliver Massive Visual Impact",
     "description": "Create breathtaking reveals and massive action sequences with the splash page layout comic. Learn when and how to use full-page artwork for maximum effect.",
-    "intro": "## The Art of the Splash Page Reveal\n\n> **AI Snapshot**: A splash page layout is a single, full-page illustration used to emphasize a major plot point, a stunning location reveal, or a climactic action sequence, forcing the reader to stop and absorb the visual impact of the moment.\n\nIn the visual vocabulary of comic books, nothing screams \"important\" louder than a splash page layout comic. A splash page dedicates an entire page (or sometimes a two-page spread) to a single, highly detailed illustration. It is the comic book equivalent of a cinematic wide shot or a lingering close-up. Because a splash page abandons the traditional multi-panel progression of time, it effectively stops time entirely for the reader. This makes it the perfect tool for massive reveals\u2014introducing a terrifying new villain, revealing a sprawling alien city, or showcasing the climax of a brutal fight scene. However, splash pages must be earned. If used too frequently, they lose their impact and disrupt the pacing of the story. A well-placed splash page should serve as a reward or a shocking punctuation mark at the end of a steadily built sequence of smaller panels.",
+    "intro": "## The Art of the Splash Page Reveal\n\n> **AI Snapshot**: A splash page layout is a single, full-page illustration used to emphasize a major plot point, a stunning location reveal, or a climactic action sequence, forcing the reader to stop and absorb the visual impact of the moment.\n\nIn the visual vocabulary of comic books, nothing screams \"important\" louder than a splash page layout comic. A splash page dedicates an entire page (or sometimes a two-page spread) to a single, highly detailed illustration. It is the comic book equivalent of a cinematic wide shot or a lingering close-up. Because a splash page abandons the traditional multi-panel progression of time, it effectively stops time entirely for the reader. This makes it the perfect tool for massive reveals—introducing a terrifying new villain, revealing a sprawling alien city, or showcasing the climax of a brutal fight scene. However, splash pages must be earned. If used too frequently, they lose their impact and disrupt the pacing of the story. A well-placed splash page should serve as a reward or a shocking punctuation mark at the end of a steadily built sequence of smaller panels.",
     "faqs": [
       {
         "question": "What is a splash page in a comic?",
@@ -777,7 +834,7 @@
     "name": "Tilted Panel Comic Layout",
     "h1": "Tilted Panel Comic Layout - Dynamic Action and Chaos",
     "description": "Inject energy and disorientation into your scenes with the tilted panel comic layout, perfect for high-speed action and dramatic reveals.",
-    "intro": "## Introducing the Dutch Angle to Comics\n\n> **AI Snapshot**: The tilted panel comic layout uses diagonally slanted panel borders (often called a 'Dutch angle' in film) to create a sense of unease, frantic motion, or chaotic energy that a rigid vertical grid cannot provide.\n\nWhen a standard grid feels too static for an action sequence, creators turn to the tilted panel comic layout. By slanting the panel borders at an angle\u2014often referred to as a 'Dutch angle' in cinematography\u2014you instantly introduce a feeling of instability and frantic energy to the page. The reader subconsciously feels that the world is off-balance. This layout is perfect for depicting a character losing their grip on reality, a sudden explosion, a high-speed chase, or a dramatic, unexpected entrance. However, tilted panels must be used deliberately. If every panel on every page is tilted, the effect is lost, and the comic simply becomes exhausting to read. Use this layout as a sudden disruption to a previously stable grid to maximize its emotional impact. This layout pairs incredibly well with the techniques discussed in our guide on [how to create action comic strips](/blog/how-to-create-action-comic-strips).",
+    "intro": "## Introducing the Dutch Angle to Comics\n\n> **AI Snapshot**: The tilted panel comic layout uses diagonally slanted panel borders (often called a 'Dutch angle' in film) to create a sense of unease, frantic motion, or chaotic energy that a rigid vertical grid cannot provide.\n\nWhen a standard grid feels too static for an action sequence, creators turn to the tilted panel comic layout. By slanting the panel borders at an angle—often referred to as a 'Dutch angle' in cinematography—you instantly introduce a feeling of instability and frantic energy to the page. The reader subconsciously feels that the world is off-balance. This layout is perfect for depicting a character losing their grip on reality, a sudden explosion, a high-speed chase, or a dramatic, unexpected entrance. However, tilted panels must be used deliberately. If every panel on every page is tilted, the effect is lost, and the comic simply becomes exhausting to read. Use this layout as a sudden disruption to a previously stable grid to maximize its emotional impact. This layout pairs incredibly well with the techniques discussed in our guide on [how to create action comic strips](/blog/how-to-create-action-comic-strips).",
     "faqs": [
       {
         "question": "What is a tilted panel layout?",
