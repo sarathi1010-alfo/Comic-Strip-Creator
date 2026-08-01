@@ -145,6 +145,14 @@ const assert = require('assert');
     'http://localhost:3000/layouts/manga-action-lines-layout',
     'http://localhost:3000/layouts/character-focus-panel-layout',
     'http://localhost:3000/styles/dynamic-action-comic-style',
+
+    'http://localhost:3000/blog/ultimate-guide-to-comic-strip-creation-in-2026',
+    'http://localhost:3000/blog/comicflow-vs-canva',
+    'http://localhost:3000/blog/what-is-a-comic-strip',
+    'http://localhost:3000/blog/what-is-a-panel-in-comics',
+    'http://localhost:3000/blog/what-is-a-speech-bubble',
+    'http://localhost:3000/blog/what-is-a-caption-box',
+    'http://localhost:3000/blog/what-is-a-gutter-in-comics',
   ];
   page.on('console', msg => {
     if (msg.type() === 'error') {
