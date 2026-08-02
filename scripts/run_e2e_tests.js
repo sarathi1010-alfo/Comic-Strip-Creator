@@ -153,6 +153,15 @@ const assert = require('assert');
     'http://localhost:3000/blog/what-is-a-speech-bubble',
     'http://localhost:3000/blog/what-is-a-caption-box',
     'http://localhost:3000/blog/what-is-a-gutter-in-comics',
+    'http://localhost:3000/blog/how-to-monetize-a-webcomic',
+    'http://localhost:3000/genres/comedy-romance-comic-maker',
+    'http://localhost:3000/genres/isekai-comic-creator',
+    'http://localhost:3000/genres/cyber-goth-comic-generator',
+    'http://localhost:3000/genres/solarpunk-comic-maker',
+    'http://localhost:3000/layouts/mobile-optimized-comic-layout',
+    'http://localhost:3000/layouts/print-ready-comic-layout',
+    'http://localhost:3000/layouts/webtoon-scroll-comic-layout',
+    'http://localhost:3000/styles/neon-cyberpunk-comic-style',
   ];
   page.on('console', msg => {
     if (msg.type() === 'error') {
