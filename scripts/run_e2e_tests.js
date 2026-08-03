@@ -162,6 +162,15 @@ const assert = require('assert');
     'http://localhost:3000/layouts/print-ready-comic-layout',
     'http://localhost:3000/layouts/webtoon-scroll-comic-layout',
     'http://localhost:3000/styles/neon-cyberpunk-comic-style',
+      'http://localhost:3000/blog/graphic-novel-creation-guide',
+    'http://localhost:3000/genres/graphic-novel-maker',
+    'http://localhost:3000/genres/young-adult-comic-creator',
+    'http://localhost:3000/genres/memoir-comic-builder',
+    'http://localhost:3000/genres/historical-drama-comic-generator',
+    'http://localhost:3000/layouts/chapter-based-comic-layout',
+    'http://localhost:3000/layouts/double-page-spread-layout',
+    'http://localhost:3000/layouts/graphic-novel-grid-layout',
+    'http://localhost:3000/styles/ink-wash-comic-style',
   ];
   page.on('console', msg => {
     if (msg.type() === 'error') {
