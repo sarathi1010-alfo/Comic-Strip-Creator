@@ -903,5 +903,62 @@
       }
     ],
     "updatedAt": "2026-07-30"
+  },
+  {
+    "slug": "chapter-based-comic-layout",
+    "title": "Chapter-Based Comic Layout",
+    "primaryKeyword": "chapter based comic layout",
+    "h1": "Design Comics with Chapter-Based Layouts",
+    "description": "Organize your long-form comics effectively with chapter-based layouts.",
+    "intro": "When working on a graphic novel, structure is key. A chapter-based comic layout helps you pace your story, providing natural breaks for the reader and making the creation process more manageable.",
+    "faqs": [
+      {
+        "question": "How long should a comic chapter be?",
+        "answer": "It varies, but chapters in graphic novels typically range from 15 to 30 pages."
+      },
+      {
+        "question": "How do I transition between chapters?",
+        "answer": "Use title pages or distinct visual shifts to clearly indicate the start of a new chapter."
+      }
+    ],
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "slug": "double-page-spread-layout",
+    "title": "Double-Page Spread Layout",
+    "primaryKeyword": "double page spread layout",
+    "h1": "Master the Double-Page Spread Layout",
+    "description": "Create breathtaking, expansive scenes using the double-page spread layout.",
+    "intro": "The double-page spread is the ultimate tool for impact in a graphic novel. Use it for establishing massive environments, climactic battles, or conveying a profound sense of scale that a single page cannot match.",
+    "faqs": [
+      {
+        "question": "When should I use a double-page spread?",
+        "answer": "Reserve them for the most important, visually demanding moments in your story to maximize their impact."
+      },
+      {
+        "question": "How do I account for the spine (gutter) in a printed book?",
+        "answer": "Ensure no crucial dialogue or important visual elements are placed directly in the center where the pages fold."
+      }
+    ],
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "slug": "graphic-novel-grid-layout",
+    "title": "Graphic Novel Grid Layout",
+    "primaryKeyword": "graphic novel grid layout",
+    "h1": "Utilize the Standard Graphic Novel Grid Layout",
+    "description": "Learn how to use standard grid layouts for clear, consistent graphic novel storytelling.",
+    "intro": "The graphic novel grid layout (often a 6 or 9-panel grid) is a classic for a reason. It provides a steady rhythm, allowing for dense storytelling and complex dialogue scenes while remaining easy for the reader to follow.",
+    "faqs": [
+      {
+        "question": "Is the 9-panel grid too restrictive?",
+        "answer": "While structured, it actually offers immense flexibility for pacing and controlling time within a scene."
+      },
+      {
+        "question": "Can I break the grid?",
+        "answer": "Yes, establishing a standard grid makes the moments when you break it (by combining panels or having art bleed over) much more impactful."
+      }
+    ],
+    "updatedAt": "2026-07-31"
   }
 ]

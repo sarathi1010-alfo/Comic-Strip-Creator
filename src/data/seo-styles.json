@@ -455,5 +455,24 @@
       }
     ],
     "updatedAt": "2026-07-30"
+  },
+  {
+    "slug": "ink-wash-comic-style",
+    "title": "Ink Wash Comic Style",
+    "primaryKeyword": "ink wash comic style",
+    "h1": "Create Expressive Ink Wash Style Comics",
+    "description": "Achieve a traditional, moody aesthetic with our digital ink wash comic style tools.",
+    "intro": "The ink wash comic style brings a beautiful, fluid, and often melancholic tone to your artwork. Perfect for memoirs, historical dramas, and atmospheric horror, this style relies on shades of gray and varied brush textures to build volume and emotion.",
+    "faqs": [
+      {
+        "question": "What genres suit the ink wash style?",
+        "answer": "It is incredibly effective for evocative, serious narratives like historical fiction, memoirs, and noir."
+      },
+      {
+        "question": "Can I mix ink wash with color?",
+        "answer": "Yes, adding selective, muted colors to an ink wash base can create a striking and unique visual style."
+      }
+    ],
+    "updatedAt": "2026-07-31"
   }
 ]
