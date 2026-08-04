@@ -960,5 +960,62 @@
       }
     ],
     "updatedAt": "2026-07-31"
+  },
+  {
+    "slug": "inset-panel-comic-layout",
+    "title": "Inset Panel Comic Layout",
+    "primaryKeyword": "inset panel comic layout",
+    "h1": "Create Comics with Inset Panels",
+    "description": "Focus on crucial details and reactions using the inset panel comic layout. Embed smaller panels within a larger scene for dynamic storytelling.",
+    "intro": "The inset panel layout is a powerful storytelling device where one or more smaller panels are placed directly inside a larger, dominant panel. This layout is excellent for showing simultaneous actions, highlighting a specific detail within a broader scene (like a close-up of a ticking clock within a wide shot of a room), or capturing a character's immediate reaction to the events happening in the main panel. By embedding the panel, you create a direct visual link between the macro environment and the micro detail, ensuring the reader processes them simultaneously. Our editor makes it easy to drag, resize, and layer panels to achieve this sophisticated, cinematic effect.",
+    "faqs": [
+      {
+        "question": "When should I use an inset panel?",
+        "answer": "Use an inset panel to highlight a crucial detail, show a simultaneous action, or capture a character's reaction without breaking away from the main establishing shot."
+      },
+      {
+        "question": "How do inset panels affect pacing?",
+        "answer": "They often speed up the pacing by providing multiple pieces of information in a single visual space, making the scene feel more immediate and dynamic."
+      }
+    ],
+    "updatedAt": "2026-07-29"
+  },
+  {
+    "slug": "bleeding-panel-comic-layout",
+    "title": "Bleeding Panel Comic Layout",
+    "primaryKeyword": "bleeding panel comic layout",
+    "h1": "Design with Bleeding Panel Layouts",
+    "description": "Break the boundaries of the page with the bleeding panel comic layout. Let your artwork extend to the edges for a truly immersive reading experience.",
+    "intro": "The bleeding panel layout occurs when the artwork of a panel extends entirely off the edge of the page or screen, eliminating the traditional white border. This technique is used to create a sense of vastness, immersion, or explosive action that cannot be contained within a standard frame. When a landscape bleeds off the edge, it implies the world continues far beyond what the reader can see. When an action sequence bleeds, it amplifies the impact and energy. Our platform allows you to easily configure panels to bleed to the edges, giving you the creative freedom to break the borders and pull your readers directly into the heart of your story.",
+    "faqs": [
+      {
+        "question": "What is a 'bleed' in comic book terms?",
+        "answer": "A bleed is when the artwork in a panel extends all the way to the edge of the physical page or digital screen, leaving no white margin."
+      },
+      {
+        "question": "What emotional effect does a bleeding panel have?",
+        "answer": "Bleeding panels create a sense of scale, immersion, and uncontained energy, often used for expansive landscapes or climactic action moments."
+      }
+    ],
+    "updatedAt": "2026-07-29"
+  },
+  {
+    "slug": "horizontal-scroll-comic-layout",
+    "title": "Horizontal Scroll Comic Layout",
+    "primaryKeyword": "horizontal scroll comic layout",
+    "h1": "Craft Horizontal Scroll Comics",
+    "description": "Build seamless, side-scrolling narratives with the horizontal scroll comic layout. Ideal for panoramic scenes and continuous journeys.",
+    "intro": "The horizontal scroll comic layout re-imagines the reading experience by stringing panels together in a continuous, seamless horizontal strip. While webtoons popularized the vertical scroll, the horizontal scroll offers a unique cinematic feel, akin to panning a camera across a wide landscape or following a character on a long journey from left to right. This layout is perfect for showcasing expansive environments, tracking a moving object, or creating a slow, deliberate pacing as the reader physically swipes or scrolls sideways through the narrative. Our editor supports continuous horizontal canvases, allowing you to blend backgrounds seamlessly and create an unbroken visual voyage.",
+    "faqs": [
+      {
+        "question": "How is a horizontal scroll layout different from a standard strip?",
+        "answer": "Unlike a standard strip that has clear panel borders and a fixed width, a horizontal scroll is often a continuous, seamless image that the reader pans across."
+      },
+      {
+        "question": "What kind of stories benefit from horizontal scrolling?",
+        "answer": "Stories involving travel, exploration of wide landscapes, or continuous, unbroken tracking shots benefit greatly from this layout."
+      }
+    ],
+    "updatedAt": "2026-07-29"
   }
 ]
