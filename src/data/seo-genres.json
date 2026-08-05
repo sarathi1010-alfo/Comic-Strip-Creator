@@ -1271,5 +1271,77 @@
       }
     ],
     "updatedAt": "2026-07-29"
+  },
+  {
+    "slug": "cyberpunk-romance-comic-creator",
+    "genre": "Cyberpunk Romance",
+    "title": "Cyberpunk Romance Comic Creator - Love in the Neon City",
+    "primaryKeyword": "cyberpunk romance comic creator",
+    "h1": "Cyberpunk Romance Comic Creator: Build High-Tech Love Stories",
+    "description": "Create cyberpunk romance comics online. Combine neon-lit aesthetics with deep emotional storytelling using our specialized asset library.",
+    "intro": "## Neon Lights and Electronic Hearts\n\n> **AI Snapshot**: To create a cyberpunk romance comic, blend classic romantic tropes with futuristic, dystopian settings. Focus on themes of humanity vs. technology, forbidden love across class divides, and utilize neon-lit, rainy cityscapes to set the mood.\n\nCyberpunk romance is a captivating subgenre that juxtaposes the cold, sterile reality of a high-tech future with the warm, messy reality of human emotion. Using a cyberpunk romance comic creator allows you to explore themes of identity, artificial intelligence, and love in a dystopian society.\n\n### Core Elements of Cyberpunk Romance\n-   **The Setting:** Megacities, eternal rain, neon signs, and vast technological divides between the rich and the poor.\n-   **The Characters:** Hackers, corporate executives, cyborgs, and rogues finding connection in a disconnected world.\n-   **The Conflict:** Often, the romance is challenged by the oppressive system they live in, or by the very technology that defines their world.\n\nTo effectively create this genre, pay close attention to your color palette—relying heavily on cyans, magentas, and deep blacks—and use our asset library to find the perfect futuristic props.",
+    "faqs": [
+      {
+        "question": "What defines a cyberpunk romance comic?",
+        "answer": "It is a romance story set against a dystopian, high-tech background, often exploring themes of human connection in an increasingly artificial world."
+      },
+      {
+        "question": "What colors work best for cyberpunk romance?",
+        "answer": "A classic cyberpunk palette includes deep blacks, stark neon pinks (magenta), and bright cyans or electric blues."
+      },
+      {
+        "question": "Can I use AI characters in a cyberpunk romance?",
+        "answer": "Yes, romances involving AI, cyborgs, or human-machine relationships are core staples of the genre."
+      }
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  {
+    "slug": "high-school-drama-comic-generator",
+    "genre": "High School Drama",
+    "title": "High School Drama Comic Generator - Relive the Teenage Years",
+    "primaryKeyword": "high school drama comic generator",
+    "h1": "High School Drama Comic Generator: Craft Teenage Stories",
+    "description": "Generate high school drama comics with ease. Explore teenage angst, first loves, and school rivalries with our specialized comic maker.",
+    "intro": "## Hallways, Lockers, and Teenage Angst\n\n> **AI Snapshot**: To create a high school drama comic, focus on relatable teenage experiences: friendships, rivalries, first loves, and academic pressure. Utilize expressive characters and classic school settings to anchor the emotional narrative.\n\nHigh school is a universal experience filled with intense emotions, rapidly changing relationships, and pivotal life moments. A high school drama comic generator gives you the tools to capture this turbulent time. Whether you're writing a sweet slice-of-life story or a dramatic soap opera, the setting provides endless narrative possibilities.\n\n### Crafting Compelling High School Stories\n-   **Character Archetypes:** While tropes (the jock, the nerd, the rebel) are useful starting points, the best drama comes from subverting these expectations.\n-   **The Setting:** Lockers, cafeterias, classrooms, and sports fields are your primary stages. Use these environments to create social dynamics (e.g., who sits where at lunch).\n-   **The Stakes:** To a teenager, a failed test or a rumor can feel like the end of the world. Treat their problems with narrative respect to keep the reader engaged.\n\nFocus on expressive dialogue and subtle character interactions to bring your high school drama to life.",
+    "faqs": [
+      {
+        "question": "What makes a good high school drama comic?",
+        "answer": "A good high school drama focuses on relatable emotional stakes, realistic character growth, and navigating the complex social hierarchy of adolescence."
+      },
+      {
+        "question": "What are common settings in high school comics?",
+        "answer": "Common settings include classrooms, cafeterias, school hallways, lockers, and after-school hangout spots."
+      },
+      {
+        "question": "How do I make teenage characters believable?",
+        "answer": "Avoid overly mature dialogue and focus on their immediate concerns, insecurities, and the intensity of their emotions."
+      }
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  {
+    "slug": "medical-drama-comic-maker",
+    "genre": "Medical Drama",
+    "title": "Medical Drama Comic Maker - High Stakes in the ER",
+    "primaryKeyword": "medical drama comic maker",
+    "h1": "Medical Drama Comic Maker: Create Intense Hospital Stories",
+    "description": "Build tense, emotional medical drama comics. Use our specialized tools to illustrate high-stakes scenarios, hospital settings, and complex character dynamics.",
+    "intro": "## Life, Death, and Hospital Corridors\n\n> **AI Snapshot**: To build a medical drama comic, balance high-stakes medical emergencies with the personal lives and interpersonal conflicts of the hospital staff. Accuracy in medical terminology adds realism, while the focus remains on the human element.\n\nThe medical drama is a beloved genre that thrives on high stakes, split-second decisions, and the emotional toll of saving lives. With a medical drama comic maker, you can illustrate the intense environment of an ER or the complex politics of a hospital ward.\n\n### Key Elements of Medical Dramas\n-   **The Setting:** Sterile operating rooms, chaotic emergency departments, and quiet on-call rooms. The environment should feel both life-saving and claustrophobic.\n-   **The Pacing:** Medical emergencies require fast-paced, action-to-action panel transitions. Slower, moment-to-moment transitions are used for emotional fallout.\n-   **The Conflict:** The drama comes not just from the patients' illnesses, but from the clashes between doctors, ethical dilemmas, and the struggle to balance work and personal life.\n\nUse clinical lighting and stark color contrasts to emphasize the sterility and urgency of the medical environment.",
+    "faqs": [
+      {
+        "question": "Do I need to be a doctor to write a medical drama comic?",
+        "answer": "No, but doing basic research on medical terminology and procedures will make your story feel much more authentic and grounded."
+      },
+      {
+        "question": "How do I balance the medical cases with character drama?",
+        "answer": "Use the medical cases to reflect or challenge the personal issues the characters are facing. The patient's story should parallel the doctor's emotional journey."
+      },
+      {
+        "question": "What kind of pacing works best for medical emergencies?",
+        "answer": "Use quick, action-to-action transitions and dynamic panel layouts to convey the speed and urgency of an emergency situation."
+      }
+    ],
+    "updatedAt": "2026-08-05"
   }
 ]
