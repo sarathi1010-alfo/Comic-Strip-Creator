@@ -512,5 +512,51 @@
       }
     ],
     "updatedAt": "2026-07-29"
+  },
+  {
+    "slug": "cyber-noir-comic-style",
+    "title": "Cyber Noir Comic Style: Neon and Shadows",
+    "primaryKeyword": "cyber noir comic style",
+    "h1": "Cyber Noir Comic Style: Mastering Neon and Shadows",
+    "description": "Learn how to achieve the cyber noir comic style. Combine stark black shadows with vibrant neon highlights to create gritty, futuristic atmospheres.",
+    "intro": "## Where the Future Meets the Shadows\n\n> **AI Snapshot**: To achieve a cyber noir comic style, heavily rely on chiaroscuro (extreme contrast between light and dark). Use deep, solid blacks for shadows and pierce them with highly saturated, neon colors (cyans, magentas) for glowing tech and city lights.\n\nThe cyber noir comic style is a visual collision of two distinct genres: the gritty, shadow-drenched world of classic film noir and the high-tech, neon-lit aesthetics of cyberpunk. This style is perfect for futuristic detective stories, dystopian thrillers, and tales of corporate espionage.\n\n### Key Visual Characteristics\n-   **Oppressive Shadows:** Much of the panel should be cloaked in pure black. Shadows aren't just an absence of light; they are a physical presence that hides secrets and danger.\n-   **Neon Accents:** The only relief from the darkness comes from artificial light sources—glowing holograms, neon signs, and cybernetic implants. These should be rendered in harsh, saturated colors.\n-   **Gritty Textures:** Overlays of rain, static, and urban decay help to ground the high-tech elements in a dirty, lived-in reality.\n\nTo create this style digitally, use a very limited color palette and rely heavily on your Multiply (for shadows) and Screen (for glows) blending modes.",
+    "faqs": [
+      {
+        "question": "What is cyber noir style in comics?",
+        "answer": "It is a visual aesthetic that combines the heavy, dramatic shadows of classic noir with the bright, neon colors and futuristic technology of cyberpunk."
+      },
+      {
+        "question": "What colors are essential for a cyber noir palette?",
+        "answer": "Pure black for shadows, paired with highly saturated 'neon' colors like electric blue, hot pink, and toxic green for lighting."
+      },
+      {
+        "question": "How do I make neon lights glow in this style?",
+        "answer": "Use a digital blending mode like 'Add' or 'Screen' over a dark background, applying a soft airbrush around a hard, bright core to simulate a glowing aura."
+      }
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  {
+    "slug": "retro-manga-comic-style",
+    "title": "Retro Manga Comic Style: 80s and 90s Aesthetics",
+    "primaryKeyword": "retro manga comic style",
+    "h1": "Retro Manga Comic Style: Capturing the 80s and 90s",
+    "description": "Recreate the iconic retro manga comic style. Learn the character designs, screentone techniques, and visual tropes that defined 80s and 90s anime and manga.",
+    "intro": "## Nostalgia in Black and White\n\n> **AI Snapshot**: To draw in a retro manga comic style, utilize large, highly detailed eyes, angular character designs, and extensive use of traditional screentones (dot patterns) for shading and texture, mimicking the physical printing limitations of the 80s and 90s.\n\nThe retro manga comic style evokes a very specific era of Japanese comic art, roughly spanning the 1980s and 1990s. This style is instantly recognizable by its distinct character proportions, dramatic hair, and reliance on physical screentones to create depth and emotion in black and white.\n\n### Hallmarks of Retro Manga\n-   **Character Design:** Eyes are often massive and filled with intricate highlights. Hair is voluminous and gravity-defying. Chins and noses tend to be sharp and angular.\n-   **Screentone Mastery:** Before digital shading, artists cut and pasted physical sheets of dot patterns (screentones) onto their pages. Emulating these visible dot patterns is crucial for the retro feel.\n-   **Dramatic Speed Lines:** Extensive use of hand-drawn action lines to convey intense speed, emotion, or shock.\n\nWhen applying this style, focus on clean, bold inking and use digital brushes designed to simulate halftone and screentone patterns.",
+    "faqs": [
+      {
+        "question": "What defines a retro manga style?",
+        "answer": "It is characterized by the specific aesthetic trends of 80s and 90s manga, including large, detailed eyes, voluminous hair, and heavy use of screentones."
+      },
+      {
+        "question": "What are screentones?",
+        "answer": "Screentones are patterns (often dots or lines) used to simulate shading, texture, or color in black-and-white comics. Retro styles often feature visible dot patterns."
+      },
+      {
+        "question": "How do I draw eyes in a retro manga style?",
+        "answer": "Draw them disproportionately large, with thick upper eyelashes and multiple, distinct specular highlights (white reflection circles) within the pupil and iris."
+      }
+    ],
+    "updatedAt": "2026-08-05"
   }
 ]
