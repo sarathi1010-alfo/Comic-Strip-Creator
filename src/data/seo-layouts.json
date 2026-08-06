@@ -1086,5 +1086,74 @@
       }
     ],
     "updatedAt": "2026-08-05"
+  },
+  {
+    "slug": "14-panel-grid-comic",
+    "title": "14-Panel Grid Comic Layout",
+    "primaryKeyword": "14-panel grid comic layout",
+    "h1": "14-Panel Grid Comic Layout: Extreme Density",
+    "description": "Master the highly complex 14-panel grid layout. Perfect for extremely dense storytelling, rapid dialogue, and micro-pacing.",
+    "intro": "## Maximum Narrative Density\n\n> **AI Snapshot**: The 14-panel grid is an advanced layout that requires immense discipline to use effectively. It forces rapid micro-pacing, making it ideal for chaotic scenes, intense overlapping dialogue, or showing many simultaneous actions in a confined space.\n\nThe 14-panel grid comic layout pushes the boundaries of traditional page density. By dividing the canvas into numerous small segments, you force the reader's eye to process information in rapid, bite-sized increments. This layout is not for the faint of heart; it requires incredibly precise composition to avoid visual clutter. It is best utilized for scenes requiring extreme compression of time—such as a frantic search, a chaotic crowd scene, or a fast-paced, multi-character argument where everyone is talking over one another. To keep the page readable, minimize background details and rely heavily on clear, expressive faces and concise dialogue. Review our [Comic Pacing Guide](/blog/mastering-comic-pacing-guide) before attempting this structure.",
+    "faqs": [
+      {
+        "question": "When should I use a 14-panel grid?",
+        "answer": "Use it sparingly for scenes that require chaotic pacing, overlapping dialogue, or extreme temporal compression."
+      },
+      {
+        "question": "How do I keep a 14-panel page from looking messy?",
+        "answer": "You must use highly simplified art, clear silhouettes, minimal backgrounds, and very short, punchy dialogue."
+      },
+      {
+        "question": "Is the 14-panel grid common?",
+        "answer": "No, it is relatively rare and usually reserved for specific, high-tension narrative moments by experienced creators."
+      }
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "slug": "pyramid-panel-layout",
+    "title": "Pyramid Panel Layout",
+    "primaryKeyword": "pyramid panel layout",
+    "h1": "The Pyramid Panel Layout: Building to a Climax",
+    "description": "Learn to use the pyramid panel layout. Start with multiple small panels and build down to a single, massive payoff panel.",
+    "intro": "## Structuring the Reveal\n\n> **AI Snapshot**: The pyramid panel layout is a structural technique where the page begins with a row of small panels, followed by rows of decreasing panel count and increasing size, culminating in a single, large climax panel at the bottom.\n\nThe pyramid panel layout is a masterclass in visual pacing and suspense building. This structure naturally guides the reader from a sequence of rapid, detailed actions or observations (the small panels at the top) down to a singular, impactful revelation or action (the large panel at the base). It is the structural equivalent of a drum roll. This layout works exceptionally well for mystery reveals, the slow realization of a horror element, or building up to a dramatic superhero landing. It controls the reader's speed, forcing them to read the setup quickly before demanding they linger on the final, explosive payoff. See how this integrates with [Comic Composition and Perspective](/blog/comic-composition-perspective-guide).",
+    "faqs": [
+      {
+        "question": "What is a pyramid panel layout?",
+        "answer": "A layout that starts with many small panels at the top and gradually reduces the number of panels per row while increasing their size, ending in one large panel."
+      },
+      {
+        "question": "What is the psychological effect of this layout?",
+        "answer": "It builds anticipation and naturally funnels the reader's focus toward a singular, climactic reveal at the bottom of the page."
+      },
+      {
+        "question": "Can I do an inverted pyramid?",
+        "answer": "Yes! An inverted pyramid starts with a large establishing shot and funnels down into rapid, chaotic details."
+      }
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "slug": "zigzag-panel-layout",
+    "title": "Zigzag Panel Layout",
+    "primaryKeyword": "zigzag panel layout",
+    "h1": "The Zigzag Panel Layout: Dynamic Reading Flow",
+    "description": "Guide the reader's eye dynamically with the zigzag panel layout. Perfect for action sequences and disrupting standard grid expectations.",
+    "intro": "## Breaking the Grid with Purpose\n\n> **AI Snapshot**: The zigzag panel layout deliberately offsets panel borders from row to row, creating a staggered, diagonal flow that forces the reader's eye to sweep back and forth more dramatically than a standard grid.\n\nThe zigzag panel layout is a fantastic tool for injecting energy into a page without resorting to extreme diagonal splits. By staggering the width and alignment of panels on alternating rows, you create a rhythmic, sweeping motion for the reader's eye. Instead of a straightforward Z-pattern, the eye is forced to zig and zag across the page. This layout is excellent for action sequences, chases, or any scene where you want to create a sense of unpredictability and momentum. It keeps the reader engaged by constantly shifting the visual center of gravity. When using this layout, ensure your internal panel compositions (character eyelines, action vectors) support the zigzag flow to prevent confusion.",
+    "faqs": [
+      {
+        "question": "What is a zigzag panel layout?",
+        "answer": "A layout where the vertical panel borders do not align from one row to the next, creating a staggered, brick-like, or zigzag appearance."
+      },
+      {
+        "question": "Why use a zigzag layout instead of a grid?",
+        "answer": "It breaks monotony, adds kinetic energy to the page, and makes the reading experience feel more dynamic and less rigid."
+      },
+      {
+        "question": "Does it disrupt the reading order?",
+        "answer": "It shouldn't, as long as the general left-to-right, top-to-bottom flow is maintained. The staggered borders just make the eye travel a more active path."
+      }
+    ],
+    "updatedAt": "2026-08-06"
   }
 ]
