@@ -1343,5 +1343,101 @@
       }
     ],
     "updatedAt": "2026-08-05"
+  },
+  {
+    "slug": "sports-drama-comic-creator",
+    "genre": "Sports Drama",
+    "title": "Sports Drama Comic Creator",
+    "primaryKeyword": "sports drama comic creator",
+    "h1": "Create High-Stakes Sports Drama Comics",
+    "description": "Design intense sports drama comics with our creator tools. Capture the sweat, tears, and triumph of athletic competition.",
+    "intro": "## The Thrill of the Game\n\n> **AI Snapshot**: To create a compelling sports drama comic, focus on dynamic action lines to convey speed and power, use dramatic pacing to build tension during key plays, and ensure the character's emotional journey mirrors their athletic struggles.\n\nSports dramas are less about the rules of the game and more about the human spirit. Using our sports drama comic creator, you can illustrate the intense rivalries, crushing defeats, and hard-won victories of athletes. Focus on the emotional weight of each movement. A well-placed speed line or a close-up of a determined expression can make a single basketball shot feel like a life-or-death moment. Whether you're drawing a grounded high-school baseball story or an exaggerated, super-powered soccer epic, the key is to make the reader feel the physical exertion and the emotional stakes. Remember to read our [Dynamic Comic Poses Guide](/blog/dynamic-comic-poses-guide) to nail those action shots.",
+    "faqs": [
+      {
+        "question": "How do I show fast movement in a sports comic?",
+        "answer": "Use speed lines, motion blur, and dynamic, foreshortened poses to convey speed and impact."
+      },
+      {
+        "question": "Is sports drama only about the sport?",
+        "answer": "No, the best sports dramas use the sport as a backdrop to explore character growth, teamwork, and personal struggles."
+      },
+      {
+        "question": "Can I mix sports with other genres?",
+        "answer": "Absolutely! Sci-fi sports (like futuristic racing) or fantasy sports (like magical tournaments) are very popular sub-genres."
+      }
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "slug": "mythology-comic-maker",
+    "genre": "Mythology",
+    "title": "Mythology Comic Maker",
+    "primaryKeyword": "mythology comic maker",
+    "h1": "Mythology Comic Maker: Bring Ancient Legends to Life",
+    "description": "Illustrate epic myths and legends with our mythology comic maker. Recreate classic pantheons or invent your own divine sagas.",
+    "intro": "## Gods, Monsters, and Epic Quests\n\n> **AI Snapshot**: To effectively create a mythology comic, combine larger-than-life character designs with grand, sweeping landscapes. Utilize dramatic lighting and epic panel layouts to convey the power of gods and the scale of legendary monsters.\n\nMythological comics allow you to tap into the oldest stories of human history. With our mythology comic maker, you can retell classic Greek, Norse, or Egyptian tales, or forge an entirely new pantheon of gods and heroes. The key to this genre is scale. Everything—from the emotions of the deities to the size of the monsters—must feel monumental. Use [high contrast styles](/styles/high-contrast-comic-style) to emphasize the divine vs. mortal dichotomy, and lean heavily on visual symbolism to represent the domains of your gods. Let your imagination run wild in a world where magic and divine intervention are everyday occurrences.",
+    "faqs": [
+      {
+        "question": "What makes a comic 'mythological'?",
+        "answer": "Mythological comics typically feature gods, legendary creatures, divine intervention, and epic quests that often explain natural phenomena or cultural beliefs."
+      },
+      {
+        "question": "Do I have to stick to real-world mythology?",
+        "answer": "Not at all. Creating your own original pantheon and lore (world-building) is a staple of fantasy and mythological comics."
+      },
+      {
+        "question": "How do I design a god character?",
+        "answer": "Gods often have exaggerated features, glowing auras, or incorporate visual symbols of what they represent (e.g., a sea god adorned in shells and scales)."
+      }
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "slug": "culinary-comic-generator",
+    "genre": "Culinary",
+    "title": "Culinary Comic Generator",
+    "primaryKeyword": "culinary comic generator",
+    "h1": "Culinary Comic Generator: Draw Delicious Stories",
+    "description": "Cook up engaging stories with our culinary comic generator. Perfect for restaurant dramas, cooking battles, and food-centric slice-of-life.",
+    "intro": "## The Art of Visual Flavor\n\n> **AI Snapshot**: To create a culinary comic, you must make the food look as appealing as possible using rich color palettes, steam effects, and detailed rendering, while pacing cooking sequences like high-stakes action scenes.\n\nFood is a universal language, and culinary comics tap into our love for a good meal. A culinary comic generator helps you construct stories set in high-pressure restaurant kitchens, cozy cafes, or intense cooking competitions. The challenge in this genre is conveying taste and smell through a purely visual medium. To succeed, you must pay extreme attention to the coloring and rendering of the food itself—making it glisten, steam, and pop off the page. The cooking process should be paced dynamically, treating the chopping of vegetables and the searing of meat with the same intensity as a sword fight. Serve up your story with a side of [Slice of Life](/genres/slice-of-life-comic-creator) charm.",
+    "faqs": [
+      {
+        "question": "How do I make drawn food look appetizing?",
+        "answer": "Use warm, saturated colors, add highlights to make it look moist or glossy, and draw visual cues like steam or radiant lines."
+      },
+      {
+        "question": "Are culinary comics mostly action or drama?",
+        "answer": "They can be both! They range from intense, battle-shonen style cooking competitions to relaxed, emotional slice-of-life stories."
+      },
+      {
+        "question": "How do I pace a cooking scene?",
+        "answer": "Use quick, action-to-action transitions for fast-paced prep work, and slow down to aspect-to-aspect transitions to show the final, beautiful dish."
+      }
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "slug": "music-band-comic-creator",
+    "genre": "Music & Band",
+    "title": "Music Band Comic Creator",
+    "primaryKeyword": "music band comic creator",
+    "h1": "Music Band Comic Creator: Illustrate the Sound",
+    "description": "Create comics about bands, musicians, and concerts. Use our tools to visualize music and capture the energy of live performances.",
+    "intro": "## Visualizing the Soundtrack\n\n> **AI Snapshot**: To create a music band comic, you must translate audio into visual art by using expressive sound effects, stylized musical notes, and energetic panel layouts that mimic the rhythm and volume of the music being played.\n\nComics about music bands face a unique challenge: they must make the reader \"hear\" the music through silent images. With our music band comic creator, you can explore the drama of forming a band, the grind of touring, or the euphoric energy of a live concert. To succeed, lean heavily on [Comic Lettering and Sound Effects](/blog/comic-lettering-sound-effects-guide). Design abstract representations of sound waves, use vibrant colors to represent different instruments, and ensure your characters' body language matches the intensity of their performance. A well-drawn concert scene should feel loud and kinetic.",
+    "faqs": [
+      {
+        "question": "How do you show music playing in a comic?",
+        "answer": "Use stylized musical notes, abstract background patterns, dynamic sound effect lettering (SFX), and energetic character poses."
+      },
+      {
+        "question": "What is the typical plot of a band comic?",
+        "answer": "Common plots include forming the band, overcoming creative differences, competing in battle-of-the-bands, and dealing with newfound fame."
+      },
+      {
+        "question": "How can color represent music?",
+        "answer": "You can assign different colors to different instruments or moods—e.g., sharp reds for a heavy guitar riff, or flowing blues for a smooth saxophone solo."
+      }
+    ],
+    "updatedAt": "2026-08-06"
   }
 ]

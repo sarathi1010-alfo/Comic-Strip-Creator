@@ -189,6 +189,15 @@ const assert = require('assert');
     'http://localhost:3000/layouts/horizontal-scroll-comic-layout',
     'http://localhost:3000/styles/monochromatic-comic-style',
     'http://localhost:3000/styles/high-contrast-comic-style',
+    'http://localhost:3000/blog/comic-world-building-guide',
+    'http://localhost:3000/genres/sports-drama-comic-creator',
+    'http://localhost:3000/genres/mythology-comic-maker',
+    'http://localhost:3000/genres/culinary-comic-generator',
+    'http://localhost:3000/genres/music-band-comic-creator',
+    'http://localhost:3000/layouts/14-panel-grid-comic',
+    'http://localhost:3000/layouts/pyramid-panel-layout',
+    'http://localhost:3000/layouts/zigzag-panel-layout',
+    'http://localhost:3000/styles/synthwave-comic-style',
   ];
   page.on('console', msg => {
     if (msg.type() === 'error') {

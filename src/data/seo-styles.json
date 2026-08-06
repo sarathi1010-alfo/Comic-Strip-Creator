@@ -558,5 +558,28 @@
       }
     ],
     "updatedAt": "2026-08-05"
+  },
+  {
+    "slug": "synthwave-comic-style",
+    "title": "Synthwave Comic Style",
+    "primaryKeyword": "synthwave comic style",
+    "h1": "Master the Synthwave Comic Style: Outrun the Neon",
+    "description": "Create nostalgic, 80s-inspired synthwave comics. Learn the color palettes, grid lines, and glowing effects that define the outrun aesthetic.",
+    "intro": "## Neon Grids and Chrome Sunsets\n\n> **AI Snapshot**: To master the synthwave comic style, heavily utilize bright neon pinks, purples, and cyans set against dark backgrounds. Incorporate visual motifs like glowing wireframe grids, chrome reflections, and retro-futuristic 80s elements.\n\nThe synthwave (or outrun) comic style is a pure distillation of 1980s retro-futurism. It's an aesthetic driven heavily by its specific color palette and nostalgic motifs rather than a specific inking technique. When drawing in a synthwave style, you are trying to evoke the feeling of playing an 80s arcade game or driving a sports car into a neon sunset. \n\nKey elements include glowing hot pinks and electric blues, stylized vector landscapes (like wireframe mountains), and chrome typography. The line art is often clean and digital, allowing the vibrant colors and glowing effects to take center stage. Use this style for nostalgic sci-fi, cyberpunk-lite adventures, or anything that needs a heavy dose of retro cool. Learn more about applying these neon colors in our [Comic Color Theory Guide](/blog/comic-color-theory-guide).",
+    "faqs": [
+      {
+        "question": "What is the synthwave style?",
+        "answer": "It's an aesthetic based on 1980s retro-futurism, characterized by neon colors, wireframe graphics, and chrome effects."
+      },
+      {
+        "question": "What are the core colors of synthwave?",
+        "answer": "The core palette consists of neon magenta/pink, electric cyan/blue, and vibrant sunset orange, usually set against a dark purple or black background."
+      },
+      {
+        "question": "How do I make my comic look 'synthwave'?",
+        "answer": "Use clean line art, apply the neon color palette, and include classic 80s motifs like glowing grids, palm trees, and sports cars."
+      }
+    ],
+    "updatedAt": "2026-08-06"
   }
 ]
