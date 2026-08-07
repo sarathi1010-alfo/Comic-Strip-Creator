@@ -4,6 +4,15 @@ const assert = require('assert');
   const browser = await chromium.launch({ headless: true });
   const page = await browser.newPage();
   const urlsToTest = [
+    'http://localhost:3000/blog/how-to-write-webtoon-script',
+    'http://localhost:3000/genres/webtoon-romance-comic-creator',
+    'http://localhost:3000/genres/action-webtoon-comic-maker',
+    'http://localhost:3000/genres/thriller-webtoon-generator',
+    'http://localhost:3000/layouts/infinite-scroll-comic-layout',
+    'http://localhost:3000/layouts/mobile-first-comic-layout',
+    'http://localhost:3000/layouts/stacked-panel-comic-layout',
+    'http://localhost:3000/styles/modern-webtoon-comic-style',
+    'http://localhost:3000/styles/flat-color-comic-style',
     'http://localhost:3000/blog/comic-shading-lighting-guide',
     'http://localhost:3000/genres/cyberpunk-romance-comic-creator',
     'http://localhost:3000/genres/high-school-drama-comic-generator',
