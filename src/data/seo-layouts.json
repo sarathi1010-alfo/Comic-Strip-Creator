@@ -1155,5 +1155,62 @@
       }
     ],
     "updatedAt": "2026-08-06"
+  },
+  {
+    "slug": "infinite-scroll-comic-layout",
+    "title": "Infinite Scroll Comic Layout",
+    "primaryKeyword": "infinite scroll comic layout",
+    "h1": "Master the Infinite Scroll Comic Layout",
+    "description": "Design seamless, uninterrupted stories for digital platforms using the infinite scroll comic layout.",
+    "intro": "## The Boundless Canvas\n\n> **AI Snapshot**: The infinite scroll comic layout removes all traditional page constraints, allowing artists to create a single, continuous vertical image. This format is ideal for seamless transitions, long tracking shots, and immersive digital reading.\n\nThe infinite scroll comic layout is the definitive format for the digital age. Rather than breaking a story into separate pages, this layout treats the entire episode as one continuous, unbroken vertical strip. This allows for breathtaking visual techniques, such as a sky that slowly transitions from day to night as the reader scrolls downward, or a long, uninterrupted tracking shot of a character climbing a tower. Without the hard break of a page turn, the creator has total, fluid control over the pacing. Our editor provides a seamless vertical canvas, ensuring that your backgrounds blend perfectly and your readers never hit a jarring edge.",
+    "faqs": [
+      {
+        "question": "What is an infinite scroll layout?",
+        "answer": "It is a digital-first comic format where the artwork flows continuously in a vertical direction without any breaks or separate pages."
+      },
+      {
+        "question": "How do you format an infinite scroll?",
+        "answer": "You design the comic as one extremely tall image, which is then usually 'sliced' into smaller, manageable image files by the publishing platform."
+      }
+    ],
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "slug": "mobile-first-comic-layout",
+    "title": "Mobile-First Comic Layout",
+    "primaryKeyword": "mobile-first comic layout",
+    "h1": "Optimize Your Art with the Mobile-First Comic Layout",
+    "description": "Ensure perfect readability on small screens. Learn the rules of the mobile-first comic layout, from text size to panel width.",
+    "intro": "## Designing for the Small Screen\n\n> **AI Snapshot**: A mobile-first comic layout prioritizes readability on smartphones by utilizing large, legible fonts, keeping panels wide enough to span the screen horizontally, and avoiding complex, cluttered details that would require zooming.\n\nIf you want your comic to be read today, it must be optimized for mobile devices. The mobile-first comic layout is a set of design principles aimed entirely at smartphone users. This means abandoning dense 9-panel grids in favor of large, single panels that take up the full width of the screen. Text must be significantly larger than it would be in a printed book, and speech bubbles must be placed carefully so they don't obscure the art. This layout forces you to be concise with both your dialogue and your visual storytelling. Our platform's mobile-first templates automatically restrict your canvas width and provide font-size warnings, ensuring your comic is perfectly legible the moment it hits a reader's phone.",
+    "faqs": [
+      {
+        "question": "Why is a mobile-first layout necessary?",
+        "answer": "Because over 90% of digital comics are read on mobile phones, traditional page layouts often require frustrating zooming and panning to read."
+      },
+      {
+        "question": "What is the biggest difference from print layout?",
+        "answer": "The font size and panel width are much larger relative to the overall canvas, and the reading direction is typically vertical rather than horizontal."
+      }
+    ],
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "slug": "stacked-panel-comic-layout",
+    "title": "Stacked Panel Comic Layout",
+    "primaryKeyword": "stacked panel comic layout",
+    "h1": "Organize Action with the Stacked Panel Comic Layout",
+    "description": "Create a clear, rigid reading flow with the stacked panel comic layout. Perfect for step-by-step actions and clear dialogue.",
+    "intro": "## Clarity and Rhythm\n\n> **AI Snapshot**: The stacked panel comic layout involves placing wide, horizontal panels directly on top of one another. This creates a very strict, easy-to-follow vertical reading flow, excellent for delivering dialogue or sequential actions clearly.\n\nThe stacked panel comic layout is the bread and butter of many webtoons and social media comics. It involves stacking full-width horizontal panels vertically, one after the other. This completely eliminates any confusion about reading order; the reader's eye naturally moves straight down the column. It is an incredibly efficient layout for delivering dialogue-heavy scenes, as the wide panels provide plenty of room for speech bubbles on the sides while keeping the character focus in the center. It is also great for showing a rapid sequence of actions, like a character assembling a device step-by-step. It provides a solid, rhythmic foundation for your storytelling.",
+    "faqs": [
+      {
+        "question": "What is a stacked panel layout?",
+        "answer": "A layout where wide, horizontal panels are arranged vertically, one on top of the other, creating a single column of art."
+      },
+      {
+        "question": "Why use stacked panels instead of a grid?",
+        "answer": "Stacked panels are much easier to read on a mobile device and eliminate any ambiguity about which panel the reader should look at next."
+      }
+    ],
+    "updatedAt": "2026-08-07"
   }
 ]
