@@ -3,7 +3,17 @@ const assert = require('assert');
 (async () => {
   const browser = await chromium.launch({ headless: true });
   const page = await browser.newPage();
-  const urlsToTest = [
+    const urlsToTest = [
+    'http://localhost:3000/blog/comic-storyboarding-guide',
+    'http://localhost:3000/genres/thriller-mystery-comic-maker',
+    'http://localhost:3000/genres/cyberpunk-action-comic-maker',
+    'http://localhost:3000/genres/historical-fantasy-comic-creator',
+    'http://localhost:3000/layouts/11-panel-grid-comic',
+    'http://localhost:3000/layouts/comic-strip-storyboard-layout',
+    'http://localhost:3000/layouts/cinematic-widescreen-layout',
+    'http://localhost:3000/styles/monochrome-noir-comic-style',
+    'http://localhost:3000/styles/retro-vintage-comic-style',
+
     'http://localhost:3000/blog/how-to-write-webtoon-script',
     'http://localhost:3000/genres/webtoon-romance-comic-creator',
     'http://localhost:3000/genres/action-webtoon-comic-maker',

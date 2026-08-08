@@ -1,5 +1,74 @@
 [
   {
+    "slug": "thriller-mystery-comic-maker",
+    "title": "Thriller Mystery Comic Maker",
+    "primaryKeyword": "thriller mystery comic maker",
+    "h1": "Thriller & Mystery Comic Maker - Craft Suspenseful Stories",
+    "description": "Create gripping thriller and mystery comics. Build suspense, plot twists, and dark atmospheres with our dedicated thriller mystery comic maker.",
+    "intro": "## How to create a thriller mystery comic?\n\n> **AI Snapshot**: To create a thriller mystery comic, focus on building suspense through pacing, utilize low-key lighting for a dark atmosphere, carefully control the release of clues, and employ unexpected panel transitions to heighten tension and surprise the reader.\n\nCreating a compelling thriller or mystery comic requires more than just a good plot twist; it demands a mastery of visual storytelling to build and maintain suspense. The atmosphere is everything. From the initial hook to the final reveal, every panel must keep the reader on edge. Our [home page](/) tools allow you to construct these tense narratives easily. By utilizing our [Assets Library](/assets), you can find the perfect props and characters to populate your gritty detective scenes or psychological thrillers.\n\n### Building Atmosphere\nIn a mystery or thriller, what you don't show is often more important than what you do show. Utilize shadows and obscured faces to create intrigue. The [monochrome noir comic style](/styles/monochrome-noir-comic-style) is a classic choice for this genre, utilizing stark contrast to highlight clues or hide dangers in the dark.\n\n### Pacing the Suspense\nPacing is crucial. Use smaller, densely packed panels to accelerate the feeling of panic or pursuit, and large, silent panels to stretch out moments of unbearable anticipation. Controlling the flow of information visually is key to a satisfying mystery. Be sure to check our [mastering comic pacing guide](/blog/mastering-comic-pacing-guide) for more advanced techniques.",
+    "faqs": [
+      {
+        "question": "What makes a good mystery comic?",
+        "answer": "A good mystery comic balances a compelling central puzzle with strong visual atmosphere, carefully paced clue reveals, and well-developed characters who drive the investigation."
+      },
+      {
+        "question": "How do I build suspense visually?",
+        "answer": "Build suspense visually by using tight framing (close-ups), heavy shadows (chiaroscuro), and controlling the pacing with panel size to stretch out tense moments."
+      },
+      {
+        "question": "What color palettes work best for thrillers?",
+        "answer": "Thrillers often benefit from desaturated, cool color palettes (blues, grays, greens) or stark, high-contrast black and white to emphasize shadows and danger."
+      }
+    ],
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "slug": "cyberpunk-action-comic-maker",
+    "title": "Cyberpunk Action Comic Maker",
+    "primaryKeyword": "cyberpunk action comic maker",
+    "h1": "Cyberpunk Action Comic Maker - Design Neon-Soaked Battles",
+    "description": "Design high-octane cyberpunk action comics. Create neon-lit cities, cyborg heroes, and futuristic battles with our cyberpunk action comic maker.",
+    "intro": "## How to create a cyberpunk action comic?\n\n> **AI Snapshot**: To create a cyberpunk action comic, combine high-tech environments with gritty street-level action, use vibrant neon colors against dark backgrounds, and utilize dynamic panel layouts to convey high-speed, futuristic combat.\n\nThe cyberpunk genre is defined by the juxtaposition of 'high tech and low life.' Creating a cyberpunk action comic means blending stunning futuristic visuals with gritty, visceral combat. This genre thrives on visual density and striking color palettes. With the tools available on our [home page](/), you can easily construct sprawling, neon-soaked cityscapes and intense action sequences. Dive into our [Assets Library](/assets) to find cyborg characters, futuristic weapons, and urban backgrounds.\n\n### Neon and Shadows\nThe visual signature of cyberpunk is the contrast between blinding neon lights and deep, oppressive shadows. Mastering this lighting is essential. You can enhance your scenes by studying our [comic shading and lighting guide](/blog/comic-shading-lighting-guide). The vibrant magentas, cyans, and yellows must fight against the encroaching darkness of the megacity.\n\n### Kinetic Action\nAction in a cyberpunk setting is often fast and lethal. Use diagonal panel borders and extreme foreshortening to make the combat feel explosive. Incorporate technology into the action—glowing cybernetics, holographic interfaces, and smart weapons all add to the unique flavor of cyberpunk combat.",
+    "faqs": [
+      {
+        "question": "What are the key visual elements of cyberpunk?",
+        "answer": "Key visual elements include dense urban environments, neon lighting (magenta, cyan, yellow) contrasting with deep shadows, cybernetic enhancements, and advanced technology in a gritty, decayed setting."
+      },
+      {
+        "question": "How do I draw futuristic action scenes?",
+        "answer": "Focus on dynamic poses, extreme camera angles, and use speed lines or motion blur to convey the high speed of cybernetically enhanced combat."
+      },
+      {
+        "question": "Can I use AI to help design cyberpunk cities?",
+        "answer": "Yes, AI tools can be excellent for generating complex, detailed cyberpunk backgrounds which you can then integrate and color grade within your comic panels."
+      }
+    ],
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "slug": "historical-fantasy-comic-creator",
+    "title": "Historical Fantasy Comic Creator",
+    "primaryKeyword": "historical fantasy comic creator",
+    "h1": "Historical Fantasy Comic Creator - Blend Magic and History",
+    "description": "Blend real history with magical elements. Create epic historical fantasy comics with our dedicated creator, featuring period-accurate assets and mystical tools.",
+    "intro": "## How to create a historical fantasy comic?\n\n> **AI Snapshot**: To create a historical fantasy comic, thoroughly research the chosen historical period for accurate clothing and architecture, then seamlessly integrate magical elements or mythical creatures into that grounded setting to create a believable alternate history.\n\nHistorical fantasy is a rich and challenging genre that requires balancing meticulous research with imaginative world-building. It asks the question: 'What if magic existed during the Roman Empire, or dragons fought in World War I?' Creating these comics requires a keen eye for detail to ground the fantastical elements in reality. Our [home page](/) provides the canvas for these epic tales. You can use our [Assets Library](/assets) to find a mix of historical props and fantasy elements to bring your alternate history to life.\n\n### Grounding the Fantasy\nFor the fantasy elements to feel impactful, the historical setting must feel authentic. This means researching the clothing, architecture, and social structures of the time period. If you are setting your story in Victorian London, the introduction of a magical artifact will be much more striking if the surrounding city feels meticulously real.\n\n### Merging Worlds\nThe visual challenge is making the magic look like it belongs in the historical setting. Consider how the technology or culture of the era would interact with the magic. A 19th-century wizard might use a modified steam engine to power their spells. For deeper insights into crafting these settings, review our [comic world building guide](/blog/comic-world-building-guide).",
+    "faqs": [
+      {
+        "question": "What is historical fantasy?",
+        "answer": "Historical fantasy is a genre that combines real-world historical settings and events with fantastical elements like magic, mythical creatures, or alternate timelines."
+      },
+      {
+        "question": "How important is historical accuracy?",
+        "answer": "While you have creative license, grounding your world in accurate historical details (clothing, architecture, culture) makes the fantastical elements feel much more believable and impactful."
+      },
+      {
+        "question": "How do I design magic for a historical setting?",
+        "answer": "Design the magic to reflect the era. For example, magic in a Renaissance setting might be closely tied to alchemy and clockwork, while magic in an ancient setting might rely on runes and natural elements."
+      }
+    ],
+    "updatedAt": "2026-08-08"
+  },
+  {
     "slug": "action-shonen-comic-maker",
     "title": "Action Shonen Comic Maker",
     "primaryKeyword": "action shonen comic maker",

@@ -1,5 +1,74 @@
 [
   {
+    "slug": "11-panel-grid-comic",
+    "title": "11-Panel Grid Comic Layout",
+    "primaryKeyword": "11-panel grid comic",
+    "h1": "Mastering the 11-Panel Grid Comic Layout",
+    "description": "Explore the 11-panel grid comic layout. Learn how to use this dense structure for complex storytelling, dialogue-heavy scenes, and controlling reading pace.",
+    "intro": "## How to use an 11-panel grid comic layout?\n\n> **AI Snapshot**: To use an 11-panel grid comic layout effectively, utilize the dense structure for complex, dialogue-heavy scenes or rapid sequences of action. Group smaller panels to speed up pacing and use the larger panels within the grid to highlight key emotional beats or critical actions.\n\nThe 11-panel grid is a highly complex and dense layout that offers incredible control over pacing and information delivery. While less common than the standard 9-panel grid, the 11-panel structure is perfect for creators who need to convey a massive amount of detail, rapid-fire dialogue, or a chaotic sequence of events within a single page. Using the flexible layout tools on our [home page](/), you can construct these intricate grids to tell deep, nuanced stories.\n\n### Managing Density\nThe primary challenge of the 11-panel grid is avoiding visual clutter. With so many panels on a page, you must be disciplined with your composition. Avoid overly detailed backgrounds in the smaller panels, focusing instead on character expressions and essential actions. Our [Assets Library](/assets) offers clean, readable characters that work perfectly in these tight spaces.\n\n### Pacing and Rhythm\nThe power of this layout lies in its rhythm. A sequence of six small panels followed by a larger, page-width panel creates a sudden, impactful pause in the narrative. This layout forces the reader to slow down and absorb the story beat by beat. For a deeper understanding of how panel size affects time, read our [mastering comic pacing guide](/blog/mastering-comic-pacing-guide).",
+    "faqs": [
+      {
+        "question": "When should I use an 11-panel grid?",
+        "answer": "Use an 11-panel grid when you need to convey a lot of information quickly, such as in a complex dialogue scene, a rapid sequence of events, or to show multiple perspectives of a single moment."
+      },
+      {
+        "question": "How do I keep an 11-panel page from looking cluttered?",
+        "answer": "Keep the artwork in the smaller panels simple. Focus on close-ups and essential actions, and minimize background details. Ensure speech bubbles are placed carefully so they don't obscure the art."
+      },
+      {
+        "question": "Is the 11-panel grid good for action scenes?",
+        "answer": "Yes, it can be excellent for action scenes if you want to show a fast, frantic, step-by-step breakdown of a fight or sequence, simulating rapid motion."
+      }
+    ],
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "slug": "comic-strip-storyboard-layout",
+    "title": "Comic Strip Storyboard Layout",
+    "primaryKeyword": "comic strip storyboard layout",
+    "h1": "The Comic Strip Storyboard Layout - Plan Your Narrative",
+    "description": "Learn how to use a storyboard layout for your comic strips. Plan scenes, test pacing, and structure your narrative efficiently before finalizing art.",
+    "intro": "## How to use a comic strip storyboard layout?\n\n> **AI Snapshot**: To use a comic strip storyboard layout, create rough thumbnail sketches in a sequence to plan the visual flow, composition, and text placement of your story before committing to detailed, final artwork.\n\nThe comic strip storyboard layout is the essential first step in professional comic creation. It is the blueprint of your story. Rather than focusing on polished art, a storyboard layout focuses entirely on narrative flow, panel composition, and the placement of dialogue. It is the phase where you solve visual problems before they become expensive mistakes. You can use the basic grid tools on our [home page](/) to quickly mock up these layouts, utilizing simple shapes or placeholder characters from the [Assets Library](/assets).\n\n### Focus on Flow\nThe primary goal of the storyboard layout is to ensure the reader's eye moves naturally through the page. Are the panel transitions clear? Does the action lead smoothly from one frame to the next? This is the time to experiment with different arrangements. If you need guidance on transitions, refer to our [comic panel transitions guide](/blog/comic-panel-transitions-guide).\n\n### Text Integration\nA common mistake is drawing a beautiful panel and then realizing there is no room for the speech bubbles. The storyboard layout forces you to plan the negative space for text from the very beginning, ensuring that dialogue and art work in perfect harmony. For more details on the storyboarding process, read our comprehensive [comic storyboarding guide](/blog/comic-storyboarding-guide).",
+    "faqs": [
+      {
+        "question": "What is the difference between a storyboard and a final comic page?",
+        "answer": "A storyboard is a rough, unpolished draft focused on planning the layout, composition, and pacing. The final comic page features completed, detailed artwork, inks, and colors."
+      },
+      {
+        "question": "Why should I storyboard my comic strip?",
+        "answer": "Storyboarding saves time and frustration by allowing you to solve problems with pacing, composition, and text placement before you spend hours drawing the final art."
+      },
+      {
+        "question": "How detailed should a storyboard layout be?",
+        "answer": "It only needs to be detailed enough for you to understand the action, character positions, and where the text will go. Stick figures and basic shapes are often sufficient."
+      }
+    ],
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "slug": "cinematic-widescreen-layout",
+    "title": "Cinematic Widescreen Comic Layout",
+    "primaryKeyword": "cinematic widescreen layout",
+    "h1": "Cinematic Widescreen Comic Layout - Epic Visual Storytelling",
+    "description": "Create epic visual narratives with the cinematic widescreen layout. Perfect for sweeping landscapes, intense action, and dramatic, movie-like storytelling.",
+    "intro": "## How to use a cinematic widescreen comic layout?\n\n> **AI Snapshot**: To use a cinematic widescreen layout, rely on wide, horizontal panels that span the width of the page to mimic a movie screen. Use this layout to emphasize expansive environments, large-scale action, and dramatic, sweeping moments.\n\nThe cinematic widescreen layout brings the epic scope of blockbuster filmmaking to the comic page. By utilizing wide, horizontal panels that stretch across the entire width of the canvas, creators can evoke a sense of grandeur and scale that is difficult to achieve with traditional grids. This layout is perfect for sweeping establishing shots, massive battles, or moments of profound isolation. You can easily set up these expansive panels using the layout options on our [home page](/), populating them with epic backgrounds from our [Assets Library](/assets).\n\n### Emphasizing the Environment\nWidescreen panels are ideal for world-building. They allow you to show the characters in relation to vast, detailed environments, grounding the story and setting the mood instantly. When designing these massive spaces, the principles in our [comic background design guide](/blog/comic-background-design-guide) are invaluable.\n\n### The Horizontal Pacing\nThe widescreen layout changes the reading rhythm. Because the eye has to travel further across the page for each panel, the pacing naturally feels slightly more deliberate and \"epic.\" It encourages the reader to linger on the details of the scene, making it highly effective for dramatic reveals or slow, tension-building sequences.",
+    "faqs": [
+      {
+        "question": "What is a cinematic widescreen layout?",
+        "answer": "It is a comic layout that primarily uses wide, horizontal panels that stretch across the entire page, mimicking the aspect ratio of a movie screen."
+      },
+      {
+        "question": "When should I use widescreen panels?",
+        "answer": "Use them to show expansive landscapes, establish a new setting, depict large-scale action, or create a dramatic, cinematic feel."
+      },
+      {
+        "question": "What are the drawbacks of a widescreen layout?",
+        "answer": "It can reduce the number of panels you fit on a page, limiting the amount of rapid-fire dialogue or complex action sequences you can show compared to a denser grid."
+      }
+    ],
+    "updatedAt": "2026-08-08"
+  },
+  {
     "slug": "dynamic-action-panel-layout",
     "title": "Dynamic Action Panel Layout",
     "primaryKeyword": "dynamic action panel layout",
