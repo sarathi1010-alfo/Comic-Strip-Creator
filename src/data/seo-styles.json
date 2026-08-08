@@ -1,5 +1,51 @@
 [
   {
+    "slug": "monochrome-noir-comic-style",
+    "title": "Monochrome Noir Comic Style",
+    "primaryKeyword": "monochrome noir comic style",
+    "h1": "Monochrome Noir Comic Style - Master Shadows and Contrast",
+    "description": "Create gripping comics in the monochrome noir style. Master chiaroscuro, heavy shadows, and stark black-and-white contrast for moody, dramatic storytelling.",
+    "intro": "## How to create a monochrome noir comic style?\n\n> **AI Snapshot**: To create a monochrome noir comic style, rely heavily on chiaroscuro (extreme contrast between light and dark). Use large areas of solid black to create heavy shadows, limit midtones, and use stark white for dramatic highlights and focal points.\n\nThe monochrome noir comic style is the visual language of hardboiled detectives, gritty crime dramas, and tense psychological thrillers. Stripped of color, this style relies entirely on the stark, unforgiving contrast between pure black and pure white. It is a masterclass in lighting and composition. By utilizing the high-contrast assets available on our [home page](/) and [Assets Library](/assets), you can build scenes dripping with atmosphere and tension.\n\n### The Power of Chiaroscuro\nThe defining feature of the noir style is chiaroscuro—the bold interplay of light and shadow. Shadows aren't just for rendering form; they are used to hide information, create mystery, and build a sense of dread. Characters are often half-swallowed by darkness. For a deeper understanding of these techniques, refer to our [comic shading and lighting guide](/blog/comic-shading-lighting-guide).\n\n### Spotting Blacks\nIn monochrome noir, \"spotting blacks\" (deciding where to place large areas of solid black ink) is crucial for balancing the panel composition. The heavy blacks anchor the image and direct the reader's eye to the contrasting white areas, which usually contain the essential action or expression.",
+    "faqs": [
+      {
+        "question": "What defines the noir comic style?",
+        "answer": "The noir style is defined by its use of heavy shadows, stark black-and-white contrast (chiaroscuro), and gritty, atmospheric lighting, often associated with crime and mystery genres."
+      },
+      {
+        "question": "How do I show depth without color?",
+        "answer": "Show depth by using atmospheric perspective in black and white (lighter grays for distant objects), varying line weight, and carefully placing overlapping shadows."
+      },
+      {
+        "question": "Should I use screentones in a noir comic?",
+        "answer": "While true noir often relies on pure black and white, subtle use of screentones or gray washes can add texture and midtones without sacrificing the high-contrast mood."
+      }
+    ],
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "slug": "retro-vintage-comic-style",
+    "title": "Retro Vintage Comic Style",
+    "primaryKeyword": "retro vintage comic style",
+    "h1": "Retro Vintage Comic Style - Capture the Golden Age Aesthetic",
+    "description": "Recreate the classic look of Golden Age comics. Learn how to use Ben-Day dots, limited palettes, and distressed textures for a true retro vintage comic style.",
+    "intro": "## How to create a retro vintage comic style?\n\n> **AI Snapshot**: To create a retro vintage comic style, use a limited color palette of flat primary colors, incorporate Ben-Day dot patterns for shading, simulate off-white or yellowed paper, and apply subtle distressing or misregistration effects to mimic old printing techniques.\n\nThe retro vintage comic style evokes nostalgia, capturing the charm and visual energy of the Golden and Silver Ages of comic books. This aesthetic is defined not just by its art style, but by the physical limitations of the printing presses of the era. By mimicking these historical imperfections, you can create a comic that feels like a newly discovered classic. You can start building this look using the tools on our [home page](/), selecting classic character designs from our [Assets Library](/assets).\n\n### Emulating the Printing Process\nThe key to the vintage look is the Ben-Day dot. Before modern digital coloring, colors were created by printing small, overlapping dots of cyan, magenta, and yellow. Using digital brushes or overlays that replicate this dot pattern instantly gives your comic a retro feel. Furthermore, simulating \"misregistration\"—where the color layers don't perfectly align with the black ink lines—adds authentic vintage character.\n\n### The Golden Age Palette\nVintage comics were limited to a specific, vibrant palette of primary and secondary colors. Avoid complex gradients or muted, modern tones. Stick to bold reds, blues, and yellows. For more information on how color choices define an era, check out our [comic color theory guide](/blog/comic-color-theory-guide).",
+    "faqs": [
+      {
+        "question": "What are Ben-Day dots?",
+        "answer": "Ben-Day dots are a printing technique used in classic comics where small colored dots are closely spaced, widely spaced, or overlapping to create the illusion of various colors and shading."
+      },
+      {
+        "question": "How do I make my digital comic look old?",
+        "answer": "Apply an overlay texture of yellowed or distressed paper, use a limited flat color palette, add a halftone/Ben-Day dot effect, and slightly offset the colors from the line art (misregistration)."
+      },
+      {
+        "question": "What fonts work best for a vintage comic style?",
+        "answer": "Use classic, hand-lettered style fonts that are bold and highly legible, avoiding overly clean or modern digital typefaces."
+      }
+    ],
+    "updatedAt": "2026-08-08"
+  },
+  {
     "slug": "dynamic-action-comic-style",
     "title": "Dynamic Action Comic Style",
     "primaryKeyword": "dynamic action comic style",
