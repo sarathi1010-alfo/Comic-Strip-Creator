@@ -665,5 +665,23 @@
       }
     ],
     "updatedAt": "2026-08-07"
+  },
+  {
+    "slug": "expressive-hand-lettering-style",
+    "name": "Expressive Hand Lettering Style",
+    "h1": "Expressive Hand Lettering Style – Voice on the Page",
+    "intro": "Treat your lettering as an extension of the art with the expressive hand lettering style. By altering the size, weight, and shape of the letters, you can visually represent the volume, tone, and emotion of a character's voice, adding a crucial layer to the dialogue. This style moves beyond standard, uniform fonts and embraces the imperfections and unique characteristics of hand-drawn text. When done well, expressive lettering can make a character's voice jump off the page, allowing the reader to 'hear' the dialogue in their head and feel the emotion behind the words.\n\n## Techniques for Expressive Lettering\nTo master expressive hand lettering, you need to experiment with different tools and styles.\n- **Varied Font Weights:** Use bold, heavy lettering for shouting or emphasis, and thin, delicate lettering for whispering or uncertainty.\n- **Dynamic Bubble Shapes:** Match the shape of the speech bubble to the tone of the dialogue, using jagged edges for anger, wavy lines for thought, or dripping lines for sarcasm.\n- **Integrated SFX:** Treat sound effects as part of the artwork, integrating them into the scene and using color and texture to convey the nature of the sound.\n\nBy incorporating expressive hand lettering into your comics, you can add a new dimension of emotion and personality to your characters' dialogue. Read more about finding your character's voice in our [Advanced Dialogue Techniques Guide](/blog/advanced-comic-dialogue-techniques-guide).",
+    "characteristics": [
+      "Varied Font Weights",
+      "Dynamic Bubble Shapes",
+      "Integrated SFX"
+    ],
+    "faqs": [
+      {
+        "question": "Why is expressive lettering important?",
+        "answer": "It acts as the 'audio' of a comic, conveying the emotion and tone of voice that plain text cannot."
+      }
+    ],
+    "updatedAt": "2026-08-09"
   }
 ]
