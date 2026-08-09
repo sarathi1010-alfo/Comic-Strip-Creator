@@ -1281,5 +1281,59 @@
       }
     ],
     "updatedAt": "2026-08-07"
+  },
+  {
+    "slug": "dialogue-heavy-9-panel-grid",
+    "name": "Dialogue-Heavy 9-Panel Grid",
+    "h1": "Dialogue-Heavy 9-Panel Grid – Control the Conversation",
+    "intro": "The 9-panel grid is perfect for dialogue-heavy scenes. It allows for a steady, ticking-clock rhythm, giving you immense control over the pacing of a conversation. By breaking a scene into many small beats, you can emphasize subtle shifts in facial expressions and tone. This layout is a favorite among creators who want to build tension slowly or focus on the intricate dynamics of a conversation between characters. The uniform size of the panels ensures that no single moment is visually prioritized over another, forcing the reader to pay close attention to the dialogue and the subtle acting of the characters.\n\n## Mastering the 9-Panel Grid\nTo effectively use the 9-panel grid, you must carefully plan your dialogue and visual beats.\n- **Conversations:** Use the rigid structure to create a back-and-forth rhythm that mimics a real conversation. Place speech bubbles carefully to guide the eye from panel to panel.\n- **Tension Building:** The steady beat of the 9-panel grid can be used to slowly build tension, leading up to a dramatic reveal or a sudden change in tone.\n- **Subtle Acting:** Because the panels are small, you must focus on subtle changes in facial expressions and body language to convey emotion and subtext.\n\nBy mastering the 9-panel grid, you can create complex, dialogue-driven scenes that are visually engaging and emotionally resonant. Learn how to write for this layout in our [Advanced Dialogue Techniques Guide](/blog/advanced-comic-dialogue-techniques-guide).",
+    "bestFor": [
+      "Conversations",
+      "Tension Building",
+      "Subtle Acting"
+    ],
+    "faqs": [
+      {
+        "question": "Why use a 9-panel grid?",
+        "answer": "It provides a rigid, metronomic pacing that is excellent for controlling the flow of a conversation and showing minute changes in character reactions."
+      }
+    ],
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "slug": "widescreen-cinematic-layout",
+    "name": "Widescreen Cinematic Layout",
+    "h1": "Widescreen Cinematic Layout – Epic Scope",
+    "intro": "Emulate the look of modern cinema with widescreen, horizontal panels. This layout is ideal for establishing shots, sweeping landscapes, or tense stand-offs. It forces the reader's eye to sweep across the page, slowing down the pacing for maximum impact. By using a landscape aspect ratio, you can create a sense of scale and grandeur that is difficult to achieve with traditional, vertical panels. This layout is particularly effective for action sequences, where you need to show multiple characters interacting in a large environment, or for dramatic moments where you want to emphasize the setting or the distance between characters.\n\n## Creating Cinematic Impact\nTo make the most of the widescreen layout, you need to think like a film director.\n- **Establishing Shots:** Use wide panels to introduce a new location or setting, giving the reader a sense of the environment and the atmosphere.\n- **Action Sequences:** Show the full scope of a battle or chase scene, allowing the action to unfold across the entire width of the page.\n- **Dramatic Pauses:** Use a wide panel with little or no dialogue to create a moment of silence or reflection, emphasizing the emotional weight of a scene.\n\nBy thinking cinematically and utilizing the widescreen layout, you can create comics that feel epic, immersive, and visually stunning. This pairs well with sparse dialogue, as discussed in our [Advanced Dialogue Techniques Guide](/blog/advanced-comic-dialogue-techniques-guide).",
+    "bestFor": [
+      "Establishing Shots",
+      "Action Sequences",
+      "Dramatic Pauses"
+    ],
+    "faqs": [
+      {
+        "question": "When should I use widescreen panels?",
+        "answer": "Use them to show scope, establish a new location, or create a deliberate, slow-paced dramatic moment."
+      }
+    ],
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "slug": "overlapping-action-panels",
+    "name": "Overlapping Action Panels",
+    "h1": "Overlapping Action Panels – Dynamic Energy",
+    "intro": "Break the grid by overlapping panels to create a sense of chaotic energy and fast movement. When panels bleed into one another, it visually represents the speed and urgency of the action, blurring the lines between sequential moments. This technique is perfect for fight scenes, high-speed chases, or any sequence where the action is happening too fast for a traditional, structured grid. By overlapping the panels, you force the reader's eye to jump quickly from one image to the next, simulating the frantic pace of the scene and creating a sense of disorientation and excitement.\n\n## Designing Chaotic Action\nTo effectively use overlapping panels, you must carefully manage the flow of the action.\n- **Fight Scenes:** Overlap panels to show rapid-fire strikes, dodges, and reactions, making the combat feel intense and immediate.\n- **Chaos and Confusion:** Use overlapping panels of varying sizes and shapes to create a sense of disorder and disorientation, reflecting the characters' state of mind.\n- **Guiding the Eye:** Even in a chaotic layout, you must ensure that the action lines and speech bubbles guide the reader's eye logically through the sequence.\n\nBy breaking the grid and using overlapping panels, you can inject a massive amount of dynamic energy and excitement into your action sequences. Keep your dialogue punchy and short during these sequences, as detailed in our [Advanced Dialogue Techniques Guide](/blog/advanced-comic-dialogue-techniques-guide).",
+    "bestFor": [
+      "Fight Scenes",
+      "Chaos",
+      "Fast-Paced Action"
+    ],
+    "faqs": [
+      {
+        "question": "How do overlapping panels affect pacing?",
+        "answer": "They speed up the reading experience, making the sequence feel frantic, simultaneous, and highly energetic."
+      }
+    ],
+    "updatedAt": "2026-08-09"
   }
 ]
