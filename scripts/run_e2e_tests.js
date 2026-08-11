@@ -4,6 +4,15 @@ const assert = require('assert');
   const browser = await chromium.launch({ headless: true });
   const page = await browser.newPage();
     const urlsToTest = [
+  'http://localhost:3000/blog/comic-book-typography-guide',
+  'http://localhost:3000/genres/post-apocalyptic-survival-comic',
+  'http://localhost:3000/genres/fantasy-heist-comic',
+  'http://localhost:3000/genres/sci-fi-mystery-comic',
+  'http://localhost:3000/layouts/dynamic-splash-page-layout',
+  'http://localhost:3000/layouts/3x5-grid-comic-layout',
+  'http://localhost:3000/layouts/fluid-panel-comic-layout',
+  'http://localhost:3000/styles/cel-shaded-comic-style',
+  'http://localhost:3000/styles/grunge-comic-style',
     'http://localhost:3000/blog/comic-storyboarding-guide',
     'http://localhost:3000/genres/thriller-mystery-comic-maker',
     'http://localhost:3000/genres/cyberpunk-action-comic-maker',
