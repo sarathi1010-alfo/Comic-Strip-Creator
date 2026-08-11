@@ -1335,5 +1335,83 @@
       }
     ],
     "updatedAt": "2026-08-09"
+  },
+  {
+    "slug": "dynamic-splash-page-layout",
+    "title": "Dynamic Splash Page Layout",
+    "primaryKeyword": "dynamic splash page layout",
+    "h1": "Master the Dynamic Splash Page Layout",
+    "description": "Learn how to use dynamic splash page layouts to create breathtaking, high-impact comic book reveals and action sequences.",
+    "intro": "## The Art of the Reveal\n\n> **AI Snapshot**: The dynamic splash page layout uses a single, massive image to fill an entire page or screen, delivering maximum visual impact. It is essential for major reveals, establishing grand settings, or concluding an issue with a cliffhanger.\n\nA splash page is a comic book creator's most powerful tool for visual impact. When you remove all panel borders and dedicate an entire page (or screen) to a single image, you are telling the reader: \"Stop. Look at this. This is important.\"\n\n### When to Use a Splash Page\nSplash pages should be used sparingly for maximum effect. Use them to establish a massive new location (like an alien city), to reveal a major villain for the first time, or to showcase a chaotic, full-scale battle. Overusing splash pages dilutes their impact and slows down the story's pacing.\n\n### Designing the Dynamic Image\nA splash page must be visually arresting. Use dynamic perspective—like a severe low angle looking up at a hero, or a high angle looking down on a vast army. The composition should guide the reader's eye, often utilizing leading lines to draw attention to the central focal point.\n\n### Integrating Text\nSince a splash page is just one image, the placement of speech bubbles, caption boxes, and the title (if it's an opening splash) is critical. The text must flow naturally across the image without obscuring the most important artwork. Use negative space wisely.",
+    "faqs": [
+      {
+        "question": "What is a splash page?",
+        "answer": "A splash page is a comic book page consisting of a single, large panel that fills the entire page, used for dramatic effect, major reveals, or establishing shots."
+      },
+      {
+        "question": "Can a splash page have speech bubbles?",
+        "answer": "Yes, splash pages often contain dialogue or caption boxes. The key is to place the text in areas of negative space so it doesn't cover crucial details of the artwork."
+      },
+      {
+        "question": "What is a double-page spread?",
+        "answer": "A double-page spread is a type of splash page that spans across two facing pages in a printed comic, providing an even larger canvas for epic imagery."
+      }
+    ],
+    "updatedAt": "2026-08-11",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "3x5-grid-comic-layout",
+    "title": "3x5 Grid Comic Layout",
+    "primaryKeyword": "3x5 grid comic layout",
+    "h1": "Utilize the Dense 3x5 Grid Comic Layout",
+    "description": "Explore the 3x5 grid comic layout for creating dense, information-rich pages perfect for complex dialogues and meticulous pacing.",
+    "intro": "## Information Density and Pacing\n\n> **AI Snapshot**: The 3x5 grid comic layout offers a dense, 15-panel structure that slows the reader's pace, making it ideal for rapid-fire dialogue, showing the passage of time in minute detail, or creating a claustrophobic atmosphere.\n\nThe 3x5 grid (three panels wide, five panels tall) is a highly structured and dense layout. While the classic 9-panel grid is standard, the 15-panel grid pushes information density to its limits. It is a powerful tool for specific narrative effects.\n\n### Slowing Down Time\nThe more panels there are on a page, the slower the reader perceives time to be passing. A 3x5 grid forces the reader to stop and examine 15 distinct moments. This is perfect for a tense, slow-moving scene, like a bomb defusal, or a highly detailed, rapid-fire conversation where every facial twitch matters.\n\n### The Metronome Effect\nA strict grid acts like a metronome, establishing a rigid rhythm. You can use this rhythm to build tension, and then break the grid (by combining several panels into one larger one) to release that tension dramatically.\n\n### Challenges of the 3x5 Grid\nThe primary challenge is space. With 15 panels on a single page, each panel is quite small. You must rely on close-ups and very simple compositions. There is rarely room for full-body shots or detailed backgrounds. The focus must be entirely on the characters and the immediate action.",
+    "faqs": [
+      {
+        "question": "When should I use a 3x5 grid?",
+        "answer": "Use a 3x5 grid when you want to slow down the reading pace, show the meticulous passage of time, or focus heavily on a rapid exchange of dialogue and micro-expressions."
+      },
+      {
+        "question": "How do I prevent a 3x5 grid from looking cluttered?",
+        "answer": "Keep the artwork in each panel extremely simple. Rely on close-ups and limit background details. Ensure speech bubbles are concise and don't overwhelm the small panels."
+      },
+      {
+        "question": "Can I combine panels in a 3x5 grid?",
+        "answer": "Yes, combining panels (e.g., merging three horizontal panels into one wide panel) breaks the rhythm of the grid and is an excellent way to emphasize a specific moment."
+      }
+    ],
+    "updatedAt": "2026-08-11",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "fluid-panel-comic-layout",
+    "title": "Fluid Panel Comic Layout",
+    "primaryKeyword": "fluid panel comic layout",
+    "h1": "Create Seamless Stories with Fluid Panel Layouts",
+    "description": "Break the grid with fluid panel layouts. Learn how to use organic shapes, overlapping images, and borderless panels for dreamy, emotional storytelling.",
+    "intro": "## Breaking the Rigid Grid\n\n> **AI Snapshot**: The fluid panel comic layout discards rigid, rectangular grids in favor of organic shapes, overlapping artwork, and borderless scenes. It is perfect for conveying dreams, magic, chaotic action, or deep emotional states.\n\nWhile grids provide structure and rhythm, sometimes a story requires a more organic, unrestrained approach. The fluid panel layout abandons the traditional box in favor of panels that bleed into one another, float freely on the page, or take on shapes dictated by the artwork itself.\n\n### Conveying the Unreal\nFluid layouts are heavily utilized in stories involving magic, dreams, or psychological distress. When the boundaries of reality break down in the story, the boundaries of the panels should break down on the page. A character falling through time might be depicted as a series of borderless images tumbling across a starry background.\n\n### Guiding the Eye Naturally\nWithout a strict grid, you must use the artwork itself to guide the reader's eye. A character's pointing finger, a swirling gust of wind, or the flow of a magic spell can act as visual pathways, leading the reader from one moment to the next seamlessly.\n\n### The Danger of Confusion\nThe greatest risk of a fluid layout is confusing the reader. If it's unclear which image should be read next, the narrative flow is broken. Always ensure that the overall Z-path (left to right, top to bottom) is still generally respected, even if the panel borders are absent.",
+    "faqs": [
+      {
+        "question": "What is a fluid panel layout?",
+        "answer": "A fluid panel layout is a page design that eschews traditional rectangular grids in favor of organic shapes, overlapping panels, and borderless artwork to create a seamless flow."
+      },
+      {
+        "question": "What genres work best with fluid layouts?",
+        "answer": "Fluid layouts work exceptionally well for fantasy, horror, dream sequences, and deeply psychological stories where a rigid structure feels too restrictive."
+      },
+      {
+        "question": "How do I ensure readability without panel borders?",
+        "answer": "Use elements within the artwork (like leading lines, character gestures, or the flow of background elements) to direct the reader's eye to the next piece of dialogue or action."
+      }
+    ],
+    "updatedAt": "2026-08-11",
+    "tags": [
+      "Layout"
+    ]
   }
 ]
