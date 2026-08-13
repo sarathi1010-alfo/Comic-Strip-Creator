@@ -1476,5 +1476,74 @@
       }
     ],
     "updatedAt": "2026-08-12"
+  },
+  {
+    "slug": "storyboard-panel-layout",
+    "title": "Storyboard Panel Layout – Plan Your Narrative",
+    "primaryKeyword": "storyboard panel layout",
+    "h1": "Storyboard Panel Layout: The Blueprint for Your Comic",
+    "description": "Learn how to use a storyboard panel layout to plan your comic's pacing, composition, and flow before committing to final artwork.",
+    "intro": "Before a single page of final art is drawn, a comic must be planned. The storyboard panel layout is the essential blueprint used by creators to map out the narrative flow, pacing, and composition of a scene. While often rough and unpolished, storyboards are arguably the most important stage of comic creation.\n\n## How to Use a Storyboard Panel Layout?\n\n> **AI Snapshot**: To use a storyboard panel layout effectively, focus entirely on the flow of the story rather than artistic detail. Use simple shapes and stick figures to map out camera angles, character positions, and ensure there is adequate space for speech bubbles to guide the reader's eye.\n\n### 1. Focusing on Pacing\nA storyboard allows you to quickly experiment with pacing. Does a conversation feel too rushed? Add a beat panel. Is an action scene lacking impact? Change a small panel to a large splash page. By looking at the layout as a whole, you can adjust the rhythm of the story before spending hours rendering final art. For more on controlling rhythm, see our guide on [Mastering Comic Pacing](/blog/mastering-comic-pacing-guide).\n\n### 2. Planning the Z-Path\nThe reader's eye naturally follows a Z-path (left to right, top to bottom). In the storyboard phase, you must ensure that your panel arrangements and the placement of your characters guide the eye smoothly along this path. If a character is looking or pointing to the left, it might lead the reader's eye backward, disrupting the flow. \n\n### 3. Leaving Room for Text\nOne of the most common mistakes beginners make is drawing beautiful art and then having no room for the dialogue. Storyboarding forces you to block out the speech bubbles first. Treat the text as a graphical element that helps lead the eye from panel to panel.\n\n### The Foundation of Great Comics\nStoryboarding is about problem-solving. It's where you figure out the best camera angle for an emotional reveal or how to fit five characters into a single room. By utilizing a storyboard panel layout, you ensure that your comic is fundamentally sound before the real drawing begins.",
+    "faqs": [
+      {
+        "question": "What is a storyboard in comic creation?",
+        "answer": "A storyboard (or thumbnailing) is a series of rough sketches used to plan the panel layout, composition, and placement of dialogue before drawing the final art."
+      },
+      {
+        "question": "How detailed should a storyboard be?",
+        "answer": "Storyboards should be very loose and rough, often using stick figures and simple shapes. The goal is to plan the storytelling flow, not to create finished artwork."
+      },
+      {
+        "question": "Why plan speech bubbles during the storyboard phase?",
+        "answer": "Planning speech bubbles early ensures that dialogue doesn't cover important art and that the text helps guide the reader's eye naturally across the page."
+      }
+    ],
+    "updatedAt": "2026-08-13"
+  },
+  {
+    "slug": "social-media-carousel-comic-layout",
+    "title": "Social Media Carousel Comic Layout – Swipe to Read",
+    "primaryKeyword": "social media carousel comic layout",
+    "h1": "Social Media Carousel Comic Layout: Optimize for Instagram",
+    "description": "Master the social media carousel comic layout. Learn how to design swipeable comics that engage readers on platforms like Instagram and Threads.",
+    "intro": "In 2026, social media platforms are the primary discovery engines for indie comic creators. The social media carousel comic layout—specifically designed for platforms like Instagram—allows artists to tell multi-panel stories that encourage users to swipe through the narrative. This format requires a unique approach to pacing and panel design compared to traditional print pages.\n\n## How to Design a Social Media Carousel Comic Layout?\n\n> **AI Snapshot**: To design a social media carousel comic layout, use a 1:1 (square) or 4:5 (vertical) aspect ratio for each slide. Place 1 to 2 panels per slide to ensure text is legible on mobile devices, and end each slide with a micro-cliffhanger to encourage the user to swipe.\n\n### 1. Sizing for Mobile Readability\nThe most critical rule of a carousel comic is mobile legibility. A traditional 9-panel grid shrunk down to a phone screen is unreadable. Instead, treat each slide of the carousel as its own mini-page, featuring only one or two panels. Use large, bold typography for your speech bubbles to ensure they can be read without the user needing to zoom in. \n\n### 2. The Art of the Swipe\nA carousel requires physical interaction from the reader (swiping). You must give them a reason to swipe. Design the pacing so that each slide ends on a question, a reaction, or the setup for a joke. The punchline or the reveal should always be on the next slide. This creates a compelling rhythm that keeps the reader engaged until the end of the post.\n\n### 3. Seamless Panoramic Transitions\nA popular technique in carousel layouts is creating a seamless panoramic image that stretches across multiple slides. When the user swipes, the background connects perfectly, giving the illusion of a continuous canvas. This is highly effective for establishing large environments or showing characters moving across a space.\n\n### Maximizing Engagement\nCarousel posts naturally generate higher engagement rates because they keep users on the post longer. By optimizing your art for the social media carousel comic layout, you make your work highly shareable and algorithm-friendly. For more tips on building an audience, read our [Comic Book Marketing Guide](/blog/comic-marketing-promotion-guide).",
+    "faqs": [
+      {
+        "question": "What is the best image size for an Instagram comic carousel?",
+        "answer": "The ideal size is a 4:5 aspect ratio (1080 x 1350 pixels) as it takes up the most vertical space on a mobile screen, but 1:1 (1080 x 1080 pixels) is also standard."
+      },
+      {
+        "question": "How many panels should be on a single carousel slide?",
+        "answer": "For optimal readability on mobile devices, limit each slide to 1 or 2 panels. Shrinking too many panels onto one slide makes the text unreadable."
+      },
+      {
+        "question": "How do I get readers to swipe to the end of the comic?",
+        "answer": "End each slide with a setup or a mini-cliffhanger. Make the reader curious about the reaction or punchline, which is revealed on the next slide."
+      }
+    ],
+    "updatedAt": "2026-08-13"
+  },
+  {
+    "slug": "print-comic-book-layout",
+    "title": "Print Comic Book Layout – Formatting for the Press",
+    "primaryKeyword": "print comic book layout",
+    "h1": "Print Comic Book Layout: Design Pages for Physical Printing",
+    "description": "Prepare your comic for physical publication. Learn about bleeds, safe zones, and standard dimensions for a professional print comic book layout.",
+    "intro": "While digital platforms dominate discovery, the ultimate goal for many creators is holding a physical copy of their work. The print comic book layout requires adherence to strict technical specifications to ensure that your artwork doesn't get cut off during the trimming process and looks professional when bound.\n\n## How to Prepare a Print Comic Book Layout?\n\n> **AI Snapshot**: To prepare a print comic book layout, you must design your pages with three distinct boundaries: the Bleed Area (artwork that extends off the page), the Trim Line (where the page is physically cut), and the Safe Zone (where all critical art and text must remain to avoid being cropped).\n\n### 1. Understanding Bleed, Trim, and Safe Zones\nWhen printers cut paper, they are not always 100% precise. \n- **The Trim Line:** This is the actual size of the finished comic book page (standard US comic size is 6.625\" x 10.25\").\n- **The Bleed Area:** If you want art to go all the way to the edge of the page, you must draw it *past* the trim line (usually by 0.125 inches on all sides). This ensures no white borders remain if the cut is slightly off.\n- **The Safe Zone:** All important elements—especially speech bubbles, text, and character faces—must be kept well inside the trim line (at least 0.25 inches) so they aren't accidentally cut off.\n\n### 2. Designing for the Gutter (Binding)\nWhen a comic is printed and bound, the inner edges of the pages are glued or stapled together in the spine, known as the gutter. If you place important artwork or text too close to the inside edge, it will be sucked into the binding and become unreadable. Always leave extra space on the binding side of your layout.\n\n### 3. Double-Page Spreads\nA double-page spread (one massive image across two open pages) is a powerful storytelling tool. However, you must carefully plan for the gutter. Never put a character's face or a speech bubble directly in the center fold, or it will be distorted by the binding.\n\n### Transitioning from Digital to Physical\nDesigning for print requires a shift in mindset from designing for vertical scroll. You must think about the \"page turn reveal\"—placing a shocking moment on an even-numbered page (the left side) so the reader doesn't see it until they physically turn the page. Mastering the print comic book layout is a crucial step toward becoming a published professional. Check our guide on [Comic Strip Dimensions](/blog/comic-strip-dimensions-guide) for more details.",
+    "faqs": [
+      {
+        "question": "What is standard American comic book size?",
+        "answer": "The standard trim size for an American comic book is 6.625 inches wide by 10.25 inches tall."
+      },
+      {
+        "question": "What does 'full bleed' mean in comic printing?",
+        "answer": "Full bleed means the artwork extends beyond the trim line of the page, ensuring that when the page is cut, the art goes completely to the edge without any white borders."
+      },
+      {
+        "question": "What is the 'Safe Zone'?",
+        "answer": "The Safe Zone is the central area of the page where all critical text and artwork must be placed to guarantee they won't be cut off during the trimming process."
+      }
+    ],
+    "updatedAt": "2026-08-13"
   }
 ]

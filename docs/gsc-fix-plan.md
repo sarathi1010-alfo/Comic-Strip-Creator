@@ -139,3 +139,9 @@ This usually indicates crawl budget issues or low-quality content signals.
 - **Technical Verification:** Passed. Verified 200 OK for all new URLs and core functionality via local build and headless browser testing.
 - **Sitemap:** public/sitemap.xml dynamic routes verified. (Sitemap submission script skipped in dev environment due to missing credentials, as expected).
 - **Search Engine Notification:** Triggering ping to Google Search Console and IndexNow API endpoints (pending production deployment).
+
+## Daily Update - 2026-08-13
+- **Published Content:** Tier 1 guide (`/blog/comic-marketing-promotion-guide`) and 8 programmatic Tier 2 pages (4 genres, 3 layouts, 1 style) focusing on comic marketing and diverse themes.
+- **Content Freshness & Internal Linking:** Retroactively linked `how-to-publish-your-comic-online` and `how-to-monetize-a-webcomic` to the new Tier 1 guide and updated their `updatedAt` timestamps to today.
+- **Technical Verification:** Pending E2E test verification.
+- **Sitemap:** Pending dynamic routes verification.
