@@ -145,3 +145,9 @@ This usually indicates crawl budget issues or low-quality content signals.
 - **Content Freshness & Internal Linking:** Retroactively linked `how-to-publish-your-comic-online` and `how-to-monetize-a-webcomic` to the new Tier 1 guide and updated their `updatedAt` timestamps to today.
 - **Technical Verification:** Pending E2E test verification.
 - **Sitemap:** Pending dynamic routes verification.
+
+## Daily Update - 2026-08-14
+- **Published Content:** Tier 1 guide (`/blog/comic-crowdfunding-kickstarter-guide`) and 8 programmatic Tier 2 pages (4 genres, 3 layouts, 1 style) focusing on comic crowdfunding.
+- **Content Freshness & Internal Linking:** Retroactively linked `how-to-publish-your-comic-online` and `how-to-monetize-a-webcomic` to the new Tier 1 guide and updated their `updatedAt` timestamps to today.
+- **Technical Verification:** Pending E2E test verification.
+- **Sitemap:** `public/sitemap.xml` statically regenerated to point to dynamic chunk endpoints.
