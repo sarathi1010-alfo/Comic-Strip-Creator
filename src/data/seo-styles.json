@@ -1,5 +1,24 @@
 [
   {
+    "slug": "text-heavy-graphic-novel-creator",
+    "title": "Text-Heavy Graphic Novel Creator - Master the Wordy Page",
+    "primaryKeyword": "Text-Heavy Graphic Novel",
+    "h1": "The Complete Guide to Creating Text-Heavy Graphic Novels",
+    "description": "Learn how to balance dense dialogue and narration with compelling artwork in graphic novels.",
+    "intro": "Graphic novels often tackle complex subjects that require significant amounts of text, from historical non-fiction to dense sci-fi lore.\n\n<blockquote class='ai-snapshot'>To create a text-heavy graphic novel, balance large amounts of text by using varied typography, integrating text into the environment, and utilizing spacious page layouts to prevent visual fatigue. ComicFlow's text tools help manage dense copy.</blockquote>\n\n## Defining Text-Heavy Visual and Narrative Techniques\nThe main challenge is ensuring the reader doesn't feel like they are reading an illustrated textbook. The text and art must remain intertwined.\n- **Narrative Captions:** Use caption boxes for exposition, distinct from speech bubbles.\n- **Typographic Variety:** Use bolding, italics, and different fonts (sparingly) to emphasize words and break up visual monotony.\n\n## 3 Professional Examples\n1. **The Diary Entry:** A page dominated by a character's handwritten journal entry, with small spot illustrations scattered around the margins.\n2. **The Infographic:** Using comic panels and text to visually explain a complex concept, like how a machine works or a historical timeline.\n3. **The Silent Counterpoint:** A page with heavy narration boxes overlaying entirely silent artwork that contrasts or adds deeper meaning to the text.\n\n## Subverting Common Text-Heavy Tropes\nInstead of massive, blocky caption boxes, try integrating the narration directly into the background art (e.g., written on the walls of a city, or flowing like wind).\n\n> **Quick Reference Table**\n> - **Genre:** Text-Heavy Graphic Novel\n> - **Techniques:** Typographic variety, integrated text, spacious layouts\n> - **Tools:** ComicFlow caption boxes, varied font options\n\nImprove your text placement skills with our [Comic Lettering Guide](/blog/comic-book-lettering-guide). Start drafting your graphic novel on our [home page](/).\n",
+    "faqs": [
+      {
+        "question": "What font size should I use for a graphic novel?",
+        "answer": "It depends on the print size, but ensure it is highly legible. A good rule of thumb is that if you have to squint to read it on screen, it's too small for print."
+      },
+      {
+        "question": "How do I prevent 'wall of text' syndrome?",
+        "answer": "Break long paragraphs into smaller, connected caption boxes, and make sure there is plenty of negative space around the text."
+      }
+    ],
+    "updatedAt": "2026-08-16"
+  },
+  {
     "slug": "monochrome-noir-comic-style",
     "title": "Monochrome Noir Comic Style",
     "primaryKeyword": "monochrome noir comic style",

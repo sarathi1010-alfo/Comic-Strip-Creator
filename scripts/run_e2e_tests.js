@@ -4,6 +4,17 @@ const assert = require('assert');
   const browser = await chromium.launch({ headless: true });
   const page = await browser.newPage();
     const urlsToTest = [
+  // Advanced Dialogue URLs
+  'http://localhost:3000/blog/advanced-dialogue-techniques-guide',
+  'http://localhost:3000/genres/dialogue-heavy-drama-comic',
+  'http://localhost:3000/genres/witty-sitcom-comic-strip',
+  'http://localhost:3000/genres/silent-action-comic-maker',
+  'http://localhost:3000/genres/intense-thriller-comic-generator',
+  'http://localhost:3000/layouts/dialogue-focused-comic-layout',
+  'http://localhost:3000/layouts/overlapping-panels-comic',
+  'http://localhost:3000/layouts/widescreen-cinematic-comic',
+  'http://localhost:3000/styles/text-heavy-graphic-novel-creator',
+
   'http://localhost:3000/blog/ultimate-guide-to-ai-comic-creation',
   'http://localhost:3000/genres/ai-sci-fi-comic-maker',
   'http://localhost:3000/genres/ai-fantasy-comic-generator',
