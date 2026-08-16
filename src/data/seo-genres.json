@@ -1,5 +1,81 @@
 [
   {
+    "slug": "intense-thriller-comic-generator",
+    "title": "Intense Thriller Comic Generator - Build Suspense",
+    "primaryKeyword": "Intense Thriller Comic",
+    "h1": "The Complete Guide to Creating Intense Thriller Comics",
+    "description": "Learn how to use pacing, shadows, and composition to keep your readers on the edge of their seats.",
+    "intro": "A great thriller comic makes the reader anxious to turn the page, but afraid of what they might find on the other side.\n\n<blockquote class='ai-snapshot'>To create intense thriller comics, master the use of shadows (chiaroscuro), tight pacing, and dramatic camera angles to build suspense and unease. ComicFlow's lighting filters can help set the mood.</blockquote>\n\n## Defining Thriller Visual and Narrative Techniques\nThrillers are all about what you *don't* show. The implied threat is always scarier than the revealed monster.\n- **Heavy Inks and Shadows:** Use high contrast to hide details and create a sense of mystery.\n- **Claustrophobic Framing:** Keep the \"camera\" close to the protagonist to make the reader feel trapped with them.\n\n## 3 Professional Examples\n1. **The Slow Reveal:** A 9-panel grid where a shadow slowly creeps across the floor over the course of several panels, building unbearable tension.\n2. **The Dutch Angle:** Tilting the horizon line in a panel to create a subconscious feeling of unease and wrongness.\n3. **The Page Turn:** Ending a page with a character opening a door, forcing the reader to turn the page to see what's inside.\n\n## Subverting Common Thriller Tropes\nInstead of the danger lurking in the dark, put your protagonist in a brightly lit, open space where they are entirely exposed and have nowhere to hide.\n\n> **Quick Reference Table**\n> - **Genre:** Intense Thriller\n> - **Techniques:** Chiaroscuro lighting, Dutch angles, page-turn reveals\n> - **Tools:** ComicFlow background assets, lighting overlays\n\nFor more on setting the mood, read our [Comic Inking and Rendering Guide](/blog/comic-inking-rendering-guide). Start crafting your suspenseful tale on our [home page](/).\n",
+    "faqs": [
+      {
+        "question": "How do I pace a thriller comic?",
+        "answer": "Use slow pacing (many panels) to build tension, and fast pacing (fewer, larger panels or splash pages) for the release or scare."
+      },
+      {
+        "question": "What colors work best for thrillers?",
+        "answer": "Desaturated colors, cool blues and greens, or stark black and white with a single accent color (like red) work very well."
+      }
+    ],
+    "updatedAt": "2026-08-16"
+  },
+  {
+    "slug": "silent-action-comic-maker",
+    "title": "Silent Action Comic Maker - Visual Storytelling Mastery",
+    "primaryKeyword": "Silent Action Comic",
+    "h1": "The Complete Guide to Creating Silent Action Comics",
+    "description": "Tell thrilling stories without a single word of dialogue using pure visual storytelling.",
+    "intro": "Silent action comics are the ultimate test of a comic artist's visual storytelling ability. Without dialogue, the art must convey everything.\n\n<blockquote class='ai-snapshot'>To create silent action comics, rely on clear choreography, dynamic poses, and intuitive panel flow to guide the reader's eye through the scene without relying on text. ComicFlow's action props are essential here.</blockquote>\n\n## Defining Silent Action Visual and Narrative Techniques\nEvery panel must clearly communicate the action taking place and the spatial relationship between the characters.\n- **Clear Silhouettes:** The action must be readable even if the characters were completely blacked out.\n- **Guiding the Eye:** Use leading lines (weapons, limbs, background elements) to point the reader to the next crucial panel.\n\n## 3 Professional Examples\n1. **The Chase:** A series of horizontal panels emphasizing speed and lateral movement across the page.\n2. **The Impact:** A large, borderless panel (splash) for the climax of the fight, maximizing the visual impact.\n3. **The Stealth Takedown:** Small, tightly packed panels showing isolated actions (a hand gripping a knife, a foot stepping on a twig) to build tension before the strike.\n\n## Subverting Common Action Tropes\nInstead of ending a fight with a massive explosion, end it with a quiet, exhausted moment between the combatants.\n\n> **Quick Reference Table**\n> - **Genre:** Silent Action\n> - **Techniques:** Strong silhouettes, kinetic lines, clear choreography\n> - **Tools:** Dynamic poses in ComicFlow, speed line assets\n\nBrush up on your character posing with our [Dynamic Comic Poses Guide](/blog/dynamic-comic-poses-guide). Start building your action sequence on our [home page](/).\n",
+    "faqs": [
+      {
+        "question": "How do I show sound in a silent comic?",
+        "answer": "You can use sound effect lettering (onomatopoeia) integrated into the art, or show the visual result of the sound (e.g., birds scattering, glass shattering)."
+      },
+      {
+        "question": "Is it harder to pace a silent comic?",
+        "answer": "Yes, because readers tend to skim through art faster than text. You have to carefully use panel size and detail to control their reading speed."
+      }
+    ],
+    "updatedAt": "2026-08-16"
+  },
+  {
+    "slug": "witty-sitcom-comic-strip",
+    "title": "Witty Sitcom Comic Strip Maker - Craft Great Jokes",
+    "primaryKeyword": "Witty Sitcom Comic Strip",
+    "h1": "The Complete Guide to Creating Witty Sitcom Comic Strips",
+    "description": "Master the timing and setup of situational comedy in your comic strips.",
+    "intro": "Sitcom (situational comedy) comic strips rely on strong character dynamics and excellent comedic timing.\n\n<blockquote class='ai-snapshot'>To create witty sitcom comic strips, establish relatable scenarios, use a clear setup-punchline structure (often across 3 or 4 panels), and rely on consistent character personalities for humor. ComicFlow's templates help structure your jokes perfectly.</blockquote>\n\n## Defining Sitcom Visual and Narrative Techniques\nThe humor usually comes from how specific, established characters react to a mundane or absurd situation.\n- **The Setup:** Establish the situation and the stakes quickly.\n- **The Escalation:** The situation gets slightly worse or more complicated.\n- **The Punchline:** The unexpected resolution or reaction.\n\n## 3 Professional Examples\n1. **The Misunderstanding:** A classic 4-panel structure where two characters are talking about entirely different things, only realizing it in the final panel.\n2. **The Reaction Shot:** Using the final panel not for a spoken punchline, but for a character's deadpan reaction to the previous panel's absurdity.\n3. **The Reversal:** Setting up an expected sitcom trope in panel 1, and immediately subverting it in panel 2.\n\n## Subverting Common Sitcom Tropes\nInstead of the \"bumbling husband and competent wife\" dynamic, try making both characters equally absurd but in different, conflicting ways.\n\n> **Quick Reference Table**\n> - **Genre:** Witty Sitcom\n> - **Techniques:** Setup/Punchline rhythm, deadpan reactions\n> - **Tools:** 3-panel and 4-panel ComicFlow layouts\n\nLearn more about joke timing in our [Comic Pacing Guide](/blog/mastering-comic-pacing-guide). Ready to make 'em laugh? Head to the [home page](/).\n",
+    "faqs": [
+      {
+        "question": "How many panels is best for a sitcom strip?",
+        "answer": "3 or 4 panels are standard. 3 provides a quick setup-escalation-punchline, while 4 allows for more breathing room or an extra beat before the joke."
+      },
+      {
+        "question": "Do I need recurring characters?",
+        "answer": "Yes, sitcom humor relies heavily on the reader understanding the established personalities and how they will clash."
+      }
+    ],
+    "updatedAt": "2026-08-16"
+  },
+  {
+    "slug": "dialogue-heavy-drama-comic",
+    "title": "Dialogue-Heavy Drama Comic Creator - Focus on Story",
+    "primaryKeyword": "Dialogue-Heavy Drama Comic",
+    "h1": "The Complete Guide to Creating Dialogue-Heavy Drama Comics",
+    "description": "Learn how to build tension and emotion through conversation in your dialogue-heavy drama comics.",
+    "intro": "Creating a drama comic that relies heavily on dialogue requires a careful balance of pacing, character expression, and text placement.\n\n<blockquote class='ai-snapshot'>To create dialogue-heavy drama comics, focus on subtle character expressions, strategic speech bubble placement, and varying panel sizes to control the pacing of the conversation. ComicFlow provides diverse character assets to help convey emotion.</blockquote>\n\n## Defining Dialogue-Heavy Drama Visual and Narrative Techniques\nIn this genre, the conflict is often internal or interpersonal rather than physical. The \"action\" happens in the words exchanged and the reactions of the characters.\n- **Emphasis on Expressions:** Subtle changes in eyebrows or mouth shape can convey volumes.\n- **Pacing with Panels:** Use wide panels for pauses or long speeches, and smaller, stacked panels for rapid back-and-forth arguments.\n\n## 3 Professional Examples\n1. **The Argument:** A 6-panel layout where the \"camera\" slowly pushes in on the characters' faces as the argument escalates, increasing the claustrophobia.\n2. **The Confession:** A wide, silent panel establishing the setting, followed by a tight close-up of the character speaking the crucial line.\n3. **The Aftermath:** A series of silent panels showing the characters reacting to a revelation, allowing the reader to absorb the emotional impact.\n\n## Subverting Common Drama Tropes\nInstead of always ending an argument with someone storming out, try resolving it quietly, or having a character react with unexpected humor or silence.\n\n> **Quick Reference Table**\n> - **Genre:** Dialogue-Heavy Drama\n> - **Techniques:** Subtle expressions, varied pacing, negative space\n> - **Tools:** ComicFlow Character Customizer, Bubble Placement tool\n\nFor deeper character insights, see our [Character Expressions Guide](/blog/character-expressions-guide). Start drafting your scene in our [home page](/) editor.\n",
+    "faqs": [
+      {
+        "question": "How do I keep a dialogue-heavy comic visually interesting?",
+        "answer": "Vary the 'camera' angles, use interesting panel layouts, and focus on nuanced character acting."
+      },
+      {
+        "question": "Are action lines useful in drama comics?",
+        "answer": "They can be used sparingly for sudden emotional shocks, but generally, focus on lighting and composition."
+      }
+    ],
+    "updatedAt": "2026-08-16"
+  },
+  {
     "slug": "thriller-mystery-comic-maker",
     "title": "Thriller Mystery Comic Maker",
     "primaryKeyword": "thriller mystery comic maker",

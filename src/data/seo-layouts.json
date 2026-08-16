@@ -1,5 +1,62 @@
 [
   {
+    "slug": "widescreen-cinematic-comic",
+    "title": "Widescreen Cinematic Comic Layout - Epic Storytelling",
+    "primaryKeyword": "Widescreen Cinematic Comic",
+    "h1": "The Complete Guide to Widescreen Cinematic Comic Layouts",
+    "description": "Mimic the feel of a blockbuster movie using horizontal, widescreen panel layouts.",
+    "intro": "The widescreen layout, popularized in the early 2000s, uses horizontal panels stacked vertically to emulate the aspect ratio of a movie screen.\n\n<blockquote class='ai-snapshot'>To create a widescreen cinematic comic layout, stack 3 or 4 wide, horizontal panels on a page. This slows down the reading pace and gives the comic an epic, movie-like feel. ComicFlow provides horizontal panel presets.</blockquote>\n\n## Why Widescreen Cinematic Layouts Matter\nThis layout is fantastic for establishing sweeping landscapes, showcasing large-scale action, and creating a deliberate, steady reading pace that feels \"important.\"\n\n## How to Implement Widescreen Layouts\n1. **The Stack:** Create a page with three or four equally sized horizontal panels stacked on top of each other.\n2. **The Pan:** You can use this layout to simulate a camera panning across a scene, moving slightly further along the landscape in each subsequent panel.\n3. **The Slow Push:** Show the same scene in all panels, but \"zoom in\" closer to a character's face in each one.\n\n## Top Tips for Cinematic Layouts\n- **Watch the Gutters:** Keep the horizontal gutters relatively narrow to maintain the connection between the sequential \"frames.\"\n- **Break the Rules:** Occasionally break the widescreen format with a vertical panel or a splash page for maximum impact.\n\n> **Key Takeaway**\n> Widescreen layouts automatically make a comic feel more cinematic, but they can limit the amount of dialogue you can comfortably fit on a page.\n\nFor more on creating epic visuals, see our [Graphic Novel Creation Guide](/blog/graphic-novel-creation-guide). Build your cinematic scene on the [home page](/).\n",
+    "faqs": [
+      {
+        "question": "Is the widescreen layout good for all genres?",
+        "answer": "It works best for action, sci-fi, and sprawling fantasy, but can be too slow or rigid for fast-paced comedy or intimate drama."
+      },
+      {
+        "question": "How many widescreen panels fit on a standard page?",
+        "answer": "Usually 3 or 4. Any more, and the panels become too thin to draw detailed figures in."
+      }
+    ],
+    "updatedAt": "2026-08-16"
+  },
+  {
+    "slug": "overlapping-panels-comic",
+    "title": "Overlapping Panels Comic Layout - Create Dynamic Flow",
+    "primaryKeyword": "Overlapping Panels Comic",
+    "h1": "The Complete Guide to Using Overlapping Panels in Comics",
+    "description": "Learn how to break the grid and use overlapping panels to create depth and control pacing.",
+    "intro": "Overlapping panels break the rigid structure of a standard grid, injecting energy and a sense of three-dimensionality into a page.\n\n<blockquote class='ai-snapshot'>To use overlapping panels effectively, place a smaller panel (inset) over a larger background panel to highlight a specific detail or simultaneous action, guiding the reader's eye seamlessly. ComicFlow allows free placement of panels.</blockquote>\n\n## Why Overlapping Panels Matter\nThey are an excellent tool for showing simultaneous events, highlighting a close-up reaction during a wider action, or simply making a page look more dynamic.\n\n## How to Implement Overlapping Panels\n1. **Establish the Base:** Create a large, establishing panel that will serve as the background.\n2. **Add the Inset:** Place a smaller panel over a less important area of the base panel (e.g., empty sky or a blank wall).\n3. **Control the Border:** Use a thicker border on the inset panel to ensure it pops out from the background and doesn't blend in confusingly.\n\n## Top Tips for Overlapping Layouts\n- **Don't Overdo It:** Too many overlapping panels can make a page chaotic and difficult to read.\n- **Maintain Flow:** Ensure the overlapping panel doesn't disrupt the natural Z-path reading order.\n\n> **Key Takeaway**\n> Overlapping panels are a great way to show a detail without having to draw a completely separate, full-sized panel.\n\nLearn more about visual flow in our [Mastering Comic Pacing Guide](/blog/mastering-comic-pacing-guide). Try overlapping panels in the [home page](/) editor.\n",
+    "faqs": [
+      {
+        "question": "When should I use an overlapping panel?",
+        "answer": "Use them for close-up reactions, showing a small detail within a larger scene, or depicting rapid, simultaneous actions."
+      },
+      {
+        "question": "Does the inset panel need a border?",
+        "answer": "Usually, yes. A strong border helps separate it from the background panel it is sitting on top of."
+      }
+    ],
+    "updatedAt": "2026-08-16"
+  },
+  {
+    "slug": "dialogue-focused-comic-layout",
+    "title": "Dialogue-Focused Comic Layout - Let the Words Breathe",
+    "primaryKeyword": "Dialogue-Focused Comic Layout",
+    "h1": "The Complete Guide to Dialogue-Focused Comic Layouts",
+    "description": "Optimize your panel layouts to prioritize reading flow and accommodate complex conversations.",
+    "intro": "When a comic scene relies heavily on conversation, the layout must serve the dialogue, ensuring clarity and a smooth reading experience.\n\n<blockquote class='ai-snapshot'>To create a dialogue-focused layout, prioritize negative space for speech bubbles, ensure a clear Z-path reading order, and use panel size to dictate the rhythm of the conversation. Use ComicFlow's flexible grid system.</blockquote>\n\n## Why Dialogue-Focused Layouts Matter\nIf a layout is too cluttered or complex, the reader will lose track of who is speaking and in what order. The layout must guide the eye effortlessly from one bubble to the next.\n\n## How to Implement Dialogue-Focused Layouts\n1. **Plan for Text First:** Before drawing the art, block out where the speech bubbles will go to ensure there is enough room.\n2. **Stagger the Bubbles:** Avoid lining bubbles up perfectly horizontally or vertically. Staggering them creates a more dynamic visual flow.\n3. **Use the Gutter:** Occasionally letting a speech bubble overlap the gutter can connect two related panels visually.\n\n## Top Tips for Dialogue Layouts\n- **The Z-Path:** Always remember the Western reading order (left to right, top to bottom).\n- **Tail Placement:** Ensure bubble tails point clearly to the speaker's mouth, not just their general direction.\n\n> **Key Takeaway**\n> The art should never fight the text for space in a dialogue-heavy scene.\n\nFor advanced text placement tips, see our [Advanced Dialogue Techniques Guide](/blog/advanced-dialogue-techniques-guide). Explore layouts in our [Assets Library](/assets).\n",
+    "faqs": [
+      {
+        "question": "What if there is too much text for one panel?",
+        "answer": "Break the dialogue up into multiple linked bubbles, or spread the conversation across multiple panels."
+      },
+      {
+        "question": "Can I put bubbles outside the panel borders?",
+        "answer": "Yes, breaking the panel border can be a stylish way to emphasize a line of dialogue."
+      }
+    ],
+    "updatedAt": "2026-08-16"
+  },
+  {
     "slug": "11-panel-grid-comic",
     "title": "11-Panel Grid Comic Layout",
     "primaryKeyword": "11-panel grid comic",
