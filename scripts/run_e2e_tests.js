@@ -4,6 +4,17 @@ const assert = require('assert');
   const browser = await chromium.launch({ headless: true });
   const page = await browser.newPage();
     const urlsToTest = [
+  // Emotion Acting URLs
+  'http://localhost:3000/blog/comic-emotion-acting-guide',
+  'http://localhost:3000/genres/melodrama-comic-maker',
+  'http://localhost:3000/genres/psychological-thriller-comic',
+  'http://localhost:3000/genres/romantic-comedy-comic-maker',
+  'http://localhost:3000/genres/soap-opera-comic-creator',
+  'http://localhost:3000/layouts/close-up-emotion-layout',
+  'http://localhost:3000/layouts/reaction-panel-comic-layout',
+  'http://localhost:3000/layouts/six-panel-emotional-arc',
+  'http://localhost:3000/styles/expressive-cartoon-style',
+
   // Advanced Dialogue URLs
   'http://localhost:3000/blog/advanced-dialogue-techniques-guide',
   'http://localhost:3000/genres/dialogue-heavy-drama-comic',
