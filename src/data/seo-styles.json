@@ -840,5 +840,35 @@
       "Style",
       "Publishing"
     ]
+  },
+  {
+    "slug": "chiaroscuro-comic-style",
+    "title": "Chiaroscuro Comic Style - The Art of Light and Dark",
+    "primaryKeyword": "Chiaroscuro Comic Style",
+    "h1": "Master the Chiaroscuro Comic Style",
+    "description": "Learn to utilize the classic Renaissance technique of chiaroscuro to give your comics dramatic volume and intense mood.",
+    "intro": "Chiaroscuro is Italian for \"light-dark,\" and it's a technique that has defined dramatic art for centuries.\n\n<blockquote class='ai-snapshot'>The chiaroscuro comic style relies on strong, defined light sources to create high-contrast images with deep, heavy shadows that give characters a three-dimensional, sculpted appearance and a moody atmosphere.</blockquote>\n\n## Sculpting with Shadows\nInstead of drawing outlines, define your characters by the boundaries where light meets shadow. This creates a much more realistic and weighty feel.\n\n## Drama and Tension\nThe stark contrast of chiaroscuro naturally lends itself to serious, tense, or mysterious genres like noir, horror, and mature superhero stories.\n\n> **Quick Reference Table**\n> - **Style:** Chiaroscuro\n> - **Techniques:** Strong directional light, sculpting form with shadow\n> - **Tools:** Soft brushes, contrast tools\n\nStart sculpting your comic on our [home page](/).\n\n### The Importance of the Light Source\nFor chiaroscuro to work, you must be absolutely consistent with your light source. If the light changes arbitrarily, the illusion of 3D form falls apart.\n\n### Mid-tones and Core Shadows\nWhile the contrast is high, the transition between light and dark (the core shadow) must be carefully managed to show the roundness of forms.\n\n### Applying to Digital Art\nIn digital coloring, use multiply layers for shadows and overlay or screen layers for highlights to build up the dramatic lighting effect.",
+    "faqs": [
+      {
+        "question": "Is chiaroscuro only for black and white comics?",
+        "answer": "No, it works beautifully in color as well, often utilizing warm light against cool shadows to enhance the contrast."
+      }
+    ],
+    "updatedAt": "2026-08-18"
+  },
+  {
+    "slug": "cel-shaded-comic-style",
+    "title": "Cel-Shaded Comic Style - Crisp and Animated",
+    "primaryKeyword": "Cel-Shaded Comic Style",
+    "h1": "Create Vibrant Cel-Shaded Comics",
+    "description": "Master the cel-shaded style to give your comics a clean, vibrant look reminiscent of classic animation and modern video games.",
+    "intro": "Cel shading offers a clean, stylized approach to lighting that is incredibly popular in modern webcomics and manga-inspired art.\n\n<blockquote class='ai-snapshot'>The cel-shaded comic style uses flat, distinct blocks of color for shadows and highlights, avoiding smooth gradients, to create a crisp, animated appearance that reads clearly and quickly.</blockquote>\n\n## Speed and Clarity\nBecause it eschews complex gradients, cel shading is often faster to produce and results in highly legible art, perfect for fast-paced action or expressive comedy.\n\n## Defining the Edges\nThe boundary between light and shadow is a hard edge. This requires a strong understanding of underlying 3D forms to place those edges correctly.\n\n> **Quick Reference Table**\n> - **Style:** Cel-Shaded\n> - **Techniques:** Flat color blocks, hard shadow edges\n> - **Tools:** Lasso fill, hard round brushes\n\nCreate your animated style comic on our [home page](/).\n\n### The \"Terminator\" Line\nThe line separating light and dark (the terminator) is crucial in cel shading. It defines the volume of the character more than any other element.\n\n### Adding Highlights\nA secondary layer of hard-edged highlights can make materials look shiny or wet, adding depth without sacrificing the clean style.\n\n### Color Palettes\nCel shading pairs well with vibrant, saturated color palettes, emphasizing the stylized, animated feel of the artwork.",
+    "faqs": [
+      {
+        "question": "How many levels of shading should I use in cel shading?",
+        "answer": "Typically, two levels (a base color and one shadow color) are sufficient, though a third highlight color can add extra polish."
+      }
+    ],
+    "updatedAt": "2026-08-18"
   }
 ]
