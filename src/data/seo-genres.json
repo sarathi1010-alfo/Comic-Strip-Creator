@@ -2135,5 +2135,50 @@
       "Genre",
       "Publishing"
     ]
+  },
+  {
+    "slug": "film-noir-comic-generator",
+    "title": "Film Noir Comic Generator - Master Shadows and Mystery",
+    "primaryKeyword": "Film Noir Comic Generator",
+    "h1": "Create Dramatic Film Noir Comics",
+    "description": "Generate stylish, shadow-heavy film noir comics with high contrast lighting and hardboiled detectives.",
+    "intro": "Film noir relies heavily on atmosphere, achieved through extreme lighting and moral ambiguity.\n\n<blockquote class='ai-snapshot'>To create a film noir comic, focus on high-contrast black and white art, heavy use of shadows (chiaroscuro), stark silhouettes, and themes of crime and moral decay.</blockquote>\n\n## The Look of Noir\nNoir comics often use stark lighting, where characters emerge from deep shadows. This visual style reflects the hidden motives and dark secrets of the genre.\n\n## Storytelling Techniques\nUse hardboiled narration and cynical dialogue to build tension.\n\n> **Quick Reference Table**\n> - **Genre:** Film Noir\n> - **Techniques:** High contrast, silhouettes, chiaroscuro\n> - **Tools:** Black and white filters, shadow assets\n\nBuild your gritty noir story on our [home page](/).\n\n### Expanding the Shadows\nBy mastering the shadows, you create an atmosphere of dread and suspense. Ensure your lighting is purposeful, hiding key details while highlighting dramatic expressions. Study classic noir films to understand the pacing and visual language.\n\n### Character Archetypes\nNoir relies on classic archetypes: the cynical detective, the femme fatale, the corrupt cop. Play with these tropes, perhaps subverting expectations to keep readers engaged. Their silhouettes should be instantly recognizable.\n\n### The Importance of Contrast\nIn a black and white comic, contrast is your primary tool for guiding the eye. Use pure whites sparingly for maximum impact, drawing attention to a smoking gun or a terrified eye.",
+    "faqs": [
+      {
+        "question": "Does noir have to be black and white?",
+        "answer": "While traditional, modern 'neo-noir' often uses muted or monochromatic color palettes with a single pop of color."
+      }
+    ],
+    "updatedAt": "2026-08-18"
+  },
+  {
+    "slug": "gothic-horror-comic-maker",
+    "title": "Gothic Horror Comic Maker - Craft Chilling Tales",
+    "primaryKeyword": "Gothic Horror Comic Maker",
+    "h1": "Design Terrifying Gothic Horror Comics",
+    "description": "Create chilling gothic horror comics using atmospheric lighting, decrepit settings, and themes of madness.",
+    "intro": "Gothic horror relies on a creeping sense of dread and oppressive environments.\n\n<blockquote class='ai-snapshot'>A gothic horror comic utilizes gloomy settings like ruined castles, heavy atmospheric effects like fog, and dramatic underlighting to create a sense of unease and terror.</blockquote>\n\n## Building Dread\nInstead of jump scares, focus on building atmosphere. Let the shadows obscure the monsters, leaving the terror to the reader's imagination.\n\n## The Environment as a Character\nThe setting should feel alive and hostile. Crooked architecture and looming silhouettes are key.\n\n> **Quick Reference Table**\n> - **Genre:** Gothic Horror\n> - **Techniques:** Atmospheric fog, creeping shadows, underlighting\n> - **Tools:** Environment filters, distressed textures\n\nStart terrifying your readers on our [home page](/).\n\n### The Psychology of Fear\nGothic horror often explores madness and isolation. Reflect this in your panel layouts, perhaps making them increasingly chaotic or claustrophobic as the protagonist's sanity slips.\n\n### Lighting the Unseen\nUse shadows to hint at horrors rather than showing them plainly. A distorted shadow stretching across a wall can be far scarier than the creature casting it.\n\n### Pacing the Terror\nAllow for moments of quiet tension before the climax. Slow, deliberate pacing makes the eventual horror much more impactful.",
+    "faqs": [
+      {
+        "question": "What is the key element of gothic horror art?",
+        "answer": "Atmosphere. The environment should feel oppressive and full of hidden dangers, primarily achieved through heavy shadows."
+      }
+    ],
+    "updatedAt": "2026-08-18"
+  },
+  {
+    "slug": "neon-cyberpunk-thriller-comic",
+    "title": "Neon Cyberpunk Thriller Comic - High Tech, Low Life",
+    "primaryKeyword": "Neon Cyberpunk Thriller Comic",
+    "h1": "Create a Neon Cyberpunk Thriller",
+    "description": "Build high-tech cyberpunk thrillers illuminated by harsh neon lights and deep urban shadows.",
+    "intro": "Cyberpunk is defined by its contrast: advanced technology clashing with societal decay.\n\n<blockquote class='ai-snapshot'>To make a cyberpunk thriller, contrast bright, saturated neon lighting against dark, grimy cityscapes. Use dynamic action layouts to emphasize the fast-paced, high-tech nature of the story.</blockquote>\n\n## Lighting the Future\nNeon lights should provide intense, unnatural colors that cast harsh shadows, emphasizing the synthetic nature of the world.\n\n## High-Stakes Action\nThrillers require fast pacing. Use diagonal panel borders and speed lines to convey motion and urgency.\n\n> **Quick Reference Table**\n> - **Genre:** Cyberpunk Thriller\n> - **Techniques:** Neon color palettes, harsh directional lighting\n> - **Tools:** Glow effects, cybernetic assets\n\nConstruct your dystopian future on our [home page](/).\n\n### World-Building Through Light\nThe lighting in cyberpunk often tells a story of inequality. The wealthy live in bright, clean spaces, while the underclass survives in the dark, neon-lit gutters below.\n\n### Integrating Tech\nEnsure cybernetic enhancements and holographic interfaces emit their own light, casting unnatural glows on characters' faces.\n\n### Pacing the Thriller\nKeep the plot moving fast. Use quick cuts between panels and dynamic angles to maintain high tension throughout the narrative.",
+    "faqs": [
+      {
+        "question": "What colors dominate cyberpunk comics?",
+        "answer": "High-contrast neon colors like cyan, magenta, and electric blue, set against deep blacks and grays."
+      }
+    ],
+    "updatedAt": "2026-08-18"
   }
 ]

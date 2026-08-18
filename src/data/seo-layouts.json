@@ -1728,5 +1728,50 @@
       "Layout",
       "Publishing"
     ]
+  },
+  {
+    "slug": "shadow-heavy-comic-layout",
+    "title": "Shadow-Heavy Comic Layout - Designing with Darkness",
+    "primaryKeyword": "Shadow-Heavy Comic Layout",
+    "h1": "Mastering the Shadow-Heavy Layout",
+    "description": "Learn how to construct comic layouts where negative space and deep shadows dictate the composition.",
+    "intro": "Sometimes, what you don't show is more important than what you do show.\n\n<blockquote class='ai-snapshot'>A shadow-heavy layout uses large areas of pure black or deep shadow as a structural element, guiding the reader's eye by framing the illuminated action and creating a claustrophobic or mysterious atmosphere.</blockquote>\n\n## Designing with Negative Space\nTreat shadows as solid shapes in your composition. They can frame panels, link disparate elements, or obscure unnecessary details.\n\n## The Power of the Silhouette\nWhen details are swallowed by shadows, silhouettes become crucial for character recognition and action clarity.\n\n> **Quick Reference Table**\n> - **Layout:** Shadow-Heavy\n> - **Techniques:** Negative space composition, silhouette action\n> - **Tools:** Black fill tools, contrast adjustments\n\nExperiment with shadows on our [home page](/).\n\n### Guiding the Eye\nIn a dark layout, any point of light becomes a strong focal point. Use this to direct the reader exactly where you want them to look, ensuring the narrative flow is unbroken.\n\n### Emotional Weight\nHeavy shadows physically weigh down the page, conveying feelings of depression, oppression, or hidden danger.\n\n### Balancing the Page\nToo much black can make a page unreadable. Ensure there is enough light to define the forms and maintain visual interest without losing the moody atmosphere.",
+    "faqs": [
+      {
+        "question": "How do I prevent my art from becoming muddy?",
+        "answer": "Use pure black and pure white for the extremes, ensuring strong contrast so the forms don't blend together."
+      }
+    ],
+    "updatedAt": "2026-08-18"
+  },
+  {
+    "slug": "high-contrast-action-layout",
+    "title": "High-Contrast Action Layout - Maximum Visual Impact",
+    "primaryKeyword": "High-Contrast Action Layout",
+    "h1": "Building a High-Contrast Action Layout",
+    "description": "Utilize extreme light and dark contrast to make action sequences pop off the page with explosive energy.",
+    "intro": "Action needs energy, and visual contrast is one of the best ways to provide it.\n\n<blockquote class='ai-snapshot'>A high-contrast action layout strips away mid-tones, relying on stark blacks and blinding whites to create aggressive, instantly readable images that convey speed, impact, and raw power.</blockquote>\n\n## Simplifying for Speed\nBy removing complex shading, you make the images easier to process quickly, matching the fast pace of an action scene.\n\n## Impact Flashes\nUse sudden inversions of light and dark, or completely white backgrounds behind silhouettes, to emphasize a powerful hit or explosion.\n\n> **Quick Reference Table**\n> - **Layout:** High-Contrast Action\n> - **Techniques:** Minimal mid-tones, impact flashes, speed lines\n> - **Tools:** Contrast sliders, graphic shapes\n\nCreate explosive action on our [home page](/).\n\n### Dynamic Angles\nPair high contrast with extreme camera angles (like low angles or severe Dutch tilts) to maximize the feeling of kinetic energy.\n\n### Readability Above All\nEven in chaos, the action must be clear. High contrast helps separate the characters from the background, ensuring the reader understands the mechanics of the fight.\n\n### The Rhythm of Combat\nUse a mix of large, high-impact panels and smaller, rapid-fire panels to control the pacing of the fight sequence.",
+    "faqs": [
+      {
+        "question": "Should I use gray tones in a high-contrast layout?",
+        "answer": "Use them very sparingly, only when necessary for texture, so they don't dilute the power of the stark blacks and whites."
+      }
+    ],
+    "updatedAt": "2026-08-18"
+  },
+  {
+    "slug": "atmospheric-mood-panel-layout",
+    "title": "Atmospheric Mood Panel Layout - Setting the Scene",
+    "primaryKeyword": "Atmospheric Mood Panel Layout",
+    "h1": "Crafting the Atmospheric Mood Panel Layout",
+    "description": "Use dedicated panels focused purely on lighting and environment to establish a strong emotional mood before the action begins.",
+    "intro": "Establishing a sense of place and time is crucial for immersing the reader.\n\n<blockquote class='ai-snapshot'>An atmospheric mood layout features \"establishing panels\" that focus on the environment, weather, and lighting, rather than characters or action, to set the emotional tone for the scene to follow.</blockquote>\n\n## Breathing Room\nThese panels give the reader a moment to pause and absorb the atmosphere, controlling the pacing of the story.\n\n## Visual Metaphors\nThe environment can reflect the internal state of the characters. A stormy sky or long, lonely shadows can foreshadow conflict.\n\n> **Quick Reference Table**\n> - **Layout:** Atmospheric Mood\n> - **Techniques:** Environmental focus, establishing shots\n> - **Tools:** Weather effects, atmospheric perspective\n\nSet the mood on our [home page](/).\n\n### Transitions and Pacing\nUse mood panels as transitions between scenes or locations, giving the story a natural rhythm.\n\n### Detailing the World\nThis is your chance to show off world-building details that might be obscured during fast-paced action or dialogue scenes.\n\n### The Power of Silence\nMood panels are almost always silent. Let the art, the lighting, and the environment speak for themselves.",
+    "faqs": [
+      {
+        "question": "How many mood panels should I use?",
+        "answer": "Typically one or two at the beginning of a scene are enough to establish the atmosphere without dragging down the pacing."
+      }
+    ],
+    "updatedAt": "2026-08-18"
   }
 ]
