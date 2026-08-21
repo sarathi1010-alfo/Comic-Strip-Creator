@@ -292,7 +292,17 @@ const assert = require('assert');
   'http://localhost:3000/layouts/color-transition-comic-layout',
   'http://localhost:3000/layouts/monochromatic-flashback-layout',
   'http://localhost:3000/layouts/high-contrast-action-comic-layout',
-  'http://localhost:3000/styles/vibrant-pop-art-style'
+  'http://localhost:3000/styles/vibrant-pop-art-style',
+
+    "http://localhost:3000/blog/manga-creation-guide",
+    "http://localhost:3000/genres/shonen-manga-maker",
+    "http://localhost:3000/genres/shoujo-manga-creator",
+    "http://localhost:3000/genres/seinen-manga-generator",
+    "http://localhost:3000/genres/isekai-manga-builder",
+    "http://localhost:3000/layouts/manga-4-koma-layout",
+    "http://localhost:3000/layouts/manga-action-spread-layout",
+    "http://localhost:3000/layouts/vertical-manga-panel-layout",
+    "http://localhost:3000/styles/screentone-manga-style",
 ];
   page.on('console', msg => {
     if (msg.type() === 'error') {

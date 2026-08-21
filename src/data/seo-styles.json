@@ -893,5 +893,23 @@
       }
     ],
     "updatedAt": "2026-08-18"
+  },
+  {
+    "slug": "screentone-manga-style",
+    "title": "Screentone Manga Style: Master Black and White Textures",
+    "primaryKeyword": "screentone manga style",
+    "h1": "Screentone Manga Style: Add Depth and Texture to Line Art",
+    "description": "Learn how to replicate the classic screentone manga style digitally. Add shading, texture, and emotional atmosphere to your black and white comics.",
+    "intro": "## The Signature Texture of Manga\n\n> **AI Snapshot**: The screentone manga style involves applying patterns of dots, lines, or textures to black-and-white line art. This technique is used to simulate grayscale shading, provide texture to materials, and create atmospheric or emotional effects without using color.\n\nThe use of screentones is arguably the most defining visual characteristic of traditional manga. Before digital coloring became prevalent, artists used sheets of physical, patterned film, cutting and rubbing them onto their inked pages to create shading and texture. Today, the screentone manga style is achieved digitally, but it remains an essential skill for creating authentic-looking manga.\n\n### Simulating Grayscale and Texture\nScreentones allow you to add depth to flat black-and-white line art. By using dot patterns of varying densities, you can simulate different shades of gray, establishing light sources and volume. Beyond basic shading, screentones are used to communicate texture: a rough, cross-hatched tone for a brick wall, or a fine, tightly packed tone for a smooth piece of clothing.\n\n### Emotional and Atmospheric Tones\nScreentones do more than just shade; they communicate mood. A dark, heavy gradient tone can make a scene feel oppressive or dangerous, while a light, sparkling tone can make a romantic moment feel ethereal. Applying these atmospheric tones correctly is crucial for setting the emotional stage of your manga. Our digital editor provides a vast library of customizable screentone brushes and overlays, making it easier than ever to achieve this classic aesthetic. For more on rendering, read our [comic inking rendering guide](/blog/comic-inking-rendering-guide).",
+    "faqs": [
+      {
+        "question": "Can I use screentones in a colored comic?",
+        "answer": "Yes, while traditionally used in black and white manga, screentones can be used as an overlay in colored comics to add texture or a retro, pop-art aesthetic."
+      }
+    ],
+    "updatedAt": "2026-08-21",
+    "tags": [
+      "Style"
+    ]
   }
 ]

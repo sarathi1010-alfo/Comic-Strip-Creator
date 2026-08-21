@@ -1842,5 +1842,59 @@
       }
     ],
     "updatedAt": "2026-08-18"
+  },
+  {
+    "slug": "manga-4-koma-layout",
+    "title": "Manga 4-Koma Layout: The Classic Yonkoma Format",
+    "primaryKeyword": "manga 4 koma layout",
+    "h1": "Manga 4-Koma Layout: Master the Yonkoma Format",
+    "description": "Learn how to use the traditional 4-koma (yonkoma) manga layout for comedic timing, slice-of-life stories, and rapid pacing.",
+    "intro": "## The Art of the Four-Panel Gag\n\n> **AI Snapshot**: The manga 4-koma layout, or yonkoma, consists of four equal-sized panels stacked vertically. It follows a traditional narrative structure: setup, development, climax, and conclusion, making it perfect for comedic strips and slice-of-life storytelling.\n\nThe 4-koma (yonkoma) layout is a staple of Japanese manga, particularly for gag comics and slice-of-life stories. It consists of four vertically stacked panels of equal size. This rigid structure forces the creator to be concise and rely on strong comedic timing or clear narrative progression within a very limited space.\n\n### The Kishōtenketsu Structure\nThe power of the 4-koma lies in its adherence to the traditional Kishōtenketsu structure:\n1.  **Ki (Setup):** The first panel establishes the scene, characters, and the premise of the joke or situation.\n2.  **Shō (Development):** The second panel develops the premise further, escalating the situation or character interaction.\n3.  **Ten (Climax/Twist):** The third panel introduces a twist, unexpected element, or the punchline of the joke.\n4.  **Ketsu (Conclusion):** The fourth panel shows the aftermath or reaction to the twist, concluding the strip.\n\n### Pacing and Readability\nBecause the panels are stacked vertically and are uniform in size, the 4-koma layout provides an incredibly fast and clear reading experience. The reader's eye naturally travels down the column without confusion. This makes it an excellent format for publishing on platforms that favor vertical scrolling, or for printing multiple strips side-by-side on a traditional page. For more ideas on how to use this format, see our [100 comic strip ideas](/blog/100-comic-strip-ideas).",
+    "faqs": [
+      {
+        "question": "What is Kishōtenketsu?",
+        "answer": "Kishōtenketsu is a traditional four-act narrative structure used in Japanese storytelling, comprising Setup (Ki), Development (Shō), Twist/Climax (Ten), and Conclusion (Ketsu)."
+      }
+    ],
+    "updatedAt": "2026-08-21",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "manga-action-spread-layout",
+    "title": "Manga Action Spread Layout: Deliver Maximum Impact",
+    "primaryKeyword": "manga action spread layout",
+    "h1": "Manga Action Spread Layout: Create Epic Two-Page Moments",
+    "description": "Design breathtaking two-page manga action spreads. Learn how to break the grid for explosive combat and dramatic reveals.",
+    "intro": "## Breaking the Grid for Maximum Impact\n\n> **AI Snapshot**: A manga action spread layout utilizes two facing pages to create a single, massive image. It is used to deliver the highest level of visual impact, typically for a story's climax, a major reveal, or an explosive finishing move in a battle.\n\nWhen a single panel simply isn't big enough to contain the action, manga artists turn to the two-page action spread. This layout throws away the traditional panel grid entirely, using the combined real estate of two facing pages to create a breathtaking, immersive visual moment. It is the ultimate tool for delivering impact.\n\n### Designing the Spread\nCreating a successful action spread requires careful planning. The most critical element is the composition. You must ensure that the focal point of the action—the colliding fists, the massive explosion, or the dramatic character reveal—is clearly visible and not lost in the \"gutter\" (the fold between the two pages). \n\n### Guiding the Eye Across Two Pages\nEven without panel borders, you must guide the reader's eye across the spread. Use dynamic action lines, the trajectory of debris, or the placement of sound effects to draw the eye from the right side of the spread (where they start reading) to the left side (where they turn the page). A well-executed spread makes the reader linger on the image, absorbing the sheer scale and intensity of the moment. For more on dynamic framing, review our [comic composition perspective guide](/blog/comic-composition-perspective-guide).",
+    "faqs": [
+      {
+        "question": "When should I use a two-page spread in my manga?",
+        "answer": "Two-page spreads should be used sparingly, reserved for the most important, high-impact moments of your story, such as a climax, a massive reveal, or a highly detailed establishing shot."
+      }
+    ],
+    "updatedAt": "2026-08-21",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "vertical-manga-panel-layout",
+    "title": "Vertical Manga Panel Layout: Guiding the Scroll",
+    "primaryKeyword": "vertical manga panel layout",
+    "h1": "Vertical Manga Panel Layout: Optimizing for Web and Mobile",
+    "description": "Adapt traditional manga for the digital age. Learn how to use vertical manga panel layouts for seamless scrolling on mobile devices.",
+    "intro": "## Adapting Manga for the Infinite Canvas\n\n> **AI Snapshot**: The vertical manga panel layout adapts traditional manga storytelling for mobile screens by arranging panels in a single, continuous downward column, utilizing vertical spacing (gutters) to control pacing and tension as the reader scrolls.\n\nAs digital consumption overtakes print, the vertical manga panel layout (popularized by webtoons) has become increasingly vital. This layout reimagines the reading experience, moving away from the complex, multi-directional grids of traditional pages to a single, continuous downward flow optimized for smartphone screens.\n\n### Controlling Pacing with Space\nIn a vertical layout, space equals time. The vertical gutter—the blank space between panels—is your primary tool for controlling pacing. A short gutter implies rapid action or quick dialogue, while a long, extended gutter forces the reader to scroll for a moment before seeing the next image. This physical action of scrolling builds tension, suspense, or signifies a significant passage of time.\n\n### Designing for the Scroll\nWhen designing for a vertical layout, you must consider the \"viewport\"—what the reader sees on their screen at any given moment. Avoid cramming too much information into a single panel, as it will be hard to read on a small device. Instead, break actions and dialogue down into multiple, clearly sequenced vertical panels. This format allows for unique cinematic techniques, like a character falling down an endlessly long background. For more details on digital formatting, see our guide on [how to write webtoon script](/blog/how-to-write-webtoon-script).",
+    "faqs": [
+      {
+        "question": "How is a vertical layout different from a traditional manga page?",
+        "answer": "A vertical layout is designed for scrolling on a mobile device, with panels stacked in a single column and pacing controlled by the vertical space between them, rather than a complex grid on a static page."
+      }
+    ],
+    "updatedAt": "2026-08-21",
+    "tags": [
+      "Layout"
+    ]
   }
 ]
