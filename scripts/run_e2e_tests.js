@@ -303,6 +303,14 @@ const assert = require('assert');
     "http://localhost:3000/layouts/manga-action-spread-layout",
     "http://localhost:3000/layouts/vertical-manga-panel-layout",
     "http://localhost:3000/styles/screentone-manga-style",
+  'http://localhost:3000/genres/dialogue-heavy-drama-comic-maker',
+  'http://localhost:3000/genres/interview-style-comic-creator',
+  'http://localhost:3000/genres/political-debate-comic-generator',
+  'http://localhost:3000/layouts/talking-heads-comic-layout',
+  'http://localhost:3000/layouts/text-heavy-comic-layout',
+  'http://localhost:3000/layouts/dense-dialogue-panel-layout',
+  'http://localhost:3000/styles/typographic-comic-style',
+  'http://localhost:3000/styles/minimalist-talking-comic-style',
 ];
   page.on('console', msg => {
     if (msg.type() === 'error') {
