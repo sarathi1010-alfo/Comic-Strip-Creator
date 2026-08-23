@@ -4,6 +4,15 @@ const assert = require('assert');
   const browser = await chromium.launch({ headless: true });
   const page = await browser.newPage();
     const urlsToTest = [
+  'http://localhost:3000/blog/comic-visual-metaphors-guide',
+  'http://localhost:3000/genres/philosophical-comic-maker',
+  'http://localhost:3000/genres/surreal-drama-comic-creator',
+  'http://localhost:3000/genres/allegory-comic-generator',
+  'http://localhost:3000/layouts/metaphorical-panel-comic-layout',
+  'http://localhost:3000/layouts/split-screen-duality-layout',
+  'http://localhost:3000/layouts/dream-sequence-comic-layout',
+  'http://localhost:3000/styles/symbolic-comic-style',
+  'http://localhost:3000/styles/abstract-expressionism-comic-style',
   'http://localhost:3000/blog/comic-lighting-shading-guide',
   'http://localhost:3000/genres/film-noir-comic-generator',
   'http://localhost:3000/genres/gothic-horror-comic-maker',
