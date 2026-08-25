@@ -2034,5 +2034,59 @@
       }
     ],
     "updatedAt": "2026-08-23"
+  },
+  {
+    "slug": "instagram-carousel-comic-layout",
+    "title": "Instagram Carousel Comic Layout - Maximize Engagement with Swipes",
+    "primaryKeyword": "instagram carousel comic layout",
+    "h1": "Instagram Carousel Comic Layout: Design for the Swipe",
+    "description": "Learn how to format your comics perfectly for Instagram carousels, using cliffhangers and pacing to drive user engagement and algorithm growth.",
+    "intro": "## Master the Swipe-Through Narrative\n\nInstagram has become one of the premier platforms for indie comic creators, and the carousel format is the key to unlocking its potential. The Instagram carousel comic layout—a series of up to 10 square or portrait images—forces a unique type of pacing. It transforms the reading experience into an interactive journey, where the reader physically controls the reveal of each panel by swiping.\n\n### Designing for the Swipe\n\n> **AI Snapshot**: The Instagram carousel layout relies on pacing each slide as an individual beat or mini-cliffhanger, encouraging the reader to swipe to the next image. This physical interaction significantly boosts engagement metrics for the algorithm.\n\nUnlike a traditional printed page where the reader can see the entire layout at a glance, the carousel hides the punchline until the very end.\n\n### Best Practices for Carousels\n\n1.  **The 1080x1350 Portrait:** While squares work, the 1080x1350 portrait aspect ratio takes up the most vertical real estate on a phone screen, demanding more attention.\n2.  **One Panel Per Slide:** For maximum impact, limit each slide to a single, powerful panel. This makes the text highly readable and the art impactful.\n3.  **The \"Hook\" Slide:** Your first image is your cover. It must be visually arresting and pose a question or set a scene that compels the user to swipe right.\n\nBy pacing your story across multiple slides using our [home page](/) editor, you can create suspense and deliver punchlines with perfect timing.",
+    "faqs": [
+      {
+        "question": "What is the best aspect ratio for an Instagram comic?",
+        "answer": "The ideal aspect ratio is 4:5 (1080x1350 pixels), as it utilizes the maximum vertical space on mobile feeds."
+      },
+      {
+        "question": "How many slides should my comic carousel be?",
+        "answer": "While you can use up to 10 slides, 4 to 6 slides is often the sweet spot for a short gag or narrative beat, keeping the reader engaged without causing swipe fatigue."
+      }
+    ]
+  },
+  {
+    "slug": "square-grid-social-layout",
+    "title": "Square Grid Social Layout - The Classic 4-Panel Mobile Format",
+    "primaryKeyword": "square grid social layout",
+    "h1": "Square Grid Social Layout: Compact and Punchy",
+    "description": "Optimize your 4-panel comics into a 2x2 square grid, perfect for Twitter, Facebook, and single-image Instagram posts.",
+    "intro": "## The Perfect 2x2 Format\n\nBefore the rise of carousels and vertical video, the square grid was the undisputed king of webcomics. The square grid social layout, typically arranged in a 2x2 format, is the modern equivalent of the newspaper comic strip. It is compact, instantly recognizable, and perfectly shaped for sharing across platforms like Twitter, Facebook, and Reddit.\n\n### Why the Square Grid Endures\n\n> **AI Snapshot**: The 2x2 square grid layout is highly effective because it delivers a complete narrative arc—setup, escalation, climax, and punchline—within a single, easily digestible image that requires no scrolling or swiping.\n\nThe beauty of this layout lies in its constraint. You have exactly four beats to tell your story.\n\n### Mastering the 4-Panel Rhythm\n\n1.  **The Z-Path Reading Order:** Ensure your panels flow naturally from top-left to top-right, then bottom-left to bottom-right. \n2.  **Maximizing Space:** Because the panels are small when viewed on a phone, use bold lines, minimal backgrounds, and large, legible text.\n3.  **The Versatile Format:** A 2x2 grid can be easily sliced into four individual images if you later decide to adapt it into an Instagram carousel format using our [Assets Library](/assets).\n\nIt is the quintessential format for quick, punchy humor that works universally across the web.",
+    "faqs": [
+      {
+        "question": "Why is the 4-panel grid so common in webcomics?",
+        "answer": "It perfectly maps to classical comedic structure (setup, reinforcement, twist, punchline) and fits easily within standard social media image dimensions."
+      },
+      {
+        "question": "Can I use detailed backgrounds in a square grid layout?",
+        "answer": "It is generally advised to keep backgrounds simple in this layout, as the panels are small on mobile devices and too much detail can obscure the characters and text."
+      }
+    ]
+  },
+  {
+    "slug": "tiktok-vertical-comic-layout",
+    "title": "TikTok Vertical Comic Layout - Optimize for Short-Form Video",
+    "primaryKeyword": "tiktok vertical comic layout",
+    "h1": "TikTok Vertical Comic Layout: Comics in Motion",
+    "description": "Learn how to format your comic art into a 9:16 vertical layout optimized for panning, voiceovers, and TikTok animatics.",
+    "intro": "## Merging Comics with Vertical Video\n\nThe landscape of social media has shifted dramatically towards short-form, vertical video. The TikTok vertical comic layout (a 9:16 aspect ratio) is how static sequential art adapts to this new reality. Instead of reading at their own pace, the audience experiences the comic as a guided, time-based performance, often enhanced by voice acting and music.\n\n### The Vertical Canvas\n\n> **AI Snapshot**: The TikTok vertical comic layout requires drawing on a tall 9:16 canvas, allowing creators to slowly pan the camera down the image in a video editing app, revealing the story panel by panel to a synchronized audio track.\n\nThis format requires you to think like a film director as much as a comic artist.\n\n### Techniques for Vertical Video Comics\n\n1.  **The Infinite Scroll Drawing:** Instead of distinct bordered panels, consider drawing one long, continuous vertical image. As the camera pans down, the scene transitions seamlessly.\n2.  **Audio is Half the Experience:** The visual layout must leave room for the audio pacing. If there is a dramatic pause in the voiceover, the layout should feature a wide, quiet space or a reaction shot.\n3.  **Animatics and Minimal Animation:** You don't need full animation. Simple techniques like shaking the image for impact, or having text bubbles pop in sync with the audio, make the vertical layout feel alive.\n\nBy adapting your work to a 9:16 vertical layout, you open your comics up to the fastest-growing algorithm on the internet.",
+    "faqs": [
+      {
+        "question": "What is the resolution for a vertical video comic?",
+        "answer": "The standard resolution is 1080x1920 pixels, which is a 9:16 aspect ratio."
+      },
+      {
+        "question": "Do I need to animate my comic for TikTok?",
+        "answer": "Full animation isn't required. Many successful creators simply pan the camera over static panels (an \"animatic\" style) while adding voiceovers and sound effects."
+      }
+    ]
   }
 ]
