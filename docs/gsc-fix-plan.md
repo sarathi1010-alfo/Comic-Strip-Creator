@@ -186,3 +186,9 @@ This usually indicates crawl budget issues or low-quality content signals.
 - Regenerated `sitemap.xml` and successfully pinged the IndexNow API for all 9 new URLs.
 - Passed all E2E tests, including status code verification (200 OK) for all new URLs and core editor functionality checks. No 4xx/5xx errors detected.
 - Verified schema markup (Article, FAQPage) is injected correctly and `updatedAt` timestamps are set to current date.
+
+## Daily Update - 2026-08-29
+- **Published Content:** Tier 1 guide (`/blog/comic-book-printing-guide`) and 8 programmatic Tier 2 pages (4 genres, 3 layouts, 1 style) focusing on comic book printing, historical fiction, and retro aesthetics.
+- **Content Freshness & Internal Linking:** Retroactively linked `comic-strip-dimensions-guide` and `comic-color-theory-guide` to the new Tier 1 guide and updated their `updatedAt` timestamps to today.
+- **Technical Verification:** Passed. Verified 200 OK for all new URLs and core functionality via local build and headless browser testing.
+- **Sitemap:** Statically regenerated `public/sitemap.xml` to point to dynamic chunk endpoints and submitted via scripts (pending prod environment credentials).
