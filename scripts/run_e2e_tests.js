@@ -356,6 +356,15 @@ const assert = require('assert');
     'http://localhost:3000/layouts/circular-inset-panel-layout',
     'http://localhost:3000/styles/watercolor-comic-style',
     'http://localhost:3000/styles/pixel-art-comic-style',
+    'http://localhost:3000/blog/how-to-create-comics-for-kids',
+    'http://localhost:3000/genres/kids-educational-comic-maker',
+    'http://localhost:3000/genres/toddler-story-comic-creator',
+    'http://localhost:3000/genres/childrens-book-comic-generator',
+    'http://localhost:3000/genres/middle-grade-graphic-novel-maker',
+    'http://localhost:3000/layouts/simple-2-panel-kids-layout',
+    'http://localhost:3000/layouts/large-text-kids-comic-layout',
+    'http://localhost:3000/styles/colorful-kids-cartoon-style',
+    'http://localhost:3000/styles/storybook-illustration-comic-style',
 ];
   page.on('console', msg => {
     if (msg.type() === 'error') {
