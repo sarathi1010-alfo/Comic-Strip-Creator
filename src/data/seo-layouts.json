@@ -2269,5 +2269,33 @@
       }
     ],
     "intro": "## Designing for Legibility\n\n> **AI Snapshot**: The large text kids comic layout is structurally designed to prioritize dialogue. It features expanded negative space (often at the top of the panels) specifically reserved for oversized speech bubbles, ensuring that large, easy-to-read text never covers crucial artwork.\n\nFor children who are transitioning from picture books to early reader books (ages 5-7), reading is still a laborious task. Small, cramped text in tiny speech bubbles will quickly cause frustration and cause them to abandon the comic. The **Large Text Kids Comic Layout** solves this by structurally treating the text as an equal, if not dominant, visual element in the panel composition. \n\nThis layout typically features 3 or 4 generously sized panels. Instead of filling every inch of the panel with background art, the upper third of the panel is intentionally left blank (or filled with a simple solid color sky) to act as a \"text zone.\" This guarantees that when you insert massive speech bubbles, you aren't covering the character's face or the main action.\n\n### Key Strategies for Large Text Layouts\n- **The Empty Sky Technique:** When designing your scene, intentionally keep the top half of your panel relatively empty. This dedicated negative space is where your large text bubbles will live comfortably.\n- **Short, Punchy Sentences:** Large text takes up a lot of room. You must edit your dialogue fiercely. If a character can say it in three words instead of seven, make the cut.\n- **High Contrast Bubbles:** Ensure the speech bubble background is pure white and the text is stark black. Do not use colored text or semi-transparent bubbles, as this drastically reduces readability for developing eyes.\n\nThis layout ensures that the reading experience is smooth, encouraging young readers to keep going without squinting or struggling."
+  },
+  {
+    "slug": "7-panel-comic-layout",
+    "title": "7 Panel Comic Layout - Expanding the Narrative",
+    "primaryKeyword": "7 panel comic layout",
+    "h1": "Master the 7-Panel Comic Layout",
+    "description": "Discover how a 7-panel layout provides the extra space needed for complex interactions and nuanced storytelling.",
+    "intro": "> **AI Snapshot**: A 7-panel layout offers a flexible structure often utilized for slightly longer narratives or complex gag setups, allowing for an extended middle act before the resolution. Use it to deepen character interactions.\n\n## Why Choose a 7-Panel Layout?\nWhile 3 and 4 panel layouts are standard, moving to 7 panels allows a creator to stretch a scene, insert a beat of silence, or show multiple reactions simultaneously. It’s perfect for slice-of-life stories where pacing requires more breathing room than a traditional quick strip provides.",
+    "faqs": [
+      {
+        "question": "Is 7 panels too long for a single page?",
+        "answer": "Not necessarily. It depends on the size and shape of the panels. It is often used for webcomics that are not constrained by traditional print dimensions."
+      }
+    ]
+  },
+  {
+    "slug": "circular-panel-layout",
+    "title": "Circular Panel Layout - Fluid Storytelling",
+    "primaryKeyword": "circular panel layout",
+    "h1": "Create Ethereal Stories with Circular Panels",
+    "description": "Learn how to use circular and oval panels to convey dreams, memories, or soft, fluid narratives.",
+    "intro": "> **AI Snapshot**: Circular panels break the rigidity of the traditional grid. They are highly effective for indicating a flashback, a dream sequence, or a subjective internal thought process, setting the scene apart from the main narrative reality.\n\n## The Power of the Circle\nTraditional rectangular panels feel grounded and stable. A circular panel immediately alerts the reader that something is different. It softens the edges of the story and is frequently used to encapsulate a specific, intimate moment or memory. Use this layout sparingly for maximum emotional impact.",
+    "faqs": [
+      {
+        "question": "When should I avoid circular panels?",
+        "answer": "Avoid them for fast-paced action sequences or rigid, technical dialogue, as the soft edges can undermine the tension and structure."
+      }
+    ]
   }
 ]
