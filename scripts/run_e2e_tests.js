@@ -384,6 +384,15 @@ const assert = require('assert');
     'http://localhost:3000/layouts/infographic-style-comic-layout',
     'http://localhost:3000/layouts/widescreen-16-9-comic-layout',
     'http://localhost:3000/styles/corporate-minimalist-comic-style',
+    'http://localhost:3000/blog/comic-therapy-wellness-guide',
+    'http://localhost:3000/genres/art-therapy-comic-maker',
+    'http://localhost:3000/genres/mindfulness-comic-creator',
+    'http://localhost:3000/genres/wellness-journey-comic-generator',
+    'http://localhost:3000/genres/mental-health-comic-builder',
+    'http://localhost:3000/layouts/healing-process-panel-layout',
+    'http://localhost:3000/layouts/meditation-comic-layout',
+    'http://localhost:3000/layouts/emotional-release-comic-layout',
+    'http://localhost:3000/styles/calming-pastel-comic-style',
 ];
   page.on('console', msg => {
     if (msg.type() === 'error') {
