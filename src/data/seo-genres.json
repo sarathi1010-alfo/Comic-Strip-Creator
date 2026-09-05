@@ -3070,5 +3070,69 @@
         "answer": "Use text, abstract shapes, or simple symbols. A black scribbled cloud above a stick figure's head is a universally understood metaphor for depression or confusion. The complexity of the art is less important than the clarity of the message."
       }
     ]
+  },
+  {
+    "slug": "detective-noir-comic-maker",
+    "name": "Detective Noir Comic Maker",
+    "description": "Create gritty, hardboiled detective stories with classic noir aesthetics, heavy shadows, and moral ambiguity.",
+    "intro": "## Step into the Shadows\n\n> **AI Snapshot**: The Detective Noir Comic Maker is designed for crafting classic hardboiled mysteries. Focus on heavy shadows (chiaroscuro), cynical protagonists, and morally ambiguous situations to capture the authentic noir feel.\n\nNoir is a genre defined by its atmosphere and its cynical worldview. The protagonists are often flawed, world-weary detectives navigating a corrupt society. To capture this mood, you need the right visual tools. This maker emphasizes high-contrast lighting, rain-slicked streets, and smoky interiors. Your narratives should focus on the grey areas of morality, where right and wrong are not always clear-cut.\n\n### Key Elements of Noir\n- **Chiaroscuro Lighting:** The stark contrast between light and dark is the visual signature of noir. Use it to hide faces, emphasize clues, and create a sense of unease.\n- **The Femme Fatale/Homme Fatal:** These archetypal characters are seductive, dangerous, and often the catalyst for the protagonist's downfall.\n- **Voiceover Narration:** Noir often relies on a gritty, first-person narration to provide insight into the detective's cynical mindset and to drive the plot forward.",
+    "faqs": [
+      {
+        "question": "Does noir have to be black and white?",
+        "answer": "While classic noir is black and white, neo-noir often uses color. However, the color palettes are usually muted, with stark contrasts and a focus on atmospheric lighting rather than bright hues."
+      },
+      {
+        "question": "What makes a good noir protagonist?",
+        "answer": "A good noir protagonist is flawed, cynical, and often alienated from society. They have a strict, personal code of honor that they adhere to, even when it puts them at odds with the law or the people they are trying to help."
+      }
+    ]
+  },
+  {
+    "slug": "cozy-mystery-comic-creator",
+    "name": "Cozy Mystery Comic Creator",
+    "description": "Build charming, small-town mysteries where the focus is on the puzzle and the eccentric characters rather than violence.",
+    "intro": "## Murder in the Village\n\n> **AI Snapshot**: The Cozy Mystery Comic Creator focuses on small-town settings, amateur sleuths, and bloodless crimes. The appeal lies in the intricate puzzle, the charming setting, and the quirky cast of characters.\n\nCozy mysteries offer a gentler approach to the whodunit. The violence is usually off-page, the setting is a close-knit community (like a small village or a specific hobby group), and the detective is almost always an amateur—a baker, a librarian, or a retired teacher. The focus is entirely on the puzzle and the social dynamics of the community. This creator provides warm, inviting assets that contrast with the underlying mystery.\n\n### Creating a Cozy Atmosphere\n- **The Setting as a Character:** The town or community is central to the story. Make it feel lived-in and charming, with detailed backgrounds like cozy tea shops, quaint bookstores, and overgrown gardens.\n- **The Amateur Sleuth:** Your protagonist should be relatable and use their specific knowledge (e.g., knowledge of local gossip, knitting patterns, or baked goods) to solve the crime.\n- **The Quirky Suspects:** The suspect pool should be filled with eccentric, memorable characters. Their quirks can provide both humor and potential motives.",
+    "faqs": [
+      {
+        "question": "How do I make a murder mystery 'cozy'?",
+        "answer": "Keep the violence off-page and focus on the intellectual puzzle of solving the crime. The setting should be warm and inviting, and the characters should be charming and slightly eccentric."
+      },
+      {
+        "question": "Can a cozy mystery have high stakes?",
+        "answer": "Yes! While the stakes might not be world-ending, they are high for the characters involved. The threat of an innocent person going to jail or the disruption of the peaceful community are significant stakes in a cozy mystery."
+      }
+    ]
+  },
+  {
+    "slug": "supernatural-mystery-comic-generator",
+    "name": "Supernatural Mystery Comic Generator",
+    "description": "Combine the logic of a whodunit with the thrills of the paranormal. Investigate ghosts, cryptids, and magical anomalies.",
+    "intro": "## When the Clues are Cursed\n\n> **AI Snapshot**: The Supernatural Mystery Comic Generator blends deductive reasoning with paranormal elements. The challenge is establishing clear rules for the supernatural elements so the mystery remains solvable and satisfying.\n\nWhat happens when the prime suspect is a ghost, or the murder weapon is a cursed artifact? Supernatural mysteries combine the intellectual puzzle of a whodunit with the imaginative thrills of the paranormal. The key to a successful supernatural mystery is establishing clear, consistent rules for how the magic or paranormal elements work. If the rules are arbitrary, the reader will feel cheated when the solution is revealed.\n\n### Balancing Logic and Magic\n- **Establish the Rules:** If ghosts exist in your world, what are their limitations? Can they interact with physical objects? Do they remember their deaths? These rules must be clear to the reader early on.\n- **The Paranormal Investigator:** Your protagonist might be a skeptical detective forced to confront the supernatural, or an expert in the occult. Their approach to the investigation will shape the tone of the comic.\n- **Atmospheric Assets:** Use the generator to create eerie environments—abandoned asylums, ancient forests, and glowing magical artifacts—to enhance the supernatural mood.",
+    "faqs": [
+      {
+        "question": "How do I ensure the mystery is fair to the reader?",
+        "answer": "You must establish the rules of the supernatural elements before they are used to solve the crime. The reader must have all the information necessary to piece the puzzle together, even if that information involves ghosts or magic."
+      },
+      {
+        "question": "Can I mix genres, like a supernatural cozy mystery?",
+        "answer": "Absolutely! Mixing genres is a great way to create a unique story. A cozy mystery involving a coven of witches or a small town of vampires can be incredibly charming and engaging."
+      }
+    ]
+  },
+  {
+    "slug": "true-crime-comic-builder",
+    "name": "True Crime Comic Builder",
+    "description": "Document real-world mysteries, unsolved cases, and historical crimes with accuracy, respect, and compelling visual storytelling.",
+    "intro": "## Illustrating the Facts\n\n> **AI Snapshot**: The True Crime Comic Builder is designed for journalistic and historical storytelling. It requires a focus on accuracy, objective presentation of facts, and respectful treatment of real-world victims and events.\n\nTrue crime comics are a powerful medium for exploring real-world mysteries, historical events, and complex legal cases. Unlike fictional mysteries, true crime requires a commitment to accuracy and a respectful approach to the subject matter. This builder provides tools for creating clear, informative graphics, timelines, and realistic character depictions to help you document the facts of a case.\n\n### The Ethics of True Crime\n- **Respect for the Victims:** Always prioritize the dignity and privacy of the victims and their families. Avoid sensationalism or gratuitous violence.\n- **Factual Accuracy:** Base your comic on verified information, court documents, and reputable journalism. Clearly distinguish between established facts and popular theories.\n- **Visual Clarity:** Use clean layouts, clear typography, and informative graphics (like maps and timelines) to present complex information in an easily digestible way.",
+    "faqs": [
+      {
+        "question": "How do I handle sensitive or graphic details?",
+        "answer": "Focus on the narrative and the facts rather than graphic depictions of violence. Use visual metaphors or off-panel implications to convey sensitive information respectfully."
+      },
+      {
+        "question": "Do I need permission to create a true crime comic?",
+        "answer": "It depends on the specific case and the individuals involved. Publicly available information and historical events are generally fair use, but it's always best to consult with a legal professional, especially when dealing with recent or ongoing cases."
+      }
+    ]
   }
 ]
