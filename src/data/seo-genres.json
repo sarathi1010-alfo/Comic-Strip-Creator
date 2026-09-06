@@ -3134,5 +3134,69 @@
         "answer": "It depends on the specific case and the individuals involved. Publicly available information and historical events are generally fair use, but it's always best to consult with a legal professional, especially when dealing with recent or ongoing cases."
       }
     ]
+  },
+  {
+    "slug": "educational-science-comic-maker",
+    "name": "Educational Science Comic Maker",
+    "description": "Create engaging science explainer comics and visualize complex concepts with the educational science comic maker.",
+    "intro": "## Visualize Science with an Educational Comic Maker\n\n> **AI Snapshot**: An educational science comic maker helps visualize complex scientific concepts like biology or physics through step-by-step panel sequences, using specialized assets to make learning engaging and accessible.\n\nScience can often seem abstract and difficult to grasp for students. Creating science comics helps ground these concepts. Whether you are explaining the water cycle or the structure of a cell, the visual format allows you to break down processes into understandable steps. Use the [home page](/) editor to sequence these steps logically.\n\n### The Power of Visual Metaphor\nIn science comics, visual metaphors are your best tool. You can personify white blood cells as knights defending a castle, or show electricity as a fast-flowing river. The [Assets Library](/assets) provides the basic shapes and characters you need to construct these metaphors effectively.",
+    "faqs": [
+      {
+        "question": "How do science comics help students?",
+        "answer": "Science comics help by providing visual context to abstract concepts, breaking down complex processes into sequential steps that are easier to understand and remember."
+      },
+      {
+        "question": "What should I include in a science comic?",
+        "answer": "Focus on clear step-by-step processes, use visual metaphors, and keep text concise. Ensure the scientific facts remain accurate even if the visuals are stylized."
+      }
+    ]
+  },
+  {
+    "slug": "history-lesson-comic-creator",
+    "name": "History Lesson Comic Creator",
+    "description": "Bring the past to life by creating engaging historical narrative comics for the classroom.",
+    "intro": "## Bring the Past to Life with a History Lesson Comic Creator\n\n> **AI Snapshot**: A history lesson comic creator enables educators and students to reconstruct historical events in a narrative format, increasing engagement and empathy by focusing on the human element of the past.\n\nHistory is fundamentally about storytelling. Creating historical comics allows students to step into the shoes of historical figures and experience the past dynamically. It moves history away from memorizing dates and towards understanding human motivations and consequences. Use the [home page](/) to start building your historical narrative.\n\n### Focusing on the Human Element\nThe key to a good history comic is focusing on the people involved. Rather than just showing a map of a battle, show the conversation between generals or the experience of a foot soldier. The [Assets Library](/assets) offers characters that can be customized to represent various historical periods.",
+    "faqs": [
+      {
+        "question": "Why use comics for history lessons?",
+        "answer": "Comics make history narrative-driven, which increases student engagement and helps them build empathy and a deeper understanding of historical context."
+      },
+      {
+        "question": "How do I ensure historical accuracy?",
+        "answer": "While the art style can be simplified, ensure the core facts, timelines, and motivations remain true to the historical record. Use the comic to highlight key moments rather than every detail."
+      }
+    ]
+  },
+  {
+    "slug": "math-explainer-comic-generator",
+    "name": "Math Explainer Comic Generator",
+    "description": "Visualize equations and solve word problems step-by-step using the math explainer comic generator.",
+    "intro": "## Solve Word Problems with a Math Explainer Comic Generator\n\n> **AI Snapshot**: A math explainer comic generator helps visualize word problems and mathematical concepts by turning abstract equations into relatable, real-world scenarios across sequential panels.\n\nMath anxiety is a real challenge in the classroom. Comic strips can help alleviate this by providing a visual, step-by-step breakdown of word problems. By turning abstract numbers into tangible objects (like apples, cars, or spaceships), students can better grasp the underlying logic. The [home page](/) provides the layout tools needed for these visual equations.\n\n### Grounding Abstract Concepts\nWhen illustrating a math problem, use the [Assets Library](/assets) to represent the variables clearly. Show the problem in the first panel, the process of solving it in the middle panels, and the solution in the final panel. This sequential logic directly mirrors mathematical thinking.",
+    "faqs": [
+      {
+        "question": "How do comics help with math?",
+        "answer": "Comics provide a visual representation of abstract word problems, allowing students to 'see' the math in action and understand the logical steps required to find a solution."
+      },
+      {
+        "question": "What is the best layout for a math comic?",
+        "answer": "A sequential 3 or 4-panel layout is ideal. Panel 1 presents the problem, Panels 2 and 3 show the steps to solve it, and the final panel reveals the answer."
+      }
+    ]
+  },
+  {
+    "slug": "language-learning-comic-builder",
+    "name": "Language Learning Comic Builder",
+    "description": "Improve vocabulary and reading comprehension with the language learning comic builder.",
+    "intro": "## Build Vocabulary with a Language Learning Comic Builder\n\n> **AI Snapshot**: A language learning comic builder leverages visual context clues to help students understand new vocabulary and grammar structures in a natural, conversational setting.\n\nFor ESL students and early readers, visual context is vital. Comics provide immediate visual reinforcement for written words. A language learning comic builder allows you to create scenarios where the dialogue and the art perfectly support each other. You can create these conversational scenarios easily on our [home page](/).\n\n### The Importance of Context Clues\nIf a student encounters an unfamiliar word in a comic, they can often guess its meaning based on the character's expression or the action in the panel. Ensure you are using expressive characters from the [Assets Library](/assets) to maximize these visual context clues.",
+    "faqs": [
+      {
+        "question": "Why are comics good for language learners?",
+        "answer": "Comics provide strong visual context clues that help learners deduce the meaning of unknown words without needing a dictionary, reducing frustration and building confidence."
+      },
+      {
+        "question": "How should I format dialogue for language learners?",
+        "answer": "Keep sentences short, use clear and legible fonts, and ensure the speech bubble tails clearly point to the speaker to avoid confusion."
+      }
+    ]
   }
 ]

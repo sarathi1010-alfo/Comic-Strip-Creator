@@ -1226,5 +1226,21 @@
         "answer": "The hardest part is restraint. It takes confidence to leave large areas of a panel completely black and trust that the reader's imagination will fill in the blanks. Mastering the balance of light and shadow is key."
       }
     ]
+  },
+  {
+    "slug": "classroom-whiteboard-comic-style",
+    "name": "Classroom Whiteboard Comic Style",
+    "description": "Create approachable, educational visuals with the clean classroom whiteboard comic style.",
+    "intro": "## Keep it Clear with the Classroom Whiteboard Comic Style\n\n> **AI Snapshot**: The classroom whiteboard comic style mimics the look of a teacher's marker on a whiteboard, using simple line art, bright primary colors, and minimal shading to prioritize maximum clarity and legibility for educational materials.\n\nThe classroom whiteboard comic style is designed for one thing: clarity. It intentionally avoids complex rendering, heavy shadows, or gritty textures. Instead, it relies on clean, thick line art and solid, bright colors—much like drawing with markers on a whiteboard. This style is highly approachable for students and ensures the educational content is never overshadowed by the art style. Try this clean style on the [home page](/).\n\n### Maximizing Legibility\nWhen using this style, prioritize high contrast. Ensure text is large, legible, and placed clearly against solid backgrounds. Avoid using complex backgrounds from the [Assets Library](/assets) if they distract from the primary educational message. Simplicity is your greatest asset here.",
+    "faqs": [
+      {
+        "question": "What defines the whiteboard comic style?",
+        "answer": "It is defined by clean, thick line art, solid bright colors, lack of complex shading, and a focus on absolute clarity and legibility."
+      },
+      {
+        "question": "Why is this style good for education?",
+        "answer": "It removes visual clutter, ensuring that the student's attention remains focused on the educational content rather than being distracted by complex artwork."
+      }
+    ]
   }
 ]

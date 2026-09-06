@@ -403,6 +403,15 @@ const assert = require('assert');
     'http://localhost:3000/layouts/interrogation-comic-layout',
     'http://localhost:3000/layouts/suspense-building-comic-layout',
     'http://localhost:3000/styles/gritty-noir-comic-style',
+    'http://localhost:3000/blog/comic-strips-for-education-guide',
+    'http://localhost:3000/genres/educational-science-comic-maker',
+    'http://localhost:3000/genres/history-lesson-comic-creator',
+    'http://localhost:3000/genres/math-explainer-comic-generator',
+    'http://localhost:3000/genres/language-learning-comic-builder',
+    'http://localhost:3000/layouts/flashcard-comic-layout',
+    'http://localhost:3000/layouts/step-by-step-instruction-layout',
+    'http://localhost:3000/layouts/worksheet-comic-layout',
+    'http://localhost:3000/styles/classroom-whiteboard-comic-style',
 ];
   page.on('console', msg => {
     if (msg.type() === 'error') {
