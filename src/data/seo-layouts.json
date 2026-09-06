@@ -2471,5 +2471,53 @@
         "answer": "The gutter represents the passage of time. Wider gutters can slow down the pacing and stretch out a tense moment, while narrow or absent gutters can create a sense of rapid, chaotic action."
       }
     ]
+  },
+  {
+    "slug": "flashcard-comic-layout",
+    "name": "Flashcard Comic Layout",
+    "description": "Create quick visual learning tools with the simple single-panel flashcard comic layout.",
+    "intro": "## Single-Panel Learning: The Flashcard Comic Layout\n\n> **AI Snapshot**: The flashcard comic layout utilizes a single, focused panel containing an illustration and a key term or concept, perfect for quick vocabulary building or memory drills.\n\nSometimes, a sequence is unnecessary. For quick memorization tasks, the flashcard comic layout is ideal. This involves a single, large panel that pairs a clear illustration with a specific vocabulary word or fact. It's clean, distraction-free, and highly effective for repetition. You can build these quickly on the [home page](/).\n\n### Focus and Clarity\nThe goal of a flashcard layout is instant comprehension. The artwork should be simple and unambiguous. Avoid cluttered backgrounds from the [Assets Library](/assets); instead, use solid colors or simple gradients to ensure the central concept stands out immediately.",
+    "faqs": [
+      {
+        "question": "What is a flashcard comic layout?",
+        "answer": "It is a single-panel layout that pairs one clear image with one specific piece of text, designed for quick visual memorization."
+      },
+      {
+        "question": "When should I use a flashcard layout?",
+        "answer": "Use it for vocabulary drills, learning foreign languages, or memorizing simple facts where sequential storytelling is not required."
+      }
+    ]
+  },
+  {
+    "slug": "step-by-step-instruction-layout",
+    "name": "Step-by-Step Instruction Layout",
+    "description": "Clearly illustrate procedures and tutorials with the step-by-step instruction layout.",
+    "intro": "## Illustrate Procedures with a Step-by-Step Instruction Layout\n\n> **AI Snapshot**: The step-by-step instruction layout uses a rigid, linear grid to break down complex procedures (like science experiments or recipes) into easily digestible visual steps.\n\nThe step-by-step instruction layout is purely functional. It prioritizes clarity over dynamic storytelling. Typically utilizing a strict 4-panel or 6-panel grid, this layout is perfect for illustrating science lab procedures, DIY tutorials, or recipes. The linear flow ensures the reader doesn't miss a critical step. Start building linear grids on our [home page](/).\n\n### Sequential Clarity\nIn an instruction layout, the gutter space acts as the transition of time or action between steps. Ensure each panel clearly depicts the change from the previous one. Use clear, instructional text in caption boxes rather than relying heavily on character dialogue. Find helpful instructional props in the [Assets Library](/assets).",
+    "faqs": [
+      {
+        "question": "What makes a good instruction layout?",
+        "answer": "A good instruction layout is linear, uncluttered, and uses a rigid grid structure to clearly separate distinct steps in a process."
+      },
+      {
+        "question": "Should I use speech bubbles in an instruction layout?",
+        "answer": "Usually, caption boxes are preferred for instructions to maintain a clear, objective tone, though speech bubbles can be used for helpful tips from a 'guide' character."
+      }
+    ]
+  },
+  {
+    "slug": "worksheet-comic-layout",
+    "name": "Worksheet Comic Layout",
+    "description": "Engage students with interactive fill-in-the-blank worksheet comic layouts.",
+    "intro": "## Interactive Learning: The Worksheet Comic Layout\n\n> **AI Snapshot**: The worksheet comic layout intentionally leaves speech bubbles or panels blank, challenging students to fill in the missing dialogue or draw the conclusion, transforming reading into an active exercise.\n\nThe worksheet comic layout turns a passive reading experience into an interactive educational activity. By providing the art but leaving the speech bubbles blank, you challenge students to use context clues to write appropriate dialogue. This is an excellent exercise for creative writing, vocabulary practice, and demonstrating comprehension. Create these templates using the tools on our [home page](/).\n\n### Designing for Interaction\nWhen creating a worksheet layout, ensure the visual narrative is strong enough that the missing text can be reasonably inferred. Leave plenty of white space inside the empty bubbles so students have room to write. You can find highly expressive characters to prompt dialogue in the [Assets Library](/assets).",
+    "faqs": [
+      {
+        "question": "How do you use a worksheet comic layout?",
+        "answer": "You provide a partially completed comic (usually with blank speech bubbles) and ask students to fill in the missing information based on the visual context."
+      },
+      {
+        "question": "What skills does a worksheet layout teach?",
+        "answer": "It teaches reading comprehension, inference, creative writing, and dialogue construction."
+      }
+    ]
   }
 ]
