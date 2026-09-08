@@ -2519,5 +2519,62 @@
         "answer": "It teaches reading comprehension, inference, creative writing, and dialogue construction."
       }
     ]
+  },
+  {
+    "slug": "infinite-scroll-comic-layout",
+    "name": "Infinite Scroll Comic Layout",
+    "description": "Optimize your comic for mobile reading with the vertical infinite scroll layout.",
+    "intro": "## Design for Mobile with the Infinite Scroll Comic Layout\n\n> **AI Snapshot**: The infinite scroll comic layout arranges panels vertically, optimizing the reading experience for mobile devices. It utilizes vertical space (the gutter) to control pacing, build suspense, and create seamless cinematic transitions.\n\nThe infinite scroll, often synonymous with the \"Webtoon format,\" has revolutionized how comics are consumed. Designed specifically for mobile screens, this layout arranges panels vertically in a single, continuous stream. Mastering the infinite scroll comic layout is essential for reaching a modern, digitally native audience. It requires a fundamental shift in how you approach pacing and composition compared to traditional page-based comics.\n\n### Controlling the Pace\nIn a traditional comic, pacing is determined by the size and number of panels on a page. In the infinite scroll layout, pacing is controlled by the physical distance between panels. A short gap indicates immediate action, while a long, empty space (a \"long scroll\") forces the reader to physically scroll for longer, simulating the passage of time or building anticipation before a major reveal. You can use the [home page](/) editor to easily adjust the vertical spacing between your imported [assets](/assets).\n\n### Cinematic Transitions\nThe infinite scroll allows for incredibly smooth, cinematic transitions. You can create a continuous background that flows seamlessly behind multiple panels, giving the illusion of a camera panning down a scene. You can also use gradient backgrounds to show the transition from day to night, or from a calm emotional state to a chaotic one, all within a single fluid scroll.\n\n### Designing for the Viewport\nWhen creating an infinite scroll comic, you must constantly consider the \"viewport\"—the specific portion of the comic the reader sees on their phone screen at any given moment. Avoid placing crucial dialogue or action across a natural screen break. Ensure that each scroll reveals complete pieces of information or teases just enough of the next panel to encourage the reader to keep going. For more on structuring your story, read our [Comic Strip Structure Guide](/blog/comic-strip-structure-guide).",
+    "faqs": [
+      {
+        "question": "Why is the infinite scroll layout popular?",
+        "answer": "It is optimized for mobile reading, allowing users to consume the story with a natural scrolling motion without having to pinch, zoom, or read across complex page layouts."
+      },
+      {
+        "question": "How do I use negative space in a vertical scrolling comic?",
+        "answer": "Use negative space (long gaps between panels) to control the pacing. A long scroll builds tension, indicates the passage of time, or provides a moment of emotional pause."
+      }
+    ],
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "mobile-friendly-comic-layout",
+    "name": "Mobile-Friendly Comic Layout",
+    "description": "Ensure your comic is legible and engaging on small screens with a mobile-friendly layout.",
+    "intro": "## Optimize for Small Screens with a Mobile-Friendly Comic Layout\n\n> **AI Snapshot**: A mobile-friendly comic layout prioritizes large, legible text, clear panel progression, and simplified compositions. It ensures that readers on smartphones can easily read and engage with your story without needing to zoom in.\n\nWith the vast majority of webcomics now being read on smartphones, creating a mobile-friendly comic layout is no longer optional; it's a necessity. If a reader has to constantly pinch and zoom to read your dialogue or understand the art, they will quickly abandon your comic. This layout strategy focuses on clarity, legibility, and a streamlined reading experience optimized for smaller screens.\n\n### Prioritizing Legibility\nThe most common mistake in mobile comics is text that is too small. Your dialogue must be easily readable on a 5-inch screen. This means using larger fonts and keeping speech bubbles concise. Avoid dense walls of text. If a character has a lot to say, break the dialogue across multiple panels. You can use the [Assets Library](/assets) to find appropriately sized speech bubbles and test them in our [home page](/) editor to ensure they look right on a simulated mobile view.\n\n### Simplified Compositions\nComplex, highly detailed backgrounds and sprawling multi-character shots can become muddy and confusing on a small screen. A mobile-friendly layout often relies on tighter shots—close-ups on faces or specific actions—and simplified backgrounds that don't distract from the main subject. The focus should be on immediate readability.\n\n### Clear Panel Progression\nWhether you are using a vertical scroll or a tap-to-advance format, the progression from one panel to the next must be intuitive. Avoid complex, intersecting layouts that might confuse the eye on a small screen. Stick to a simple, linear progression, ensuring that the reader always knows where to look next. For more foundational advice, review our [Visual Storytelling Comics Guide](/blog/visual-storytelling-comics-guide).",
+    "faqs": [
+      {
+        "question": "What is the biggest mistake when formatting a comic for mobile?",
+        "answer": "Making the text too small. Dialogue must be legible on a phone screen without the user having to zoom in."
+      },
+      {
+        "question": "Should I use detailed backgrounds in a mobile comic?",
+        "answer": "Use them sparingly. Highly detailed backgrounds can become cluttered and unreadable on small screens. Focus on clean compositions and tight character shots."
+      }
+    ],
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "vertical-reading-comic-layout",
+    "name": "Vertical Reading Comic Layout",
+    "description": "Guide the reader's eye downwards with a structured vertical reading comic layout.",
+    "intro": "## Guide the Eye with a Vertical Reading Comic Layout\n\n> **AI Snapshot**: The vertical reading comic layout structures panels in a top-to-bottom sequence, distinct from the infinite scroll by maintaining clear panel borders. It is ideal for adapting traditional comic pages into a mobile-friendly format.\n\nWhile the infinite scroll relies on seamless transitions, the vertical reading comic layout maintains distinct panels arranged in a top-to-bottom column. This format bridges the gap between traditional print comics and mobile optimization. It is an excellent choice for creators who want to maintain the structured pacing of distinct panels while still providing a smooth reading experience on smartphones.\n\n### Structuring the Column\nIn a vertical reading layout, the width of the comic is fixed to fit a mobile screen, and the story progresses entirely downwards. You must arrange your panels to guide the reader's eye naturally from the top of the column to the bottom. Avoid placing important information side-by-side, as the reader's instinct on mobile is to scroll down, not look across. Use the [home page](/) editor to stack your [assets](/assets) and panels neatly in a vertical column.\n\n### Adapting Traditional Pages\nThis layout is often used to adapt traditional, page-based comics for mobile viewing. Instead of presenting a full, complex page that requires zooming, the individual panels are sliced and stacked vertically. This requires careful consideration of the original reading order to ensure the narrative flow makes sense when reorganized into a single column.\n\n### Emphasizing Vertical Action\nThe vertical format is perfectly suited for depicting actions that happen along a vertical axis. Falling, climbing, or the sheer scale of a tall building can be emphasized effectively by using tall, narrow panels within the vertical column. For more advanced techniques on arranging panels, see our [Comic Strip Dimensions Guide](/blog/comic-strip-dimensions-guide).",
+    "faqs": [
+      {
+        "question": "What is the difference between a vertical layout and an infinite scroll?",
+        "answer": "An infinite scroll often uses seamless, borderless transitions and long gaps to convey time, whereas a structured vertical layout stacks distinct, bordered panels in a top-to-bottom column."
+      },
+      {
+        "question": "Can I adapt a traditional comic page to a vertical layout?",
+        "answer": "Yes, this is a common practice. You must slice the individual panels from the page and stack them vertically, ensuring the original reading order (usually Z-pattern) is translated into a logical top-to-bottom sequence."
+      }
+    ],
+    "tags": [
+      "Layout"
+    ]
   }
 ]
