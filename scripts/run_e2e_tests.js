@@ -421,6 +421,16 @@ const assert = require('assert');
     'http://localhost:3000/layouts/mobile-friendly-comic-layout',
     'http://localhost:3000/layouts/vertical-reading-comic-layout',
     'http://localhost:3000/styles/modern-webtoon-comic-style',
+
+    'http://localhost:3000/blog/fantasy-comic-creation-guide',
+    'http://localhost:3000/genres/high-fantasy-comic-maker',
+    'http://localhost:3000/genres/urban-fantasy-comic-creator',
+    'http://localhost:3000/genres/dark-fantasy-comic-generator',
+    'http://localhost:3000/genres/cozy-fantasy-comic-builder',
+    'http://localhost:3000/layouts/epic-battle-spread-layout',
+    'http://localhost:3000/layouts/magic-system-explainer-layout',
+    'http://localhost:3000/layouts/quest-map-comic-layout',
+    'http://localhost:3000/styles/painterly-fantasy-comic-style',
 ];
   page.on('console', msg => {
     if (msg.type() === 'error') {
