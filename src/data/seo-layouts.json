@@ -13,6 +13,10 @@
         "question": "How do I make a fight scene look powerful?",
         "answer": "Use extreme foreshortening, intense motion lines, and ensure the line of action in the characters' bodies is exaggerated and dynamic."
       }
+    ],
+    "updatedAt": "2026-09-09",
+    "tags": [
+      "Layout"
     ]
   },
   {
@@ -29,6 +33,10 @@
         "question": "How do I make a talking scene visually interesting?",
         "answer": "Vary the camera angles constantly. Move from wide shots to extreme close-ups, and show the listener's reactions or visual representations of what is being discussed."
       }
+    ],
+    "updatedAt": "2026-09-09",
+    "tags": [
+      "Layout"
     ]
   },
   {
@@ -45,6 +53,10 @@
         "question": "How do I build tension before the reveal?",
         "answer": "Use small, cramped panels showing only the terrifying results of the villain's presence, or close-ups of the hero's fearful reaction, before finally showing the villain themselves."
       }
+    ],
+    "updatedAt": "2026-09-09",
+    "tags": [
+      "Layout"
     ]
   },
   {
@@ -68,7 +80,10 @@
         "answer": "You can use chiaroscuro—strong contrasts between light and dark—using heavy blacks and stark white highlights to create a similar dynamic effect."
       }
     ],
-    "updatedAt": "2026-08-20"
+    "updatedAt": "2026-08-20",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "monochromatic-flashback-layout",
@@ -91,7 +106,10 @@
         "answer": "Yes, they can also be used to depict dreams, alternate realities, or a character's internal, subjective experience of a moment."
       }
     ],
-    "updatedAt": "2026-08-20"
+    "updatedAt": "2026-08-20",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "color-transition-comic-layout",
@@ -114,7 +132,10 @@
         "answer": "Usually, at least three panels are needed to establish a clear progression, but longer sequences (4-6 panels) allow for more subtle and effective transitions."
       }
     ],
-    "updatedAt": "2026-08-20"
+    "updatedAt": "2026-08-20",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "six-panel-emotional-arc",
@@ -129,7 +150,10 @@
         "answer": "Yes, but keeping them uniform helps maintain the steady pacing."
       }
     ],
-    "updatedAt": "2026-08-17"
+    "updatedAt": "2026-08-17",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "reaction-panel-comic-layout",
@@ -144,7 +168,10 @@
         "answer": "Usually, no. Let the art speak for itself for maximum impact."
       }
     ],
-    "updatedAt": "2026-08-17"
+    "updatedAt": "2026-08-17",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "close-up-emotion-layout",
@@ -159,7 +186,10 @@
         "answer": "It can range from head-and-shoulders to an extreme close-up showing only the eyes."
       }
     ],
-    "updatedAt": "2026-08-17"
+    "updatedAt": "2026-08-17",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "widescreen-cinematic-comic",
@@ -178,7 +208,10 @@
         "answer": "Usually 3 or 4. Any more, and the panels become too thin to draw detailed figures in."
       }
     ],
-    "updatedAt": "2026-08-16"
+    "updatedAt": "2026-08-16",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "overlapping-panels-comic",
@@ -197,7 +230,10 @@
         "answer": "Usually, yes. A strong border helps separate it from the background panel it is sitting on top of."
       }
     ],
-    "updatedAt": "2026-08-16"
+    "updatedAt": "2026-08-16",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "dialogue-focused-comic-layout",
@@ -216,7 +252,10 @@
         "answer": "Yes, breaking the panel border can be a stylish way to emphasize a line of dialogue."
       }
     ],
-    "updatedAt": "2026-08-16"
+    "updatedAt": "2026-08-16",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "11-panel-grid-comic",
@@ -239,7 +278,10 @@
         "answer": "Yes, it can be excellent for action scenes if you want to show a fast, frantic, step-by-step breakdown of a fight or sequence, simulating rapid motion."
       }
     ],
-    "updatedAt": "2026-08-08"
+    "updatedAt": "2026-08-08",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "comic-strip-storyboard-layout",
@@ -262,7 +304,10 @@
         "answer": "It only needs to be detailed enough for you to understand the action, character positions, and where the text will go. Stick figures and basic shapes are often sufficient."
       }
     ],
-    "updatedAt": "2026-08-08"
+    "updatedAt": "2026-08-08",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "cinematic-widescreen-layout",
@@ -285,7 +330,10 @@
         "answer": "It can reduce the number of panels you fit on a page, limiting the amount of rapid-fire dialogue or complex action sequences you can show compared to a denser grid."
       }
     ],
-    "updatedAt": "2026-08-08"
+    "updatedAt": "2026-08-08",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "dynamic-action-panel-layout",
@@ -304,7 +352,10 @@
         "answer": "It can if overused. It's important to still ensure the reading flow (left to right, top to bottom) is maintained, even if the panel borders are slanted or overlapping."
       }
     ],
-    "updatedAt": "2026-07-29"
+    "updatedAt": "2026-07-29",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "manga-action-lines-layout",
@@ -323,7 +374,10 @@
         "answer": "Absolutely! While they originated in manga, action lines are highly effective visual tools that can enhance the energy of any comic style."
       }
     ],
-    "updatedAt": "2026-07-29"
+    "updatedAt": "2026-07-29",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "character-focus-panel-layout",
@@ -342,7 +396,10 @@
         "answer": "Keep backgrounds minimal or use abstract colors/screentones. The goal is to remove distractions so the reader focuses entirely on the character's expression."
       }
     ],
-    "updatedAt": "2026-07-29"
+    "updatedAt": "2026-07-29",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "5x5-grid-comic-layout",
@@ -360,7 +417,10 @@
         "answer": "Yes, space is extremely limited. Dialogue must be very sparse, or the panels should be entirely silent, relying purely on visual storytelling."
       }
     ],
-    "updatedAt": "2026-07-28"
+    "updatedAt": "2026-07-28",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "panoramic-panel-comic",
@@ -378,7 +438,10 @@
         "answer": "It significantly slows down the reading speed, as the reader is invited to linger and explore the extensive details of the wide image."
       }
     ],
-    "updatedAt": "2026-07-28"
+    "updatedAt": "2026-07-28",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "interlocking-panel-comic",
@@ -396,7 +459,10 @@
         "answer": "You must use strong visual cues, such as character eyelines, action lines, and the strategic placement of speech bubbles, to manually guide the reader's eye through the unconventional layout."
       }
     ],
-    "updatedAt": "2026-07-28"
+    "updatedAt": "2026-07-28",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "comic-book-spread-layout",
@@ -481,7 +547,10 @@
         "answer": "Yes! Mixing panel shapes is a powerful tool to signify a change in reality, such as waking up from a dream."
       }
     ],
-    "updatedAt": "2026-07-26"
+    "updatedAt": "2026-07-26",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "triangle-panel-comic",
@@ -503,7 +572,10 @@
         "answer": "Focus the main action near the widest part of the triangle and use the narrowing points to guide the reader's eye to the next panel."
       }
     ],
-    "updatedAt": "2026-07-26"
+    "updatedAt": "2026-07-26",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "layered-panel-comic",
@@ -525,7 +597,10 @@
         "answer": "Ensure the overlapping panel clearly belongs on top, often by giving it a thicker border or a distinct drop shadow to separate it visually."
       }
     ],
-    "updatedAt": "2026-07-26"
+    "updatedAt": "2026-07-26",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "3x3-grid-comic-layout",
@@ -544,7 +619,10 @@
         "answer": "Yes, combining panels within the grid (e.g., merging three panels into one wide tier) is a common technique to emphasize important moments."
       }
     ],
-    "updatedAt": "2026-07-25"
+    "updatedAt": "2026-07-25",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "4x4-grid-comic-layout",
@@ -563,7 +641,10 @@
         "answer": "Use it for rapid dialogue, frantic action, conveying a strict passage of time, or creating a feeling of claustrophobia."
       }
     ],
-    "updatedAt": "2026-07-25"
+    "updatedAt": "2026-07-25",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "7-panel-irregular-comic",
@@ -582,7 +663,10 @@
         "answer": "It can if not designed carefully. Always ensure the panels flow in a clear Z-pattern (left to right, top to bottom) to maintain readability."
       }
     ],
-    "updatedAt": "2026-07-25"
+    "updatedAt": "2026-07-25",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "splash-page-comic-layout",
@@ -601,7 +685,10 @@
         "answer": "Yes, but it's best to keep text minimal so it doesn't obscure the artwork."
       }
     ],
-    "updatedAt": "2026-07-23"
+    "updatedAt": "2026-07-23",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "comic-book-cover-layout",
@@ -620,7 +707,10 @@
         "answer": "While we provide various fonts, you can always export the base cover art and add your custom logo in external software."
       }
     ],
-    "updatedAt": "2026-07-23"
+    "updatedAt": "2026-07-23",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "2x2-grid-comic-layout",
@@ -639,7 +729,10 @@
         "answer": "Not at all. While great for humor, it's also excellent for short, dramatic interactions or showcasing a sequence of actions."
       }
     ],
-    "updatedAt": "2026-07-23"
+    "updatedAt": "2026-07-23",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "10-panel-grid-layout",
@@ -654,7 +747,10 @@
         "answer": "It can be if not managed well. Keep the artwork within each panel relatively simple to maintain readability."
       }
     ],
-    "updatedAt": "2026-07-22"
+    "updatedAt": "2026-07-22",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "5-panel-horizontal-layout",
@@ -669,7 +765,10 @@
         "answer": "Not necessarily. It can be used for a complex joke that requires a 'double beat' or an extended reaction."
       }
     ],
-    "updatedAt": "2026-07-22"
+    "updatedAt": "2026-07-22",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "16-panel-grid-comic",
@@ -684,7 +783,10 @@
         "answer": "It requires significant planning due to the limited space per panel, but offers unparalleled control over timing."
       }
     ],
-    "updatedAt": "2026-07-22"
+    "updatedAt": "2026-07-22",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "circular-panel-comic-layout",
@@ -699,7 +801,10 @@
         "answer": "Use circular panels to depict dreams, memories, or to draw intense focus to a specific element."
       }
     ],
-    "updatedAt": "2026-07-22"
+    "updatedAt": "2026-07-22",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "irregular-panel-comic-layout",
@@ -714,7 +819,10 @@
         "answer": "They can make the reading flow more erratic and fast-paced, reflecting the chaos happening within the scene."
       }
     ],
-    "updatedAt": "2026-07-22"
+    "updatedAt": "2026-07-22",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "1-panel-gag-cartoon",
@@ -729,7 +837,10 @@
         "answer": "The image usually provides the setup or context, and the caption at the bottom (or a single speech bubble) delivers the punchline."
       }
     ],
-    "updatedAt": "2026-07-18"
+    "updatedAt": "2026-07-18",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "5-panel-comic-layout",
@@ -744,7 +855,10 @@
         "answer": "Use 5 panels when you need an extra beat for timing, such as a silent reaction shot before the final punchline."
       }
     ],
-    "updatedAt": "2026-07-18"
+    "updatedAt": "2026-07-18",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "9-panel-grid-comic",
@@ -759,7 +873,10 @@
         "answer": "It requires more planning, as you have less space per panel, but it offers unparalleled control over the pacing of your story."
       }
     ],
-    "updatedAt": "2026-07-18"
+    "updatedAt": "2026-07-18",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "3-panel-comic",
@@ -778,7 +895,10 @@
         "answer": "Yes, the 3-panel horizontal layout is ideal for mobile screens and social media carousels."
       }
     ],
-    "updatedAt": "2026-07-16"
+    "updatedAt": "2026-07-16",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "4-panel-comic",
@@ -797,7 +917,10 @@
         "answer": "Yes, our editor supports both horizontal rows and 2x2 grid layouts for 4-panel comics."
       }
     ],
-    "updatedAt": "2026-07-16"
+    "updatedAt": "2026-07-16",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "6-panel-comic",
@@ -816,7 +939,10 @@
         "answer": "Not at all! 6-panel comics work great as carousels or as a single high-resolution image on platforms like Pinterest."
       }
     ],
-    "updatedAt": "2026-07-16"
+    "updatedAt": "2026-07-16",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "vertical-scroll-comic",
@@ -835,7 +961,10 @@
         "answer": "You control pacing by adjusting the vertical space (the gutter) between panels. More space creates a longer pause or a sense of passing time."
       }
     ],
-    "updatedAt": "2026-07-17"
+    "updatedAt": "2026-07-17",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "2-panel-comic-layout",
@@ -854,7 +983,10 @@
         "answer": "Yes, our editor allows you to arrange the two panels either side-by-side horizontally or stacked vertically."
       }
     ],
-    "updatedAt": "2026-07-17"
+    "updatedAt": "2026-07-17",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "7-panel-comic",
@@ -869,7 +1001,10 @@
         "answer": "Use it when your story or joke requires multiple beats or a complex setup that cannot fit into standard 4 or 6 panel grids."
       }
     ],
-    "updatedAt": "2026-07-19"
+    "updatedAt": "2026-07-19",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "8-panel-grid",
@@ -884,7 +1019,10 @@
         "answer": "Common formats include a 2-by-4 arrangement or a 4-by-2 arrangement, depending on whether you want wider or taller panels."
       }
     ],
-    "updatedAt": "2026-07-19"
+    "updatedAt": "2026-07-19",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "infinite-canvas-comic",
@@ -899,7 +1037,10 @@
         "answer": "It is a digital-first comic format where the story flows continuously without being broken into traditional pages, often optimized for scrolling."
       }
     ],
-    "updatedAt": "2026-07-19"
+    "updatedAt": "2026-07-19",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "10-panel-comic-layout",
@@ -918,7 +1059,10 @@
         "answer": "It can be, so it's important to keep the artwork simple and text sparse if you expect readers to view it on small screens."
       }
     ],
-    "updatedAt": "2026-07-20"
+    "updatedAt": "2026-07-20",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "12-panel-grid-comic",
@@ -937,7 +1081,10 @@
         "answer": "Yes! Combining panels within a 12-panel grid is a powerful way to emphasize specific moments."
       }
     ],
-    "updatedAt": "2026-07-20"
+    "updatedAt": "2026-07-20",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "diagonal-panel-comic",
@@ -956,7 +1103,10 @@
         "answer": "They can be if overused. Always ensure the flow of the dialogue and action still leads the reader clearly from one panel to the next."
       }
     ],
-    "updatedAt": "2026-07-20"
+    "updatedAt": "2026-07-20",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "asymmetrical-panel-comic-layout",
@@ -975,7 +1125,10 @@
         "answer": "Yes, our layout tools allow you to adjust panel angles and sizes to break away from standard grids."
       }
     ],
-    "updatedAt": "2026-07-24"
+    "updatedAt": "2026-07-24",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "widescreen-comic-layout",
@@ -994,7 +1147,10 @@
         "answer": "Widescreen panels can be effective on mobile if the reader is viewing in landscape mode, or if used sparingly in a vertical scroll format."
       }
     ],
-    "updatedAt": "2026-07-24"
+    "updatedAt": "2026-07-24",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "overlapping-panel-comic",
@@ -1013,7 +1169,10 @@
         "answer": "Yes, maintaining a strong border (often white or black) on the top panel is crucial to separate it visually from the panel underneath."
       }
     ],
-    "updatedAt": "2026-07-24"
+    "updatedAt": "2026-07-24",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "9-panel-grid-comic",
@@ -1035,7 +1194,10 @@
         "answer": "Combine panels (e.g., merging three panels into one wide horizontal panel) when you want to emphasize a moment, slow down the reading pace, or establish a wide establishing shot."
       }
     ],
-    "updatedAt": "2026-07-28"
+    "updatedAt": "2026-07-28",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "splash-page-layout-comic",
@@ -1057,7 +1219,10 @@
         "answer": "A good splash page has a strong, dynamic composition, high levels of detail, and serves a clear narrative purpose, such as a major reveal or a climactic action beat."
       }
     ],
-    "updatedAt": "2026-07-28"
+    "updatedAt": "2026-07-28",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "widescreen-comic-layout",
@@ -1079,7 +1244,10 @@
         "answer": "Yes, because it forces the reader to scan left-to-right across the entire page for every single panel, it often results in a slower, more deliberate reading pace."
       }
     ],
-    "updatedAt": "2026-07-28"
+    "updatedAt": "2026-07-28",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "15-panel-grid-comic",
@@ -1097,7 +1265,10 @@
         "answer": "Use it when you want to drastically slow down the pacing, create a claustrophobic atmosphere, or show a micro-progression of time, such as a character's changing facial expression."
       }
     ],
-    "updatedAt": "2026-07-30"
+    "updatedAt": "2026-07-30",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "borderless-panel-comic-layout",
@@ -1115,7 +1286,10 @@
         "answer": "Removing borders makes the comic feel more fluid and less restricted by time, often creating a dreamlike, ethereal, or highly emotional atmosphere."
       }
     ],
-    "updatedAt": "2026-07-30"
+    "updatedAt": "2026-07-30",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "tilted-panel-comic-layout",
@@ -1133,7 +1307,10 @@
         "answer": "Tilted panels create a sense of chaos, frantic energy, speed, or psychological unease, making them ideal for action sequences or moments of disorientation."
       }
     ],
-    "updatedAt": "2026-07-30"
+    "updatedAt": "2026-07-30",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "mobile-optimized-comic-layout",
@@ -1152,7 +1329,10 @@
         "answer": "Text should be significantly larger than for print. A good rule of thumb is that if you have to squint to read it on your phone screen, it is too small."
       }
     ],
-    "updatedAt": "2026-07-30"
+    "updatedAt": "2026-07-30",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "print-ready-comic-layout",
@@ -1171,7 +1351,10 @@
         "answer": "The safe zone is the area well within the trim lines where all critical elements, like text and important character faces, must be placed to ensure they are not accidentally cut off during printing."
       }
     ],
-    "updatedAt": "2026-07-30"
+    "updatedAt": "2026-07-30",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "webtoon-scroll-comic-layout",
@@ -1190,7 +1373,10 @@
         "answer": "No, Webtoon layouts are incredibly difficult to format for physical printing due to their continuous vertical nature. They are strictly designed for digital screens."
       }
     ],
-    "updatedAt": "2026-07-30"
+    "updatedAt": "2026-07-30",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "chapter-based-comic-layout",
@@ -1209,7 +1395,10 @@
         "answer": "Use title pages or distinct visual shifts to clearly indicate the start of a new chapter."
       }
     ],
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "double-page-spread-layout",
@@ -1228,7 +1417,10 @@
         "answer": "Ensure no crucial dialogue or important visual elements are placed directly in the center where the pages fold."
       }
     ],
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "graphic-novel-grid-layout",
@@ -1247,7 +1439,10 @@
         "answer": "Yes, establishing a standard grid makes the moments when you break it (by combining panels or having art bleed over) much more impactful."
       }
     ],
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "inset-panel-comic-layout",
@@ -1266,7 +1461,10 @@
         "answer": "They often speed up the pacing by providing multiple pieces of information in a single visual space, making the scene feel more immediate and dynamic."
       }
     ],
-    "updatedAt": "2026-07-29"
+    "updatedAt": "2026-07-29",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "bleeding-panel-comic-layout",
@@ -1285,7 +1483,10 @@
         "answer": "Bleeding panels create a sense of scale, immersion, and uncontained energy, often used for expansive landscapes or climactic action moments."
       }
     ],
-    "updatedAt": "2026-07-29"
+    "updatedAt": "2026-07-29",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "horizontal-scroll-comic-layout",
@@ -1304,7 +1505,10 @@
         "answer": "Stories involving travel, exploration of wide landscapes, or continuous, unbroken tracking shots benefit greatly from this layout."
       }
     ],
-    "updatedAt": "2026-07-29"
+    "updatedAt": "2026-07-29",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "3x4-grid-comic-layout",
@@ -1327,7 +1531,10 @@
         "answer": "Keep backgrounds simple, use tight close-ups, and ensure speech bubbles are concise to prevent the small panels from feeling overcrowded."
       }
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-05",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "diagonal-split-panel-layout",
@@ -1350,7 +1557,10 @@
         "answer": "They can be if overused. It's crucial to ensure the reading order (left-to-right, top-to-bottom) remains clear despite the angled gutters."
       }
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-05",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "hexagonal-panel-comic-layout",
@@ -1373,7 +1583,10 @@
         "answer": "You must use strong internal composition within the artwork (like pointing fingers, sightlines, or action lines) to guide the reader from one hexagon to the next."
       }
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-05",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "14-panel-grid-comic",
@@ -1396,7 +1609,10 @@
         "answer": "No, it is relatively rare and usually reserved for specific, high-tension narrative moments by experienced creators."
       }
     ],
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "pyramid-panel-layout",
@@ -1419,7 +1635,10 @@
         "answer": "Yes! An inverted pyramid starts with a large establishing shot and funnels down into rapid, chaotic details."
       }
     ],
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "zigzag-panel-layout",
@@ -1442,7 +1661,10 @@
         "answer": "It shouldn't, as long as the general left-to-right, top-to-bottom flow is maintained. The staggered borders just make the eye travel a more active path."
       }
     ],
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "infinite-scroll-comic-layout",
@@ -1461,7 +1683,10 @@
         "answer": "You design the comic as one extremely tall image, which is then usually 'sliced' into smaller, manageable image files by the publishing platform."
       }
     ],
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "mobile-first-comic-layout",
@@ -1480,7 +1705,10 @@
         "answer": "The font size and panel width are much larger relative to the overall canvas, and the reading direction is typically vertical rather than horizontal."
       }
     ],
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "stacked-panel-comic-layout",
@@ -1499,7 +1727,10 @@
         "answer": "Stacked panels are much easier to read on a mobile device and eliminate any ambiguity about which panel the reader should look at next."
       }
     ],
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "dialogue-heavy-9-panel-grid",
@@ -1517,7 +1748,10 @@
         "answer": "It provides a rigid, metronomic pacing that is excellent for controlling the flow of a conversation and showing minute changes in character reactions."
       }
     ],
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-08-09",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "widescreen-cinematic-layout",
@@ -1535,7 +1769,10 @@
         "answer": "Use them to show scope, establish a new location, or create a deliberate, slow-paced dramatic moment."
       }
     ],
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-08-09",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "overlapping-action-panels",
@@ -1553,7 +1790,10 @@
         "answer": "They speed up the reading experience, making the sequence feel frantic, simultaneous, and highly energetic."
       }
     ],
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-08-09",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "dynamic-splash-page-layout",
@@ -1652,7 +1892,10 @@
         "answer": "It depends on your workflow. AI is great for rapid brainstorming and exploring options you might not have considered, but hand-sketching (thumbnailing) offers ultimate control."
       }
     ],
-    "updatedAt": "2026-08-12"
+    "updatedAt": "2026-08-12",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "ai-storyboard-layout",
@@ -1673,7 +1916,10 @@
         "answer": "Use prompts that specify camera angles (e.g., low angle, extreme close-up), lighting, and the specific action occurring in the panel."
       }
     ],
-    "updatedAt": "2026-08-12"
+    "updatedAt": "2026-08-12",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "ai-webtoon-scroll-layout",
@@ -1694,7 +1940,10 @@
         "answer": "Pacing. Utilizing the vertical space between panels (the scroll distance) effectively is crucial for controlling the timing and emotional impact of the story."
       }
     ],
-    "updatedAt": "2026-08-12"
+    "updatedAt": "2026-08-12",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "storyboard-panel-layout",
@@ -1717,7 +1966,10 @@
         "answer": "Planning speech bubbles early ensures that dialogue doesn't cover important art and that the text helps guide the reader's eye naturally across the page."
       }
     ],
-    "updatedAt": "2026-08-13"
+    "updatedAt": "2026-08-13",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "social-media-carousel-comic-layout",
@@ -1740,7 +1992,10 @@
         "answer": "End each slide with a setup or a mini-cliffhanger. Make the reader curious about the reaction or punchline, which is revealed on the next slide."
       }
     ],
-    "updatedAt": "2026-08-13"
+    "updatedAt": "2026-08-13",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "print-comic-book-layout",
@@ -1763,7 +2018,10 @@
         "answer": "The Safe Zone is the central area of the page where all critical text and artwork must be placed to guarantee they won't be cut off during the trimming process."
       }
     ],
-    "updatedAt": "2026-08-13"
+    "updatedAt": "2026-08-13",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "campaign-pitch-comic-layout",
@@ -1859,7 +2117,10 @@
         "answer": "Use pure black and pure white for the extremes, ensuring strong contrast so the forms don't blend together."
       }
     ],
-    "updatedAt": "2026-08-18"
+    "updatedAt": "2026-08-18",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "high-contrast-action-layout",
@@ -1874,7 +2135,10 @@
         "answer": "Use them very sparingly, only when necessary for texture, so they don't dilute the power of the stark blacks and whites."
       }
     ],
-    "updatedAt": "2026-08-18"
+    "updatedAt": "2026-08-18",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "atmospheric-mood-panel-layout",
@@ -1889,7 +2153,10 @@
         "answer": "Typically one or two at the beginning of a scene are enough to establish the atmosphere without dragging down the pacing."
       }
     ],
-    "updatedAt": "2026-08-18"
+    "updatedAt": "2026-08-18",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "manga-4-koma-layout",
@@ -1966,7 +2233,10 @@
         "answer": "No. Often, showing the reaction of the character listening is far more emotionally impactful than showing the character speaking."
       }
     ],
-    "updatedAt": "2026-08-22"
+    "updatedAt": "2026-08-22",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "text-heavy-comic-layout",
@@ -1989,7 +2259,10 @@
         "answer": "Yes! Integrated typography, where the text interacts with or becomes part of the environment, is a highly advanced and effective technique."
       }
     ],
-    "updatedAt": "2026-08-22"
+    "updatedAt": "2026-08-22",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "dense-dialogue-panel-layout",
@@ -2012,7 +2285,10 @@
         "answer": "Yes, giving each character a distinct (but subtle) bubble color is a great way to maintain clarity in very dense dialogue scenes."
       }
     ],
-    "updatedAt": "2026-08-22"
+    "updatedAt": "2026-08-22",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "metaphorical-panel-comic-layout",
@@ -2035,7 +2311,10 @@
         "answer": "Yes, manipulating the size, shape, and rhythm of panels can evoke feelings of anxiety, relief, speed, or stagnation."
       }
     ],
-    "updatedAt": "2026-08-23"
+    "updatedAt": "2026-08-23",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "split-screen-duality-layout",
@@ -2058,7 +2337,10 @@
         "answer": "Yes, splitting a panel can show a character's internal conflict, contrasting their outward appearance with their internal feelings."
       }
     ],
-    "updatedAt": "2026-08-23"
+    "updatedAt": "2026-08-23",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "dream-sequence-comic-layout",
@@ -2081,7 +2363,10 @@
         "answer": "Yes, you must still guide the reader's eye (often through overlapping elements or guiding lines), but the path can be more meandering than a traditional Z-path."
       }
     ],
-    "updatedAt": "2026-08-23"
+    "updatedAt": "2026-08-23",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "instagram-carousel-comic-layout",
@@ -2099,6 +2384,10 @@
         "question": "How many slides should my comic carousel be?",
         "answer": "While you can use up to 10 slides, 4 to 6 slides is often the sweet spot for a short gag or narrative beat, keeping the reader engaged without causing swipe fatigue."
       }
+    ],
+    "updatedAt": "2026-09-09",
+    "tags": [
+      "Layout"
     ]
   },
   {
@@ -2117,6 +2406,10 @@
         "question": "Can I use detailed backgrounds in a square grid layout?",
         "answer": "It is generally advised to keep backgrounds simple in this layout, as the panels are small on mobile devices and too much detail can obscure the characters and text."
       }
+    ],
+    "updatedAt": "2026-09-09",
+    "tags": [
+      "Layout"
     ]
   },
   {
@@ -2135,6 +2428,10 @@
         "question": "Do I need to animate my comic for TikTok?",
         "answer": "Full animation isn't required. Many successful creators simply pan the camera over static panels (an \"animatic\" style) while adding voiceovers and sound effects."
       }
+    ],
+    "updatedAt": "2026-09-09",
+    "tags": [
+      "Layout"
     ]
   },
   {
@@ -2156,6 +2453,10 @@
         "question": "How do diagonal panels affect pacing?",
         "answer": "Diagonal panels create a sense of instability and speed, making the reader feel like the action is moving faster than it would in standard rectangular panels."
       }
+    ],
+    "updatedAt": "2026-09-09",
+    "tags": [
+      "Layout"
     ]
   },
   {
@@ -2177,6 +2478,10 @@
         "question": "Should the inset have a thick border?",
         "answer": "It depends on the style, but generally, a distinct border (either white or black) helps separate the inset clearly from the background artwork of the main panel."
       }
+    ],
+    "updatedAt": "2026-09-09",
+    "tags": [
+      "Layout"
     ]
   },
   {
@@ -2192,6 +2497,9 @@
         "question": "When should I use a 5-panel layout?",
         "answer": "Use it when your story or joke feels rushed in 4 panels, or when you need an extra beat for a character reaction."
       }
+    ],
+    "tags": [
+      "Layout"
     ]
   },
   {
@@ -2207,6 +2515,9 @@
         "question": "Does an irregular layout make the comic hard to read?",
         "answer": "It can, if not done carefully. You must still guide the reader's eye intuitively (usually left-to-right, top-to-bottom) using character positioning and speech bubble placement."
       }
+    ],
+    "tags": [
+      "Layout"
     ]
   },
   {
@@ -2222,6 +2533,9 @@
         "question": "When is a widescreen layout most effective?",
         "answer": "It is most effective when you want to establish a strong sense of place, emphasize scale, or slow down the reading pace for a cinematic feel."
       }
+    ],
+    "tags": [
+      "Layout"
     ]
   },
   {
@@ -2245,7 +2559,10 @@
         "answer": "Yes, two large, stacked panels are perfect for reading on mobile phones or tablets."
       }
     ],
-    "intro": "## The Power of Extreme Simplicity\n\n> **AI Snapshot**: The simple 2-panel kids layout features two massive frames, typically stacked vertically or placed side-by-side. It is the most effective layout for toddlers and early readers, as it distills storytelling down to a basic \"cause and effect\" sequence without visual distractions.\n\nWhen creating comics for very young children (ages 2-5), less is always more. The **Simple 2-Panel Kids Layout** is the ultimate tool for visual clarity. Young developing brains are still learning how to track images sequentially, and a page full of 6 or 8 small boxes can be overwhelming and confusing. By using only two massive panels, you guide the child's eye effortlessly from the setup to the resolution.\n\nThis layout is the comic equivalent of a basic two-step instruction. It relies heavily on bold art and requires almost no text to be effective. \n\n### How to Maximize the 2-Panel Layout\n- **The \"Before and After\" Dynamic:** This layout excels at showing immediate consequences. Panel 1: A character blows a huge bubblegum bubble. Panel 2: The bubble pops all over their face. The humor and narrative are instantly grasped.\n- **Large, Legible Text:** If you do include dialogue, the massive panel size allows you to use incredibly large, easy-to-read fonts, which is perfect for children who are just learning to recognize letters.\n- **Focus on the Subject:** Keep backgrounds minimal. The child's attention should be entirely on the characters and the specific action taking place. \n\nBy mastering the 2-panel layout, you can create engaging, easily digestible content that builds a child's confidence in reading and visual comprehension."
+    "intro": "## The Power of Extreme Simplicity\n\n> **AI Snapshot**: The simple 2-panel kids layout features two massive frames, typically stacked vertically or placed side-by-side. It is the most effective layout for toddlers and early readers, as it distills storytelling down to a basic \"cause and effect\" sequence without visual distractions.\n\nWhen creating comics for very young children (ages 2-5), less is always more. The **Simple 2-Panel Kids Layout** is the ultimate tool for visual clarity. Young developing brains are still learning how to track images sequentially, and a page full of 6 or 8 small boxes can be overwhelming and confusing. By using only two massive panels, you guide the child's eye effortlessly from the setup to the resolution.\n\nThis layout is the comic equivalent of a basic two-step instruction. It relies heavily on bold art and requires almost no text to be effective. \n\n### How to Maximize the 2-Panel Layout\n- **The \"Before and After\" Dynamic:** This layout excels at showing immediate consequences. Panel 1: A character blows a huge bubblegum bubble. Panel 2: The bubble pops all over their face. The humor and narrative are instantly grasped.\n- **Large, Legible Text:** If you do include dialogue, the massive panel size allows you to use incredibly large, easy-to-read fonts, which is perfect for children who are just learning to recognize letters.\n- **Focus on the Subject:** Keep backgrounds minimal. The child's attention should be entirely on the characters and the specific action taking place. \n\nBy mastering the 2-panel layout, you can create engaging, easily digestible content that builds a child's confidence in reading and visual comprehension.",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "large-text-kids-comic-layout",
@@ -2268,7 +2585,10 @@
         "answer": "Not necessarily, but it requires you to be more concise with your dialogue, relying on the artwork to convey the context and emotion."
       }
     ],
-    "intro": "## Designing for Legibility\n\n> **AI Snapshot**: The large text kids comic layout is structurally designed to prioritize dialogue. It features expanded negative space (often at the top of the panels) specifically reserved for oversized speech bubbles, ensuring that large, easy-to-read text never covers crucial artwork.\n\nFor children who are transitioning from picture books to early reader books (ages 5-7), reading is still a laborious task. Small, cramped text in tiny speech bubbles will quickly cause frustration and cause them to abandon the comic. The **Large Text Kids Comic Layout** solves this by structurally treating the text as an equal, if not dominant, visual element in the panel composition. \n\nThis layout typically features 3 or 4 generously sized panels. Instead of filling every inch of the panel with background art, the upper third of the panel is intentionally left blank (or filled with a simple solid color sky) to act as a \"text zone.\" This guarantees that when you insert massive speech bubbles, you aren't covering the character's face or the main action.\n\n### Key Strategies for Large Text Layouts\n- **The Empty Sky Technique:** When designing your scene, intentionally keep the top half of your panel relatively empty. This dedicated negative space is where your large text bubbles will live comfortably.\n- **Short, Punchy Sentences:** Large text takes up a lot of room. You must edit your dialogue fiercely. If a character can say it in three words instead of seven, make the cut.\n- **High Contrast Bubbles:** Ensure the speech bubble background is pure white and the text is stark black. Do not use colored text or semi-transparent bubbles, as this drastically reduces readability for developing eyes.\n\nThis layout ensures that the reading experience is smooth, encouraging young readers to keep going without squinting or struggling."
+    "intro": "## Designing for Legibility\n\n> **AI Snapshot**: The large text kids comic layout is structurally designed to prioritize dialogue. It features expanded negative space (often at the top of the panels) specifically reserved for oversized speech bubbles, ensuring that large, easy-to-read text never covers crucial artwork.\n\nFor children who are transitioning from picture books to early reader books (ages 5-7), reading is still a laborious task. Small, cramped text in tiny speech bubbles will quickly cause frustration and cause them to abandon the comic. The **Large Text Kids Comic Layout** solves this by structurally treating the text as an equal, if not dominant, visual element in the panel composition. \n\nThis layout typically features 3 or 4 generously sized panels. Instead of filling every inch of the panel with background art, the upper third of the panel is intentionally left blank (or filled with a simple solid color sky) to act as a \"text zone.\" This guarantees that when you insert massive speech bubbles, you aren't covering the character's face or the main action.\n\n### Key Strategies for Large Text Layouts\n- **The Empty Sky Technique:** When designing your scene, intentionally keep the top half of your panel relatively empty. This dedicated negative space is where your large text bubbles will live comfortably.\n- **Short, Punchy Sentences:** Large text takes up a lot of room. You must edit your dialogue fiercely. If a character can say it in three words instead of seven, make the cut.\n- **High Contrast Bubbles:** Ensure the speech bubble background is pure white and the text is stark black. Do not use colored text or semi-transparent bubbles, as this drastically reduces readability for developing eyes.\n\nThis layout ensures that the reading experience is smooth, encouraging young readers to keep going without squinting or struggling.",
+    "tags": [
+      "Layout"
+    ]
   },
   {
     "slug": "7-panel-comic-layout",
@@ -2282,6 +2602,10 @@
         "question": "Is 7 panels too long for a single page?",
         "answer": "Not necessarily. It depends on the size and shape of the panels. It is often used for webcomics that are not constrained by traditional print dimensions."
       }
+    ],
+    "updatedAt": "2026-09-09",
+    "tags": [
+      "Layout"
     ]
   },
   {
@@ -2296,6 +2620,10 @@
         "question": "When should I avoid circular panels?",
         "answer": "Avoid them for fast-paced action sequences or rigid, technical dialogue, as the soft edges can undermine the tension and structure."
       }
+    ],
+    "updatedAt": "2026-09-09",
+    "tags": [
+      "Layout"
     ]
   },
   {
@@ -2310,6 +2638,10 @@
         "question": "How many panels should be on one slide?",
         "answer": "For maximum readability, limit a single slide to 3 or 4 panels. Any more will make the text too small to read comfortably from a distance."
       }
+    ],
+    "updatedAt": "2026-09-09",
+    "tags": [
+      "Layout"
     ]
   },
   {
@@ -2324,6 +2656,10 @@
         "question": "Where is this layout most effective?",
         "answer": "It is highly effective in whitepapers, annual reports, and long-form B2B blog posts where you need to explain complex, data-heavy concepts."
       }
+    ],
+    "updatedAt": "2026-09-09",
+    "tags": [
+      "Layout"
     ]
   },
   {
@@ -2338,6 +2674,10 @@
         "question": "Is this layout good for mobile?",
         "answer": "No, a 16:9 horizontal layout requires users to turn their phones sideways. For vertical scrolling, a mobile-optimized or Webtoon layout is better."
       }
+    ],
+    "updatedAt": "2026-09-09",
+    "tags": [
+      "Layout"
     ]
   },
   {
@@ -2360,6 +2700,10 @@
         "question": "How do I represent abstract emotional pain?",
         "answer": "Use metaphors. Instead of trying to draw 'sadness,' draw a character standing in a pouring rainstorm while everyone else has umbrellas, or a character carrying a literal heavy weight."
       }
+    ],
+    "updatedAt": "2026-09-09",
+    "tags": [
+      "Layout"
     ]
   },
   {
@@ -2382,6 +2726,10 @@
         "question": "Can I use dialogue in a meditation comic?",
         "answer": "Yes, but use it sparingly. Short, poetic phrases, or even just ambient sound effects (like a gentle *whoosh* of wind) work best. Too much text will speed up the reading pace."
       }
+    ],
+    "updatedAt": "2026-09-09",
+    "tags": [
+      "Layout"
     ]
   },
   {
@@ -2404,6 +2752,10 @@
         "question": "Do I need to show these comics to anyone?",
         "answer": "Absolutely not. Often, the most effective emotional release comics are the ones you create knowing no one else will ever see them. They are for your eyes and your healing only."
       }
+    ],
+    "updatedAt": "2026-09-09",
+    "tags": [
+      "Layout"
     ]
   },
   {
@@ -2426,6 +2778,10 @@
         "question": "How do I handle red herrings visually?",
         "answer": "Treat red herrings with the same visual importance as real clues. If you only highlight the real clues, the reader will instantly know which details to ignore."
       }
+    ],
+    "updatedAt": "2026-09-09",
+    "tags": [
+      "Layout"
     ]
   },
   {
@@ -2448,6 +2804,10 @@
         "question": "How do I show that a character is lying?",
         "answer": "Visual 'tells' include avoiding eye contact, sudden changes in posture, nervous sweating, or contradictory facial expressions (e.g., smiling while their eyes look panicked)."
       }
+    ],
+    "updatedAt": "2026-09-09",
+    "tags": [
+      "Layout"
     ]
   },
   {
@@ -2470,6 +2830,10 @@
         "question": "How does the gutter affect suspense?",
         "answer": "The gutter represents the passage of time. Wider gutters can slow down the pacing and stretch out a tense moment, while narrow or absent gutters can create a sense of rapid, chaotic action."
       }
+    ],
+    "updatedAt": "2026-09-09",
+    "tags": [
+      "Layout"
     ]
   },
   {
@@ -2486,6 +2850,10 @@
         "question": "When should I use a flashcard layout?",
         "answer": "Use it for vocabulary drills, learning foreign languages, or memorizing simple facts where sequential storytelling is not required."
       }
+    ],
+    "updatedAt": "2026-09-09",
+    "tags": [
+      "Layout"
     ]
   },
   {
@@ -2502,6 +2870,10 @@
         "question": "Should I use speech bubbles in an instruction layout?",
         "answer": "Usually, caption boxes are preferred for instructions to maintain a clear, objective tone, though speech bubbles can be used for helpful tips from a 'guide' character."
       }
+    ],
+    "updatedAt": "2026-09-09",
+    "tags": [
+      "Layout"
     ]
   },
   {
@@ -2518,6 +2890,10 @@
         "question": "What skills does a worksheet layout teach?",
         "answer": "It teaches reading comprehension, inference, creative writing, and dialogue construction."
       }
+    ],
+    "updatedAt": "2026-09-09",
+    "tags": [
+      "Layout"
     ]
   },
   {
@@ -2537,7 +2913,8 @@
     ],
     "tags": [
       "Layout"
-    ]
+    ],
+    "updatedAt": "2026-09-09"
   },
   {
     "slug": "mobile-friendly-comic-layout",
@@ -2556,7 +2933,8 @@
     ],
     "tags": [
       "Layout"
-    ]
+    ],
+    "updatedAt": "2026-09-09"
   },
   {
     "slug": "vertical-reading-comic-layout",
@@ -2573,6 +2951,82 @@
         "answer": "Yes, this is a common practice. You must slice the individual panels from the page and stack them vertically, ensuring the original reading order (usually Z-pattern) is translated into a logical top-to-bottom sequence."
       }
     ],
+    "tags": [
+      "Layout"
+    ],
+    "updatedAt": "2026-09-09"
+  },
+  {
+    "slug": "epic-battle-spread-layout",
+    "name": "Epic Battle Spread Layout",
+    "h1": "Epic Battle Spread Layout – Designing Fantasy Warfare",
+    "description": "Master the epic battle spread layout for your fantasy comics. Learn how to convey massive scale, chaotic action, and clear focal points.",
+    "intro": "> **AI Snapshot**: To design an epic battle spread, abandon rigid grids. Use a two-page canvas, establish a clear focal point (like the main heroes clashing), use diagonal reading lines for action, and let smaller inset panels handle specific combat details.\n\n## Designing the Epic Battle Spread\n\nAn epic battle spread is the climax of a high fantasy arc. It requires throwing out the traditional grid to utilize two full pages (or a massive vertical scroll) to show the sheer scale of the conflict.\n\n### Scale and Focus\nThe biggest mistake in battle spreads is creating a chaotic mess where the reader's eye has nowhere to rest. Establish a clear focal point first—usually the protagonist clashing with the antagonist. This central action should be the largest and most detailed part of the spread. \n\n### Inset Panels for Detail\nWhile the background shows the massive armies, use smaller, overlapping inset panels to show critical micro-actions: a sword breaking, a specific spell being cast, or a character's reaction. This grounds the massive scale in personal stakes.\n\n## 3 Professional Examples\n\n1.  **The V-Shape Clash:** The two opposing armies form a 'V' shape, leading the reader's eye down to the center where the two leaders are fighting.\n2.  **The Magic Explosion:** A massive, circular panel dominating the spread, depicting a spell detonation, with characters thrown backward into the margins.\n3.  **The Asymmetrical Charge:** A huge diagonal panel showing the cavalry charge, cutting across the page and disrupting smaller, orderly panels below it.\n\n| Quick Reference | Epic Battle Layout |\n| :--- | :--- |\n| **Best For** | Climax of fantasy arcs, massive army clashes, dragon fights. |\n| **Key Visuals** | Two-page spreads, diagonal action lines, inset detail panels. |\n| **ComicFlow Tip** | Use the canvas resize tool to create custom, massive panel dimensions. |\n\nFor more on staging these moments, read our [Fantasy Comic Creation Guide](/blog/fantasy-comic-creation-guide).",
+    "faqs": [
+      {
+        "question": "How do I make a battle scene readable?",
+        "answer": "Establish a clear focal point and use 'leading lines' (weapons, magic blasts, character sightlines) to direct the reader's eye through the chaos."
+      },
+      {
+        "question": "Should I use panel borders in a battle spread?",
+        "answer": "Often, the main action in a spread is 'borderless' (bleeding to the edge of the page), with inset panels having borders to separate specific actions from the background."
+      },
+      {
+        "question": "How do I show movement in a static image?",
+        "answer": "Use action lines (speed lines), blur effects, and highly dynamic, off-balance character poses to convey motion and impact."
+      }
+    ],
+    "updatedAt": "2026-09-09",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "magic-system-explainer-layout",
+    "name": "Magic System Explainer Layout",
+    "h1": "Magic System Explainer Layout – Show, Don't Just Tell",
+    "description": "Learn how to visually explain complex magic systems in your fantasy comics without relying on massive text dumps.",
+    "intro": "> **AI Snapshot**: To explain a magic system visually, use sequential panels to demonstrate cause and effect. Show the cost of the magic, use consistent color coding for different spell types, and break down complex rules into simple, visual steps.\n\n## Designing the Magic System Explainer\n\nEvery fantasy world needs rules for its magic. The challenge is explaining these rules to the reader without writing a textbook in the middle of your comic. The explainer layout focuses on visual demonstration.\n\n### Cause, Effect, and Cost\nThe core of any magic system is showing what the magic does and what it costs the user. Use a simple sequence: Panel 1 (The preparation/cost), Panel 2 (The execution), Panel 3 (The result/aftermath). If magic requires drawing blood, show the cut before the fireball.\n\n### Color Coding and Symbology\nCreate visual consistency. If healing magic is always soft green and destructive magic is always jagged red, the reader will immediately understand what is happening in future panels without any dialogue. \n\n## 3 Professional Examples\n\n1.  **The Classroom Scene:** A mentor character demonstrates a spell to a student, allowing the exposition to happen naturally through dialogue and visual aids on a chalkboard.\n2.  **The Trial and Error Sequence:** A montage of smaller panels showing the protagonist failing to cast a spell multiple times, visually demonstrating the difficulty and rules of the magic.\n3.  **The Infographic Panel:** A specialized panel that breaks the fourth wall slightly, using diagrams and arrows alongside the artwork to explain a complex magical concept clearly.\n\n| Quick Reference | Magic Explainer Layout |\n| :--- | :--- |\n| **Best For** | Early chapters, introducing new powers, establishing world rules. |\n| **Key Visuals** | Sequential demonstrations, consistent color coding, clear cause and effect. |\n| **ComicFlow Tip** | Utilize our shape tools to create distinct magical runes and auras. |\n\nLearn more about building your world in our [Fantasy Comic Creation Guide](/blog/fantasy-comic-creation-guide).",
+    "faqs": [
+      {
+        "question": "How do I avoid 'infodumping' when explaining magic?",
+        "answer": "Show the magic in action through a scene. Have characters learn or fail at using the magic, which explains the rules naturally to the reader."
+      },
+      {
+        "question": "Why is it important to show the 'cost' of magic?",
+        "answer": "Showing a cost (physical exhaustion, materials required, or moral compromise) creates stakes and tension. Without a cost, magic becomes a boring 'solve everything' button."
+      },
+      {
+        "question": "How can color help explain magic?",
+        "answer": "Assigning specific, consistent colors to different types of magic allows readers to instantly identify what kind of spell is being cast without needing to read any text."
+      }
+    ],
+    "updatedAt": "2026-09-09",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "quest-map-comic-layout",
+    "name": "Quest Map Comic Layout",
+    "h1": "Quest Map Comic Layout – Visualizing the Journey",
+    "description": "Use the quest map comic layout to ground your readers in your fantasy world's geography and track your characters' epic journey.",
+    "intro": "> **AI Snapshot**: To design a quest map layout, integrate a stylized map of your world as the background. Overlay inset panels showing the characters' progress, current location, or specific encounters to provide geographical context and scale.\n\n## Designing the Quest Map Layout\n\nFantasy is defined by the journey. A quest map layout is a specialized page used to re-orient the reader, showing them where the characters have been and where they are going, adding scope to the adventure.\n\n### The Map as Canvas\nIn this layout, the map itself acts as the background or the 'gutters' of the page. It should be stylized to fit the world (e.g., looking like old parchment or a glowing magical projection). \n\n### Tracking Progress\nUse visual markers (like a dotted line or an animated token) to show the path taken. Place inset panels at specific locations on the map to show brief vignettes of travel, camp life, or minor encounters that don't require a full scene.\n\n## 3 Professional Examples\n\n1.  **The Travel Montage:** The page is a map, and overlapping panels show the party struggling through snow (placed over mountains) and sweating in the sun (placed over a desert), summarizing weeks of travel.\n2.  **The Strategy Meeting:** Characters are gathered around a table looking at a map. The 'camera' zooms into the map, which transitions into the actual landscape of the next scene.\n3.  **The Chapter Intro:** A recurring opening page for each chapter showing the map, with a 'You Are Here' marker updating the reader on the current location.\n\n| Quick Reference | Quest Map Layout |\n| :--- | :--- |\n| **Best For** | Chapter transitions, travel montages, establishing geography. |\n| **Key Visuals** | Stylized maps as backgrounds, inset travel panels, progress markers. |\n| **ComicFlow Tip** | Import your custom map artwork into the background layer of the editor. |\n\nFor more on world-building, check out our [Fantasy Comic Creation Guide](/blog/fantasy-comic-creation-guide).",
+    "faqs": [
+      {
+        "question": "When should I use a map layout?",
+        "answer": "Use it during long periods of travel, at the beginning of new chapters, or when the characters are discussing strategic movements across the world."
+      },
+      {
+        "question": "Does the map need to be highly detailed?",
+        "answer": "No. The map should be stylized and clear. Too much detail can clutter the page and distract from the inset panels showing the characters."
+      },
+      {
+        "question": "How do I make a map look 'in-world'?",
+        "answer": "Design the map to look like an artifact from your world. Use textures like old parchment, worn leather, or magical holograms, and use fonts that match the setting."
+      }
+    ],
+    "updatedAt": "2026-09-09",
     "tags": [
       "Layout"
     ]
