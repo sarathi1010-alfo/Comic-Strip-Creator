@@ -440,6 +440,15 @@ const assert = require('assert');
     'http://localhost:3000/layouts/cyberpunk-data-stream-layout',
     'http://localhost:3000/layouts/cyberpunk-glitch-panel-layout',
     'http://localhost:3000/styles/cyberpunk-holographic-comic-style',
+    'http://localhost:3000/blog/advanced-comic-color-theory',
+    'http://localhost:3000/genres/sci-fi-fantasy-comic-maker',
+    'http://localhost:3000/genres/superhero-origin-story-maker',
+    'http://localhost:3000/genres/slice-of-life-school-comic',
+    'http://localhost:3000/layouts/5-panel-comic-layout',
+    'http://localhost:3000/layouts/9-panel-grid-comic-layout',
+    'http://localhost:3000/layouts/horizontal-scroll-comic-layout',
+    'http://localhost:3000/styles/neon-cyberpunk-style',
+    'http://localhost:3000/styles/watercolor-fantasy-style',
 ];
   page.on('console', msg => {
     if (msg.type() === 'error') {
