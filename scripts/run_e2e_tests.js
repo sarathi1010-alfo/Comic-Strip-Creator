@@ -4,6 +4,16 @@ const assert = require('assert');
   const browser = await chromium.launch({ headless: true });
   const page = await browser.newPage();
     const urlsToTest = [
+    'http://localhost:3000/blog/comic-panel-flow-guide',
+    'http://localhost:3000/genres/action-flow-comic-maker',
+    'http://localhost:3000/genres/dramatic-flow-comic-creator',
+    'http://localhost:3000/genres/silent-flow-comic-generator',
+    'http://localhost:3000/genres/fluid-narrative-comic-builder',
+    'http://localhost:3000/layouts/dynamic-flow-panel-layout',
+    'http://localhost:3000/layouts/z-pattern-comic-layout',
+    'http://localhost:3000/layouts/golden-ratio-comic-layout',
+    'http://localhost:3000/styles/fluid-motion-comic-style',
+
     'http://localhost:3000/blog/digital-inking-rendering-guide',
     'http://localhost:3000/genres/noir-detective-comic-maker',
     'http://localhost:3000/genres/biographical-comic-maker',
