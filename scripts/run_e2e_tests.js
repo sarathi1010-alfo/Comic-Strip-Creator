@@ -459,6 +459,15 @@ const assert = require('assert');
     'http://localhost:3000/layouts/horizontal-scroll-comic-layout',
     'http://localhost:3000/styles/neon-cyberpunk-style',
     'http://localhost:3000/styles/watercolor-fantasy-style',
+    'http://localhost:3000/blog/post-apocalyptic-comic-creation-guide',
+    'http://localhost:3000/genres/nuclear-wasteland-comic-maker',
+    'http://localhost:3000/genres/zombie-outbreak-comic-creator',
+    'http://localhost:3000/genres/dystopian-city-comic-generator',
+    'http://localhost:3000/genres/overgrown-ruins-comic-builder',
+    'http://localhost:3000/layouts/claustrophobic-survival-layout',
+    'http://localhost:3000/layouts/desolate-panorama-layout',
+    'http://localhost:3000/layouts/scavenger-montage-layout',
+    'http://localhost:3000/styles/gritty-wasteland-comic-style',
 ];
   page.on('console', msg => {
     if (msg.type() === 'error') {
