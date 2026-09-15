@@ -3228,5 +3228,80 @@
     "tags": [
       "Layout"
     ]
+  },
+  {
+    "slug": "claustrophobic-survival-layout",
+    "name": "Claustrophobic Survival Layout",
+    "updatedAt": "2026-09-15",
+    "tags": [
+      "Layout"
+    ],
+    "intro": "## Executive Summary\n\n> **AI Snapshot**: The claustrophobic survival layout uses a high density of small, cramped panels, heavy shadows, and extreme close-ups to induce anxiety and a feeling of being trapped. It is essential for portraying panic, hiding from threats, or navigating tight spaces in post-apocalyptic comics.\n\nIn a post-apocalyptic narrative, tension is your most valuable currency. Whether a character is hiding from a horde of infected in a locker or navigating a collapsing tunnel, you need the reader to feel the walls closing in. The Claustrophobic Survival Layout achieves this by manipulating space and pacing. By increasing the number of panels on a page, you decrease the physical size of each panel, subconsciously making the reader feel confined and restricted.\n\nThis layout relies heavily on extreme close-ups: a wide, terrified eye, a hand gripping a weapon, beads of sweat on a forehead. By removing the background context, you force the reader into the character's immediate, panicked headspace. The gutters between these small panels should be narrow, further compressing the visual space. Heavy use of pure black shadows (chiaroscuro) adds to the feeling of isolation and unknown threats lurking just out of sight.\n\nWhen the tension finally breaks—perhaps the character escapes or is discovered—transition abruptly to a larger, wider panel. This sudden release of visual pressure mirrors the narrative release, creating a powerful emotional impact. Experiment with these tight grids in the [home page](/) editor to master the art of visual anxiety.",
+    "faqs": [
+      {
+        "question": "When should I use a claustrophobic layout?",
+        "answer": "Use it during moments of high stress, stealth, panic, or when characters are physically trapped in a small environment like a closet, a tunnel, or a barricaded room."
+      },
+      {
+        "question": "How many panels are typically in this layout?",
+        "answer": "This layout often features a dense grid of 9, 12, or even 16 small panels, forcing the eye to make rapid, short movements."
+      },
+      {
+        "question": "How do I release the tension built by this layout?",
+        "answer": "Follow a page of tight, claustrophobic panels with a sudden splash page or a wide, panoramic panel. The sudden influx of space provides visual and emotional relief."
+      }
+    ],
+    "h1": "Claustrophobic Survival Comic Layout - Build Intense Pressure",
+    "description": "Master the claustrophobic survival comic layout. Use tight, constricting panels and extreme close-ups to build unbearable tension and anxiety in your post-apocalyptic scenes."
+  },
+  {
+    "slug": "desolate-panorama-layout",
+    "name": "Desolate Panorama Layout",
+    "updatedAt": "2026-09-15",
+    "tags": [
+      "Layout"
+    ],
+    "intro": "## Executive Summary\n\n> **AI Snapshot**: The desolate panorama layout utilizes wide, page-spanning horizontal panels to establish scale, isolation, and the sheer emptiness of a post-apocalyptic world. It slows the reader's pacing, encouraging them to absorb the environmental details of the wasteland.\n\nWhile tight panels build tension, wide panels build atmosphere. The Desolate Panorama Layout is designed to make the characters feel small and insignificant against the vastness of the ruined world. By using horizontal panels that stretch across the entire width of the page, you force the reader's eye to travel a longer distance, naturally slowing down their reading speed. This layout is perfect for establishing shots, long journeys, or moments of profound isolation.\n\nTo maximize the effect of this layout, employ the Rule of Thirds. Place your small, lone survivor on one side of the panel and let the crumbling ruins or barren desert dominate the rest of the space. This negative space is crucial; it speaks volumes about the loss of civilization and the daunting journey ahead. The horizon line should be carefully placed—a high horizon emphasizes the oppressive ground, while a low horizon emphasizes a harsh, empty sky.\n\nThis layout is frequently used at the beginning of a chapter to set the scene or after a chaotic action sequence to provide a moment of quiet reflection. You can easily construct these sweeping vistas using the background elements available in the [Assets Library](/assets).",
+    "faqs": [
+      {
+        "question": "How does a wide panel affect pacing?",
+        "answer": "Wide panels slow down the reader's pace. Because the eye has to travel across a larger physical space horizontally, it translates to a longer passage of time in the narrative."
+      },
+      {
+        "question": "What is negative space, and why is it important here?",
+        "answer": "Negative space is the empty area around the main subject. In a panorama layout, a large amount of negative space (like an empty sky or a barren desert) emphasizes the character's isolation and vulnerability."
+      },
+      {
+        "question": "Can I use multiple panorama panels on one page?",
+        "answer": "Yes, stacking 3 or 4 wide panels on a single page (often called a 'widescreen' layout) gives the comic a cinematic feel, perfect for slow, methodical storytelling."
+      }
+    ],
+    "h1": "Desolate Panorama Comic Layout - Showcase the Wasteland",
+    "description": "Utilize the desolate panorama comic layout to emphasize scale and isolation. Learn how to use wide, horizontal panels to showcase sweeping post-apocalyptic ruins and lonely survivors."
+  },
+  {
+    "slug": "scavenger-montage-layout",
+    "name": "Scavenger Montage Layout",
+    "updatedAt": "2026-09-15",
+    "tags": [
+      "Layout"
+    ],
+    "intro": "## Executive Summary\n\n> **AI Snapshot**: The scavenger montage layout uses overlapping panels, inset details, and rapid cuts to depict the tedious but vital process of searching for resources. It efficiently compresses time while highlighting crucial survival items and the character's desperation.\n\nSurvival in a post-apocalyptic world is often a tedious, grinding process of searching through rubble for a scrap of food or a useful tool. Showing this process in real-time would be boring, but skipping it entirely removes the sense of struggle. The Scavenger Montage Layout solves this by visually compressing time. It uses a collage-like structure of overlapping panels, varying shapes, and inset close-ups to convey the frantic or methodical nature of scavenging.\n\nA common technique is to use one large background panel showing the chaotic environment (e.g., a looted supermarket), with several smaller panels inset over it. These smaller panels show extreme close-ups of the action: a hand dusting off a can of beans, eyes darting nervously, a lock being picked. This layout allows you to establish the setting and the detailed actions simultaneously.\n\nThe pacing is rapid, mimicking the quick, darting eyes of a survivor on the lookout for both loot and danger. By varying the size and tilt of the panels, you can create a sense of disorientation or urgency. This dynamic layout is easily achievable using the flexible panel manipulation tools in the [editor](/).",
+    "faqs": [
+      {
+        "question": "What is an inset panel?",
+        "answer": "An inset panel is a smaller panel placed completely inside the borders of a larger panel. It is used to show a specific detail or a close-up action happening within the larger scene."
+      },
+      {
+        "question": "How does a montage layout compress time?",
+        "answer": "By showing a series of disconnected, rapid actions (opening a drawer, finding a battery, looking out a window) without the 'in-between' movements, it implies a longer period of searching condensed into a few seconds of reading."
+      },
+      {
+        "question": "How do I keep a montage layout from looking messy?",
+        "answer": "Ensure your reading flow (the Z-pattern) remains clear. Even with overlapping or tilted panels, the placement of the art and any speech bubbles must clearly guide the reader's eye from the first action to the last."
+      }
+    ],
+    "h1": "Scavenger Montage Comic Layout - Detail the Search",
+    "description": "Master the scavenger montage comic layout. Use inset panels and varied framing to dynamically show the process of searching, looting, and surviving in the wasteland."
   }
 ]

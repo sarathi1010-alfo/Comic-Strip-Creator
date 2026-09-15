@@ -1565,5 +1565,30 @@
     "tags": [
       "Style"
     ]
+  },
+  {
+    "slug": "gritty-wasteland-comic-style",
+    "name": "Gritty Wasteland Comic Style",
+    "updatedAt": "2026-09-15",
+    "tags": [
+      "Style"
+    ],
+    "intro": "## Executive Summary\n\n> **AI Snapshot**: The gritty wasteland comic style relies on heavy, rough inking, extensive use of crosshatching and stippling for texture, and a desaturated color palette to convey dirt, decay, and harsh survival. It rejects clean lines in favor of a messy, lived-in aesthetic.\n\nThe visual style of a post-apocalyptic comic must reflect the harshness of the world itself. The Gritty Wasteland Comic Style is characterized by its rejection of clean, perfect lines. The world is broken, and the art should look suitably distressed. This style relies heavily on aggressive inking techniques. Lines should be jagged, varied in weight, and rough. Extensive use of crosshatching (intersecting lines) and stippling (dots) adds physical texture to the page, making surfaces look rusted, pitted, and covered in grime.\n\nColoring in this style is equally important. Avoid bright, primary colors unless they are used specifically to draw the eye to a crucial element (like a hazard sign or a flare). Instead, use a desaturated palette dominated by earthy browns, ash grays, and sickly, muted greens. The lighting should be dramatic—either blindingly bright, blowing out details in the highlights, or swallowed by deep, pitch-black shadows that hide potential threats.\n\nThis aesthetic immediately tells the reader that they are in a dangerous, unforgiving place. It makes the characters' struggle for survival feel tangible and grounded. You can experiment with adding grit and texture to your scenes using the filters and assets available in the [home page](/) editor.",
+    "faqs": [
+      {
+        "question": "What is crosshatching?",
+        "answer": "Crosshatching is an inking technique where you draw intersecting sets of parallel lines to create shading and texture. The closer together the lines are, the darker the shadow appears."
+      },
+      {
+        "question": "Why avoid clean lines in a post-apocalyptic comic?",
+        "answer": "Clean, smooth lines imply a pristine, manufactured, or safe environment. Rough, broken lines visually represent decay, damage, and the chaotic nature of a ruined world."
+      },
+      {
+        "question": "How do I make a character look 'gritty'?",
+        "answer": "Add dirt and smudges to their skin, draw their clothing with frayed edges and patches, and use heavy shadows under their eyes to show exhaustion and stress."
+      }
+    ],
+    "h1": "Gritty Wasteland Comic Style - Render the Apocalypse",
+    "description": "Master the gritty wasteland comic style. Learn techniques for heavy inking, texturing, and desaturated coloring to bring a harsh, realistic post-apocalyptic world to life."
   }
 ]
