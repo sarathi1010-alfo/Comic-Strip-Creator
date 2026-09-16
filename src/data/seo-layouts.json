@@ -3303,5 +3303,65 @@
     ],
     "h1": "Scavenger Montage Comic Layout - Detail the Search",
     "description": "Master the scavenger montage comic layout. Use inset panels and varied framing to dynamically show the process of searching, looting, and surviving in the wasteland."
+  },
+  {
+    "slug": "monochromatic-focus-comic-layout",
+    "name": "Monochromatic Focus Comic Layout",
+    "description": "Direct reader attention and emphasize a single emotion using the monochromatic focus comic layout.",
+    "intro": "## Isolate Emotion with the Monochromatic Focus Comic Layout\n\n> **AI Snapshot**: The monochromatic focus comic layout uses a single base color to unify a scene, driving intense emotional focus and utilizing value contrast (light vs. dark) to guide the reader's eye without the distraction of multiple hues.\n\nColor is a powerful tool, but sometimes the most effective way to communicate a specific emotion is to restrict your palette entirely. The monochromatic focus comic layout strips away the complexity of full color, relying on a single hue to create a profound and unified emotional experience for the reader.\n\n### Emotional Intensity\nBy limiting your comic to a single color (e.g., all blues or all reds), you force the reader to experience the scene through that specific emotional lens. A monochromatic blue scene feels overwhelmingly melancholic or isolating, while a purely red scene feels intense, dangerous, or angry. It is a visual shorthand for the character's internal state.\n\n### The Importance of Value\nWhen you remove hue contrast, you must rely entirely on value contrast (the difference between light and dark) to make the image readable. The most important elements in your panel must have the highest contrast. If your character is dark red, they must be placed against a light red or pink background to stand out. You can test these value structures easily on our [home page](/).\n\n### Strategic Highlights\nA common variation of this layout is to use a monochromatic base with a single, highly saturated accent color (like a red scarf in a grayscale world) to instantly draw the eye. Explore the [Assets Library](/assets) to find items that can serve as these powerful visual anchors.",
+    "faqs": [
+      {
+        "question": "What does monochromatic mean in comics?",
+        "answer": "Monochromatic means using only one color (hue), but varying its lightness (tints) and darkness (shades) to create the image."
+      },
+      {
+        "question": "How do you make a monochromatic comic readable?",
+        "answer": "You must use strong value contrast. Ensure that the foreground and background have significantly different levels of lightness and darkness so they don't blend together."
+      }
+    ],
+    "updatedAt": "2026-10-15",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "duotone-contrast-comic-layout",
+    "name": "Duotone Contrast Comic Layout",
+    "description": "Create striking visual tension and modern aesthetics with the duotone contrast comic layout.",
+    "intro": "## Build Visual Tension with the Duotone Contrast Comic Layout\n\n> **AI Snapshot**: The duotone contrast comic layout utilizes only two, often complementary, colors. This severe restriction creates a highly stylized, modern look that emphasizes conflict, duality, and stark visual tension.\n\nThe duotone contrast comic layout is a bold, highly stylized approach to coloring. By restricting your palette to exactly two colors—most commonly complementary colors like blue and orange, or red and green—you create an image that is visually arresting and inherently tense.\n\n### Emphasizing Conflict\nThe use of two contrasting colors is perfect for illustrating conflict, whether it's a physical battle or an ideological divide. You can assign one color to the protagonist and the other to the antagonist, using the colors to represent their clash visually. This technique is often used in action sequences or tense dramatic moments.\n\n### The Graphic Aesthetic\nDuotone layouts often feel more \"graphic\" and less realistic than full-color comics. They rely on strong shapes and stark lighting. This stylized look is excellent for genres like noir, cyberpunk, or stylized thrillers. Experiment with different two-color combinations using the tools on our [home page](/).\n\n### Balancing the Colors\nWhen using a duotone layout, one color should usually be dominant (the base or background color) while the other acts as the accent. If both colors are used in equal amounts, they can compete for the reader's attention and create visual fatigue. Use the [Assets Library](/assets) to find elements that can carry your accent color effectively.",
+    "faqs": [
+      {
+        "question": "What is a duotone layout?",
+        "answer": "A duotone layout is a coloring technique that restricts the entire palette to only two specific colors (and their various tints and shades)."
+      },
+      {
+        "question": "Why use a duotone palette?",
+        "answer": "It creates a striking, stylized graphic look that is excellent for highlighting conflict, duality, or creating a specific, intense atmosphere."
+      }
+    ],
+    "updatedAt": "2026-10-15",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "triadic-action-comic-layout",
+    "name": "Triadic Action Comic Layout",
+    "description": "Energize your action sequences with the vibrant and dynamic triadic action comic layout.",
+    "intro": "## Energize Your Pages with the Triadic Action Comic Layout\n\n> **AI Snapshot**: The triadic action comic layout uses three colors evenly spaced on the color wheel (like red, yellow, and blue) to create vibrant, energetic, and highly readable scenes, making it ideal for classic superhero action.\n\nWhen you need a scene to pop with energy and excitement, the triadic action comic layout is your best tool. This layout relies on a triadic color palette—three colors that are evenly spaced around the color wheel, such as the classic primary colors: red, yellow, and blue. This combination is vibrant, balanced, and inherently dynamic.\n\n### The Superhero Standard\nThe triadic palette (specifically red/yellow/blue) is the foundational color scheme of the golden age of comic books. It was chosen because it prints clearly and catches the eye on a newsstand. Using this layout instantly evokes a feeling of classic superhero action and adventure. You can recreate this timeless look quickly on our [home page](/).\n\n### Managing the Chaos\nBecause triadic colors are so vibrant, they can easily become overwhelming if not balanced correctly. The key is to let one color dominate the scene, use the second to support it, and use the third strictly as an accent for the most important details (like an energy blast or a character's eyes).\n\n### Clarity in Combat\nIn complex action scenes with multiple characters, a triadic layout helps maintain visual clarity. By color-coding characters or factions using these distinct, highly contrasting colors, the reader can easily track who is who, even in the middle of a chaotic battle. Find appropriately colored action assets in our [Assets Library](/assets).",
+    "faqs": [
+      {
+        "question": "What is a triadic color palette?",
+        "answer": "A triadic palette consists of three colors that are evenly spaced on the color wheel, such as red, yellow, and blue, or orange, green, and purple."
+      },
+      {
+        "question": "Why is the triadic palette used so often in comics?",
+        "answer": "It provides high contrast and vibrant energy while maintaining visual balance, making it perfect for dynamic action scenes and character designs."
+      }
+    ],
+    "updatedAt": "2026-10-15",
+    "tags": [
+      "Layout"
+    ]
   }
 ]

@@ -4209,5 +4209,65 @@
     ],
     "h1": "Overgrown Ruins Comic Builder - Nature Reclaims the Earth",
     "description": "Create beautiful but deadly overgrown ruins comics. Illustrate cities reclaimed by nature, tribal survivors, and hidden dangers with our comic builder."
+  },
+  {
+    "slug": "cyberpunk-neon-comic-maker",
+    "name": "Cyberpunk Neon Comic Maker",
+    "description": "Design gritty dystopian futures and neon-drenched cities with the cyberpunk neon comic maker.",
+    "intro": "## Build Dystopian Futures with a Cyberpunk Neon Comic Maker\n\n> **AI Snapshot**: A cyberpunk neon comic maker provides the tools to create gritty, high-tech dystopian environments. It emphasizes high-contrast lighting, neon palettes, and intricate cybernetic details to bring futuristic stories to life.\n\nThe cyberpunk genre is defined by \"high tech, low life.\" It requires a very specific aesthetic: towering megastructures, sprawling slums, and the ever-present glow of neon signs cutting through the rain. A cyberpunk neon comic maker gives you the specialized assets and atmospheric tools needed to capture this iconic look.\n\n### The Neon Aesthetic\nColor is paramount in cyberpunk. The contrast between the dark, polluted environments and the hyper-saturated neon lights (pinks, blues, and electric greens) creates the genre's signature feel. When building your scenes, use these neon colors sparingly but effectively to draw the reader's eye to important details, like a glowing cybernetic eye or a holographic advertisement.\n\n### High-Tech Details\nCyberpunk worlds are dense and cluttered. Characters often sport visible cybernetic enhancements, and the environments should feel lived-in and technologically complex. Utilize the [Assets Library](/assets) to find futuristic weapons, cyberware, and gritty urban textures to layer into your panels.\n\n### Narrative Focus\nCyberpunk stories often explore themes of corporate control, artificial intelligence, and what it means to be human in a synthetic world. Your visual choices should reflect these themes. Frame your characters against massive, oppressive architecture to emphasize their lack of power, or use close-ups on synthetic parts to question their humanity. Experiment with layouts on the [home page](/) to find the perfect pacing for your dystopian narrative.",
+    "faqs": [
+      {
+        "question": "What colors are best for a cyberpunk comic?",
+        "answer": "A cyberpunk palette relies heavily on stark blacks and dark grays contrasted with hyper-saturated neon colors, particularly magenta, cyan, and electric green."
+      },
+      {
+        "question": "How do I make a city look cyberpunk?",
+        "answer": "Focus on density and verticality. Mix high-tech elements like holograms and flying cars with gritty, decaying elements like trash, graffiti, and exposed wires."
+      }
+    ],
+    "updatedAt": "2026-10-15",
+    "tags": [
+      "Genre"
+    ]
+  },
+  {
+    "slug": "gothic-horror-comic-creator",
+    "name": "Gothic Horror Comic Creator",
+    "description": "Craft tales of terror, crumbling castles, and supernatural dread with the gothic horror comic creator.",
+    "intro": "## Evoke Classic Terror with a Gothic Horror Comic Creator\n\n> **AI Snapshot**: A gothic horror comic creator specializes in atmospheric dread, focusing on crumbling architecture, creeping shadows, and psychological tension. It utilizes low-key lighting and Victorian-era assets to build classic tales of terror.\n\nGothic horror is less about jump scares and more about an overwhelming sense of dread, isolation, and the supernatural. It relies heavily on atmosphere and setting. A gothic horror comic creator provides the tools to build these eerie environments, from fog-shrouded moors to haunted manors, allowing you to focus on the psychological unraveling of your characters.\n\n### The Importance of Shadows\nIn gothic horror, what you don't see is just as important as what you do see. Use heavy, oppressive shadows (chiaroscuro lighting) to obscure details and let the reader's imagination fill in the terrifying blanks. The shadows themselves should feel almost alive, creeping into the edges of every panel.\n\n### Architectural Dread\nThe setting is often a character itself in gothic horror. Crumbling castles, labyrinthine mansions, and overgrown graveyards are staples of the genre. Use the [Assets Library](/assets) to construct these environments, focusing on vertical lines and claustrophobic spaces that make the protagonist feel trapped.\n\n### Psychological Pacing\nGothic stories build slowly. Use the panel layout tools on the [home page](/) to control the pacing, utilizing small, tight panels to build claustrophobia, and large, silent panels to emphasize isolation. The tension should increase steadily until the final, terrifying revelation.",
+    "faqs": [
+      {
+        "question": "What makes a comic gothic horror?",
+        "answer": "Gothic horror focuses on atmosphere, psychological dread, and the supernatural, often set against the backdrop of decaying, antiquated locations like old castles or manors."
+      },
+      {
+        "question": "How do I use lighting in a gothic comic?",
+        "answer": "Use low-key lighting with extreme contrast (chiaroscuro). The majority of the panel should be in deep shadow, with only specific, dramatic elements highlighted."
+      }
+    ],
+    "updatedAt": "2026-10-15",
+    "tags": [
+      "Genre"
+    ]
+  },
+  {
+    "slug": "pastel-slice-of-life-comic-builder",
+    "name": "Pastel Slice of Life Comic Builder",
+    "description": "Create cozy, heartwarming everyday stories with the pastel slice of life comic builder.",
+    "intro": "## Tell Heartwarming Stories with a Pastel Slice of Life Comic Builder\n\n> **AI Snapshot**: A pastel slice of life comic builder focuses on soft color palettes, expressive characters, and intimate settings to tell gentle, character-driven stories about everyday experiences and relationships.\n\nSlice of life comics celebrate the quiet, everyday moments that make up our lives. They don't need world-ending stakes; the drama comes from interpersonal relationships, personal growth, and relatable situations. A pastel slice of life comic builder provides the soft aesthetics and expressive tools needed to convey these gentle narratives.\n\n### The Power of Pastels\nA pastel color palette (colors with low saturation and high value) creates an immediate sense of warmth, safety, and nostalgia. It is visually soothing, making the reader feel comfortable and open to the emotional nuances of the story. Consistent use of these soft colors helps unify the comic and establish a cozy atmosphere.\n\n### Expressive Characters\nBecause slice of life stories rely heavily on dialogue and emotion rather than action, your characters must be highly expressive. Subtle shifts in posture or facial expressions carry the weight of the narrative. Utilize the diverse character expressions available in the [Assets Library](/assets) to ensure your characters are communicating their feelings clearly.\n\n### Intimate Settings\nThe settings in slice of life comics are usually familiar and intimate: a messy bedroom, a quiet coffee shop, or a sunny park. These environments should feel lived-in and personal. Start building your cozy environments using the tools on the [home page](/), focusing on small details that reveal the characters' personalities.",
+    "faqs": [
+      {
+        "question": "What is a slice of life comic?",
+        "answer": "A slice of life comic focuses on realistic, everyday situations and character interactions, rather than fantastical elements or high-stakes action."
+      },
+      {
+        "question": "Why use pastel colors for slice of life?",
+        "answer": "Pastel colors are soft, soothing, and often evoke a sense of nostalgia or warmth, which perfectly complements the gentle, character-driven nature of the genre."
+      }
+    ],
+    "updatedAt": "2026-10-15",
+    "tags": [
+      "Genre"
+    ]
   }
 ]
