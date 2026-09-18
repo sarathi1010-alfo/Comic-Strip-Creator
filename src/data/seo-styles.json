@@ -1630,5 +1630,25 @@
     "tags": [
       "Style"
     ]
+  },
+  {
+    "slug": "retro-sci-fi-comic-style",
+    "name": "Retro Sci-Fi Comic Style",
+    "description": "Capture the pulp adventure feel with the bold colors and classic designs of the retro sci-fi comic style.",
+    "intro": "## Blast into the Past with the Retro Sci-Fi Comic Style\n\n> **AI Snapshot**: The retro sci-fi comic style embraces the aesthetic of classic pulp magazines and early space comics, featuring bold primary colors, sleek rocket ship designs, domed helmets, and a sense of optimistic, wide-eyed adventure.\n\nBefore the gritty realism of modern sci-fi, space opera was defined by the bright, optimistic, and often whimsical aesthetic of pulp magazines. The retro sci-fi comic style captures this classic feel. It's perfect for stories of swashbuckling space heroes, bizarre alien monsters, and daring rescues, evoking a sense of pure, unadulterated adventure.\n\n### Bold Primary Colors\nRetro sci-fi relies heavily on bold, unmuted primary colors. Bright reds, deep blues, and vibrant yellows dominate the palette. Avoid the desaturated tones of modern sci-fi. The goal is to make the universe look colorful and exciting. Use the [Assets Library](/assets) to find classic-style props and characters.\n\n### Classic Design Elements\nEmbrace the tropes of the era: sleek, finned rocket ships, bubble helmets, ray guns with concentric rings, and aliens with tentacles and bug eyes. The technology should look fantastical rather than functional, emphasizing smooth curves and shiny metal surfaces.\n\n### Optimistic Adventure\nThe tone of this style is inherently optimistic and adventurous. The heroes are square-jawed and confident, the villains are theatrical, and the universe is full of wonders waiting to be discovered. Use the tools on the [home page](/) to capture this energetic, pulp-inspired pacing.",
+    "faqs": [
+      {
+        "question": "What defines the color palette of retro sci-fi?",
+        "answer": "It relies heavily on bold, saturated primary colors (reds, blues, yellows) and avoids the muted, gritty tones often found in modern science fiction."
+      },
+      {
+        "question": "How should technology look in a retro sci-fi comic?",
+        "answer": "Technology should feature classic pulp designs: sleek, shiny rocket ships with fins, domed space helmets, and ray guns, focusing on a fantastical, optimistic aesthetic rather than grounded realism."
+      }
+    ],
+    "updatedAt": "2026-09-18",
+    "tags": [
+      "Style"
+    ]
   }
 ]

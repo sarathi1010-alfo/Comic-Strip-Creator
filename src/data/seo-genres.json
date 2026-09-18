@@ -4269,5 +4269,85 @@
     "tags": [
       "Genre"
     ]
+  },
+  {
+    "slug": "galactic-empire-comic-creator",
+    "name": "Galactic Empire Comic Creator",
+    "description": "Build sprawling empires and epic space battles with the galactic empire comic creator.",
+    "intro": "## Rule the Galaxy with a Galactic Empire Comic Creator\n\n> **AI Snapshot**: A galactic empire comic creator focuses on massive scale, featuring imposing imperial architecture, vast starfleets, and political intrigue, allowing creators to build sweeping narratives of conquest and rebellion.\n\nThe space opera genre thrives on massive scale and high stakes. Creating a comic centered around a galactic empire requires a focus on monumental architecture, overwhelming military might, and the political machinations of the ruling elite. The galactic empire comic creator provides the specialized assets and environments needed to bring these vast interstellar domains to life.\n\n### Imposing Architecture and Fleets\nAn empire's visual identity should project power and dominance. The builder provides environments like grand throne rooms, sprawling ecumenopolises (city-planets), and massive orbital stations. Use the [Assets Library](/assets) to populate your scenes with imposing star destroyers, uniformed legions, and sleek, aggressive technology.\n\n### The Struggle for Control\nA galactic empire story is often about the tension between order and freedom. The narrative can follow the ruthless leaders expanding their territory or the desperate rebels fighting against them. Focus on the scale of the conflict, balancing massive space battles with the personal struggles of those caught in the crossfire.\n\n### Designing the Hierarchy\nAn empire needs a clear hierarchy. Design distinct uniforms and insignia for different ranks and factions within the imperial military and government. Use the layout tools on the [home page](/) to frame imperial leaders in positions of power, using low angles and stark lighting to emphasize their authority.",
+    "faqs": [
+      {
+        "question": "How do I make my galactic empire look distinct?",
+        "answer": "Focus on a consistent shape language (often sharp, angular, and imposing) and a unified color palette (like stark blacks, whites, and reds) across all imperial designs, from uniforms to starships."
+      },
+      {
+        "question": "How do I balance massive space battles with character moments?",
+        "answer": "Cut between wide shots of the fleet engagement and tight close-ups of the characters on the bridge or in cockpits, focusing on their reactions and the tension of the command decisions."
+      }
+    ],
+    "updatedAt": "2026-09-18",
+    "tags": [
+      "Genre"
+    ]
+  },
+  {
+    "slug": "space-smuggler-comic-maker",
+    "name": "Space Smuggler Comic Maker",
+    "description": "Craft daring heists and narrow escapes across the galaxy with the space smuggler comic maker.",
+    "intro": "## Navigate the Underworld with a Space Smuggler Comic Maker\n\n> **AI Snapshot**: A space smuggler comic maker focuses on gritty, lived-in environments, ragtag crews, and fast-paced action, allowing creators to tell stories of rogues and outlaws operating on the fringes of galactic society.\n\nWhile empires fight massive wars, the real adventures often happen in the shadows. Creating a space smuggler comic requires a focus on the gritty, unregulated fringes of the galaxy. The space smuggler comic maker provides the tools to build lived-in starships, seedy cantinas, and the chaotic underworld of space.\n\n### The Lived-In Starship\nA smuggler's ship is their home, workplace, and lifeline. It shouldn't look pristine. Use the builder to create cramped, cluttered interiors with exposed wiring, mismatched repairs, and hidden compartments. The ship should have as much personality as the crew. Explore the [Assets Library](/assets) for scavenged parts and unique sci-fi props.\n\n### The Ragtag Crew\nSmuggler stories thrive on ensemble casts of outcasts and rogues. Design a diverse crew with distinct skills and backgrounds—the smooth-talking captain, the imposing alien muscle, the brilliant but eccentric mechanic. The friction and camaraderie between these characters drive the narrative.\n\n### High-Stakes Heists\nThe core of a smuggler story is the job. Whether it's sneaking past an imperial blockade or pulling a heist on a casino station, the action should be fast-paced and improvisational. Use dynamic layouts on the [home page](/) to convey the chaos and speed of narrow escapes.",
+    "faqs": [
+      {
+        "question": "How do I make a spaceship interior look 'lived-in'?",
+        "answer": "Add clutter, scuff marks, and personal items. Show areas where repairs have been hastily made with mismatched panels or exposed wiring, giving the ship a history of use and survival."
+      },
+      {
+        "question": "What makes a good smuggler crew dynamic?",
+        "answer": "Create characters with conflicting personalities or moral codes who are forced to work together out of necessity. The tension between their individual goals and the survival of the crew creates compelling drama."
+      }
+    ],
+    "updatedAt": "2026-09-18",
+    "tags": [
+      "Genre"
+    ]
+  },
+  {
+    "slug": "alien-exploration-comic-builder",
+    "name": "Alien Exploration Comic Builder",
+    "description": "Discover strange new worlds and encounter bizarre species with the alien exploration comic builder.",
+    "intro": "## Chart the Unknown with an Alien Exploration Comic Builder\n\n> **AI Snapshot**: An alien exploration comic builder focuses on diverse, exotic environments and imaginative creature designs, allowing creators to tell stories of scientific discovery, first contact, and the wonders (and dangers) of the unknown universe.\n\nSpace opera isn't just about war; it's about the awe of discovery. Creating an alien exploration comic requires a focus on imaginative world-building, emphasizing the strange and the beautiful. The alien exploration comic builder provides the tools to construct bizarre landscapes and the diverse species that inhabit them.\n\n### Exotic Planetary Environments\nWhen exploring new worlds, the environments should feel truly alien. Move beyond Earth-like landscapes. Use the builder to create forests of glowing fungi, oceans of liquid methane, or cities floating in gas giants. Experiment with unusual color palettes to immediately signal that the characters are on an alien world. The [Assets Library](/assets) offers a variety of strange flora and geological formations.\n\n### First Contact and Communication\nStories of exploration often center around the challenge of first contact. The tension comes from trying to understand an alien species with completely different biology and culture. Focus on non-verbal communication, body language, and the slow process of building trust (or the disastrous consequences of misunderstanding).\n\n### The Wonders of Science\nExploration comics often feature scientific vessels and crews of researchers. Design ships equipped with sensor arrays and laboratories rather than heavy weapons. Use the tools on the [home page](/) to frame the characters' awe and curiosity as they uncover the secrets of the universe.",
+    "faqs": [
+      {
+        "question": "How do I design an environment that feels truly alien?",
+        "answer": "Break away from Earth-normal colors and structures. Use unusual color combinations (like a purple sky with red vegetation) and incorporate strange geological features or alien flora that defy typical physics."
+      },
+      {
+        "question": "How can I depict the difficulty of communicating with an alien species?",
+        "answer": "Focus on the frustration and ingenuity of the process. Show characters relying on gestures, mathematics, or technology to bridge the gap, and highlight the potential for dangerous misunderstandings."
+      }
+    ],
+    "updatedAt": "2026-09-18",
+    "tags": [
+      "Genre"
+    ]
+  },
+  {
+    "slug": "space-rebellion-comic-generator",
+    "name": "Space Rebellion Comic Generator",
+    "description": "Fight for freedom against overwhelming odds with the space rebellion comic generator.",
+    "intro": "## Ignite the Uprising with a Space Rebellion Comic Generator\n\n> **AI Snapshot**: A space rebellion comic generator focuses on asymmetric warfare, makeshift technology, and underdog narratives, allowing creators to tell stories of desperate resistance fighters battling a vast, oppressive regime.\n\nThe classic struggle of a small, determined group against a massive empire is a staple of space opera. Creating a space rebellion comic requires a focus on asymmetric warfare, themes of hope and sacrifice, and a distinctly 'scrappy' aesthetic. The space rebellion comic generator provides the tools to build the hidden bases and improvised fleets of a resistance movement.\n\n### The Scrappy Aesthetic\nA rebellion doesn't have the resources of an empire. Their technology should look scavenged, repurposed, and constantly under repair. Use the builder to create fleets made of mismatched ships and bases hidden in asteroid fields or dense jungles. The [Assets Library](/assets) is perfect for finding the worn and weathered props needed for this aesthetic.\n\n### Asymmetric Warfare\nThe rebels can't win in a straight fight; they rely on sabotage, espionage, and hit-and-run tactics. Focus the narrative on daring raids, undercover missions, and the desperate struggle to survive against overwhelming numbers.\n\n### Hope and Sacrifice\nThe core of a rebellion story is the belief in a better future. Highlight the camaraderie and shared purpose of the resistance fighters. Use the layout tools on the [home page](/) to emphasize the emotional weight of their sacrifices and the fleeting moments of victory against the empire.",
+    "faqs": [
+      {
+        "question": "How do I visually distinguish the rebellion from the empire?",
+        "answer": "Contrast the empire's uniformity and pristine technology with the rebellion's diverse, mismatched, and heavily weathered equipment. The rebels should look like they are fighting with whatever they can find."
+      },
+      {
+        "question": "What is the key to writing a compelling rebellion narrative?",
+        "answer": "Focus on the high stakes and the underdog nature of the fight. The victories should feel hard-won and costly, and the characters should be driven by a strong ideological belief in their cause."
+      }
+    ],
+    "updatedAt": "2026-09-18",
+    "tags": [
+      "Genre"
+    ]
   }
 ]

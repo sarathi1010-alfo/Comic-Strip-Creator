@@ -477,6 +477,16 @@ const assert = require('assert');
     'http://localhost:3000/layouts/desolate-panorama-layout',
     'http://localhost:3000/layouts/scavenger-montage-layout',
     'http://localhost:3000/styles/gritty-wasteland-comic-style',
+
+    'http://localhost:3000/blog/space-opera-comic-creation-guide',
+    'http://localhost:3000/genres/galactic-empire-comic-creator',
+    'http://localhost:3000/genres/space-smuggler-comic-maker',
+    'http://localhost:3000/genres/alien-exploration-comic-builder',
+    'http://localhost:3000/genres/space-rebellion-comic-generator',
+    'http://localhost:3000/layouts/epic-space-battle-spread',
+    'http://localhost:3000/layouts/cockpit-view-panel-layout',
+    'http://localhost:3000/layouts/holographic-briefing-layout',
+    'http://localhost:3000/styles/retro-sci-fi-comic-style',
 ];
   page.on('console', msg => {
     if (msg.type() === 'error') {
