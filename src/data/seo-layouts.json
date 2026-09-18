@@ -3363,5 +3363,65 @@
     "tags": [
       "Layout"
     ]
+  },
+  {
+    "slug": "epic-space-battle-spread",
+    "name": "Epic Space Battle Spread",
+    "description": "Showcase massive fleet engagements and cosmic scale with the epic space battle spread layout.",
+    "intro": "## Command the Fleet with the Epic Space Battle Spread\n\n> **AI Snapshot**: The epic space battle spread utilizes a massive, two-page layout to depict the chaotic scale of interstellar conflict, allowing for multiple points of action, massive starships, and a sense of overwhelming scope.\n\nIn a space opera, the battles are as vast as the universe itself. The epic space battle spread is designed to capture the sheer scale of fleet engagements, where thousands of ships clash in the void. This layout provides the necessary canvas to convey the chaos, the strategy, and the spectacle of cosmic warfare.\n\n### The Anchor Element\nA massive battle scene needs a focal point to ground the reader's eye. This could be a colossal dreadnought, an exploding space station, or a brilliant energy beam cutting across the page. Use the [Assets Library](/assets) to find or construct this central, awe-inspiring element that dominates the spread.\n\n### Guiding the Chaos\nWhile the battle is chaotic, the layout must remain readable. Use the trajectories of laser fire, the exhaust trails of fighters, and the alignment of capital ships to create leading lines that guide the reader's eye through the action, ensuring they don't get lost in the details.\n\n### The Micro within the Macro\nTo keep the epic scale grounded, insert smaller, inset panels that focus on the character-level action—a pilot struggling with the controls, a commander barking orders, or a desperately repairing mechanic. Use the editor on the [home page](/) to balance these intimate moments against the backdrop of the massive conflict.",
+    "faqs": [
+      {
+        "question": "How do I prevent a massive space battle from becoming visually confusing?",
+        "answer": "Establish clear leading lines using laser fire or ship formations to direct the reader's eye, and ensure there is a distinct focal point (like a massive explosion or capital ship) that anchors the scene."
+      },
+      {
+        "question": "How can I maintain character focus in such a large scene?",
+        "answer": "Use small inset panels placed over the main spread to show the reactions and struggles of individual characters, contrasting their personal experience with the vast scale of the battle."
+      }
+    ],
+    "updatedAt": "2026-09-18",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "cockpit-view-panel-layout",
+    "name": "Cockpit View Panel Layout",
+    "description": "Put the reader in the pilot's seat with the immersive cockpit view panel layout.",
+    "intro": "## Take the Helm with the Cockpit View Panel Layout\n\n> **AI Snapshot**: The cockpit view panel layout uses the interior architecture of a starfighter or bridge to frame the external action, creating an immersive, first-person perspective that heightens the tension of space flight and combat.\n\nTo make the vastness of space feel immediate and dangerous, you need to put the reader right in the action. The cockpit view panel layout frames the scene from the perspective of the pilot or commander. By looking out through the viewport, the reader experiences the speed, the claustrophobia, and the thrill of space travel firsthand.\n\n### Framing the Action\nThe cockpit itself acts as a natural frame for the panel. Use the structural elements of the ship—control panels, glowing displays, and the edges of the canopy—to border the external view. This grounds the scene and emphasizes the thin layer of protection between the character and the vacuum of space. Explore the [Assets Library](/assets) for sci-fi interface elements.\n\n### The Information Display\nIncorporate the ship's Heads-Up Display (HUD) and readouts directly into the layout. Glowing targeting reticles, warning flashes, and trajectory lines can provide narrative information and visual flair, enhancing the high-tech atmosphere.\n\n### Claustrophobia vs. Vastness\nContrast the cramped, detailed interior of the cockpit with the infinite expanse of space outside. Use the layout tools on the [home page](/) to emphasize this dichotomy, making the character feel isolated and vulnerable despite the advanced technology surrounding them.",
+    "faqs": [
+      {
+        "question": "How do I effectively use a cockpit view to build tension?",
+        "answer": "Focus on the contrast between the cramped interior and the dangerous exterior, and use elements like flashing warning lights on the HUD or the approaching threat visible through the canopy to create immediate anxiety."
+      },
+      {
+        "question": "Can I use HUD elements for storytelling?",
+        "answer": "Yes, HUD elements (like a depleting shield bar, an incoming missile warning, or a damaged system readout) can communicate crucial narrative information visually, without relying on dialogue or exposition."
+      }
+    ],
+    "updatedAt": "2026-09-18",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "holographic-briefing-layout",
+    "name": "Holographic Briefing Layout",
+    "description": "Deliver exposition and strategic planning visually with the holographic briefing layout.",
+    "intro": "## Outline the Mission with the Holographic Briefing Layout\n\n> **AI Snapshot**: The holographic briefing layout centers around a glowing, three-dimensional projection, allowing characters to discuss strategy and exposition while visually presenting the target, the map, or the threat in a dynamic, sci-fi aesthetic.\n\nSpace operas often require complex planning, detailing planetary defenses, fleet movements, or the layout of an enemy base. The holographic briefing layout turns exposition into an engaging visual scene. By centering the panel on a glowing, 3D projection, you can convey crucial information while maintaining the high-tech atmosphere of the genre.\n\n### The Glowing Centerpiece\nThe hologram is the focal point of the scene. It should be bright, translucent, and usually monochromatic (often blue or green) to distinguish it from the physical characters. Use the [Assets Library](/assets) to construct the holographic projection, whether it's a rotating planet, a detailed schematic, or a map of enemy positions.\n\n### Interactive Exposition\nDon't just have characters stare at the hologram; have them interact with it. Show them pointing at specific sectors, zooming in on targets, or swiping away information. This makes the delivery of exposition active rather than passive.\n\n### Lighting the Scene\nThe hologram provides a primary light source. Use the editor on the [home page](/) to cast the glowing light of the projection onto the faces of the characters gathered around it. This dramatic underlighting adds tension and focus to the briefing scene.",
+    "faqs": [
+      {
+        "question": "How do I make a briefing scene visually interesting?",
+        "answer": "Use a holographic projection as the focal point, allowing the characters to interact with a visual representation of the exposition, and use the glow of the hologram to create dramatic lighting."
+      },
+      {
+        "question": "What is the best way to render a hologram in a comic?",
+        "answer": "Use a bright, monochromatic color (like neon blue), lower the opacity to make it translucent, and perhaps add subtle scanlines or static effects to emphasize its technological nature."
+      }
+    ],
+    "updatedAt": "2026-09-18",
+    "tags": [
+      "Layout"
+    ]
   }
 ]
