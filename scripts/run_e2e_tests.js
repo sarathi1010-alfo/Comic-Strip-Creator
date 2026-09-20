@@ -487,6 +487,16 @@ const assert = require('assert');
     'http://localhost:3000/layouts/cockpit-view-panel-layout',
     'http://localhost:3000/layouts/holographic-briefing-layout',
     'http://localhost:3000/styles/retro-sci-fi-comic-style',
+
+    'http://localhost:3000/blog/steampunk-comic-creation-guide',
+    'http://localhost:3000/genres/steampunk-adventure-comic-maker',
+    'http://localhost:3000/genres/victorian-sci-fi-comic-creator',
+    'http://localhost:3000/genres/clockwork-mystery-comic-generator',
+    'http://localhost:3000/genres/steam-powered-fantasy-comic-builder',
+    'http://localhost:3000/layouts/gears-and-cogs-panel-layout',
+    'http://localhost:3000/layouts/zeppelin-view-comic-layout',
+    'http://localhost:3000/layouts/brass-border-comic-layout',
+    'http://localhost:3000/styles/victorian-etching-comic-style',
 ];
   page.on('console', msg => {
     if (msg.type() === 'error') {

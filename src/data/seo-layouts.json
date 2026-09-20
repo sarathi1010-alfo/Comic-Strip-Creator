@@ -3423,5 +3423,65 @@
     "tags": [
       "Layout"
     ]
+  },
+  {
+    "slug": "gears-and-cogs-panel-layout",
+    "name": "Gears and Cogs Panel Layout",
+    "description": "Frame your steampunk narratives with interconnected, mechanical panel borders using the gears and cogs layout.",
+    "intro": "## Frame Your Story with the Gears and Cogs Panel Layout\n\n> **AI Snapshot**: The gears and cogs panel layout replaces traditional straight borders with interlocking mechanical shapes, instantly immersing the reader in a steampunk aesthetic and emphasizing the interconnected nature of the narrative.\n\nIn a steampunk comic, the aesthetic shouldn't stop at the art inside the panels; it can extend to the panels themselves. The gears and cogs panel layout utilizes circular, toothed borders that resemble the inner workings of a clock or an engine. This highly stylized layout is perfect for stories that emphasize complex machinery or intricate, interlocking plotlines.\n\n### Visualizing the Machine\nBy using circular panels shaped like gears, you immediately signal to the reader that the story itself is a mechanism. This layout works exceptionally well for scenes taking place inside factories, clocktowers, or the engine rooms of airships. The borders become part of the environment. You can piece this together using custom shapes from the [Assets Library](/assets).\n\n### Interlocking Narratives\nThis layout isn't just decorative; it can serve a narrative purpose. When gear-shaped panels interlock or overlap, it visually represents how different characters' actions or separate plot threads are affecting one another. A turn of events in one panel 'drives' the action in the next.\n\n### Pacing the Clockwork\nBecause circular panels break the traditional rectangular reading flow, they demand the reader's attention. Use this layout sparingly to highlight moments of complex deduction, rapid mechanical action, or when the characters realize they are cogs in a larger, sinister machine. Experiment with these dynamic borders on the [home page](/).",
+    "faqs": [
+      {
+        "question": "When should I use a gear-shaped panel layout?",
+        "answer": "Use it to emphasize the mechanical nature of a scene, to show how different plot threads interconnect, or as a stylized splash page to establish a strong steampunk aesthetic."
+      },
+      {
+        "question": "Does this layout make the comic harder to read?",
+        "answer": "It can if overused. It's best used for specific scenes rather than every page, and you must ensure the flow of dialogue bubbles still guides the reader's eye clearly from one panel to the next."
+      }
+    ],
+    "updatedAt": "2026-09-20",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "zeppelin-view-comic-layout",
+    "name": "Zeppelin View Comic Layout",
+    "description": "Showcase sweeping vistas and grand scale with the wide, panoramic zeppelin view comic layout.",
+    "intro": "## Capture Grand Scale with the Zeppelin View Comic Layout\n\n> **AI Snapshot**: The zeppelin view comic layout utilizes extreme horizontal panoramic panels to convey the vast scale of steampunk cities and epic aerial battles, simulating the view from a high-altitude airship.\n\nSteampunk is often a genre of massive scale—sprawling industrialized cities, towering spires, and colossal airships dominating the sky. To capture this grandeur, standard square panels are insufficient. The zeppelin view comic layout employs ultra-wide, horizontal panels that stretch across the entire page (or two pages), forcing the reader to take in the breathtaking scope of your world.\n\n### Establishing the World\nThis layout is perfect for establishing shots. When your characters arrive at a new, smog-choked metropolis, a wide zeppelin view panel allows you to show the towering smokestacks, the intricate network of elevated trains, and the fleet of dirigibles overhead all in one glorious image. Utilize the backgrounds in our [Assets Library](/assets) to populate these massive scenes.\n\n### Epic Aerial Combat\nWhen the action takes to the skies, the zeppelin view is essential. It provides the horizontal space needed to show massive airships exchanging broadsides, small gliders weaving between them, and the dizzying drop to the earth below. The wide aspect ratio emphasizes the distance and the danger.\n\n### Slowing the Pace\nAs discussed in our pacing guides, a wide panel slows the reader's eye down. It demands that they linger and absorb the details. Use this layout on the [home page](/) to create moments of awe, emphasizing the magnificent (or terrifying) scale of the steampunk technology you have created.",
+    "faqs": [
+      {
+        "question": "What is the primary purpose of a wide, panoramic layout?",
+        "answer": "Its primary purpose is to establish scale and setting. It is used to show sprawling landscapes, massive cities, or epic fleet battles that require a wide field of view."
+      },
+      {
+        "question": "How does a panoramic panel affect reading speed?",
+        "answer": "It slows the reader down. The eye has to travel a long horizontal distance to take in all the details, making it perfect for awe-inspiring reveals or establishing a slow, deliberate pace."
+      }
+    ],
+    "updatedAt": "2026-09-20",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "brass-border-comic-layout",
+    "name": "Brass Border Comic Layout",
+    "description": "Add an elegant, Victorian touch to your comic pages with the ornate brass border comic layout.",
+    "intro": "## Add Victorian Elegance with the Brass Border Comic Layout\n\n> **AI Snapshot**: The brass border comic layout replaces simple black panel lines with ornate, Victorian-style frames drawn to look like polished brass or copper, adding a layer of formal elegance and retro-futuristic style to the page.\n\nWhile some steampunk layouts emphasize the gritty, industrial side of the genre, the brass border comic layout focuses on the elegance and craftsmanship of the Victorian era. Instead of simple, thin black lines separating your panels, this layout uses borders that appear to be constructed of polished brass, complete with rivets, filigree, and corner flourishes.\n\n### The Aesthetic of Craftsmanship\nIn the steampunk world, even everyday objects are often ornate and meticulously crafted. Applying this philosophy to your panel borders instantly elevates the visual presentation of your comic. It makes the page itself feel like an artifact from the universe you are creating. You can build these custom borders using elements from the [Assets Library](/assets).\n\n### Framing High Society\nThis layout is particularly effective for scenes set in the upper echelons of your steampunk society. When depicting a grand ball, a tense meeting in an opulent office, or the luxurious interior of a personal airship, the brass borders reinforce the wealth and formality of the setting.\n\n### Contrast and Focus\nThe ornate borders can act as a framing device to draw the eye inward. The contrast between a highly structured, elegant brass border and the chaotic, messy action happening *inside* the panel can create a striking visual dynamic. Try applying this sophisticated framing technique on the [home page](/).",
+    "faqs": [
+      {
+        "question": "Does an ornate border distract from the artwork?",
+        "answer": "It can if the artwork itself is overly cluttered. It works best when the interior art has clear focal points. The border should frame the art, not compete with it."
+      },
+      {
+        "question": "What kind of stories benefit from a brass border layout?",
+        "answer": "Stories focusing on Victorian high society, political intrigue, elegant settings, or any narrative that wants to emphasize the ornate craftsmanship typical of the steampunk aesthetic."
+      }
+    ],
+    "updatedAt": "2026-09-20",
+    "tags": [
+      "Layout"
+    ]
   }
 ]
