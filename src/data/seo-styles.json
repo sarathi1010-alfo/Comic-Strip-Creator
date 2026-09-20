@@ -1650,5 +1650,25 @@
     "tags": [
       "Style"
     ]
+  },
+  {
+    "slug": "victorian-etching-comic-style",
+    "name": "Victorian Etching Comic Style",
+    "description": "Evoke the feel of 19th-century illustrations with the highly detailed, crosshatched Victorian etching comic style.",
+    "intro": "## Capture 19th-Century Authenticity with the Victorian Etching Comic Style\n\n> **AI Snapshot**: The Victorian etching comic style mimics historical illustration techniques, utilizing dense crosshatching, sepia tones, and intricate line work to create a highly detailed, authentic, and slightly grim atmosphere perfect for steampunk narratives.\n\nIf you want your steampunk comic to feel like an authentic artifact recovered from the 1890s, the Victorian etching comic style is the ultimate choice. This style mimics the woodcut and copperplate engraving techniques used in historical newspapers and penny dreadfuls. It eschews modern digital coloring in favor of meticulous, textured line work and monochromatic palettes.\n\n### The Power of Crosshatching\nThe defining characteristic of an etching style is the use of crosshatching to create volume, shading, and texture. Instead of flat gray screentones, shadows are built up through layers of fine, intersecting lines. This creates a rough, tactile quality that perfectly suits the grit and grime of an industrialized steampunk city. You can practice this detailed line work within the editor on our [home page](/).\n\n### Monochromatic and Sepia Palettes\nTo maintain the illusion of an antique document, this style typically avoids bright, saturated colors. Stick to pure black and white, or utilize a sepia-toned palette (browns, creams, and faded yellows). This limited color range forces the artist to rely on strong composition and contrast to guide the reader's eye, a technique you can enhance using the [Assets Library](/assets).\n\n### Intricate Detail and Atmosphere\nVictorian etchings were famous for their incredible level of detail. Every brick, every rivet, and every fold of fabric is meticulously rendered. This style is time-consuming but incredibly rewarding, as it creates an oppressive, immersive atmosphere that perfectly captures the complex, often dark nature of the steampunk genre.",
+    "faqs": [
+      {
+        "question": "What is the key technique for the Victorian etching style?",
+        "answer": "The primary technique is crosshatching—using layers of fine, intersecting parallel lines to create shading and texture, mimicking historical engraving methods."
+      },
+      {
+        "question": "Should I use full color with an etching style?",
+        "answer": "Generally, no. To achieve the authentic antique look, it is best to stick to black and white, or a muted, monochromatic sepia palette."
+      }
+    ],
+    "updatedAt": "2026-09-20",
+    "tags": [
+      "Style"
+    ]
   }
 ]
