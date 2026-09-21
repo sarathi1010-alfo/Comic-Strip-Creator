@@ -3483,5 +3483,80 @@
     "tags": [
       "Layout"
     ]
+  },
+  {
+    "slug": "decompressed-storytelling-layout",
+    "h1": "Decompressed Storytelling Layout – Stretch Time and Emotion",
+    "description": "Master the decompressed storytelling layout to stretch moments in time, emphasize emotional reactions, and build narrative tension in your comics.",
+    "tags": [
+      "Layout",
+      "Pacing"
+    ],
+    "updatedAt": "2026-09-21T11:38:34.676Z",
+    "faqs": [
+      {
+        "question": "What is a decompressed layout?",
+        "answer": "A decompressed layout uses multiple panels to depict an action or moment that would traditionally take only one or two panels, slowing down the perceived time."
+      },
+      {
+        "question": "When should I use decompression?",
+        "answer": "Use decompression for dramatic reveals, intense emotional reactions, or to build suspense leading up to a critical event."
+      },
+      {
+        "question": "Does decompression make a comic boring?",
+        "answer": "Not if used correctly. It forces the reader to focus on the emotional weight of a moment, but it must be balanced with faster-paced compression elsewhere in the story."
+      }
+    ],
+    "intro": "## The Art of Slowing Down Time\n\n> <blockquote class=\"ai-snapshot\">**AI Snapshot**: The decompressed storytelling layout uses multiple, often silent panels to dissect a single moment or action, forcing the reader to slow down and fully absorb the emotional or dramatic weight of the scene.</blockquote>\n\nThe decompressed layout is a powerful tool for controlling time. By taking an action that might take a fraction of a second in reality and spreading it across five or six panels, you force the reader to experience every nuance of that moment. It is the comic equivalent of slow-motion cinema.\n\n### Emphasizing the Micro-Expressions\nWhen you use this layout in our [editor](/), focus on the minute details. A sword slowly unsheathing, a drop of sweat rolling down a face, the shifting of an eye. This extreme focus builds tension and heightens emotional resonance. It’s a technique discussed extensively in our [Advanced Comic Pacing and Timing Guide](/blog/advanced-comic-pacing-timing-guide).\n\n### Choosing the Right Assets\nTo make a decompressed scene work, the art must be expressive. Utilize the varied facial expressions and detailed props available in the [Assets Library](/assets). Because there is less action, the reader will scrutinize the details of the environment and the characters."
+  },
+  {
+    "slug": "time-lapse-panel-layout",
+    "h1": "Time-Lapse Panel Layout – Show the Passage of Time Visually",
+    "description": "Use the time-lapse panel layout to effectively show hours, days, or years passing within a single page using fixed camera angles and subtle environmental changes.",
+    "tags": [
+      "Layout",
+      "Pacing"
+    ],
+    "updatedAt": "2026-09-21T11:38:34.676Z",
+    "faqs": [
+      {
+        "question": "What is a time-lapse layout?",
+        "answer": "A time-lapse layout repeats a nearly identical panel structure and framing, but changes elements within the panel (like lighting, weather, or character age) to show time passing."
+      },
+      {
+        "question": "How do you create a fixed camera effect?",
+        "answer": "Keep the background and panel borders exactly the same across multiple panels, changing only the subjects or the lighting to indicate the passage of time."
+      },
+      {
+        "question": "Why use a time-lapse instead of a caption?",
+        "answer": "A visual time-lapse is a more immersive \"show, don't tell\" approach that allows the reader to experience the waiting or the change, rather than just reading about it."
+      }
+    ],
+    "intro": "## Visualizing the Flow of Time\n\n> <blockquote class=\"ai-snapshot\">**AI Snapshot**: The time-lapse panel layout uses a series of identically framed panels where the background remains static, but lighting, weather, or characters change incrementally to visually demonstrate the passage of time without relying on text.</blockquote>\n\nShowing the passage of time without relying on lazy \"Three Days Later\" caption boxes is a hallmark of strong visual storytelling. The time-lapse layout achieves this by locking the \"camera\" in place and letting the environment do the talking. It’s an elegant, highly effective pacing tool.\n\n### The Fixed Camera Technique\nTo execute this in our [editor](/), create a master panel with your chosen background from the [Assets Library](/assets). Then, duplicate that panel exactly. In subsequent panels, alter the lighting (from day to night), add weather effects, or change a character's posture to indicate waiting or aging. This technique is a key component of the lessons in our [Advanced Comic Pacing and Timing Guide](/blog/advanced-comic-pacing-timing-guide).\n\n### The Emotional Weight of Waiting\nThis layout is perfect for conveying boredom, anticipation, or the slow decay of an environment. The repetition of the frame forces the reader to notice the subtle differences, engaging them actively in the perception of time passing."
+  },
+  {
+    "slug": "staccato-action-comic-layout",
+    "h1": "Staccato Action Comic Layout – Build Rapid-Fire Sequences",
+    "description": "Learn the staccato action comic layout to create fast, breathless pacing using numerous small, irregular panels and kinetic transitions.",
+    "tags": [
+      "Layout",
+      "Pacing"
+    ],
+    "updatedAt": "2026-09-21T11:38:34.676Z",
+    "faqs": [
+      {
+        "question": "What is a staccato layout?",
+        "answer": "A staccato layout uses a high density of small, often irregular or diagonal panels to simulate chaotic, rapid-fire action and force a fast reading speed."
+      },
+      {
+        "question": "How does panel density affect reading speed?",
+        "answer": "Generally, more panels on a page speed up the reading process, especially if those panels contain minimal text, creating a fast, punchy rhythm."
+      },
+      {
+        "question": "Why use diagonal panel borders?",
+        "answer": "Diagonal or slanted borders naturally lead the eye downward and across the page faster than rigid horizontal lines, enhancing the feeling of speed."
+      }
+    ],
+    "intro": "## The Rhythm of Chaos\n\n> <blockquote class=\"ai-snapshot\">**AI Snapshot**: The staccato action layout utilizes a dense arrangement of small, often slanted panels to compress time, creating a rapid, breathless reading experience ideal for intense combat or chase sequences.</blockquote>\n\nWhen a scene demands pure adrenaline, the staccato layout is your best option. By breaking a scene into many small, fragmented moments, you create a visual rhythm that is fast, chaotic, and intense. It is the opposite of decompression; it is pure kinetic energy.\n\n### Breaking the Grid for Speed\nIn our [editor](/), abandon the standard symmetrical grid for these sequences. Use jagged, slanted panel borders that propel the reader's eye forward. The sheer number of panels dictates a fast pace, as explained in our [Advanced Comic Pacing and Timing Guide](/blog/advanced-comic-pacing-timing-guide). Keep the dialogue to absolute minimums—grunts, shouts, or silence—so the visual flow is never interrupted.\n\n### Focusing on the Details of Impact\nInstead of wide shots, use tight close-ups from the [Assets Library](/assets): a fist connecting, a shell casing hitting the floor, a tire screeching. These rapid micro-shots combine to create a breathless, immersive action sequence that keeps the reader’s heart racing."
   }
 ]
