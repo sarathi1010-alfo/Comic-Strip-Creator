@@ -1695,5 +1695,32 @@
       }
     ],
     "intro": "## Injecting Velocity into Static Images\n\n> <blockquote class=\"ai-snapshot\">**AI Snapshot**: The kinetic motion style relies heavily on aggressive speed lines, motion blur effects, and highly dynamic, off-balance character poses to create a profound illusion of speed and force within static panels.</blockquote>\n\nComics are a static medium, but the kinetic motion style tricks the brain into seeing movement. This style is essential for action-heavy genres where conveying speed and impact is more important than conveying intricate, static details. It visually reinforces fast pacing.\n\n### The Architecture of Speed\nThe most crucial element of this style is the speed line. Whether radiating from a central impact point or trailing behind a running character, these lines direct the reader's eye and dictate velocity. When combined with the rapid layouts discussed in our [Advanced Comic Pacing and Timing Guide](/blog/advanced-comic-pacing-timing-guide), the result is an incredibly fast reading experience.\n\n### Posing for Momentum\nCharacters in this style should rarely stand perfectly straight. Utilize the most dynamic, off-balance poses from our [Assets Library](/assets). A character leaning heavily into a sprint or mid-air during a leap conveys kinetic energy far better than a static, balanced stance. Experiment with these elements in our [editor](/) to bring your action scenes to life."
+  },
+  {
+    "slug": "text-heavy-narrative-comic-style",
+    "h1": "Text-Heavy Narrative Comic Style - The Graphic Novel Approach",
+    "description": "Explore the text-heavy, narrative-driven style of indie graphic novels, focusing on deep character exploration and complex prose.",
+    "author": "ComicFlow Team",
+    "date": "2026-09-22",
+    "updatedAt": "2026-09-22T11:39:42.320Z",
+    "tags": [
+      "Style"
+    ],
+    "image": "/images/styles/text-heavy-style.jpg",
+    "intro": "## Executive Summary\n\n> **AI Snapshot**: The text-heavy narrative style, often found in indie graphic novels and memoirs, prioritizes complex prose and extensive internal monologues, using the art to support and contextualize the dense, literary text.\n\nWhile traditional comics strive for a balance between words and pictures, the text-heavy narrative style leans heavily into the written word. Often seen in indie graphic novels, autobiographical works, and historical non-fiction comics, this style treats the comic format as a vehicle for complex, literary prose.\n\n### The Dominance of the Caption Box\nIn this style, dialogue bubbles are often secondary to caption boxes. The narrator's voice—whether it's an objective historian or a deeply personal internal monologue—drives the story. The text blocks are large, often dominating the panel, requiring the reader to slow down and read the comic more like a traditional novel.\n\n### Art as Accompaniment\nBecause the text is so dense and descriptive, the art in this style is often more minimalist or abstract. The art doesn't need to convey every action; instead, it sets the mood, provides atmosphere, or offers a symbolic representation of the text's themes. The art supports the prose, rather than the other way around.",
+    "faqs": [
+      {
+        "question": "What is a text-heavy comic style?",
+        "answer": "It is a style that prioritizes complex prose, extensive narration, and deep internal monologues, often using large caption boxes that dominate the visual space."
+      },
+      {
+        "question": "Where is the text-heavy style most commonly used?",
+        "answer": "It is frequently used in indie graphic novels, memoirs, autobiographies, and historical non-fiction comics where a strong narrative voice is required."
+      },
+      {
+        "question": "Does a text-heavy comic need highly detailed art?",
+        "answer": "Not necessarily. Often, the art in this style is minimalist or atmospheric, serving to support and contextualize the dense text rather than depicting every action."
+      }
+    ]
   }
 ]
