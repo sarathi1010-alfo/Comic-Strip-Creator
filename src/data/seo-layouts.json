@@ -3558,5 +3558,86 @@
       }
     ],
     "intro": "## The Rhythm of Chaos\n\n> <blockquote class=\"ai-snapshot\">**AI Snapshot**: The staccato action layout utilizes a dense arrangement of small, often slanted panels to compress time, creating a rapid, breathless reading experience ideal for intense combat or chase sequences.</blockquote>\n\nWhen a scene demands pure adrenaline, the staccato layout is your best option. By breaking a scene into many small, fragmented moments, you create a visual rhythm that is fast, chaotic, and intense. It is the opposite of decompression; it is pure kinetic energy.\n\n### Breaking the Grid for Speed\nIn our [editor](/), abandon the standard symmetrical grid for these sequences. Use jagged, slanted panel borders that propel the reader's eye forward. The sheer number of panels dictates a fast pace, as explained in our [Advanced Comic Pacing and Timing Guide](/blog/advanced-comic-pacing-timing-guide). Keep the dialogue to absolute minimums—grunts, shouts, or silence—so the visual flow is never interrupted.\n\n### Focusing on the Details of Impact\nInstead of wide shots, use tight close-ups from the [Assets Library](/assets): a fist connecting, a shell casing hitting the floor, a tire screeching. These rapid micro-shots combine to create a breathless, immersive action sequence that keeps the reader’s heart racing."
+  },
+  {
+    "slug": "dialogue-focus-panel-layout",
+    "h1": "Dialogue-Focus Panel Layout - Giving Words Room to Breathe",
+    "description": "Discover how to structure your comic panels to accommodate heavy dialogue without compromising the visual flow of the story.",
+    "author": "ComicFlow Team",
+    "date": "2026-09-22",
+    "updatedAt": "2026-09-22T11:39:42.320Z",
+    "tags": [
+      "Layout"
+    ],
+    "image": "/images/layouts/dialogue-layout.jpg",
+    "intro": "## Executive Summary\n\n> **AI Snapshot**: The dialogue-focus layout prioritizes text readability by utilizing wider panels, negative space, and strategic speech bubble placement, ensuring that dense conversations flow naturally without crowding the artwork.\n\nWhen a scene requires extensive conversation, the standard panel layout must adapt to accommodate the text. A dialogue-focus layout is designed specifically to give the words room to breathe while maintaining a clear and engaging visual narrative.\n\n### Embracing Negative Space\nThe key to this layout is negative space (or \"dead space\")—areas of the panel intentionally left blank by the artist to hold speech bubbles. Rather than drawing a highly detailed background that will just be covered up, the artist plans for the text, leaving clear skies or blank walls specifically for the dialogue.\n\n### Wider Panels for Longer Sentences\nFor long, complex sentences, wider panels are often better than tall, narrow ones. A wide panel allows the text to spread out horizontally, which is easier to read than a tall, thin column of words. This layout often utilizes a tiered structure (e.g., three wide panels stacked vertically) to manage the flow of the conversation.",
+    "faqs": [
+      {
+        "question": "How do you layout panels for heavy dialogue?",
+        "answer": "Use wider panels to accommodate longer sentences, and intentionally leave negative space in your compositions specifically to hold the speech bubbles."
+      },
+      {
+        "question": "What is negative space in comics?",
+        "answer": "Negative space refers to the empty or undetailed areas of a panel (like a blank sky or wall) that are intentionally left open by the artist to provide a clean background for text."
+      },
+      {
+        "question": "How can I prevent speech bubbles from blocking the art?",
+        "answer": "Plan your speech bubble placement during the initial sketch phase. Ensure they are placed in the negative space and never cover the characters' faces or critical actions."
+      }
+    ]
+  },
+  {
+    "slug": "overlapping-speech-bubble-layout",
+    "h1": "Overlapping Speech Bubble Layout - Simulating Chaos",
+    "description": "Learn how to use overlapping speech bubbles and clustered panels to visually represent interruptions, arguments, and chaotic conversations.",
+    "author": "ComicFlow Team",
+    "date": "2026-09-22",
+    "updatedAt": "2026-09-22T11:39:42.320Z",
+    "tags": [
+      "Layout"
+    ],
+    "image": "/images/layouts/overlapping-bubbles.jpg",
+    "intro": "## Executive Summary\n\n> **AI Snapshot**: Overlapping speech bubbles are used to simulate chaotic, rapid-fire dialogue, arguments, or interruptions. This layout technique visually represents characters talking over one another, increasing the scene's tension and energy.\n\nIn real life, arguments are rarely polite, turn-based affairs. People interrupt, talk over each other, and shout simultaneously. To capture this chaotic energy in a comic, creators use the overlapping speech bubble layout.\n\n### The Visual Representation of Interruptions\nWhen Character B interrupts Character A, Character B's speech bubble is drawn physically overlapping and covering the end of Character A's bubble. This instantly communicates that the first sentence was cut off. It is a powerful visual tool for indicating rudeness, urgency, or escalating conflict.\n\n### Clustered and Crowded Panels\nTo heighten the sense of chaos, the panels themselves might become smaller and more crowded, mirroring the claustrophobic feeling of a heated argument. The text may dominate the visual space, physically pressing down on the characters, visually representing the overwhelming nature of the argument.",
+    "faqs": [
+      {
+        "question": "How do you show characters interrupting each other in a comic?",
+        "answer": "Draw the second character's speech bubble physically overlapping and cutting off the tail or text of the first character's bubble."
+      },
+      {
+        "question": "What effect do overlapping bubbles have on the reader?",
+        "answer": "They simulate the chaotic, fast-paced nature of an argument or a crowded room, increasing the tension and energy of the scene."
+      },
+      {
+        "question": "Can overlapping bubbles make a comic hard to read?",
+        "answer": "Yes, if overused. It must be done strategically. Ensure the reading order (left-to-right, top-to-bottom) is still clear, even if the bubbles are clustered."
+      }
+    ]
+  },
+  {
+    "slug": "silent-reaction-panel-layout",
+    "h1": "Silent Reaction Panel Layout - The Power of the Pause",
+    "description": "Master the use of silent panels and deliberate pacing to create powerful emotional beats and reaction shots in your comic storytelling.",
+    "author": "ComicFlow Team",
+    "date": "2026-09-22",
+    "updatedAt": "2026-09-22T11:39:42.320Z",
+    "tags": [
+      "Layout"
+    ],
+    "image": "/images/layouts/silent-panel.jpg",
+    "intro": "## Executive Summary\n\n> **AI Snapshot**: The silent reaction panel layout utilizes textless panels to create a dramatic pause, allowing the reader to absorb the emotional weight of a revelation or to highlight a character's internal response.\n\nSometimes, the most powerful dialogue is no dialogue at all. The silent reaction panel is a layout technique used to control the pacing of a scene and amplify the emotional impact of the conversation.\n\n### The Dramatic Beat\nIn a script, a \"beat\" is a pause. In a comic, a beat is a silent panel. After a character delivers a shocking revelation or a devastating insult, following it with a panel containing no text forces the reader to stop and process the information. The silence is deafening.\n\n### Focusing on the Internal\nWithout text to distract the eye, the reader is forced to focus entirely on the art—specifically, the character's facial expression and body language. The silent panel reveals the character's internal emotional state. Are they devastated? Furious? Relieved? The art must answer the question posed by the previous dialogue.",
+    "faqs": [
+      {
+        "question": "What is a silent panel in a comic?",
+        "answer": "A silent panel is a panel that contains no dialogue, sound effects, or captions, relying entirely on the artwork to tell the story."
+      },
+      {
+        "question": "Why use silent reaction panels?",
+        "answer": "They create a dramatic pause (a \"beat\") that slows the pacing, allowing the reader to absorb the emotional weight of the scene and focus on the character's internal reaction."
+      },
+      {
+        "question": "How do you ensure a silent panel is effective?",
+        "answer": "The art must be highly expressive. The character's face and body language must clearly communicate their emotional response to the preceding events."
+      }
+    ]
   }
 ]
