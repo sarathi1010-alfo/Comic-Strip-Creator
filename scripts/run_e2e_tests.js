@@ -4,6 +4,16 @@ const assert = require('assert');
   const browser = await chromium.launch({ headless: true });
   const page = await browser.newPage();
     const urlsToTest = [
+  'http://localhost:3000/blog/silent-comic-storytelling-guide',
+  'http://localhost:3000/genres/pantomime-comic-maker',
+  'http://localhost:3000/genres/silent-horror-comic-creator',
+  'http://localhost:3000/genres/wordless-fantasy-comic-builder',
+  'http://localhost:3000/layouts/visual-narrative-panel-layout',
+  'http://localhost:3000/layouts/wordless-action-grid',
+  'http://localhost:3000/layouts/silent-splash-page-layout',
+  'http://localhost:3000/styles/expressive-pantomime-style',
+  'http://localhost:3000/styles/visual-poetry-comic-style',
+
     'http://localhost:3000/blog/mastering-comic-dialogue-and-subtext',
     'http://localhost:3000/genres/dialogue-heavy-drama-comic-maker',
     'http://localhost:3000/genres/witty-sitcom-comic-creator',
