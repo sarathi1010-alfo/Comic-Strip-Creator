@@ -1722,5 +1722,50 @@
         "answer": "Not necessarily. Often, the art in this style is minimalist or atmospheric, serving to support and contextualize the dense text rather than depicting every action."
       }
     ]
+  },
+  {
+    "slug": "expressive-pantomime-style",
+    "name": "Expressive Pantomime Style",
+    "description": "A highly stylized, exaggerated art style perfect for clear communication in silent comics.",
+    "h1": "Expressive Pantomime Style – Loud Visuals",
+    "tags": [
+      "Style",
+      "Silent"
+    ],
+    "updatedAt": "2026-09-23T11:37:59.735Z",
+    "intro": "## Exaggeration for Clarity\n\n> **AI Snapshot**: The expressive pantomime style utilizes highly exaggerated proportions, extreme facial expressions, and dynamic body language to ensure narrative clarity in the absence of dialogue.\n\nWhen creating a silent comic, subtlety can sometimes be your enemy. The **expressive pantomime style** leans into exaggeration to guarantee that every emotion and action is instantly recognizable. This style draws heavy inspiration from classic animation and physical comedy.\n\n### The Rubber Hose Influence\nThis style often incorporates elements of early animation—flexible limbs, wide eyes, and highly malleable faces. This allows characters to contort into extreme poses that perfectly capture their emotional state, whether it's the stiffness of pure terror or the bouncy looseness of joy.\n\n### Clear Silhouettes\nA hallmark of this style is a strong, instantly readable silhouette. Even if a character is completely blacked out, their pose should communicate exactly what they are doing and how they are feeling.",
+    "faqs": [
+      {
+        "question": "Why exaggerate in silent comics?",
+        "answer": "Exaggeration ensures that the reader clearly understands the character's emotions and actions without needing textual explanation."
+      },
+      {
+        "question": "Is this style only for comedy?",
+        "answer": "No, while great for comedy, exaggerated expressions can also heighten the impact of terror, sadness, or anger."
+      }
+    ]
+  },
+  {
+    "slug": "visual-poetry-comic-style",
+    "name": "Visual Poetry Comic Style",
+    "description": "An ethereal, highly metaphorical art style focused on evoking emotion and atmosphere over literal narrative.",
+    "h1": "Visual Poetry Comic Style – Evoking Emotion",
+    "tags": [
+      "Style",
+      "Silent",
+      "Artistic"
+    ],
+    "updatedAt": "2026-09-23T11:37:59.735Z",
+    "intro": "## Emotion Over Literalism\n\n> **AI Snapshot**: The visual poetry comic style prioritizes atmosphere, metaphor, and emotional resonance over strict, literal storytelling, often utilizing surreal imagery and fluid layouts to convey a feeling rather than a concrete plot.\n\nNot all comics need to tell a straightforward, logical story. The **visual poetry comic style** uses the medium to evoke a mood or explore an abstract concept. This style is heavily reliant on visual metaphors, surreal imagery, and a dreamlike flow between panels.\n\n### The Logic of Dreams\nIn this style, panels may not transition in a strictly chronological or physical sense. A character falling through the sky might transition seamlessly into a teardrop falling from an eye. The connections are thematic and emotional rather than literal.\n\n### Atmosphere is Everything\nThis style relies heavily on nuanced coloring, evocative lighting, and non-traditional panel borders (or the absence of borders entirely) to create a specific, immersive atmosphere. The goal is to make the reader *feel* the comic, rather than just read it.",
+    "faqs": [
+      {
+        "question": "What makes a comic 'visual poetry'?",
+        "answer": "It focuses on emotional resonance, metaphor, and atmospheric storytelling rather than a strict, literal plot."
+      },
+      {
+        "question": "Are there rules for this style?",
+        "answer": "The rules are highly flexible, often borrowing from surrealism and fine art to create a unique, emotional experience."
+      }
+    ]
   }
 ]

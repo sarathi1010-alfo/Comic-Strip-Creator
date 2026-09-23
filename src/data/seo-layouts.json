@@ -3639,5 +3639,72 @@
         "answer": "The art must be highly expressive. The character's face and body language must clearly communicate their emotional response to the preceding events."
       }
     ]
+  },
+  {
+    "slug": "visual-narrative-panel-layout",
+    "name": "Visual Narrative Panel Layout",
+    "description": "A layout optimized for purely visual storytelling, focusing on clear action-reaction transitions and intuitive reading paths.",
+    "h1": "Visual Narrative Panel Layout – Guiding the Eye",
+    "tags": [
+      "Layout",
+      "Silent"
+    ],
+    "updatedAt": "2026-09-23T11:37:59.735Z",
+    "intro": "## Guiding the Eye Without Text\n\n> **AI Snapshot**: The visual narrative panel layout is specifically designed for wordless comics, using panel shapes, sizes, and internal compositions to guide the reader's eye naturally without the crutch of speech bubbles.\n\nWhen you remove speech bubbles, you lose the primary tool for guiding a reader's eye through a panel and across a page. The **visual narrative panel layout** compensates for this by using the structure of the page itself to direct the flow of action. This layout prioritizes clarity and a smooth reading experience above all else.\n\n### The Importance of Composition\nWithin each panel of this layout, the composition must point toward the next logical step in the narrative. If a character looks to the right in panel A, the reader's eye is naturally drawn to panel B on the right. \n\n### Pacing the Narrative\nThis layout utilizes a mix of panel sizes to dictate the rhythm of the story. Small panels denote rapid action or quick successions of time, while larger panels force the reader to slow down and absorb the emotional weight of a scene. Start building your visual narrative with our [home page](/) editor.",
+    "faqs": [
+      {
+        "question": "Why is layout more important in silent comics?",
+        "answer": "Without text to guide the eye, the arrangement and composition of panels must provide all the direction for the reader."
+      },
+      {
+        "question": "How do I ensure clarity?",
+        "answer": "Maintain a consistent reading direction and use clear action-reaction sequences between panels."
+      }
+    ]
+  },
+  {
+    "slug": "wordless-action-grid",
+    "name": "Wordless Action Grid",
+    "description": "A dynamic grid layout designed to showcase rapid, fluid action sequences without the clutter of sound effects or dialogue.",
+    "h1": "Wordless Action Grid – Pure Kinetic Energy",
+    "tags": [
+      "Layout",
+      "Action",
+      "Silent"
+    ],
+    "updatedAt": "2026-09-23T11:37:59.735Z",
+    "intro": "## Fluid Motion in the Grid\n\n> **AI Snapshot**: The wordless action grid utilizes a tight, often symmetrical panel structure to break down complex fight choreography or rapid movement into easily digestible, sequential beats.\n\nAction sequences can easily become chaotic and difficult to follow. The **wordless action grid** imposes order on this chaos. By breaking down rapid movements into a series of smaller, sequential panels, you create a flipbook-like effect that conveys speed and precise choreography without needing a single \"WHAM\" or \"POW\".\n\n### Breaking Down the Action\nInstead of trying to fit a punch, a block, and a counter-attack into one large panel, this grid gives each distinct movement its own space. This allows the reader to follow the exact mechanics of the fight.\n\n### The Rhythm of the Fight\nThe rigid structure of the grid establishes a fast, rhythmic pacing. The reader's eye moves quickly from panel to panel, mimicking the speed of the action taking place.",
+    "faqs": [
+      {
+        "question": "How does a grid help action scenes?",
+        "answer": "It breaks down complex movements into sequential steps, making the choreography clear and easy to follow."
+      },
+      {
+        "question": "Does a grid make the action feel slow?",
+        "answer": "No, a sequence of small panels often makes the reader read faster, increasing the perceived speed of the action."
+      }
+    ]
+  },
+  {
+    "slug": "silent-splash-page-layout",
+    "name": "Silent Splash Page Layout",
+    "description": "Use full-page spreads to deliver maximum emotional impact or breathtaking environmental reveals in your silent comic.",
+    "h1": "Silent Splash Page Layout – Maximum Visual Impact",
+    "tags": [
+      "Layout",
+      "Silent"
+    ],
+    "updatedAt": "2026-09-23T11:37:59.735Z",
+    "intro": "## The Power of the Pause\n\n> **AI Snapshot**: The silent splash page layout uses a single, massive image to force the reader to stop, taking in the full emotional weight or environmental scale of a scene without distraction.\n\nIn a silent comic, a splash page (a single image taking up a full page) is the ultimate punctuation mark. It is a moment where time stops completely. The **silent splash page layout** is used sparingly but to devastating effect, delivering the emotional climax or the grand reveal of your story.\n\n### The Emotional Climax\nWhen a character experiences a profound realization, a devastating loss, or a moment of pure joy, a splash page allows you to render that emotion in excruciating detail. Without text to distract, the reader must confront the image directly.\n\n### The Grand Reveal\nAfter pages of claustrophobic, tight panels, turning the page to a massive, sprawling landscape or a terrifying monster reveal is incredibly impactful. The contrast in scale is what makes the splash page work.",
+    "faqs": [
+      {
+        "question": "When should I use a splash page?",
+        "answer": "Use them sparingly for major emotional beats, significant reveals, or to establish a vast new location."
+      },
+      {
+        "question": "Can a splash page be silent?",
+        "answer": "Yes, a purely visual splash page is often more powerful as it forces the reader to absorb the image without textual context."
+      }
+    ]
   }
 ]
