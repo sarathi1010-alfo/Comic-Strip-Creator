@@ -4,6 +4,16 @@ const assert = require('assert');
   const browser = await chromium.launch({ headless: true });
   const page = await browser.newPage();
     const urlsToTest = [
+  'http://localhost:3000/blog/comic-framing-camera-angles-guide',
+  'http://localhost:3000/genres/cinematic-framing-comic-maker',
+  'http://localhost:3000/genres/dutch-angle-thriller-comic',
+  'http://localhost:3000/genres/wide-shot-epic-fantasy',
+  'http://localhost:3000/genres/close-up-drama-comic',
+  'http://localhost:3000/layouts/establishing-shot-panel-layout',
+  'http://localhost:3000/layouts/extreme-close-up-grid',
+  'http://localhost:3000/layouts/cinematic-widescreen-layout',
+  'http://localhost:3000/styles/dynamic-camera-angle-style',
+
   'http://localhost:3000/blog/silent-comic-storytelling-guide',
   'http://localhost:3000/genres/pantomime-comic-maker',
   'http://localhost:3000/genres/silent-horror-comic-creator',

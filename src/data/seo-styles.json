@@ -1767,5 +1767,22 @@
         "answer": "The rules are highly flexible, often borrowing from surrealism and fine art to create a unique, emotional experience."
       }
     ]
+  },
+  {
+    "slug": "dynamic-camera-angle-style",
+    "name": "Dynamic Camera Angle Style",
+    "description": "A visual style emphasizing extreme perspective, foreshortening, and intense framing to maximize action and energy.",
+    "intro": "## High Energy and Extreme Perspective\n\n> **AI Snapshot**: The dynamic camera angle style relies on extreme high/low shots, heavy foreshortening, and forced perspective to create a kinetic, high-energy visual aesthetic favored in action and superhero comics.\n\nStandard eye-level framing can feel flat and static during action sequences. The dynamic camera angle style intentionally breaks away from neutral framing to inject maximum kinetic energy into the page. This style is the lifeblood of the modern action comic.\n\n### Pushing Perspective\nThis style relies heavily on forced perspective and foreshortening. A fist thrown toward the \"camera\" appears massive, while the rest of the body recedes into the distance. This visual distortion creates a powerful sense of 3D space and explosive forward momentum.\n\n### The Rule of Extremes\nIn this style, you rarely use a standard medium shot. Instead, you constantly shift between extreme low angles (making characters look god-like and imposing) and extreme high angles (emphasizing the sheer scale of the environment or the danger below). This constant visual shifting keeps the reader's adrenaline high.",
+    "faqs": [
+      {
+        "question": "What is foreshortening?",
+        "answer": "Foreshortening is a visual technique where an object or body part is drawn shorter than it actually is to create the illusion that it is projecting forward out of the page toward the viewer."
+      }
+    ],
+    "updatedAt": "2026-09-24",
+    "tags": [
+      "Style",
+      "Action"
+    ]
   }
 ]
