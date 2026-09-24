@@ -3706,5 +3706,56 @@
         "answer": "Yes, a purely visual splash page is often more powerful as it forces the reader to absorb the image without textual context."
       }
     ]
+  },
+  {
+    "slug": "establishing-shot-panel-layout",
+    "name": "Establishing Shot Panel Layout",
+    "description": "A layout designed to open scenes with massive, page-spanning panels to establish the setting and mood.",
+    "intro": "## Setting the Stage\n\n> **AI Snapshot**: The establishing shot layout features a dominant, often page-wide opening panel designed to ground the reader in the location and atmosphere before transitioning into smaller, character-focused panels.\n\nEvery great scene needs a foundation. The establishing shot layout is designed to provide that foundation immediately. By dedicating the largest portion of the page (usually the top third or half) to a single, expansive panel, you give the reader all the contextual information they need before the dialogue begins.\n\n### Grounding the Reader\nThis layout prevents the \"talking heads in a void\" problem. By showing the sweeping cityscape, the messy bedroom, or the sprawling battlefield first, the subsequent smaller panels containing dialogue or action have a physical context. \n\n### Controlling the Opening Pace\nA massive establishing panel demands attention. It acts as a visual speed bump, forcing the reader to pause and absorb the environment, setting a deliberate, measured pace for the beginning of the scene.",
+    "faqs": [
+      {
+        "question": "Where should an establishing shot go on the page?",
+        "answer": "Typically, it is placed at the very top of the page (or across a two-page spread) to serve as the immediate introduction to a new scene or location."
+      }
+    ],
+    "updatedAt": "2026-09-24",
+    "tags": [
+      "Layout",
+      "Framing"
+    ]
+  },
+  {
+    "slug": "extreme-close-up-grid",
+    "name": "Extreme Close-Up Grid Layout",
+    "description": "Build unbearable tension with a tight grid of panels focusing purely on micro-expressions and details.",
+    "intro": "## Claustrophobia and Detail\n\n> **AI Snapshot**: The extreme close-up grid layout uses a tight sequence of small panels focusing on specific details—eyes, hands, objects—to build immense psychological tension and slow the reading pace to a crawl.\n\nSometimes, the most intense moments in a story aren't massive explosions; they are the quiet, terrifying seconds before a decision is made. The extreme close-up grid is designed to capture that agonizing tension. \n\n### Building Psychological Pressure\nBy removing the background and focusing purely on fragmented details (sweat on a brow, a finger on a trigger, a ticking clock), you create a sense of claustrophobia. The reader feels trapped in the moment alongside the character. \n\n### Micro-Pacing\nA 9-panel grid filled entirely with close-ups slows the reading experience drastically. Each small panel represents a fraction of a second in \"story time.\" This technique forces the reader to experience the agonizingly slow passage of time during a high-stakes moment.",
+    "faqs": [
+      {
+        "question": "When should I use an extreme close-up grid?",
+        "answer": "Use it to build tension right before a major event, such as a bomb defusal, a standoff, or a character making a life-altering realization."
+      }
+    ],
+    "updatedAt": "2026-09-24",
+    "tags": [
+      "Layout",
+      "Thriller"
+    ]
+  },
+  {
+    "slug": "cinematic-widescreen-layout",
+    "name": "Cinematic Widescreen Layout",
+    "description": "Emulate the feel of a movie theater with horizontal, widescreen panels that span the entire page.",
+    "intro": "## The Silver Screen on the Page\n\n> **AI Snapshot**: The cinematic widescreen layout utilizes stacked, horizontal panels that span the width of the page, mimicking film aspect ratios to create an epic, flowing reading experience.\n\nIf you want your comic to feel like a blockbuster movie, the cinematic widescreen layout is your best choice. By discarding traditional vertical or square panels in favor of stacked horizontal panels, you instantly change the reader's psychological relationship to the page.\n\n### Mimicking the Film Aspect Ratio\nWidescreen panels naturally feel grander and more epic because they emulate the 16:9 or 2.35:1 aspect ratios we associate with cinema. They are perfect for sweeping landscapes, massive vehicle chases, and dramatic character standoffs where horizontal space implies distance or scale.\n\n### Smooth Visual Flow\nBecause the panels stretch across the entire page, the reader's eye follows a very simple, controlled path: left to right, then down to the next panel. This creates a very smooth, deliberate reading rhythm, similar to watching a sequence of film shots.",
+    "faqs": [
+      {
+        "question": "What genres work best with widescreen layouts?",
+        "answer": "Sci-fi, epic fantasy, and action/adventure comics benefit greatly from widescreen layouts because they emphasize scale and horizontal movement."
+      }
+    ],
+    "updatedAt": "2026-09-24",
+    "tags": [
+      "Layout",
+      "Cinematic"
+    ]
   }
 ]

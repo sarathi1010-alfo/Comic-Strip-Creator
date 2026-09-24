@@ -4709,5 +4709,89 @@
         "answer": "Show the visual cause and effect of the magic, including the source of power, the visual manifestation, and the result."
       }
     ]
+  },
+  {
+    "slug": "cinematic-framing-comic-maker",
+    "name": "Cinematic Framing Comic Maker",
+    "description": "Create cinematic comics with dramatic framing and camera angles to emulate a movie director's vision.",
+    "intro": "## Bring Hollywood to the Page\n\n> **AI Snapshot**: A cinematic framing comic maker provides tools and layouts to emulate film direction, utilizing wide establishing shots, dynamic camera angles, and deliberate pacing to create a movie-like reading experience.\n\nCinematic comics bridge the gap between sequential art and film. They rely heavily on the visual language of the camera to tell the story, using framing to build tension and control the emotional rhythm of the scene. \n\n### The Director's Chair\nWhen creating a cinematic comic, you must think like a director. Every panel is a shot. You aren't just placing characters in a box; you are choosing the specific lens through which the reader views them. This means utilizing establishing shots to ground the scene, medium shots for dialogue, and extreme close-ups to capture subtle emotional shifts.\n\n### Aspect Ratios and Grids\nCinematic comics often play with aspect ratios. Widescreen panels (mimicking the 16:9 or 2.35:1 film aspect ratio) can make a scene feel grand and epic, while tall, vertical panels can create a sense of height, vertigo, or isolation. Our tools allow you to customize your panel grid to fit the specific cinematic mood you are trying to achieve.",
+    "faqs": [
+      {
+        "question": "What makes a comic look cinematic?",
+        "answer": "A cinematic look is achieved through deliberate camera angles (like low angles or Dutch angles), dramatic lighting, and panel aspect ratios that mimic widescreen film formats."
+      },
+      {
+        "question": "Do I need to know film theory to make cinematic comics?",
+        "answer": "While helpful, you don't need a film degree. Understanding basic shots (wide, medium, close-up) and the 180-degree rule is enough to start creating cinematic layouts."
+      }
+    ],
+    "updatedAt": "2026-09-24",
+    "tags": [
+      "Genre",
+      "Technique"
+    ]
+  },
+  {
+    "slug": "dutch-angle-thriller-comic",
+    "name": "Dutch Angle Thriller Comic Creator",
+    "description": "Build suspense and unease in your thriller comics using our specialized Dutch angle framing tools.",
+    "intro": "## Creating Unease and Tension\n\n> **AI Snapshot**: A Dutch angle thriller comic creator emphasizes tilted horizon lines and disorienting camera angles to visually communicate psychological instability, tension, and impending danger to the reader.\n\nIn the thriller genre, making the reader feel safe is the last thing you want to do. The visual language of the comic must reflect the tension of the narrative. The most effective tool for this is the Dutch angle (or canted angle).\n\n### The Psychology of the Tilt\nBy tilting the \"camera\" so the horizon line is no longer parallel to the bottom of the panel, you immediately signal that the world is off-balance. This creates a subconscious feeling of unease and disorientation in the reader. It is the perfect visual representation of a character losing their grip on reality, a sudden realization of danger, or a high-stakes confrontation.\n\n### Using Dutch Angles Effectively\nDutch angles should be used strategically. If every panel is tilted, the effect is lost and it simply becomes annoying to read. Save them for moments of peak tension. Combine a Dutch angle with heavy shadows or a low camera placement to maximize the feeling of psychological dread.",
+    "faqs": [
+      {
+        "question": "What is a Dutch angle?",
+        "answer": "A Dutch angle, also known as a canted angle, is a shot where the camera is tilted on its roll axis, resulting in a horizon line that is not level."
+      },
+      {
+        "question": "Why use Dutch angles in thrillers?",
+        "answer": "They visually represent instability, tension, and psychological distress, perfectly matching the tone of a thriller or horror narrative."
+      }
+    ],
+    "updatedAt": "2026-09-24",
+    "tags": [
+      "Genre",
+      "Thriller"
+    ]
+  },
+  {
+    "slug": "wide-shot-epic-fantasy",
+    "name": "Wide Shot Epic Fantasy Comic Builder",
+    "description": "Capture the grand scale of your fantasy worlds with expansive wide shots and sweeping panel layouts.",
+    "intro": "## Showing the Scale of the World\n\n> **AI Snapshot**: An epic fantasy comic builder provides massive, panoramic panel layouts to accommodate wide establishing shots, allowing creators to showcase detailed world-building, massive armies, and grand architecture.\n\nEpic fantasy is defined by its scale. It's about vast kingdoms, towering castles, and massive armies clashing on open plains. To convey this scale, a comic creator must rely heavily on the wide shot (or establishing shot).\n\n### The Importance of the Wide Shot\nIn fantasy, the world itself is often as important as the characters. A wide shot allows you to establish the geography, the culture, and the atmosphere of a location before the characters even speak a word. It gives the reader a sense of awe and wonder, grounding them in the reality of your fictional universe.\n\n### Pacing the Epic\nWide, panoramic panels naturally slow down the reader's pace. The eye needs time to wander across a massive landscape, taking in the details of the environment. Use these expansive shots to control the rhythm of your epic, giving the reader moments of breath between tight, dialogue-heavy scenes or chaotic action sequences.",
+    "faqs": [
+      {
+        "question": "How do I show scale in a comic?",
+        "answer": "Use wide, panoramic panels (often stretching across the entire page) and place small character silhouettes against massive backgrounds to emphasize the sheer size of the environment."
+      },
+      {
+        "question": "When should I use a wide establishing shot?",
+        "answer": "Use them at the beginning of a new scene to ground the reader in the location, or to reveal a massive new element (like a dragon or a castle) for the first time."
+      }
+    ],
+    "updatedAt": "2026-09-24",
+    "tags": [
+      "Genre",
+      "Fantasy"
+    ]
+  },
+  {
+    "slug": "close-up-drama-comic",
+    "name": "Close-Up Drama Comic Generator",
+    "description": "Focus on emotion and intimate character moments with specialized layouts for close-up dramatic framing.",
+    "intro": "## Intimacy and Emotion on the Page\n\n> **AI Snapshot**: A close-up drama comic generator utilizes tight panel framing and expressive character assets to focus on intimate emotional beats, facial expressions, and subtle psychological shifts in narrative.\n\nWhile action comics rely on dynamic poses and wide shots, drama comics rely on intimacy. The conflict in a drama is often internal, requiring the artist to focus entirely on the character's face and micro-expressions. This is where the close-up becomes the most powerful tool in your arsenal.\n\n### The Power of the Close-Up\nA close-up panel strips away the distracting background and forces the reader to look directly into the character's eyes. It creates an immediate empathetic connection. Whether a character is holding back tears, suppressing rage, or realizing a devastating truth, the close-up ensures the reader feels the impact of that emotion.\n\n### The Extreme Close-Up\nFor moments of intense psychological focus, the extreme close-up (focusing only on the eyes, a clenched jaw, or a trembling hand) can be incredibly effective. It creates a sense of claustrophobia and inescapable tension, perfect for high-stakes dramatic confrontations or profound internal realizations.",
+    "faqs": [
+      {
+        "question": "Why are close-ups important in drama comics?",
+        "answer": "Close-ups force the reader to focus entirely on a character's facial expression, creating a strong empathetic connection and highlighting subtle emotional shifts."
+      },
+      {
+        "question": "What is an extreme close-up?",
+        "answer": "An extreme close-up frames only a specific detail of a character or object, such as just their eyes or a tapping finger, to convey intense focus or anxiety."
+      }
+    ],
+    "updatedAt": "2026-09-24",
+    "tags": [
+      "Genre",
+      "Drama"
+    ]
   }
 ]
