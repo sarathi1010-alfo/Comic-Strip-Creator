@@ -3757,5 +3757,68 @@
       "Layout",
       "Cinematic"
     ]
+  },
+  {
+    "slug": "establishing-shot-panel-layout",
+    "name": "Establishing Shot Panel Layout",
+    "description": "Orient your readers and showcase your world with the establishing shot panel layout.",
+    "intro": "## Anchor Your Scene: Establishing Shot Panel Layout\n\n> **AI Snapshot**: The establishing shot panel layout uses a large, dominant panel (often spanning the width of the page) to show the location and scale of a scene before moving into smaller, character-focused panels.\n\nAn establishing shot is crucial for orienting the reader in your world. The establishing shot panel layout dedicates a significant portion of the page to a single, detailed image of the environment. This prevents the 'floating head' syndrome, where characters seem to exist in a blank void, and firmly grounds the action in a specific place and time.\n\n### The Power of Scale\nUse the establishing shot to show the scale of your world. If your characters are approaching a massive fortress, dedicate a large panel to showing just how small they are in comparison. This not only sets the scene but also builds anticipation and mood. You can easily set up these large panels on our [home page](/).\n\n### Transitioning to Action\nAfter the establishing shot, the layout typically transitions into a grid of smaller panels focusing on the characters and dialogue. The reader now understands the context of the conversation because they've seen the room (or the city) where it's taking place. Find the perfect backgrounds for your establishing shots in our [Assets Library](/assets).",
+    "faqs": [
+      {
+        "question": "When should I use an establishing shot?",
+        "answer": "Use an establishing shot at the beginning of a new scene, when characters enter a new location, or to re-orient the reader after a chaotic action sequence."
+      },
+      {
+        "question": "Does an establishing shot have to be the first panel?",
+        "answer": "Usually, yes, but it can also be used effectively in the middle of a page to reveal a sudden change in scenery or a massive new threat."
+      }
+    ],
+    "updatedAt": "2026-09-25T14:25:25.376Z",
+    "tags": [
+      "Layout",
+      "Worldbuilding"
+    ]
+  },
+  {
+    "slug": "map-exploration-comic-layout",
+    "name": "Map Exploration Comic Layout",
+    "description": "Guide readers through complex geography and travel montages with the map exploration comic layout.",
+    "intro": "## Chart the Course: Map Exploration Comic Layout\n\n> **AI Snapshot**: The map exploration comic layout integrates cartography directly into the panel structure, often using a map as the background while smaller inset panels show the characters' journey across it.\n\nFor stories that involve epic journeys or complex political borders, geography is a vital part of the worldbuilding. The map exploration comic layout weaves the map directly into the narrative. Instead of just showing a map, this layout uses it as a canvas to show movement, time, and distance simultaneously.\n\n### The Journey Montage\nThis layout is perfect for travel montages. A large map can serve as the background, with smaller panels (or even just the characters' heads) placed along a dotted line to show their progress, encounters, and the passage of time. This condenses a long journey into a single, visually engaging page. Start charting your course on our [home page](/).\n\n### Integrating Lore\nMaps in comics are also excellent tools for delivering lore without exposition dumps. The names of regions, the placement of dangerous territories, or notes scribbled on the map can all hint at the history and danger of the world. Enhance your maps with elements from our [Assets Library](/assets).",
+    "faqs": [
+      {
+        "question": "How do I make a map interesting in a comic?",
+        "answer": "Don't just draw a static map. Add inset panels of the characters traveling, have monsters or landmarks bursting out of the map's borders, or show the map being drawn or interacted with by a character."
+      },
+      {
+        "question": "Is this layout only for fantasy comics?",
+        "answer": "No, it can be used for sci-fi star charts, post-apocalyptic scavenger routes, or even a heist crew planning their route through a complex building."
+      }
+    ],
+    "updatedAt": "2026-09-25T14:25:25.376Z",
+    "tags": [
+      "Layout",
+      "Worldbuilding"
+    ]
+  },
+  {
+    "slug": "world-details-grid-layout",
+    "name": "World Details Grid Layout",
+    "description": "Showcase the culture, technology, and daily life of your setting with the world details grid layout.",
+    "intro": "## Focus on the Micro: World Details Grid Layout\n\n> **AI Snapshot**: The world details grid layout uses a tight grid of small panels (often 9 or 16 panels) to focus entirely on close-ups of objects, architecture, and daily activities, building the world through accumulation of detail.\n\nWhile establishing shots show the macro scale of your world, the world details grid layout focuses on the micro. This layout uses a series of small, rapid-fire panels to show the texture of everyday life in your setting. It's a montage of worldbuilding that immerses the reader in the culture without a single word of dialogue.\n\n### The Accumulation of Detail\nA single panel of a futuristic coin doesn't tell a story. But a grid showing the coin, a steaming bowl of alien noodles, a neon sign flickering, and a robotic hand repairing a shoe creates a vivid tapestry of the world. These small details make the setting feel lived-in and real. Build your detailed grids easily on our [home page](/).\n\n### Pacing and Atmosphere\nThis layout is excellent for slowing down the pacing and establishing atmosphere before a major narrative event. It forces the reader to stop and observe the world. Utilize the diverse props in our [Assets Library](/assets) to fill these detail-oriented panels.",
+    "faqs": [
+      {
+        "question": "What should I put in the panels of a details grid?",
+        "answer": "Focus on sensory details: close-ups of hands working, food, specific technology, unique flora/fauna, or the texture of the architecture."
+      },
+      {
+        "question": "Do these grids need dialogue?",
+        "answer": "Usually, no. They are most effective when they are silent, allowing the visual information to wash over the reader and establish a mood."
+      }
+    ],
+    "updatedAt": "2026-09-25T14:25:25.376Z",
+    "tags": [
+      "Layout",
+      "Worldbuilding"
+    ]
   }
 ]

@@ -1784,5 +1784,26 @@
       "Style",
       "Action"
     ]
+  },
+  {
+    "slug": "detailed-world-comic-style",
+    "name": "Detailed World Comic Style",
+    "description": "Immerse readers with intricate line art and exhaustive environmental design using the detailed world comic style.",
+    "intro": "## Sweat the Small Stuff: Detailed World Comic Style\n\n> **AI Snapshot**: The detailed world comic style prioritizes intricate line art, extensive background rendering, and a high density of visual information to create environments that invite readers to linger and explore every panel.\n\nSome comic styles rely on minimalism, focusing purely on character emotion. The detailed world comic style takes the opposite approach. It uses meticulous line work and exhaustive background rendering to create a world so dense and realized that the reader feels they could step inside it. This style is the ultimate tool for visual worldbuilding.\n\n### The Importance of Research\nTo draw a highly detailed world, you need reference. Whether it's the exact rigging of a 19th-century sailing ship or the biomechanics of an insect leg, the detailed style relies on accuracy (even when applied to fictional concepts). This level of detail grounds the fantastical elements in reality. Explore the extensive options in our [Assets Library](/assets) to help build this density.\n\n### Guiding the Eye Through the Clutter\nThe danger of this style is that the panels become visually overwhelming, making it hard to follow the story. You must use line weight, atmospheric perspective (making distant objects lighter and less detailed), and color to separate the foreground characters from the intensely detailed backgrounds. Start creating your intricate masterpieces on our [home page](/).",
+    "faqs": [
+      {
+        "question": "How do I prevent detailed backgrounds from distracting from the characters?",
+        "answer": "Use thicker, bolder lines for the characters in the foreground, and thinner, lighter lines for the background. You can also use desaturated colors or 'color holds' (coloring the line art) for the background."
+      },
+      {
+        "question": "Does this style take a long time to draw?",
+        "answer": "Yes, it is one of the most time-consuming styles in comic art due to the sheer amount of line work and rendering required for every panel."
+      }
+    ],
+    "updatedAt": "2026-09-25T14:25:25.376Z",
+    "tags": [
+      "Style",
+      "Worldbuilding"
+    ]
   }
 ]
