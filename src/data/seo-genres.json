@@ -4793,5 +4793,89 @@
       "Genre",
       "Drama"
     ]
+  },
+  {
+    "slug": "fantasy-worldbuilding-comic-maker",
+    "name": "Fantasy Worldbuilding Comic Maker",
+    "description": "Design epic fantasy realms with castles, dragons, and magic using the fantasy worldbuilding comic maker.",
+    "intro": "## Construct Epic Realms with the Fantasy Worldbuilding Comic Maker\n\n> **AI Snapshot**: The fantasy worldbuilding comic maker provides creators with the tools to visualize magic systems, design medieval or high-fantasy architecture, and populate their worlds with mythical creatures and distinct cultures.\n\nFantasy worldbuilding is about making the impossible feel real. The fantasy worldbuilding comic maker helps you achieve this by focusing on visual consistency within your magical realms. Whether you're designing a towering elven city or a dark, treacherous dungeon, the key is to ensure the environment reflects the history and magic of the inhabitants.\n\n### Designing Magic Visually\nIn a fantasy comic, magic shouldn't just be invisible forces; it needs a visual language. Are spells cast using glowing geometric circles, or do they look like chaotic, crackling energy? Consistency in these visual cues helps the reader understand the rules of your world. Use the [Assets Library](/assets) to find magical effects and props that align with your vision.\n\n### Mythical Ecosystems\nA fantasy world is more than just castles; it's the creatures that live there. When designing your flora and fauna, consider how they interact with the environment and the magic system. A well-placed strange creature in the background of a panel can do more for worldbuilding than a page of exposition. You can start bringing your fantasy world to life today on our [home page](/).",
+    "faqs": [
+      {
+        "question": "How do I make my fantasy world feel unique?",
+        "answer": "Focus on the specific rules of your magic system and how it affects the daily lives, architecture, and technology of the people living there."
+      },
+      {
+        "question": "What is the best way to show history in a fantasy comic?",
+        "answer": "Use environmental storytelling: ruined castles, ancient statues, and forgotten battlefields in the background visually communicate a deep history."
+      }
+    ],
+    "updatedAt": "2026-09-25T14:25:25.376Z",
+    "tags": [
+      "Genre",
+      "Worldbuilding"
+    ]
+  },
+  {
+    "slug": "sci-fi-worldbuilding-comic-creator",
+    "name": "Sci-Fi Worldbuilding Comic Creator",
+    "description": "Build futuristic cities, spaceships, and alien landscapes with the sci-fi worldbuilding comic creator.",
+    "intro": "## Engineer the Future with the Sci-Fi Worldbuilding Comic Creator\n\n> **AI Snapshot**: The sci-fi worldbuilding comic creator enables the design of advanced technologies, extraterrestrial environments, and futuristic societies, focusing on the visual implications of scientific progress.\n\nScience fiction requires a world that is fundamentally different from our own, usually driven by advanced technology or alien ecosystems. The sci-fi worldbuilding comic creator provides the framework to construct these complex futuristic visions. A successful sci-fi world must feel like a logical extrapolation of scientific principles, even if those principles are fictional.\n\n### The Aesthetics of Technology\nTechnology is the backbone of most sci-fi settings. Is your world a sleek, utopian utopia with clean lines and holographic interfaces, or is it a gritty, cyberpunk dystopia where technology is cobbled together and constantly failing? The visual design of the tech instantly tells the reader what kind of future they are looking at. Explore the [Assets Library](/assets) for futuristic props and backgrounds.\n\n### Designing Alien Worlds\nIf your story takes place off-Earth, the worldbuilding must extend to the environment itself. Consider the gravity, the atmosphere, and the light source (are there two suns?). These factors should influence the design of the architecture and the creatures that live there. Start constructing your futuristic vision now on our [home page](/).",
+    "faqs": [
+      {
+        "question": "What makes a sci-fi world believable?",
+        "answer": "Internal consistency. If you introduce a technology (like faster-than-light travel or teleportation), you must consider how that technology changes society, warfare, and daily life."
+      },
+      {
+        "question": "How do I visually show a high-tech society?",
+        "answer": "Use clean lines, glowing interfaces, advanced transportation methods in the background, and architecture that defies modern engineering limitations."
+      }
+    ],
+    "updatedAt": "2026-09-25T14:25:25.376Z",
+    "tags": [
+      "Genre",
+      "Worldbuilding"
+    ]
+  },
+  {
+    "slug": "dystopian-worldbuilding-comic-generator",
+    "name": "Dystopian Worldbuilding Comic Generator",
+    "description": "Create oppressive regimes, sprawling slums, and cyberpunk cities with the dystopian worldbuilding comic generator.",
+    "intro": "## Craft Oppressive Futures with the Dystopian Worldbuilding Comic Generator\n\n> **AI Snapshot**: A dystopian worldbuilding comic generator focuses on visual starkness, brutalist architecture, and stark class divides to illustrate societies where technology or authoritarianism has eroded human freedom.\n\nDystopian worlds are characterized by suffering, injustice, and often, an oppressive governing body. The dystopian worldbuilding comic generator helps you visually communicate these themes through environment and design. The key to a great dystopia is showing the contrast between the powerful and the powerless.\n\n### Visualizing Class Divide\nThe most effective way to show a dystopia is through the environment. The wealthy elites might live in pristine, sunlit towers high above the smog, while the lower classes inhabit cramped, dirty, and chaotic slums below. This verticality in architecture is a classic dystopian trope. Find backgrounds that fit this aesthetic in our [Assets Library](/assets).\n\n### The Architecture of Oppression\nAuthoritarian regimes often use architecture to intimidate. Brutalist buildings—massive, imposing, and made of concrete—convey a sense of powerlessness to the citizens (and the reader). Use harsh lighting and drab color palettes to further enhance the oppressive atmosphere. Begin designing your dark future on our [home page](/).",
+    "faqs": [
+      {
+        "question": "How do I show an oppressive government visually?",
+        "answer": "Use propaganda posters on walls, omnipresent security cameras, heavily armored police forces, and massive, intimidating government buildings."
+      },
+      {
+        "question": "What color palettes work best for dystopian comics?",
+        "answer": "Desaturated colors, heavy use of grays and browns for the lower classes, contrasted with harsh, artificial neon lights or sterile whites for the ruling class."
+      }
+    ],
+    "updatedAt": "2026-09-25T14:25:25.376Z",
+    "tags": [
+      "Genre",
+      "Worldbuilding"
+    ]
+  },
+  {
+    "slug": "post-apocalyptic-world-comic-builder",
+    "name": "Post-Apocalyptic World Comic Builder",
+    "description": "Design ruined cities, wasteland settlements, and survivor camps with the post-apocalyptic world comic builder.",
+    "intro": "## Survive the Wasteland with the Post-Apocalyptic World Comic Builder\n\n> **AI Snapshot**: The post-apocalyptic world comic builder allows creators to design environments defined by ruin, scarcity, and the reclamation of nature, focusing on how survivors repurpose the remnants of civilization.\n\nA post-apocalyptic setting is a world that has ended, but humanity (or what's left of it) persists. The post-apocalyptic world comic builder helps you design these harsh, unforgiving environments. The central theme of this worldbuilding is scavenging and survival; everything is repurposed, and nothing is wasted.\n\n### The Beauty of Ruin\nThere is a specific aesthetic to a ruined world. Whether it's a city reclaimed by vines and vegetation or a barren, irradiated desert, the environment is the primary antagonist. Show familiar landmarks destroyed or altered to immediately convey the scale of the disaster. You can find elements of ruin in our [Assets Library](/assets).\n\n### Repurposed Technology\nSurvivors in a post-apocalypse don't manufacture new things; they scavenge. Armor might be made from street signs and tires, and weapons might be modified tools. This visual 'kit-bashing' tells a story of desperation and ingenuity. Start building your survivor settlements today on our [home page](/).",
+    "faqs": [
+      {
+        "question": "How do I make a wasteland visually interesting?",
+        "answer": "Focus on the remnants of the old world. A rusted Ferris wheel half-buried in sand or a collapsed skyscraper acting as a bridge provides unique visual landmarks."
+      },
+      {
+        "question": "How do characters dress in a post-apocalyptic comic?",
+        "answer": "Clothing should be practical, mismatched, patched together, and heavily weathered, reflecting the scarcity of resources and the harsh environment."
+      }
+    ],
+    "updatedAt": "2026-09-25T14:25:25.376Z",
+    "tags": [
+      "Genre",
+      "Worldbuilding"
+    ]
   }
 ]
