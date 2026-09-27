@@ -3820,5 +3820,65 @@
       "Layout",
       "Worldbuilding"
     ]
+  },
+  {
+    "slug": "heavy-shadow-panel-layout",
+    "h1": "Heavy Shadow Panel Layout – Drama and Darkness",
+    "description": "Utilize a panel layout designed to maximize the impact of heavy shadows and solid black inking. Perfect for dramatic reveals and tense moments.",
+    "intro": "Maximize the impact of your darkest scenes with the Heavy Shadow Panel Layout. This layout is specifically structured to give heavy, solid black inking the space it needs to breathe and dominate the page. When you want to convey a sense of overwhelming darkness, mystery, or profound despair, the arrangement of your panels must support your inking choices.\n\n## Designing for Darkness\n\nThis layout relies on large areas of negative space (or rather, black space) to build atmosphere. \n\n### The Anchor Shadow\n\nOften, this layout features a large, dominant panel where the majority of the space is consumed by solid black ink. This \"anchor shadow\" sets the tonal baseline for the entire page. Smaller inset panels might float within this darkness, acting as small windows of light or specific details fighting against the gloom.\n\n### Contrast and Pacing\n\nBy contrasting heavy, dark panels with suddenly bright, sparsely inked panels, you can control the pacing of the scene. A slow, methodical build-up of dark panels can suddenly explode into a bright, thin-lined action shot. The layout dictates how the reader experiences this shift in visual weight.\n\nUse this layout when the shadows themselves are a character in your story.",
+    "faqs": [
+      {
+        "question": "What is the Heavy Shadow layout best used for?",
+        "answer": "It is best for creating a moody, oppressive atmosphere, highlighting dramatic reveals, or emphasizing a character's isolation."
+      },
+      {
+        "question": "How do you balance heavy blacks in a layout?",
+        "answer": "Balance them with smaller, brighter panels or use stark, white gutters to separate the heavy, dark images and maintain readability."
+      }
+    ],
+    "updatedAt": "2026-09-27",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "fine-line-detail-layout",
+    "h1": "Fine Line Detail Layout – Intricate and Complex Pages",
+    "description": "A layout designed to showcase intricate, fine-line inking. Ideal for complex establishing shots, detailed machinery, or crowded scenes.",
+    "intro": "Showcase your most intricate artwork with the Fine Line Detail Layout. When your inking style relies on delicate, precise linework—such as elaborate crosshatching, complex architectural drawings, or highly detailed sci-fi machinery—you need a layout that allows the reader to pause and absorb the complexity.\n\n## Framing the Details\n\nThis layout prioritizes clarity and size, ensuring fine lines aren't lost in the printing or rendering process.\n\n### The Establishing Splash\n\nThis layout frequently employs a half-page or full-page splash panel. When you spend hours detailing the rivets on a steampunk airship or the scales on a dragon, crowding it into a tiny panel ruins the effect. A large canvas allows fine-line inking to shine, inviting the reader's eye to wander and explore the minutiae.\n\n### Managing Visual Clutter\n\nHighly detailed inking can quickly become chaotic. This layout uses structured, rigid grids for the surrounding narrative panels. The uniform, simple borders of a 6-panel or 9-panel grid act as a visual resting place, balancing the overwhelming detail of the main focus panel. \n\nThis structure ensures the reader appreciates the detail without feeling overwhelmed by it.",
+    "faqs": [
+      {
+        "question": "When should I use a highly detailed layout?",
+        "answer": "Use it for establishing shots, complex environments, or crucial moments where intricate detail adds significant narrative value."
+      },
+      {
+        "question": "How do I prevent detailed inking from looking messy?",
+        "answer": "Use structured, simple panel borders and ensure there is enough negative space or clearly defined focal points to guide the eye."
+      }
+    ],
+    "updatedAt": "2026-09-27",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "ink-wash-comic-layout",
+    "h1": "Ink Wash Comic Layout – Soft Transitions and Mood",
+    "description": "Structure your comics for the soft gradients and atmospheric tones of ink wash techniques. Ideal for memories, dreams, and somber stories.",
+    "intro": "Evoke deep emotion with the Ink Wash Comic Layout. Ink wash—diluting ink with water to create varying shades of gray—creates a soft, painterly effect distinct from hard-edged pen lines. A layout designed for this technique needs to complement its fluid, ethereal nature.\n\n## Formatting for Fluidity\n\nBecause ink wash relies on subtle gradients rather than stark contrast, the layout should avoid rigid, harsh boundaries.\n\n### Borderless and Bleeding Panels\n\nTo enhance the dreamy or memory-like quality of an ink wash, this layout frequently utilizes borderless panels or panels that bleed to the edge of the page. Removing the harsh black outline of a standard panel border allows the soft grays of the wash to blend seamlessly with the white of the page, creating a gentle, atmospheric transition.\n\n### Pacing with Tone\n\nInk wash is excellent for conveying mood over action. The layout reflects this with a slower, more contemplative pacing. Panels are often larger and wider, giving the subtle tonal variations space to be felt. A sequence might slowly transition from a light, airy wash to a dark, heavy gray over several panels, visually representing a shift in a character's emotional state.\n\nThis layout is perfect for stories that prioritize feeling and atmosphere over rapid plot progression.",
+    "faqs": [
+      {
+        "question": "What is ink wash?",
+        "answer": "Ink wash is a technique where ink is diluted with water to create varying shades of gray, resulting in a soft, watercolor-like effect."
+      },
+      {
+        "question": "Why use borderless panels with ink wash?",
+        "answer": "Borderless panels complement the soft, fluid nature of the wash, preventing harsh lines from disrupting the atmospheric, dreamy mood."
+      }
+    ],
+    "updatedAt": "2026-09-27",
+    "tags": [
+      "Layout"
+    ]
   }
 ]

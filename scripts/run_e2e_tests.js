@@ -544,6 +544,15 @@ const assert = require('assert');
     'http://localhost:3000/layouts/map-exploration-comic-layout',
     'http://localhost:3000/layouts/world-details-grid-layout',
     'http://localhost:3000/styles/detailed-world-comic-style',
+    'http://localhost:3000/blog/comic-book-inking-techniques-guide',
+    'http://localhost:3000/genres/noir-ink-comic-maker',
+    'http://localhost:3000/genres/manga-inking-comic-creator',
+    'http://localhost:3000/genres/crosshatch-horror-comic-generator',
+    'http://localhost:3000/genres/brush-pen-fantasy-comic-builder',
+    'http://localhost:3000/layouts/heavy-shadow-panel-layout',
+    'http://localhost:3000/layouts/fine-line-detail-layout',
+    'http://localhost:3000/layouts/ink-wash-comic-layout',
+    'http://localhost:3000/styles/traditional-inking-comic-style',
 ];
   page.on('console', msg => {
     if (msg.type() === 'error') {
