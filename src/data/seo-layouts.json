@@ -3880,5 +3880,80 @@
     "tags": [
       "Layout"
     ]
+  },
+  {
+    "slug": "thumbnail-grid-layout",
+    "name": "Thumbnail Grid Layout",
+    "description": "The foundational structure for comic planning. The Thumbnail Grid Layout allows for rapid iteration of a 6 or 9-panel page.",
+    "intro": "## Rapid Iteration with the Thumbnail Grid Layout\n\n> **AI Snapshot**: The Thumbnail Grid Layout provides a structured template (often a 6 or 9-panel grid) for rapidly planning page flow. This rigid structure forces creators to focus on clear storytelling and pacing within a confined space before breaking the grid for dramatic effect.\n\nWhen starting the thumbnailing process, a blank page can be intimidating. The Thumbnail Grid Layout offers a reliable foundation. By starting with a standard 6-panel or 9-panel grid, you immediately have a structure to work within. This constraint is incredibly useful for early-stage planning, as it forces you to condense your storytelling into clear, manageable beats.\n\nThe grid layout is particularly effective for dialogue-heavy scenes or sequences that require a steady, methodical pace. It establishes a rhythm. Once that rhythm is established, you can choose to break it—perhaps merging two panels for a wider shot, or bleeding a panel off the edge of the page for emphasis. \n\nUsing this layout in the rough draft stage allows you to quickly assess the density of the page. If a 9-panel grid feels too cramped for the action you're trying to depict, you can instantly see that you need to shift to a 6-panel layout or spread the scene across two pages.",
+    "faqs": [
+      {
+        "question": "Why start with a grid for thumbnails?",
+        "answer": "A grid provides a structured starting point, helping you organize the pacing and flow of a page without getting overwhelmed by unlimited layout options."
+      },
+      {
+        "question": "Is a 9-panel grid too dense for action?",
+        "answer": "It can be. 9-panel grids are typically better suited for dialogue or slow, methodical sequences. Action usually requires larger panels, like a 4 or 6-panel grid."
+      },
+      {
+        "question": "When should I break the grid?",
+        "answer": "Break the grid to emphasize a specific moment, change the pacing, or accommodate an action that requires a non-standard panel shape."
+      }
+    ],
+    "tags": [
+      "Layout",
+      "Technique"
+    ],
+    "updatedAt": "2026-09-28T11:51:20.825Z"
+  },
+  {
+    "slug": "rough-draft-page-layout",
+    "name": "Rough Draft Page Layout",
+    "description": "A flexible canvas for initial page planning. The Rough Draft Page Layout encourages experimentation with varied panel sizes.",
+    "intro": "## Experiment Freely with the Rough Draft Page Layout\n\n> **AI Snapshot**: The Rough Draft Page Layout is a flexible workspace designed for experimenting with varied panel sizes and non-traditional structures. It allows creators to visually test the impact of splash panels, inset panels, and dynamic pacing before finalizing the page design.\n\nWhile grids offer structure, some stories demand a more dynamic approach. The Rough Draft Page Layout is your sandbox for experimentation. This layout is characterized by its flexibility. It's the stage where you decide if a crucial moment deserves half the page, or if a rapid sequence of events should be conveyed through a series of tiny, slanted panels.\n\nThis layout style is essential for planning modern, cinematic comics. You can quickly sketch out the placement of a large establishing shot and then arrange smaller inset panels over it to show specific details or reactions. \n\nThe key to success with the rough draft layout is maintaining clarity. Even with varied and dynamic panel shapes, the reader's eye must still follow a logical path. Use your rough sketches to ensure that the \"Z-pattern\" of reading is preserved, and that speech bubbles will naturally guide the reader through the complex layout.",
+    "faqs": [
+      {
+        "question": "What makes a rough draft layout different from a grid?",
+        "answer": "A rough draft layout prioritizes varied panel sizes and dynamic arrangements based on the specific needs of the story, whereas a grid uses uniform panel sizes."
+      },
+      {
+        "question": "How do I ensure a dynamic layout is still readable?",
+        "answer": "Carefully plan the placement of characters and speech bubbles to create clear 'leading lines' that guide the reader's eye in the standard Z-pattern."
+      },
+      {
+        "question": "Can I use splash panels in a rough draft?",
+        "answer": "Absolutely. The rough draft stage is the perfect time to determine if a moment is impactful enough to warrant a space-consuming splash panel."
+      }
+    ],
+    "tags": [
+      "Layout",
+      "Technique"
+    ],
+    "updatedAt": "2026-09-28T11:51:20.825Z"
+  },
+  {
+    "slug": "storyboard-sketch-layout",
+    "name": "Storyboard Sketch Layout",
+    "description": "Adopt a cinematic approach to comic planning. The Storyboard Sketch Layout uses a linear progression of wide panels to plan visual flow.",
+    "intro": "## Cinematic Planning with the Storyboard Sketch Layout\n\n> **AI Snapshot**: Inspired by film production, the Storyboard Sketch Layout utilizes a linear sequence of wide, uniform panels to plan the visual flow of a comic. This approach is excellent for establishing camera angles, continuity, and pacing before arranging the panels onto a final comic page.\n\nThe Storyboard Sketch Layout borrows heavily from the film and animation industries. Instead of immediately trying to arrange panels onto a vertical comic page, you sketch the sequence of events as a linear series of uniformly sized, often widescreen, rectangles. This linear approach simplifies the planning process, allowing you to focus entirely on the \"cinematography\" of the scene.\n\nThis method is incredibly useful for working out complex action sequences or ensuring continuity. By looking at the panels in a straight line, it's easy to spot if a character suddenly switched sides (crossing the 180-degree line) or if a camera angle is jarring. \n\nOnce the storyboard sequence is solid, you can then take those individual panels and arrange them onto the final comic page layout, resizing and cropping them as needed to fit the page structure. It's a two-step process that guarantees a highly polished visual narrative.",
+    "faqs": [
+      {
+        "question": "How does a storyboard differ from a comic thumbnail?",
+        "answer": "Storyboards are typically a linear sequence of uniform panels used to plan the shots, while comic thumbnails arrange those shots into the final layout of a comic page."
+      },
+      {
+        "question": "Why use widescreen panels for storyboarding?",
+        "answer": "Widescreen panels mimic the aspect ratio of film, encouraging creators to think cinemastically about background composition and character placement."
+      },
+      {
+        "question": "Do I have to strictly follow the storyboard when making the final page?",
+        "answer": "No. The storyboard is a guide. When adapting it to the final comic page, you will often need to crop or resize panels to fit the page layout."
+      }
+    ],
+    "tags": [
+      "Layout",
+      "Technique"
+    ],
+    "updatedAt": "2026-09-28T11:51:20.825Z"
   }
 ]
