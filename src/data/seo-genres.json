@@ -4957,5 +4957,105 @@
     "tags": [
       "Genre"
     ]
+  },
+  {
+    "slug": "thumbnail-action-comic-maker",
+    "name": "Thumbnail Action Comic Maker",
+    "description": "Plan explosive action sequences with the Thumbnail Action Comic Maker. Create rough drafts to perfect pacing and dynamic movement.",
+    "intro": "## Plan Explosive Sequences with the Thumbnail Action Comic Maker\n\n> **AI Snapshot**: The Thumbnail Action Comic Maker empowers creators to rapidly block out high-octane action sequences. By focusing on rough shapes, dynamic angles, and pacing rather than fine details, you can ensure your fights and chases flow seamlessly before committing to final art.\n\nCreating compelling action in comics requires precision. It's not just about drawing a cool pose; it's about choreographing a sequence of events that the reader can easily follow. This is where the Thumbnail Action Comic Maker becomes essential. Before you render that massive explosion or intricate martial arts move, you need to know if the panel flow actually works. \n\nOur tool is designed for speed. You don't need to be a master illustrator to use it. Drop in simple geometric shapes or basic figures to represent your characters. Test out different camera angles—try a low angle to make a villain look imposing, or a Dutch angle to convey chaos. The goal here is iteration. If a sequence feels clunky, you can delete a panel and redraw it in seconds, saving you hours of frustration later in the production process.\n\nEffective action thumbnails prioritize the \"line of action\"—an imaginary line that dictates the movement and energy of a character. By sketching these lines first, you ensure that every subsequent detail supports the core movement of the panel.",
+    "faqs": [
+      {
+        "question": "Why should I thumbnail action scenes?",
+        "answer": "Thumbnailing allows you to quickly test the choreography, pacing, and visual flow of an action sequence without spending hours on detailed drawings."
+      },
+      {
+        "question": "What is a line of action?",
+        "answer": "The line of action is an imaginary line that runs through a character's body, indicating the primary direction of their movement and energy."
+      },
+      {
+        "question": "Can I use stick figures for action thumbnails?",
+        "answer": "Absolutely. In fact, simple shapes and stick figures are often best for thumbnails because they force you to focus on the overall composition rather than distracting details."
+      }
+    ],
+    "tags": [
+      "Genre",
+      "Technique"
+    ],
+    "updatedAt": "2026-09-28T11:51:20.825Z"
+  },
+  {
+    "slug": "rough-sketch-humor-comic",
+    "name": "Rough Sketch Humor Comic Maker",
+    "description": "Test your punchlines and comedic timing with the Rough Sketch Humor Comic Maker. Iterate quickly on gags and expressions.",
+    "intro": "## Nail Your Punchlines with the Rough Sketch Humor Comic Maker\n\n> **AI Snapshot**: The Rough Sketch Humor Comic Maker is designed for rapidly prototyping gags. It allows creators to test the setup, pacing, and delivery of a joke using quick sketches, ensuring the comedic timing lands perfectly before moving to final artwork.\n\nIn humor comics, timing is everything. A joke can fall completely flat if a panel is too large, a speech bubble is placed awkwardly, or a character's reaction is poorly staged. The Rough Sketch Humor Comic Maker is your testing ground. It allows you to quickly iterate on the structure of your gag without getting bogged down in rendering perfectly straight lines or intricate backgrounds. \n\nThe beauty of the rough sketch is its flexibility. Got a 4-panel gag that isn't quite working? Try condensing it into 3 panels. Does the punchline need more space to breathe? Expand the final panel. By keeping your drawings loose and fast, you can focus entirely on the rhythm of the joke. \n\nWhen sketching humor, pay special attention to character expressions, even in their roughest form. A simple dot-and-line face can convey a hilarious amount of deadpan emotion if placed correctly. Use this tool to experiment with exaggerated reactions and the strategic use of silence (the \"beat\" panel) to enhance the comedic effect.",
+    "faqs": [
+      {
+        "question": "How does rough sketching help with comedy?",
+        "answer": "Rough sketching allows you to quickly adjust the pacing and panel sizes, which are critical for delivering a punchline effectively."
+      },
+      {
+        "question": "Do I need to draw detailed backgrounds in a humor thumbnail?",
+        "answer": "Usually, no. Humor often relies on character interaction and dialogue, so minimal backgrounds in the thumbnail stage are perfectly fine."
+      },
+      {
+        "question": "What is a 'beat' panel?",
+        "answer": "A beat panel is a silent panel, often featuring no dialogue or action, used to create a pause for comedic effect before or after a punchline."
+      }
+    ],
+    "tags": [
+      "Genre",
+      "Technique"
+    ],
+    "updatedAt": "2026-09-28T11:51:20.825Z"
+  },
+  {
+    "slug": "draft-stage-drama-comic",
+    "name": "Draft Stage Drama Comic Builder",
+    "description": "Map out emotional arcs and tense conversations with the Draft Stage Drama Comic Builder. Focus on blocking and acting.",
+    "intro": "## Map Emotional Arcs with the Draft Stage Drama Comic Builder\n\n> **AI Snapshot**: The Draft Stage Drama Comic Builder helps creators plan the blocking and emotional beats of dramatic scenes. By using rough thumbnails, you can establish the physical distance between characters and experiment with framing to heighten tension and emotional impact.\n\nDrama in comics is often conveyed through subtle interactions and the spaces between characters. The Draft Stage Drama Comic Builder is tailored for planning these intricate emotional moments. Before you worry about realistic shading or perfect anatomy, you need to know how your characters relate to each other within the space of the panel. \n\nThumbnailing dramatic scenes is essentially storyboarding. You are acting as the director, deciding where the \"camera\" should be placed to maximize emotional resonance. A tight close-up on a character's eyes can communicate intense grief, while a wide shot showing characters standing far apart can emphasize emotional isolation. \n\nUse this tool to plan the physical blocking of your scene. Who is standing over whom? Who is turned away? These physical cues are crucial for conveying subtext. By sketching these relationships loosely in the draft stage, you create a solid foundation for the nuanced acting that will be required in the final artwork.",
+    "faqs": [
+      {
+        "question": "What is blocking in a comic?",
+        "answer": "Blocking refers to the deliberate positioning and movement of characters within a panel or scene to convey relationships and emotional dynamics."
+      },
+      {
+        "question": "How can framing enhance drama?",
+        "answer": "Framing choices, like using a close-up for intensity or a wide shot for isolation, subconsciously guide the reader's emotional response to the scene."
+      },
+      {
+        "question": "Should I include dialogue in my dramatic thumbnails?",
+        "answer": "Yes, placing rough speech bubbles in your thumbnails is crucial for dramatic scenes to ensure the dialogue flow matches the visual pacing."
+      }
+    ],
+    "tags": [
+      "Genre",
+      "Technique"
+    ],
+    "updatedAt": "2026-09-28T11:51:20.825Z"
+  },
+  {
+    "slug": "planning-sci-fi-comic",
+    "name": "Planning Sci-Fi Comic Creator",
+    "description": "Blueprint complex futuristic worlds and technology with the Planning Sci-Fi Comic Creator. Establish scale and setting early.",
+    "intro": "## Blueprint Futuristic Worlds with the Planning Sci-Fi Comic Creator\n\n> **AI Snapshot**: The Planning Sci-Fi Comic Creator focuses on establishing the massive scale and complex environments typical of the genre. Use rough thumbnails to block out sprawling cityscapes, massive spacecraft, and the placement of intricate technology before tackling the demanding final details.\n\nScience fiction comics are demanding. They often require the design of entire worlds, complex machinery, and alien environments. Jumping straight into final art without a plan is a recipe for disaster. The Planning Sci-Fi Comic Creator is your essential tool for blueprinting these complex visions. \n\nIn the thumbnail stage for sci-fi, establishing scale is paramount. How big is the spaceship compared to the human characters? How towering are the skyscrapers in your cyberpunk city? By sketching these elements as simple geometric blocks, you can create a convincing sense of depth and proportion. \n\nThis is also the stage to plan the layout of complex technology. Where do the glowing panels go? How does the character interact with the holographic interface? Figuring out these mechanical details in a rough sketch ensures that the final design is both visually impressive and functionally logical within the context of your story.",
+    "faqs": [
+      {
+        "question": "Why is establishing scale important in sci-fi thumbnails?",
+        "answer": "Sci-fi often features massive or tiny elements (like giant mechs or nanobots). Establishing scale early ensures these elements feel grounded and believable in the final art."
+      },
+      {
+        "question": "How do I thumbnail complex machinery?",
+        "answer": "Start by breaking the machinery down into its most basic geometric shapes (cylinders, boxes, spheres) to establish its volume and placement before adding details."
+      },
+      {
+        "question": "Can I use 3D models for sci-fi thumbnailing?",
+        "answer": "Yes, many artists use simple 3D models to establish the perspective and scale of complex sci-fi environments, which they then trace or use as reference for their thumbnails."
+      }
+    ],
+    "tags": [
+      "Genre",
+      "Technique"
+    ],
+    "updatedAt": "2026-09-28T11:51:20.825Z"
   }
 ]
