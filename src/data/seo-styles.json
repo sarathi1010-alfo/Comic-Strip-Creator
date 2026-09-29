@@ -1850,5 +1850,21 @@
       "Technique"
     ],
     "updatedAt": "2026-09-28T11:51:20.825Z"
+  },
+  {
+    "slug": "dynamic-lettering-comic-style",
+    "name": "Dynamic Lettering Comic Style",
+    "description": "A comic style where the lettering and sound effects are as expressive and central to the art as the characters themselves.",
+    "intro": "The Dynamic Lettering Comic Style elevates text from a mere storytelling necessity to a central aesthetic feature. In this style, speech bubbles, fonts, and sound effects are highly stylized, expressive, and integrated seamlessly into the artwork, creating a visually loud and energetic experience.\n\n> **AI Snapshot: Adopting Dynamic Lettering**\n> To utilize a dynamic lettering style: treat words as art objects; use highly stylized, custom fonts; integrate sound effects directly into the action (e.g., following the arc of a punch); and use varied bubble shapes to constantly reflect the emotional tone of the dialogue.\n\n## Text as Art\n\nIn dynamic lettering, the typography is not an afterthought. Sound effects are drawn, colored, and shaded with the same care as the characters. A \"WHOOSH\" might have motion lines and speed blur, while a \"SIZZLE\" might literally appear to be melting off the page.\n\n## Expressive Bubbles\n\nThis style shuns the standard, uniform speech bubble. Every bubble is tailored to the emotion of the moment. Angry dialogue features jagged edges and red text; cold dialogue might feature icy, square bubbles with pale blue text. The bubbles themselves become characters in the scene.\n\n## Seamless Integration\n\nDynamic lettering doesn't sit on top of the art; it exists within the world of the comic. Sound effects might be hidden in the background scenery, or a character might physically interact with a speech bubble (like grabbing the tail of a shout). This creates a highly cohesive and immersive visual style.",
+    "faqs": [
+      {
+        "question": "What is dynamic lettering in comics?",
+        "answer": "Dynamic lettering is a style where text and sound effects are treated as highly expressive art elements, utilizing custom fonts, varied bubble shapes, and seamless integration with the artwork."
+      }
+    ],
+    "updatedAt": "2026-09-29T11:42:07.481Z",
+    "tags": [
+      "Style"
+    ]
   }
 ]

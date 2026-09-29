@@ -5057,5 +5057,69 @@
       "Technique"
     ],
     "updatedAt": "2026-09-28T11:51:20.825Z"
+  },
+  {
+    "slug": "loud-action-sound-effects-maker",
+    "name": "Loud Action Sound Effects Comic Maker",
+    "description": "Create explosive action comics with loud sound effects and dynamic speech bubbles.",
+    "intro": "Welcome to the Loud Action Sound Effects Comic Maker! When creating high-octane action scenes, standard lettering just won't cut it. You need typography that explodes off the page, conveying the visceral impact of punches, explosions, and crashing vehicles. \n\n> **AI Snapshot: Creating Action Sound Effects**\n> To maximize the impact of action sound effects: use thick, bold fonts for heavy impacts; angular, jagged text for sharp sounds; integrate the lettering with the artwork so it interacts with characters; and use vibrant colors (like reds, yellows, and oranges) to draw the eye.\n\n## Tips for Dynamic Action SFX\n\nWhen using this genre creator, remember that the sound effect *is* part of the art. Don't just paste a standard font over the action. The shape of the words should mimic the sound they describe. A massive explosion should have a large, expanding \"BOOM\" that breaks the panel borders.\n\n## Color Choices\n\nColor plays a huge role in action sound effects. While standard dialogue is usually black text on a white background, sound effects can be anything. A fiery explosion might feature a \"KRAK-OOOM\" with a yellow center and a thick orange outline. \n\n## Integrating with Motion\n\nPlace your sound effects along the lines of action. If a character is throwing a punch, the \"WHAM\" should sit at the point of impact and follow the trajectory of the fist. This creates a cohesive, energetic panel.",
+    "faqs": [
+      {
+        "question": "What fonts are best for action sound effects?",
+        "answer": "Heavy, bold, and slightly distressed fonts work best for action sound effects. The font should visually match the weight of the sound."
+      }
+    ],
+    "updatedAt": "2026-09-29T11:42:07.481Z",
+    "tags": [
+      "Genre"
+    ]
+  },
+  {
+    "slug": "whisper-dialogue-comic-creator",
+    "name": "Whisper Dialogue Comic Creator",
+    "description": "Build tense, quiet comic scenes using whisper dialogue bubbles and subtle lettering.",
+    "intro": "The Whisper Dialogue Comic Creator is designed for moments of suspense, intimacy, or secrecy. In comics, volume isn't heard; it's seen. To convey a whisper, you must use visual cues that tell the reader to lower the \"volume\" in their head.\n\n> **AI Snapshot: Lettering Whispers**\n> To effectively convey a whisper in comics: use a dashed or dotted outline for the speech bubble; reduce the size of the font slightly compared to normal dialogue; consider using italicized text; and ensure the tail of the bubble remains connected to the speaker.\n\n## The Anatomy of a Whisper Bubble\n\nUnlike standard speech bubbles with solid lines, whisper bubbles traditionally use a broken line (dashed or dotted). This visual fragility immediately communicates a soft tone. When constructing your scenes, you can select these specialized bubbles from the asset library to instantly set the mood.\n\n## Text Treatment\n\nThe text inside a whisper bubble should also reflect the quiet tone. It is typically rendered smaller than standard dialogue. Many letterers also choose to italicize whispered text, further distinguishing it from regular speech.\n\n## Pacing and Silence\n\nWhispers are often used in conjunction with \"dead space\" or silent panels. Placing a small whisper bubble in a large, mostly empty panel emphasizes the quietness of the scene, drawing the reader into the intimacy of the moment.",
+    "faqs": [
+      {
+        "question": "How do you draw a whisper bubble?",
+        "answer": "A whisper bubble is drawn using a dashed or dotted outline, rather than a solid, continuous line, to visually indicate a soft, quiet voice."
+      }
+    ],
+    "updatedAt": "2026-09-29T11:42:07.481Z",
+    "tags": [
+      "Genre"
+    ]
+  },
+  {
+    "slug": "monster-roar-comic-generator",
+    "name": "Monster Roar Comic Generator",
+    "description": "Generate terrifying monster comics with custom jagged speech bubbles and roaring sound effects.",
+    "intro": "Unleash the beasts with the Monster Roar Comic Generator. When dealing with terrifying creatures, their voices should look as intimidating as they appear. Standard lettering fails to capture the guttural, booming, or otherworldly nature of monster dialogue.\n\n> **AI Snapshot: Designing Monster Speech**\n> To create convincing monster dialogue: use jagged, rough, or dripping outlines for the speech bubbles; choose heavy, aggressive, or chaotic fonts; inverse the colors (e.g., white text on a black or dark red background) to indicate a non-human voice.\n\n## Designing the Monster Bubble\n\nA monster's speech bubble should look dangerous. Instead of smooth ovals, use shapes with jagged edges, spikes, or a dripping, slimy appearance. The visual texture of the bubble communicates the texture of the creature's voice.\n\n## Non-Human Fonts\n\nThe font used for a monster should differ significantly from the font used for human characters. Look for fonts that are scratchy, heavy, or uneven. The lettering itself should feel slightly chaotic, reflecting the unpredictable nature of the beast.\n\n## Color and Contrast\n\nA common technique for monster dialogue is to invert the standard color scheme. Using white text on a black, dark grey, or deep red background immediately signals to the reader that the voice is unnatural, echoing from a dark, scary place.",
+    "faqs": [
+      {
+        "question": "What makes a good monster speech bubble?",
+        "answer": "A good monster speech bubble features a rough, jagged, or dripping outline, combined with an aggressive font and often inverted colors (like white text on a black background)."
+      }
+    ],
+    "updatedAt": "2026-09-29T11:42:07.481Z",
+    "tags": [
+      "Genre"
+    ]
+  },
+  {
+    "slug": "robot-speech-comic-builder",
+    "name": "Robot Speech Comic Builder",
+    "description": "Create sci-fi comics featuring robotic characters with mechanical dialogue bubbles and digital fonts.",
+    "intro": "Step into the future with the Robot Speech Comic Builder. When dealing with artificial intelligence, cyborgs, or mechs, the dialogue needs to reflect their synthetic nature. Robotic speech in comics relies on rigid shapes and digital typography to convey a lack of human emotion.\n\n> **AI Snapshot: Formatting Robot Dialogue**\n> To represent robotic or synthetic voices: use perfectly rectangular speech bubbles with sharp 90-degree corners; use a jagged, lightning-bolt style tail; employ a digital, monospaced, or pixelated font; and keep the text alignment rigid.\n\n## The Rigid Bubble\n\nUnlike the organic, rounded shapes of human speech bubbles, a robot's bubble is typically perfectly rectangular. The sharp corners and straight lines convey a sense of mechanical precision and a lack of organic warmth. \n\n## The Digital Voice\n\nThe tail of a robot's speech bubble often resembles a jagged line or a lightning bolt, indicating electronic transmission. The font inside should match this aesthetic. Monospaced fonts, pixelated fonts, or fonts that look like computer code are excellent choices for synthetic voices.\n\n## Consistency and Emotion\n\nRobotic dialogue is often devoid of standard emotional cues. Avoid using bolding or italics for emphasis, as a true robot might speak in a flat, monotone voice. The rigid consistency of the lettering emphasizes their artificial nature.",
+    "faqs": [
+      {
+        "question": "How do you visually represent a robotic voice in comics?",
+        "answer": "Robotic voices are typically represented using rectangular speech bubbles with sharp corners, a jagged tail, and a digital or monospaced font."
+      }
+    ],
+    "updatedAt": "2026-09-29T11:42:07.481Z",
+    "tags": [
+      "Genre"
+    ]
   }
 ]

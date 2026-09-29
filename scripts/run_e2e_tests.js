@@ -564,6 +564,15 @@ const assert = require('assert');
     'http://localhost:3000/layouts/fine-line-detail-layout',
     'http://localhost:3000/layouts/ink-wash-comic-layout',
     'http://localhost:3000/styles/traditional-inking-comic-style',
+    'http://localhost:3000/blog/mastering-comic-speech-bubbles-sound-effects',
+    'http://localhost:3000/genres/loud-action-sound-effects-maker',
+    'http://localhost:3000/genres/whisper-dialogue-comic-creator',
+    'http://localhost:3000/genres/monster-roar-comic-generator',
+    'http://localhost:3000/genres/robot-speech-comic-builder',
+    'http://localhost:3000/layouts/overlapping-sound-effects-layout',
+    'http://localhost:3000/layouts/burst-bubble-panel-layout',
+    'http://localhost:3000/layouts/silent-to-loud-comic-layout',
+    'http://localhost:3000/styles/dynamic-lettering-comic-style',
 ];
   page.on('console', msg => {
     if (msg.type() === 'error') {
