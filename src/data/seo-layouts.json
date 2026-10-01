@@ -4003,5 +4003,65 @@
     "tags": [
       "Layout"
     ]
+  },
+  {
+    "slug": "reaction-shot-panel-layout",
+    "description": "Emphasize emotional responses with dedicated reaction shot panel layouts.",
+    "intro": "## Highlight Emotion with the Reaction Shot Panel Layout\n\n> **AI Snapshot**: The reaction shot panel layout dedicates specific, often tightly framed panels solely to a character's emotional response, ensuring that the emotional impact of an event is clearly communicated to the reader.\n\nIn visual storytelling, seeing a character react to an event is often more important than seeing the event itself. The reaction shot panel layout is a structural tool designed to isolate and emphasize a character's emotional response, giving it the weight and focus it deserves.\n\n### The Dedicated Reaction Panel\nWhen a major revelation occurs or a shocking action is taken, follow it immediately with a panel dedicated entirely to the character's face. This slows the pacing and forces the reader to absorb the emotional impact of the moment. \n\n### Tight Framing for Maximum Impact\nReaction shots are typically close-ups or extreme close-ups. By removing the background and the body language, you distill the emotion down to its purest form—the eyes and the mouth. Use the cropping tools in the [Assets Library](/assets) to frame these panels tightly.\n\n### The Silent Reaction\nOften, the best reaction shots are completely silent. Removing the dialogue allows the artwork to speak for itself and creates a moment of pregnant pause that heightens the drama. Master this pacing technique on our [home page](/).",
+    "faqs": [
+      {
+        "question": "What is a reaction shot in a comic?",
+        "answer": "A reaction shot is a panel focused entirely on a character's facial expression or body language in response to something that just happened or was said."
+      },
+      {
+        "question": "Why are reaction shots important?",
+        "answer": "They tell the reader how to feel about an event and provide crucial insight into the character's internal emotional state."
+      }
+    ],
+    "tags": [
+      "Layout"
+    ],
+    "updatedAt": "2026-10-01",
+    "h1": "Reaction Shot Panel Layout"
+  },
+  {
+    "slug": "full-body-acting-layout",
+    "description": "Showcase comprehensive character performances with the full-body acting layout.",
+    "intro": "## Direct the Performance with the Full-Body Acting Layout\n\n> **AI Snapshot**: The full-body acting layout utilizes wider shots and carefully framed full-figure panels to emphasize posture, stance, and sweeping gestures, allowing characters to communicate through their entire physical presence.\n\nWhile facial expressions handle the details of emotion, the body handles the broad strokes. The full-body acting layout is essential when a character's posture, stance, or physical interaction with the environment is the primary vehicle for their performance.\n\n### Giving the Characters Space\nTo show full-body acting, you need wider panels. Pull the camera back and ensure the character's entire figure—from head to toe—is visible. This allows you to utilize the line of action and the character's overall weight distribution to communicate their state of mind.\n\n### Posture and Stance\nA full-body layout is perfect for showing a character's confidence, exhaustion, or defensiveness through their stance. A character standing tall with hands on hips communicates dominance, while a character slumped over on a bench communicates defeat. \n\n### Utilizing the Environment\nFull-body shots allow characters to interact meaningfully with their surroundings. A character pacing nervously across a room or aggressively kicking a chair adds significant layers to their performance. Find suitable environments to stage these actions in our [Assets Library](/assets).",
+    "faqs": [
+      {
+        "question": "When should I use a full-body panel?",
+        "answer": "Use full-body panels when a character's posture, stance, or interaction with their environment is necessary to convey their emotional state or the tone of the scene."
+      },
+      {
+        "question": "How does posture convey emotion?",
+        "answer": "Posture reveals confidence (standing tall, open chest) or insecurity (slouching, closed-off body), instantly communicating a character's internal attitude."
+      }
+    ],
+    "tags": [
+      "Layout"
+    ],
+    "updatedAt": "2026-10-01",
+    "h1": "Full-Body Acting Layout"
+  },
+  {
+    "slug": "micro-expression-grid-layout",
+    "description": "Capture rapid, subtle emotional shifts with the micro-expression grid layout.",
+    "intro": "## Deconstruct Emotion with the Micro-Expression Grid Layout\n\n> **AI Snapshot**: The micro-expression grid layout uses a series of small, rapid-fire panels focused on tiny facial changes to depict subtle emotional shifts, hesitation, or the gradual realization of a complex truth.\n\nSometimes, a single reaction shot isn't enough to capture a complex emotional transition. The micro-expression grid layout solves this by breaking down a reaction into a rapid sequence of small, tightly framed panels, analyzing every subtle shift in a character's face.\n\n### Analyzing the Shift\nThis layout is perfect for depicting a character struggling to maintain their composure or slowly realizing a horrifying truth. By dedicating multiple panels to a single continuous moment, you force the reader to study the minute changes in the character's eyes, brow, and mouth.\n\n### The Grid Structure\nTypically, this layout involves a rigid grid (e.g., 3x3 or 4x4) of very small panels. The rigid structure contrasts with the fluid emotional changes happening within the panels, creating a sense of intense focus and scrutiny. Experiment with these intricate layouts on our [home page](/).\n\n### Pacing the Transition\nEach panel in the grid represents a fraction of a second. This hyper-decompressed storytelling technique slows time to a crawl, maximizing the tension and the emotional weight of the scene. It requires precise control over facial anatomy and subtle acting.",
+    "faqs": [
+      {
+        "question": "What is a micro-expression in a comic?",
+        "answer": "It is a very small, often involuntary change in a character's facial expression, such as a twitching eye or a slight tightening of the lips, used to show repressed emotion."
+      },
+      {
+        "question": "How does a grid layout slow down pacing?",
+        "answer": "By forcing the reader to look at multiple panels depicting a very short span of time, the grid artificially stretches the moment, making it feel longer and more significant."
+      }
+    ],
+    "tags": [
+      "Layout"
+    ],
+    "updatedAt": "2026-10-01",
+    "h1": "Micro-Expression Grid Layout"
   }
 ]
