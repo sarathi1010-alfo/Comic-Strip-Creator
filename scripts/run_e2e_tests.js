@@ -4,6 +4,15 @@ const assert = require('assert');
   const browser = await chromium.launch({ headless: true });
   const page = await browser.newPage();
     const urlsToTest = [
+    'http://localhost:3000/blog/advanced-dialogue-techniques',
+    'http://localhost:3000/genres/sci-fi-comic-maker',
+    'http://localhost:3000/genres/romance-comic-creator',
+    'http://localhost:3000/genres/horror-comic-generator',
+    'http://localhost:3000/layouts/2-panel-comic-layout',
+    'http://localhost:3000/layouts/9-panel-grid-comic',
+    'http://localhost:3000/layouts/vertical-scroll-comic',
+    'http://localhost:3000/styles/noir-comic-style',
+    'http://localhost:3000/styles/watercolor-comic-creator',
 
   'http://localhost:3000/blog/comic-thumbnailing-basics-guide',
   'http://localhost:3000/genres/thumbnail-action-comic-maker',
