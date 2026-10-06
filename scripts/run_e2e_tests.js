@@ -609,6 +609,15 @@ const assert = require('assert');
   "http://localhost:3000/layouts/full-body-acting-layout",
   "http://localhost:3000/layouts/micro-expression-grid-layout",
   "http://localhost:3000/styles/expressive-cartoon-comic-style",
+  "http://localhost:3000/blog/mecha-comic-creation-guide",
+  "http://localhost:3000/genres/super-mecha-comic-maker",
+  "http://localhost:3000/genres/real-robot-comic-creator",
+  "http://localhost:3000/genres/mecha-kaiju-comic-generator",
+  "http://localhost:3000/genres/mecha-space-opera-comic-builder",
+  "http://localhost:3000/layouts/cockpit-interior-panel-layout",
+  "http://localhost:3000/layouts/giant-robot-scale-layout",
+  "http://localhost:3000/layouts/mecha-transformation-sequence-layout",
+  "http://localhost:3000/styles/gundam-inspired-comic-style",
 ];
   page.on('console', msg => {
     if (msg.type() === 'error') {
