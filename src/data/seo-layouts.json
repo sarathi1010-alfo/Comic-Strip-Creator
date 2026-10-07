@@ -4238,5 +4238,59 @@
       "Mecha",
       "Action"
     ]
+  },
+  {
+    "slug": "standoff-widescreen-layout",
+    "title": "Standoff Widescreen Layout",
+    "primaryKeyword": "standoff comic layout",
+    "h1": "Standoff Widescreen Layout - Build Tension",
+    "description": "Use widescreen panels to emphasize the distance and tension between duelists in a Wild West standoff.",
+    "intro": "## Emphasize the Distance\n\n> **AI Snapshot**: Use wide, horizontal panels to show the physical space between two gunslingers facing off. This layout highlights the isolation and the high stakes of the impending duel.\n\nStretch the action across the page to create a cinematic feel. Widescreen panels are perfect for showing the desolate street separating the hero and the villain.",
+    "faqs": [
+      {
+        "question": "Why use widescreen for a standoff?",
+        "answer": "It emphasizes the physical distance and isolation of the characters, increasing the cinematic tension."
+      }
+    ],
+    "updatedAt": "2026-10-07",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "extreme-close-up-montage-layout",
+    "title": "Extreme Close-Up Montage Layout",
+    "primaryKeyword": "close up montage comic",
+    "h1": "Extreme Close-Up Montage Layout - The Tension Before the Draw",
+    "description": "Build unbearable suspense with a rapid montage of extreme close-ups on eyes, hands, and holsters.",
+    "intro": "## The Details of Suspense\n\n> **AI Snapshot**: A montage of small, tightly framed panels showing twitching fingers, sweating brows, and squinting eyes rapidly builds tension right before a burst of action.\n\nBorrowing from Spaghetti Western film techniques, use this layout to slow down time. By focusing on tiny details, you force the reader to hold their breath before the climax.",
+    "faqs": [
+      {
+        "question": "How do close-ups build tension?",
+        "answer": "By restricting the reader's view to minute details, it slows the perceived passage of time and heightens anticipation."
+      }
+    ],
+    "updatedAt": "2026-10-07",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "saloon-brawl-chaos-layout",
+    "title": "Saloon Brawl Chaos Layout",
+    "primaryKeyword": "saloon brawl comic layout",
+    "h1": "Saloon Brawl Chaos Layout - Fast, Frantic Action",
+    "description": "Use overlapping panels and dynamic angles to capture the chaotic energy of a classic saloon brawl.",
+    "intro": "## Unleash the Chaos\n\n> **AI Snapshot**: Break the traditional grid with tilted borders and overlapping panels to represent the frantic, disorganized nature of a bar fight.\n\nWhen the tension breaks, the action should be explosive. Use irregular panel shapes to convey the unpredictable movement of chairs breaking and bottles flying.",
+    "faqs": [
+      {
+        "question": "How to layout a chaotic fight scene?",
+        "answer": "Use tilted panel borders, overlapping characters breaking out of the frame, and a lack of a rigid grid to visually represent the chaos."
+      }
+    ],
+    "updatedAt": "2026-10-07",
+    "tags": [
+      "Layout"
+    ]
   }
 ]

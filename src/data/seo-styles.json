@@ -1971,5 +1971,23 @@
       "Mecha",
       "Manga"
     ]
+  },
+  {
+    "slug": "dusty-sepia-comic-style",
+    "title": "Dusty Sepia Comic Style",
+    "primaryKeyword": "sepia comic style",
+    "h1": "Dusty Sepia Comic Style - Vintage Frontier Aesthetic",
+    "description": "Give your comics an authentic, vintage feel with the Dusty Sepia Comic Style, perfect for historical Westerns.",
+    "intro": "## A Vintage Frontier Look\n\n> **AI Snapshot**: Use a monochromatic or sepia-toned color palette with added grain and grit textures to simulate the look of old, faded photographs from the 1800s.\n\nTransport your readers back in time. This style relies on warm, brownish tones and stark contrast to evoke the harsh sunlight and blowing dust of the Wild West.",
+    "faqs": [
+      {
+        "question": "What is a sepia style?",
+        "answer": "It uses a limited color palette of warm browns and tans, mimicking the appearance of early 19th-century photography."
+      }
+    ],
+    "updatedAt": "2026-10-07",
+    "tags": [
+      "Style"
+    ]
   }
 ]

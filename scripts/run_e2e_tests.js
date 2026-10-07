@@ -4,6 +4,16 @@ const assert = require('assert');
   const browser = await chromium.launch({ headless: true });
   const page = await browser.newPage();
     const urlsToTest = [
+    'http://localhost:3000/blog/wild-west-comic-creation-guide',
+    'http://localhost:3000/genres/spaghetti-western-comic-maker',
+    'http://localhost:3000/genres/weird-west-comic-creator',
+    'http://localhost:3000/genres/gold-rush-comic-generator',
+    'http://localhost:3000/genres/outlaw-heist-comic-builder',
+    'http://localhost:3000/layouts/standoff-widescreen-layout',
+    'http://localhost:3000/layouts/extreme-close-up-montage-layout',
+    'http://localhost:3000/layouts/saloon-brawl-chaos-layout',
+    'http://localhost:3000/styles/dusty-sepia-comic-style',
+
     'http://localhost:3000/blog/flat-color-rendering-guide',
     'http://localhost:3000/genres/noir-detective-comic-creator',
     'http://localhost:3000/genres/cyberpunk-hacker-comic',
