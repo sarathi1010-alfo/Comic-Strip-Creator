@@ -5444,5 +5444,77 @@
       "Mecha",
       "Sci-Fi"
     ]
+  },
+  {
+    "slug": "spaghetti-western-comic-maker",
+    "title": "Spaghetti Western Comic Maker",
+    "primaryKeyword": "spaghetti western comic",
+    "h1": "Spaghetti Western Comic Maker - Gritty Frontier Tales",
+    "description": "Create gritty, stylized Spaghetti Western comics featuring lone gunmen, corrupt towns, and epic standoffs.",
+    "intro": "## Ride into the Spaghetti Western\n\n> **AI Snapshot**: The Spaghetti Western genre is defined by its stylized violence, moral ambiguity, and distinct visual flair. Use this maker to craft gritty tales of lone drifters and corrupt towns.\n\nCapture the essence of 1960s Italian Westerns. Focus on extreme close-ups, wide establishing shots, and morally grey protagonists navigating a harsh frontier.",
+    "faqs": [
+      {
+        "question": "What is a Spaghetti Western?",
+        "answer": "A subgenre of Westerns known for their gritty realism, stylized action, and morally ambiguous characters."
+      }
+    ],
+    "updatedAt": "2026-10-07",
+    "tags": [
+      "Genre"
+    ]
+  },
+  {
+    "slug": "weird-west-comic-creator",
+    "title": "Weird West Comic Creator",
+    "primaryKeyword": "weird west comic",
+    "h1": "Weird West Comic Creator - Horror on the Frontier",
+    "description": "Blend the Wild West with the supernatural. Create horror-infused Western comics with monsters and magic.",
+    "intro": "## Supernatural Horror on the Frontier\n\n> **AI Snapshot**: The Weird West genre mixes traditional Western tropes with fantasy or horror elements. Use this creator to introduce monsters, magic, or steampunk technology to the Old West.\n\nCombine the rugged setting of the frontier with the terrifying elements of the supernatural. Draw ghostly gunslingers, demonic outlaws, or cursed gold mines.",
+    "faqs": [
+      {
+        "question": "What is the Weird West genre?",
+        "answer": "It is a hybrid genre that combines elements of the traditional Western with fantasy, horror, or science fiction."
+      }
+    ],
+    "updatedAt": "2026-10-07",
+    "tags": [
+      "Genre"
+    ]
+  },
+  {
+    "slug": "gold-rush-comic-generator",
+    "title": "Gold Rush Comic Generator",
+    "primaryKeyword": "gold rush comic",
+    "h1": "Gold Rush Comic Generator - Tales of Greed and Survival",
+    "description": "Create historical comics set during the Gold Rush. Focus on prospectors, boomtowns, and the struggle for wealth.",
+    "intro": "## Strike it Rich in Boomtown\n\n> **AI Snapshot**: Focus on the human drama of the Gold Rush. Use this generator to illustrate boomtowns, muddy claims, and the desperate struggle for survival and wealth.\n\nTell stories of ambition, greed, and hardship. Create sprawling boomtowns filled with diverse characters seeking their fortune in the harsh wilderness.",
+    "faqs": [
+      {
+        "question": "How to draw a Gold Rush town?",
+        "answer": "Focus on hastily constructed wooden buildings, muddy streets, and crowded, chaotic environments."
+      }
+    ],
+    "updatedAt": "2026-10-07",
+    "tags": [
+      "Genre"
+    ]
+  },
+  {
+    "slug": "outlaw-heist-comic-builder",
+    "title": "Outlaw Heist Comic Builder",
+    "primaryKeyword": "outlaw heist comic",
+    "h1": "Outlaw Heist Comic Builder - Train Robberies and Bank Jobs",
+    "description": "Plan and execute thrilling Wild West heists. Create comics about train robberies, bank jobs, and daring escapes.",
+    "intro": "## Plan the Ultimate Frontier Heist\n\n> **AI Snapshot**: The Outlaw Heist genre combines the setting of a Western with the plot structure of a heist movie. Use this builder to diagram train robberies and stagecoach hold-ups.\n\nFocus on the planning, execution, and inevitable betrayal of a Wild West heist. Utilize dynamic layouts to show the action unfolding across speeding trains or dusty bank vaults.",
+    "faqs": [
+      {
+        "question": "What makes a good Western heist comic?",
+        "answer": "A focus on the gang dynamics, the intricate planning of the robbery, and high-speed chases on horseback or trains."
+      }
+    ],
+    "updatedAt": "2026-10-07",
+    "tags": [
+      "Genre"
+    ]
   }
 ]
