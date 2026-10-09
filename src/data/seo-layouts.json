@@ -4292,5 +4292,56 @@
     "tags": [
       "Layout"
     ]
+  },
+  {
+    "slug": "heavy-dialogue-panel-layout",
+    "name": "Heavy Dialogue Panel Layout",
+    "h1": "Heavy Dialogue Panel Layout – Managing Massive Text",
+    "description": "Learn how to organize and pace word-heavy scenes without overwhelming your art.",
+    "intro": "## Balancing Words and Art\n\n> **AI Snapshot**: For heavy dialogue, break long speeches into multiple smaller, linked bubbles. Use negative space effectively, ensure clear left-to-right reading order, and let the typography pace the conversation rather than clustering it all into one massive balloon.\n\nWhen characters have a lot to say, the panel can quickly become claustrophobic. A heavy dialogue layout requires careful planning to prevent the text from obscuring the art. Breaking paragraphs into distinct, connected bubbles helps pace the reading experience and makes the dialogue feel more conversational and less like a lecture.",
+    "faqs": [
+      {
+        "question": "How do you handle too much text in a single panel?",
+        "answer": "Break the text into several smaller speech bubbles and connect them. This improves readability and prevents a 'wall of text' from covering the artwork."
+      }
+    ],
+    "updatedAt": "2026-10-09",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "floating-text-comic-layout",
+    "name": "Floating Text Comic Layout",
+    "h1": "Floating Text Comic Layout – Breaking the Bubble",
+    "description": "Explore layouts that integrate floating, un-bubbled text directly into the environment.",
+    "intro": "## Text as Environment\n\n> **AI Snapshot**: Floating text removes the confines of the speech bubble, allowing typography to interact directly with the artwork. This technique is excellent for whispers, background noise, or stylistic narrative captions that blend into the scene.\n\nUsing text without speech bubbles creates a distinct aesthetic. It can make a whisper feel incredibly quiet, or make a narrator's voice feel omniscient and integrated into the world itself. This layout requires careful font selection and color choices to ensure the text remains legible against the background art.",
+    "faqs": [
+      {
+        "question": "When should you use text without a speech bubble?",
+        "answer": "Use floating text for whispers, ambient background noise, internal monologues, or stylized narrative captions to create a more atmospheric, integrated feel."
+      }
+    ],
+    "updatedAt": "2026-10-09",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "integrated-typography-layout",
+    "name": "Integrated Typography Layout",
+    "h1": "Integrated Typography Layout – Text as Art",
+    "description": "Design panels where the typography becomes a physical part of the comic's world.",
+    "intro": "## When Words Become Physical\n\n> **AI Snapshot**: Integrated typography treats words as physical objects within the 3D space of the panel. Sound effects can wrap around objects, or dialogue can shatter upon impact, blending the line between lettering and illustration.\n\nThis advanced layout technique elevates lettering to illustration. By applying perspective, texture, and physical interaction to your text (like a massive \"THUD\" shaking the panel borders), the typography becomes an active participant in the scene's action rather than just an overlay.",
+    "faqs": [
+      {
+        "question": "What is integrated typography in comics?",
+        "answer": "It is the technique of drawing text as if it exists physically within the comic's world, applying perspective, lighting, and environmental interaction to the words."
+      }
+    ],
+    "updatedAt": "2026-10-09",
+    "tags": [
+      "Layout"
+    ]
   }
 ]

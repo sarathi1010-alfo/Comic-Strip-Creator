@@ -628,7 +628,18 @@ const assert = require('assert');
   "http://localhost:3000/layouts/giant-robot-scale-layout",
   "http://localhost:3000/layouts/mecha-transformation-sequence-layout",
   "http://localhost:3000/styles/gundam-inspired-comic-style",
+
+  "http://localhost:3000/blog/comic-lettering-fonts-guide",
+  "http://localhost:3000/genres/hand-lettered-comic-maker",
+  "http://localhost:3000/genres/digital-font-comic-creator",
+  "http://localhost:3000/genres/classic-superhero-lettering-generator",
+  "http://localhost:3000/genres/manga-style-lettering-builder",
+  "http://localhost:3000/layouts/heavy-dialogue-panel-layout",
+  "http://localhost:3000/layouts/floating-text-comic-layout",
+  "http://localhost:3000/layouts/integrated-typography-layout",
+  "http://localhost:3000/styles/custom-handwriting-comic-style",
 ];
+
   page.on('console', msg => {
     if (msg.type() === 'error') {
       console.error('Page Error: ' + msg.text());
