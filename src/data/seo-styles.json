@@ -2006,5 +2006,26 @@
     "tags": [
       "Style"
     ]
+  },
+  {
+    "slug": "neon-synthwave-comic-style",
+    "title": "Neon Synthwave Comic Style Guide",
+    "h1": "Neon Synthwave Comic Style Guide",
+    "description": "Create retro-futuristic comics with the neon synthwave style. Learn to use glowing pinks, cyan blues, and deep purples.",
+    "intro": "## Executive Summary\n    \nCreate retro-futuristic comics with the neon synthwave style. Learn to use glowing pinks, cyan blues, and deep purples.\n\n## The Retro-Futuristic Aesthetic\nSynthwave (or Outrun) is heavily inspired by 1980s pop culture, early video games, and cyberpunk aesthetics. It's characterized by dark, often nocturnal settings illuminated by stark, vibrant neon lights.\n\n## The Color Palette\nThe synthwave palette is highly specific. The dominant colors are deep, dark purples and blacks for the backgrounds, contrasted sharply with glowing hot pinks, cyan blues, and sometimes bright yellows or oranges for highlights. This high contrast is essential for the \"glowing\" effect.\n\n## Grids and Sunsets\nVisual motifs are a big part of the synthwave style. Wireframe grids (often fading into the horizon) and stylized, horizontally-striped sunsets are iconic elements. You can incorporate these elements to give your comic an immediate retro feel. Find suitable props in our [Assets Library](/assets). Remember that this striking visual style can also impact your [Visual Rhythm](/blog/mastering-visual-rhythm-comics-guide) by drawing the eye to the brightest spots on the page.",
+    "faqs": [
+      {
+        "question": "How do I make colors look like they are glowing?",
+        "answer": "Use a pure, bright color (like cyan or magenta) for the core of the light, and surround it with a softer, slightly darker 'halo' or airbrushed glow of the same color against a dark background."
+      },
+      {
+        "question": "Does a synthwave comic have to be set in the 1980s?",
+        "answer": "No! It can be a futuristic cyberpunk setting, a virtual reality world, or even a fantasy setting that simply adopts the neon aesthetic."
+      }
+    ],
+    "tags": [
+      "Style"
+    ],
+    "updatedAt": "2026-10-10T11:35:04.041Z"
   }
 ]
