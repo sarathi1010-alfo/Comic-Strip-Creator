@@ -4343,5 +4343,68 @@
     "tags": [
       "Layout"
     ]
+  },
+  {
+    "slug": "diagonal-action-panel-layout",
+    "title": "Diagonal Action Panel Layout Guide",
+    "h1": "Diagonal Action Panel Layout Guide",
+    "description": "Learn how to use diagonal panels to inject speed, chaos, and dynamic energy into your action comic sequences.",
+    "intro": "## Executive Summary\n    \nLearn how to use diagonal panels to inject speed, chaos, and dynamic energy into your action comic sequences.\n\n## Breaking the Grid\nStandard rectangular grids provide stability, but when you need to convey extreme speed, impact, or a world thrown out of balance, you need to break the grid. Diagonal panels—often called \"slanted\" or \"canted\" panels—immediately signal to the reader that things are moving fast or are out of control.\n\n## Guiding the Eye with Angles\nThe angles of your diagonal panels shouldn't be random. They should work together to lead the reader's eye swiftly down the page. Sharp, downward angles accelerate reading speed, perfect for a character falling or a fast-paced chase.\n\n## Combining with Speed Lines\nTo maximize the effect of a diagonal layout, combine it with strong internal composition. Use speed lines that run parallel to the panel borders to enhance the illusion of motion. For more on how layout affects pacing, read our [Mastering Visual Rhythm in Comics Guide](/blog/mastering-visual-rhythm-comics-guide). Experiment with these layouts on our [home page](/).",
+    "faqs": [
+      {
+        "question": "When should I use diagonal panels?",
+        "answer": "Use them sparingly for high-action moments, fast movement, explosions, or when a character experiences sudden disorientation or shock."
+      },
+      {
+        "question": "Can I use diagonal panels for dialogue?",
+        "answer": "Yes, but it can make the conversation feel tense, urgent, or frantic. It's generally not recommended for calm, everyday conversations."
+      }
+    ],
+    "tags": [
+      "Layout"
+    ],
+    "updatedAt": "2026-10-10T11:35:04.041Z"
+  },
+  {
+    "slug": "circular-focus-panel-layout",
+    "title": "Circular Focus Panel Layout Guide",
+    "h1": "Circular Focus Panel Layout Guide",
+    "description": "Discover how to use circular panels to create a spotlight effect, isolating characters and focusing on intense, intimate moments.",
+    "intro": "## Executive Summary\n    \nDiscover how to use circular panels to create a spotlight effect, isolating characters and focusing on intense, intimate moments.\n\n## The Spotlight Effect\nA circular or oval panel inherently draws the eye to its center. It acts like a spotlight on a stage, isolating whatever is inside it from the rest of the page. This makes it an incredibly powerful tool for focusing on a specific, important detail.\n\n## Intimacy and Emotion\nBecause circular panels isolate the subject, they are perfect for moments of intense intimacy or internal monologue. A circular close-up of a character's tearful eye or a clenched fist carries more weight than it would in a standard square panel.\n\n## Using the Negative Space\nWhen you use a circular panel, you create unique negative space around it. You can leave this space blank to further isolate the panel, or you can overlay the circular panel on top of a larger, full-page image (an inset panel) to show a detail within a larger scene. Explore different shapes in our [Assets Library](/assets).",
+    "faqs": [
+      {
+        "question": "How often should I use circular panels?",
+        "answer": "Very rarely. They are a highly stylized choice and lose their impact if used on every page. Save them for key emotional beats or specific focal points."
+      },
+      {
+        "question": "Can a circular panel contain a whole scene?",
+        "answer": "Usually, they are best for close-ups or single subjects. A complex scene with many characters can look cramped and confusing inside a circle."
+      }
+    ],
+    "tags": [
+      "Layout"
+    ],
+    "updatedAt": "2026-10-10T11:35:04.041Z"
+  },
+  {
+    "slug": "split-screen-dialogue-layout",
+    "title": "Split-Screen Dialogue Layout Guide",
+    "h1": "Split-Screen Dialogue Layout Guide",
+    "description": "Master the split-screen layout for phone calls, telepathy, and concurrent events to show multiple perspectives simultaneously.",
+    "intro": "## Executive Summary\n    \nMaster the split-screen layout for phone calls, telepathy, and concurrent events to show multiple perspectives simultaneously.\n\n## Showing Concurrent Action\nThe split-screen layout—often a page divided vertically down the middle—is the perfect way to show two things happening at the exact same time. This is most commonly used for characters talking on the phone in two different locations.\n\n## Contrast and Comparison\nA split-screen isn't just functional; it's thematic. By placing two characters side-by-side in separate spaces, you can highlight their differences or their similarities. You can contrast a character in a bright, safe room with one in a dark, dangerous alleyway.\n\n## Controlling the Reading Flow\nWhen designing a split-screen, you must carefully manage the speech bubbles to ensure the reader reads back and forth across the divide correctly, rather than reading all the way down one side first. For more on managing reading flow, consult our [Mastering Visual Rhythm in Comics Guide](/blog/mastering-visual-rhythm-comics-guide). Try building a split-screen on our [home page](/).",
+    "faqs": [
+      {
+        "question": "How do I ensure the reader reads a split-screen correctly?",
+        "answer": "Use speech bubbles that cross the dividing line, or place the bubbles in a staggered, descending zigzag pattern that forces the eye to bounce left and right."
+      },
+      {
+        "question": "Is split-screen only for phone calls?",
+        "answer": "No, it can be used for any concurrent action, such as two characters getting ready for a date in their respective homes, or a hero and villain preparing for battle."
+      }
+    ],
+    "tags": [
+      "Layout"
+    ],
+    "updatedAt": "2026-10-10T11:35:04.041Z"
   }
 ]
