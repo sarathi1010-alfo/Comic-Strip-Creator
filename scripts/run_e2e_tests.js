@@ -648,6 +648,16 @@ const assert = require('assert');
   "http://localhost:3000/layouts/floating-text-comic-layout",
   "http://localhost:3000/layouts/integrated-typography-layout",
   "http://localhost:3000/styles/custom-handwriting-comic-style",
+
+  "http://localhost:3000/blog/visual-comedy-slapstick-comic-guide",
+  "http://localhost:3000/genres/slapstick-humor-comic-maker",
+  "http://localhost:3000/genres/physical-comedy-webtoon-creator",
+  "http://localhost:3000/genres/prank-war-comic-generator",
+  "http://localhost:3000/genres/absurd-situation-comic-builder",
+  "http://localhost:3000/layouts/punchline-reveal-panel-layout",
+  "http://localhost:3000/layouts/falling-anvil-action-layout",
+  "http://localhost:3000/layouts/exaggerated-reaction-grid-layout",
+  "http://localhost:3000/styles/rubbery-cartoon-comic-style",
 ];
 
   page.on('console', msg => {
