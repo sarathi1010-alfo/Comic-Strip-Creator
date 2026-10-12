@@ -4481,5 +4481,65 @@
         "answer": "A grid forces the reader to absorb each reaction individually and rapidly, highlighting the contrasts and absurdity."
       }
     ]
+  },
+  {
+    "slug": "action-sequence-panel-layout",
+    "name": "Action Sequence Panel Layout",
+    "description": "A layout designed to maintain flow and momentum during fast-paced action scenes.",
+    "intro": "## Maintain Momentum: Action Sequence Panel Layout\n\n> **AI Snapshot**: An action sequence panel layout uses angled borders, overlapping panels, and a strong Z-pattern flow to direct the reader's eye rapidly across the page, simulating high-speed motion.\n\nWhen characters are moving fast, your page layout should reflect that speed. Standard, rigid grids can slow down the action. This layout utilizes angled panels (diagonals) to create a sense of instability and forward momentum. It is perfect for chases, rapid combat exchanges, and high-energy sports sequences. Build this layout easily on the [home page](/).\n\n### Directing the Eye\nThe primary goal of this layout is to lead the reader's eye effortlessly from one action beat to the next. The line of action in the art should point directly toward the next panel, creating a continuous flow of movement.\n\n### Speed and Rhythm\nUse a series of narrow, angled panels to depict rapid, successive actions (like a flurry of punches). This forces the reader to read quickly, mirroring the speed of the events unfolding.\n\n### Breaking the Grid\nDon't be afraid to let action elements break out of the panel borders. A fist punching through the edge of a panel adds a tremendous sense of impact and uncontained energy.",
+    "faqs": [
+      {
+        "question": "Why use angled panels for action?",
+        "answer": "Angled panels create a sense of instability and dynamism, breaking the rigid structure of a standard grid and implying fast, chaotic movement."
+      },
+      {
+        "question": "How do I keep an action sequence clear?",
+        "answer": "Ensure a strong, consistent reading flow (usually left-to-right, top-to-bottom) and use the line of action within the art to guide the reader to the next panel."
+      }
+    ],
+    "updatedAt": "2026-10-12",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "dynamic-splash-page-layout",
+    "name": "Dynamic Splash Page Layout",
+    "description": "A powerful, full-page layout designed for maximum impact and crucial reveals.",
+    "intro": "## Maximize Impact: Dynamic Splash Page Layout\n\n> **AI Snapshot**: A dynamic splash page layout dedicates an entire page (or a two-page spread) to a single, highly detailed, explosive image, maximizing visual impact for major narrative beats or dramatic entrances.\n\nThe splash page is the exclamation point of comic book storytelling. It is reserved for the most important moments: the hero's arrival, the massive explosion, or the villain's true form. Because it takes up an entire page, the composition must be flawless. You can experiment with massive scale using the [Assets Library](/assets).\n\n### The Center of Attention\nThe composition of a splash page must guide the viewer's eye to the most important element immediately. Use leading lines (like perspective lines or the direction of debris) to point directly at the focal point.\n\n### Scale and Grandeur\nSplash pages are perfect for establishing massive scale. Place small, recognizable elements in the foreground or background to emphasize the sheer size of a monster, a spaceship, or a city landscape.\n\n### Negative Space\nEven on a full page, negative space is crucial. Don't clutter every inch of the page. Allow the main subject to breathe by providing empty space around them, which paradoxically draws more attention to the subject.",
+    "faqs": [
+      {
+        "question": "When should I use a splash page?",
+        "answer": "Use splash pages sparingly for moments of maximum impact: character introductions, major plot reveals, or the climax of an action sequence."
+      },
+      {
+        "question": "How do I make a splash page effective?",
+        "answer": "Ensure a strong central composition, use leading lines to direct the eye, and establish a clear sense of scale."
+      }
+    ],
+    "updatedAt": "2026-10-12",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "kinetic-motion-layout",
+    "name": "Kinetic Motion Layout",
+    "description": "A layout that emphasizes raw speed and continuous movement across the page.",
+    "intro": "## Emphasize Speed: Kinetic Motion Layout\n\n> **AI Snapshot**: The kinetic motion layout utilizes long, horizontal or vertical panels, extensive speed lines, and character afterimages to convey intense speed and continuous movement in a single direction.\n\nWhen a character is moving faster than the eye can follow, a traditional panel won't suffice. The kinetic motion layout is designed to stretch the action across the page, emphasizing distance and velocity. This is ideal for speedsters, racing vehicles, or objects in freefall. Create these high-speed sequences using our tools on the [home page](/).\n\n### The Widescreen Effect\nUse long, horizontal panels spanning the entire width of the page to show a character running. The width of the panel visually represents the distance covered, enhancing the feeling of speed.\n\n### Motion Blur and Afterimages\nInstead of drawing the character sharply, use motion blur or draw multiple, faded versions of the character trailing behind them. This visually represents the passage of time and the character's rapid displacement.\n\n### Environmental Streaks\nTo emphasize speed, the background should blur into streaks of color or speed lines. This isolates the character and makes it clear that they are the object in motion relative to a static environment.",
+    "faqs": [
+      {
+        "question": "How do I show a character moving incredibly fast?",
+        "answer": "Use long panels to show distance, apply motion blur or afterimages to the character, and turn the background into speed lines."
+      },
+      {
+        "question": "What is the purpose of a widescreen panel?",
+        "answer": "A widescreen panel emphasizes horizontal movement and panoramic environments, making it excellent for chases and establishing shots."
+      }
+    ],
+    "updatedAt": "2026-10-12",
+    "tags": [
+      "Layout"
+    ]
   }
 ]

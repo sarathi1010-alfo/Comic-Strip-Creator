@@ -2052,5 +2052,45 @@
         "answer": "Focus on curved lines, avoid rigid angles, and exaggerate proportions and reactions heavily."
       }
     ]
+  },
+  {
+    "slug": "kinetic-action-comic-style",
+    "name": "Kinetic Action Comic Style",
+    "description": "A style defined by high contrast, aggressive inking, and an abundance of motion lines.",
+    "intro": "## Raw Energy: Kinetic Action Comic Style\n\n> **AI Snapshot**: The kinetic action comic style prioritizes energy over realism, utilizing aggressive, jagged inking, stark black-and-white contrast, and overwhelming speed lines to convey raw power and velocity.\n\nThis style is all about capturing the visceral feeling of action. It sacrifices clean, precise linework for raw, scratchy energy. It is often seen in high-intensity manga or gritty western action comics. The goal is to make the page feel loud and fast. You can achieve this look using the specific inking tools available in the [Assets Library](/assets).\n\n### Aggressive Inking\nThe lines should not be smooth. Use jagged, heavily weighted lines, especially on the edges of characters and weapons, to give them a sense of weight and brutal force.\n\n### High Contrast\nUtilize heavy blacks (chiaroscuro) to create dramatic lighting. The stark contrast between pure black and pure white (or bright colors) makes the action pop off the page and adds to the gritty atmosphere.\n\n### The Speed Line Symphony\nSpeed lines are not just for backgrounds; they can cut across characters, emanate from impact points, and even replace panel borders. They are the primary visual language of this style, communicating direction and intensity.",
+    "faqs": [
+      {
+        "question": "What makes an action style 'kinetic'?",
+        "answer": "A kinetic style emphasizes the feeling of movement and energy through rough, aggressive linework and an over-reliance on motion blur and speed lines."
+      },
+      {
+        "question": "Why use high contrast in action scenes?",
+        "answer": "High contrast creates drama, makes characters pop against the background, and visually represents the intensity of a high-stakes battle."
+      }
+    ],
+    "updatedAt": "2026-10-12",
+    "tags": [
+      "Style"
+    ]
+  },
+  {
+    "slug": "dynamic-pose-comic-style",
+    "name": "Dynamic Pose Comic Style",
+    "description": "A style focused on exaggerated anatomy, foreshortening, and striking character silhouettes.",
+    "intro": "## Striking Silhouettes: Dynamic Pose Comic Style\n\n> **AI Snapshot**: The dynamic pose comic style focuses on hyper-exaggerated anatomy, extreme foreshortening, and instantly recognizable silhouettes to create characters that look powerful and in constant motion.\n\nThis style is quintessential superhero art. It is less concerned with literal realism and more concerned with heroic idealization. Characters are drawn with impossible musculature, their bodies contorted into poses that maximize dramatic impact. It's about making every action look epic. Start crafting these epic poses on the [home page](/).\n\n### Exaggerated Proportions\nIn this style, hands and feet in the foreground are drawn massive to emphasize foreshortening. Chests are broad, waists are narrow, and limbs are elongated to enhance the line of action and make the characters appear larger than life.\n\n### The Strong Silhouette\nEvery pose must read clearly as a silhouette. The character's limbs should be distinct from their torso, ensuring the action is immediately understandable even before details are added.\n\n### The Heroic Angle\nCamera placement is crucial. This style relies heavily on low-angle (worm's-eye) shots to make characters look imposing and high-angle (bird's-eye) shots to emphasize vulnerability or scale.",
+    "faqs": [
+      {
+        "question": "Why is silhouette important in character posing?",
+        "answer": "A strong silhouette ensures the pose is immediately readable and understandable, which is crucial for conveying action quickly in a static image."
+      },
+      {
+        "question": "How do you achieve a dynamic pose style?",
+        "answer": "Focus on extreme foreshortening, push the line of action into 'S' or 'C' curves, and exaggerate the character's anatomy for dramatic effect."
+      }
+    ],
+    "updatedAt": "2026-10-12",
+    "tags": [
+      "Style"
+    ]
   }
 ]
