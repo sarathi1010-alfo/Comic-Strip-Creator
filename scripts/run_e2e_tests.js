@@ -4,6 +4,15 @@ const assert = require('assert');
   const browser = await chromium.launch({ headless: true });
   const page = await browser.newPage();
     const urlsToTest = [
+  'http://localhost:3000/blog/mastering-dynamic-action-poses-guide',
+  'http://localhost:3000/genres/superhero-brawl-comic',
+  'http://localhost:3000/genres/martial-arts-tournament-comic',
+  'http://localhost:3000/genres/sports-action-comic',
+  'http://localhost:3000/layouts/action-sequence-panel-layout',
+  'http://localhost:3000/layouts/dynamic-splash-page-layout',
+  'http://localhost:3000/layouts/kinetic-motion-layout',
+  'http://localhost:3000/styles/kinetic-action-comic-style',
+  'http://localhost:3000/styles/dynamic-pose-comic-style',
     'http://localhost:3000/blog/wild-west-comic-creation-guide',
     'http://localhost:3000/genres/spaghetti-western-comic-maker',
     'http://localhost:3000/genres/weird-west-comic-creator',

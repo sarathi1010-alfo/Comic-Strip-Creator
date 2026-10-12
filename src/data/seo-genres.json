@@ -5768,5 +5768,65 @@
         "answer": "Use props and backgrounds to establish impossible rules, like floating objects or completely out-of-place elements."
       }
     ]
+  },
+  {
+    "slug": "superhero-brawl-comic",
+    "name": "Superhero Brawl Comic",
+    "description": "Create high-impact superhero brawls with powerful poses and explosive action sequences.",
+    "intro": "## Unleash the Power with a Superhero Brawl Comic\n\n> **AI Snapshot**: A superhero brawl comic requires mastering dynamic action poses, extreme foreshortening, and visual impacts (like speed lines and debris) to convey the immense power and kinetic energy of superhuman combatants.\n\nSuperhero brawls are the climax of the genre. To make these fights feel genuinely superhuman, you cannot rely on standard anatomy. You must exaggerate every movement. When a character punches, their entire body must be thrown into the strike. Utilize the [Assets Library](/assets) to find dynamic poses and impact effects to heighten the drama.\n\n### Exaggerated Anatomy\nIn a brawl, muscles strain and bodies contort. Push the 'squash and stretch' principle to its absolute limit. A hero lifting a car should look like they are defying gravity, not just casually holding a heavy object. \n\n### Environmental Destruction\nSuperhumans rarely fight without breaking things. Show the impact of their blows on the environment. Shattered concrete, twisted metal, and craters emphasize the force of the combatants. \n\n### The Clashing Ideologies\nRemember, a great superhero brawl is a physical manifestation of an ideological conflict. Ensure that the characters' fighting styles reflect their personalities and beliefs, making the action narrative-driven as well as visually spectacular.",
+    "faqs": [
+      {
+        "question": "How do I make a punch look powerful?",
+        "answer": "Use extreme foreshortening to draw the fist larger, add impact bursts at the point of contact, and show the recipient's body distorting from the force."
+      },
+      {
+        "question": "What is the best way to show speed in a comic?",
+        "answer": "Utilize motion blur, multiple overlapping outlines of the character (afterimages), and speed lines converging on the character to indicate rapid movement."
+      }
+    ],
+    "updatedAt": "2026-10-12",
+    "tags": [
+      "Genre"
+    ]
+  },
+  {
+    "slug": "martial-arts-tournament-comic",
+    "name": "Martial Arts Tournament Comic",
+    "description": "Choreograph intricate martial arts duels with precise poses and fluid motion.",
+    "intro": "## Choreograph the Perfect Fight: Martial Arts Tournament Comic\n\n> **AI Snapshot**: Martial arts tournament comics demand a focus on precise anatomy, clear lines of action, and fluid transitions between panels to accurately depict complex choreography and the technical skill of the fighters.\n\nUnlike the raw power of superhero brawls, martial arts comics require precision. The reader must understand the flow of the fight, how one block leads to a counter-attack. This requires a strong grasp of the line of action and maintaining visual clarity across multiple panels. You can build these intricate sequences using the tools available on our [home page](/).\n\n### Technical Precision\nFocus on the mechanics of the fight. Show the specific footwork, the exact angle of a block, and the leverage used in a throw. The realism (even if stylized) grounds the action.\n\n### Rhythm and Pacing\nA martial arts duel has a rhythm. Fast flurries of attacks followed by moments of tense observation. Use your panel layout to control this rhythm, speeding up the reader with small, quick panels and slowing them down with larger, detailed shots.\n\n### The Emotional Core\nEvery tournament fight is a test of character. Show the fatigue, the determination, and the strategy in the fighters' expressions. The physical battle is a reflection of their internal struggle.",
+    "faqs": [
+      {
+        "question": "How do I show continuous motion across panels?",
+        "answer": "Maintain a consistent line of action from one panel to the next, and ensure the character's momentum carries over seamlessly between the two shots."
+      },
+      {
+        "question": "What makes a good martial arts comic?",
+        "answer": "Clear choreography where the reader can follow the logic of the fight, combined with strong emotional stakes for the combatants."
+      }
+    ],
+    "updatedAt": "2026-10-12",
+    "tags": [
+      "Genre"
+    ]
+  },
+  {
+    "slug": "sports-action-comic",
+    "name": "Sports Action Comic",
+    "description": "Capture the thrill of victory and the kinetic energy of athletic competition.",
+    "intro": "## Capture the Thrill: Sports Action Comic\n\n> **AI Snapshot**: Sports action comics focus on capturing peak athletic performance, emphasizing the tension of the game through dynamic poses, close-ups on expressions of effort, and dramatic framing of crucial plays.\n\nSports comics (often popularized by the 'Spokon' manga genre) are about passion, teamwork, and pushing past physical limits. The action here isn't about violence; it's about athletic exertion. Capturing the split-second tension of a deciding goal or the final sprint requires a mastery of dynamic poses. Utilize the [Assets Library](/assets) to find dynamic athletic poses to build your scenes.\n\n### Peak Exertion\nShow the physical toll of the game. Sweat, strained muscles, and intense focus are vital. A character spiking a volleyball should have their body fully extended, resembling a drawn bow ready to snap.\n\n### The Crucial Moment\nIsolate the most important actions. Use large panels or splash pages to highlight the decisive pitch, the game-winning shot, or the photo finish. Freeze these moments in time for maximum dramatic effect.\n\n### Team Dynamics\nSports are rarely solitary. Use your framing to show the interactions between teammates, the rivalry with opponents, and the reactions of the crowd, building a comprehensive atmosphere of competition.",
+    "faqs": [
+      {
+        "question": "How do I make a sports scene look dramatic?",
+        "answer": "Use extreme camera angles, emphasize the physical exertion of the athletes, and slow down the pacing right before a crucial play."
+      },
+      {
+        "question": "What is the focus of a sports action comic?",
+        "answer": "The focus is on the emotional journey of the athletes, the tension of the competition, and the physical mastery required to succeed."
+      }
+    ],
+    "updatedAt": "2026-10-12",
+    "tags": [
+      "Genre"
+    ]
   }
 ]
