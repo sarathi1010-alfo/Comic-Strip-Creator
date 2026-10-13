@@ -667,6 +667,15 @@ const assert = require('assert');
   "http://localhost:3000/layouts/falling-anvil-action-layout",
   "http://localhost:3000/layouts/exaggerated-reaction-grid-layout",
   "http://localhost:3000/styles/rubbery-cartoon-comic-style",
+  'http://localhost:3000/blog/graphic-novel-creation-online-guide',
+  'http://localhost:3000/genres/noir-graphic-novel-maker',
+  'http://localhost:3000/genres/cyberpunk-graphic-novel-creator',
+  'http://localhost:3000/genres/romance-manga-novel-generator',
+  'http://localhost:3000/genres/high-fantasy-novel-builder',
+  'http://localhost:3000/layouts/graphic-novel-chapter-layout',
+  'http://localhost:3000/layouts/double-page-spread-novel-layout',
+  'http://localhost:3000/styles/watercolor-graphic-novel-style',
+  'http://localhost:3000/styles/noir-ink-novel-style'
 ];
 
   page.on('console', msg => {
