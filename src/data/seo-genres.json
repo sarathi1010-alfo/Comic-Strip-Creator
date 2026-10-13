@@ -5828,5 +5828,69 @@
     "tags": [
       "Genre"
     ]
+  },
+  {
+    "slug": "noir-graphic-novel-maker",
+    "name": "Noir Graphic Novel Maker",
+    "description": "Create gritty, suspenseful crime stories with the noir graphic novel maker.",
+    "intro": "## Dive into the Underworld with the Noir Graphic Novel Maker\n\n> **AI Snapshot**: A noir graphic novel maker focuses on high-contrast black-and-white aesthetics, urban environments, and hardboiled characters, allowing creators to weave complex tales of crime and moral ambiguity.\n\nThe noir genre is defined by its shadows, both literal and metaphorical. It's a world of cynical detectives, femme fatales, and corrupt officials. The noir graphic novel maker provides the specialized tools to capture this specific, moody atmosphere.\n\n### High-Contrast Aesthetics\nNoir is inseparable from its visual style: chiaroscuro lighting, heavy blacks, and stark contrasts. The maker includes specific filters and asset variations that emphasize this harsh lighting, instantly giving your panels a gritty, cinematic feel. Learn more about manipulating these elements in our [Comic Shading and Lighting Techniques](/blog/comic-shading-lighting-guide).\n\n### The Urban Labyrinth\nA true noir story needs a labyrinthine city setting. The assets provide a range of urban backdrops—rain-slicked streets, smoky jazz clubs, and claustrophobic interrogation rooms—essential for grounding your narrative in a believable, dangerous world.",
+    "faqs": [
+      {
+        "question": "What makes a graphic novel 'noir'?",
+        "answer": "Noir is characterized by a cynical, fatalistic tone, morally ambiguous protagonists, and a visual style heavily reliant on high-contrast lighting and shadows."
+      }
+    ],
+    "updatedAt": "2026-10-13",
+    "tags": [
+      "Genre"
+    ]
+  },
+  {
+    "slug": "cyberpunk-graphic-novel-creator",
+    "name": "Cyberpunk Graphic Novel Creator",
+    "description": "Design dystopian futures and neon-lit cities with the cyberpunk graphic novel creator.",
+    "intro": "## Jack into the Future with a Cyberpunk Graphic Novel Creator\n\n> **AI Snapshot**: The cyberpunk graphic novel creator specializes in high-tech, low-life aesthetics. It offers neon palettes, futuristic cityscapes, and cybernetically enhanced character assets to build immersive dystopian worlds.\n\nCyberpunk explores the intersection of advanced technology and societal decay. Creating a compelling cyberpunk graphic novel requires a distinct visual language—neon cutting through smog, towering arcologies, and characters modified by chrome. This creator provides the exact elements needed to bring these visions to life.\n\n### Neon and Chrome\nThe visual signature of cyberpunk is the stark contrast between the bright, artificial neon lights and the grimy, polluted streets below. The maker includes specialized color palettes and glowing effects to easily replicate this iconic look. \n\n### High-Tech Character Design\nCharacters in cyberpunk are often defined by their technological modifications. The creator offers a vast array of cybernetic limbs, neural interfaces, and futuristic clothing options, allowing you to design unique, fully realized denizens of your dystopian future. Explore more about character design in our [Character Design for Comics](/blog/character-design-for-comics) guide.",
+    "faqs": [
+      {
+        "question": "What are the core themes of a cyberpunk graphic novel?",
+        "answer": "Core themes usually include the impact of advanced technology on humanity, corporate control, rebellion against authoritarian systems, and the struggle to maintain humanity in a synthetic world."
+      }
+    ],
+    "updatedAt": "2026-10-13",
+    "tags": [
+      "Genre"
+    ]
+  },
+  {
+    "slug": "romance-manga-novel-generator",
+    "name": "Romance Manga Novel Generator",
+    "description": "Craft emotional love stories with the romance manga novel generator.",
+    "intro": "## Capture Hearts with the Romance Manga Novel Generator\n\n> **AI Snapshot**: A romance manga novel generator focuses on expressive characters, soft lighting, and emotional pacing, providing the necessary assets to tell touching and relatable love stories.\n\nRomance manga is a globally beloved genre that relies heavily on character interaction, emotional nuance, and beautiful, expressive art. The romance manga novel generator is tailored to help you capture those delicate moments and sweeping declarations of love.\n\n### Expressive Emotion\nIn romance, the subtle shift of an eye or the blush on a cheek can speak louder than dialogue. This generator includes a wide range of nuanced facial expressions and body language assets, allowing you to convey complex emotional states with ease. Perfect your character acting with our [Character Expressions Guide](/blog/character-expressions-guide).\n\n### Setting the Mood\nThe environment in a romance manga often reflects the characters' internal states. The maker provides tools for soft lighting, delicate screentones, and atmospheric backgrounds (like a sunset or a cherry blossom-lined street) to establish the perfect romantic mood.",
+    "faqs": [
+      {
+        "question": "How do you pace a romance graphic novel?",
+        "answer": "Pacing in romance involves balancing slow, quiet moments of connection with dramatic turning points, allowing the relationship to develop naturally over time."
+      }
+    ],
+    "updatedAt": "2026-10-13",
+    "tags": [
+      "Genre"
+    ]
+  },
+  {
+    "slug": "high-fantasy-novel-builder",
+    "name": "High Fantasy Novel Builder",
+    "description": "Construct epic worlds and magical adventures with the high fantasy novel builder.",
+    "intro": "## Forge Epic Tales with the High Fantasy Novel Builder\n\n> **AI Snapshot**: The high fantasy novel builder provides a vast array of medieval architecture, magical effects, and mythical creature assets, enabling creators to construct sprawling, immersive fantasy worlds.\n\nHigh fantasy requires expansive worldbuilding. It's a genre of grand quests, powerful magic, and ancient lore. The high fantasy novel builder gives you the monumental scale and specific assets necessary to realize these epic visions.\n\n### Building the Kingdom\nYour world needs history and scale. The builder includes assets for towering castles, enchanted forests, and sprawling landscapes. You can easily construct the diverse environments that your heroes will traverse on their quest. For deeper insights into crafting these environments, see our [Comic World Building Guide](/blog/comic-world-building-guide).\n\n### Magic and Myth\nMagic is a visual spectacle in graphic novels. The maker provides dynamic tools for rendering spells, glowing runes, and mystical auras, ensuring that the magical elements of your story feel powerful and visually distinct.",
+    "faqs": [
+      {
+        "question": "What is the difference between high fantasy and low fantasy?",
+        "answer": "High fantasy typically takes place in an entirely fictional, secondary world with its own rules and prevalent magic, whereas low fantasy is set in the real world with magical elements intruding."
+      }
+    ],
+    "updatedAt": "2026-10-13",
+    "tags": [
+      "Genre"
+    ]
   }
 ]
