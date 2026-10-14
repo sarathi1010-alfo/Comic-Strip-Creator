@@ -675,7 +675,16 @@ const assert = require('assert');
   'http://localhost:3000/layouts/graphic-novel-chapter-layout',
   'http://localhost:3000/layouts/double-page-spread-novel-layout',
   'http://localhost:3000/styles/watercolor-graphic-novel-style',
-  'http://localhost:3000/styles/noir-ink-novel-style'
+  'http://localhost:3000/styles/noir-ink-novel-style',
+  'http://localhost:3000/blog/comic-environmental-storytelling-guide',
+  'http://localhost:3000/genres/cozy-slice-of-life-comic-maker',
+  'http://localhost:3000/genres/post-apocalyptic-ruins-comic-creator',
+  'http://localhost:3000/genres/gothic-castle-horror-comic-generator',
+  'http://localhost:3000/genres/cyberpunk-slum-comic-builder',
+  'http://localhost:3000/layouts/establishing-shot-panorama-layout',
+  'http://localhost:3000/layouts/environmental-focus-grid-layout',
+  'http://localhost:3000/layouts/layered-depth-panel-layout',
+  'http://localhost:3000/styles/hyper-detailed-background-comic-style',
 ];
 
   page.on('console', msg => {

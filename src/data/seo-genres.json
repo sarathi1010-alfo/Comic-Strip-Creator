@@ -5892,5 +5892,85 @@
     "tags": [
       "Genre"
     ]
+  },
+  {
+    "slug": "cozy-slice-of-life-comic-maker",
+    "name": "Cozy Slice of Life Comic Maker",
+    "description": "Create heartwarming, detailed environments for your cozy slice-of-life stories.",
+    "intro": "## Designing Comforting Spaces\n\n> **AI Snapshot**: The cozy slice-of-life comic maker focuses heavily on environmental storytelling, providing detailed, warm assets like cluttered bookshelves, steaming mugs, and soft lighting to create a welcoming, lived-in atmosphere.\n\nIn a cozy slice-of-life comic, the environment is often the star of the show. The goal is to evoke a feeling of comfort, warmth, and nostalgia. This requires meticulous attention to environmental storytelling. The spaces your characters inhabit should feel lived-in and deeply personal. \n\nOur cozy slice-of-life comic maker is stocked with assets designed specifically for this purpose. You'll find everything from overgrown houseplants and mismatched teacups to soft, textured lighting options. Use these elements to build spaces that tell the reader exactly who lives there and what they value. For more on creating these rich backgrounds, explore our [environmental storytelling guide](/blog/comic-environmental-storytelling-guide).",
+    "faqs": [
+      {
+        "question": "What makes a comic 'cozy'?",
+        "answer": "Cozy comics prioritize atmosphere, low stakes, and comforting, detailed environments over high-action plots."
+      },
+      {
+        "question": "How do I make a room look lived-in?",
+        "answer": "Add clutter that tells a story: half-read books, slightly messy desks, or personal items that reflect the character's hobbies."
+      }
+    ],
+    "updatedAt": "2026-10-14",
+    "tags": [
+      "Genre"
+    ]
+  },
+  {
+    "slug": "post-apocalyptic-ruins-comic-creator",
+    "name": "Post-Apocalyptic Ruins Comic Creator",
+    "description": "Build devastatingly detailed ruined environments that tell the story of a fallen world.",
+    "intro": "## Storytelling in the Rubble\n\n> **AI Snapshot**: The post-apocalyptic ruins comic creator utilizes environmental storytelling to convey history through destruction. By layering dilapidated buildings, rusted vehicles, and overgrown nature, creators can show the reader exactly how the world ended.\n\nIn a post-apocalyptic setting, the environment must communicate the history of the disaster. The way a city is ruined tells the reader what happened—was it a sudden explosion, a slow decay, or a gradual reclamation by nature? The post-apocalyptic ruins comic creator provides the tools to build these complex, layered environments.\n\nEnvironmental storytelling is crucial here. A rusted sign for a luxury hotel juxtaposed with a makeshift survivor camp tells a poignant story of lost civilization. Focus on the details: cracked asphalt, shattered glass, and scavenged materials. Learn more about embedding history in your backgrounds with our [environmental storytelling guide](/blog/comic-environmental-storytelling-guide).",
+    "faqs": [
+      {
+        "question": "How do you show history in a ruined environment?",
+        "answer": "Contrast the past purpose of a building or object with its current, scavenged or destroyed state."
+      },
+      {
+        "question": "What are key elements of post-apocalyptic backgrounds?",
+        "answer": "Dilapidation, rust, overgrowth, and makeshift structures built from the remnants of the old world."
+      }
+    ],
+    "updatedAt": "2026-10-14",
+    "tags": [
+      "Genre"
+    ]
+  },
+  {
+    "slug": "gothic-castle-horror-comic-generator",
+    "name": "Gothic Castle Horror Comic Generator",
+    "description": "Craft oppressive, atmospheric gothic environments that drip with dread and history.",
+    "intro": "## Architecture as Antagonist\n\n> **AI Snapshot**: The gothic castle horror comic generator uses oppressive architecture, deep shadows, and unsettling environmental details to build tension and characterize the setting as a malevolent force in itself.\n\nGothic horror relies heavily on the setting to generate fear. The environment is often characterized as an antagonist—an oppressive, sprawling castle or manor that isolates the characters. Environmental storytelling in this genre is about building atmosphere and hinting at dark secrets.\n\nThe generator provides assets like towering arches, decaying tapestries, and oppressive gargoyles. Use harsh lighting and deep shadows to obscure details, forcing the reader's imagination to fill in the terrifying blanks. Every cracked stone and flickering candle should contribute to the mood. Discover how to maximize atmosphere in our [environmental storytelling guide](/blog/comic-environmental-storytelling-guide).",
+    "faqs": [
+      {
+        "question": "Why is architecture important in gothic horror?",
+        "answer": "Gothic architecture often feels grand but decaying, symbolizing a corrupted or fallen legacy, which adds to the psychological dread."
+      },
+      {
+        "question": "How can environment build suspense?",
+        "answer": "By using deep shadows, confusing layouts, and isolated settings, the environment can make the characters feel trapped and vulnerable."
+      }
+    ],
+    "updatedAt": "2026-10-14",
+    "tags": [
+      "Genre"
+    ]
+  },
+  {
+    "slug": "cyberpunk-slum-comic-builder",
+    "name": "Cyberpunk Slum Comic Builder",
+    "description": "Design dense, neon-lit cyberpunk slums that communicate societal inequality visually.",
+    "intro": "## High Tech, Low Life\n\n> **AI Snapshot**: The cyberpunk slum comic builder relies on environmental storytelling to contrast advanced technology with extreme poverty, using dense vertical layouts, neon advertisements, and pervasive grime to build a dystopian world.\n\nThe core of the cyberpunk aesthetic is \"high tech, low life.\" The environment must instantly communicate extreme wealth inequality. A cyberpunk slum comic builder provides the assets to create this contrast visually: gleaming holographic advertisements casting neon light onto muddy, garbage-filled streets.\n\nEnvironmental storytelling here is about density and desperation. Characters should feel squeezed by the architecture, living in stacked, claustrophobic units. Show, don't tell, the oppressive nature of the mega-corporations through the pervasive branding that covers every surface of the slums. For a deeper dive into worldbuilding through details, read our [environmental storytelling guide](/blog/comic-environmental-storytelling-guide).",
+    "faqs": [
+      {
+        "question": "What is the core visual theme of a cyberpunk slum?",
+        "answer": "The stark contrast between highly advanced, often brightly colored technology (like holograms) and extreme poverty and decay."
+      },
+      {
+        "question": "How do you show inequality through environment?",
+        "answer": "By placing pristine, towering structures belonging to the wealthy in the distant background, while the foreground is crowded, dirty, and makeshift."
+      }
+    ],
+    "updatedAt": "2026-10-14",
+    "tags": [
+      "Genre"
+    ]
   }
 ]
