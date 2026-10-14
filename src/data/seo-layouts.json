@@ -4573,5 +4573,65 @@
     "tags": [
       "Layout"
     ]
+  },
+  {
+    "slug": "establishing-shot-panorama-layout",
+    "name": "Establishing Shot Panorama Layout",
+    "description": "A layout featuring a massive panoramic panel to introduce new environments and set the scene.",
+    "intro": "## Grounding the Reader\n\n> **AI Snapshot**: The establishing shot panorama layout dedicates the top half or entire first page to a wide, detailed shot of the environment, essential for grounding the reader in a new location and providing crucial context.\n\nWhenever you introduce a new location, the reader needs to understand the geography and atmosphere before the action begins. The establishing shot panorama layout is designed for this exact purpose. It gives the artist a massive canvas to utilize environmental storytelling, showing the scale, mood, and essential details of the setting.\n\nBy taking the time to detail a wide panorama, you can plant visual clues that will become important later in the scene. A well-executed establishing shot eliminates the need for expositional text boxes describing the location. Master this technique by reading our [environmental storytelling guide](/blog/comic-environmental-storytelling-guide).",
+    "faqs": [
+      {
+        "question": "What is an establishing shot?",
+        "answer": "It is a wide panel that shows the entire environment and the characters' location within it, usually used at the beginning of a scene."
+      },
+      {
+        "question": "Why use a panorama for an establishing shot?",
+        "answer": "It allows for maximum detail and scale, instantly immersing the reader in the world and providing necessary context."
+      }
+    ],
+    "updatedAt": "2026-10-14",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "environmental-focus-grid-layout",
+    "name": "Environmental Focus Grid Layout",
+    "description": "A dense grid layout designed to showcase small, specific details of a room or environment.",
+    "intro": "## The Devil is in the Details\n\n> **AI Snapshot**: The environmental focus grid layout utilizes multiple small, tight panels to focus on specific props, textures, and details within a space, slowly building a picture of the environment and the character who lives there.\n\nSometimes, the best way to describe an environment isn't with a wide establishing shot, but with a montage of intimate details. The environmental focus grid layout allows you to act as a camera, panning across a room and highlighting specific clues. \n\nThis layout is a masterclass in environmental storytelling. You might show a close-up of a framed photo turned face down, an overflowing ashtray, and a ticking clock. These small panels build a powerful mood and reveal character history without showing the character themselves. Learn how to select the right details in our [environmental storytelling guide](/blog/comic-environmental-storytelling-guide).",
+    "faqs": [
+      {
+        "question": "How does a detail grid tell a story?",
+        "answer": "By focusing on specific props and textures, the artist can imply actions, history, or character traits through visual clues rather than exposition."
+      },
+      {
+        "question": "When should I use this layout?",
+        "answer": "It's perfect for investigative scenes, building suspense, or introducing a character by showing their personal space before revealing their face."
+      }
+    ],
+    "updatedAt": "2026-10-14",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "layered-depth-panel-layout",
+    "name": "Layered Depth Panel Layout",
+    "description": "A layout structured to encourage deep backgrounds, utilizing foreground, midground, and background effectively.",
+    "intro": "## Creating 3D Space on a 2D Page\n\n> **AI Snapshot**: The layered depth panel layout is designed with deep perspective in mind, encouraging the artist to place narrative elements in the foreground, midground, and background to create a rich, immersive world.\n\nComics can easily feel flat if the environment isn't handled correctly. The layered depth panel layout encourages the artist to think in three dimensions. By establishing a clear foreground (often in silhouette), midground (where the main action usually occurs), and background, you create a sense of deep space.\n\nThis depth is crucial for advanced environmental storytelling. It allows you to place subtle clues or foreshadowing in the background while the main dialogue happens in the midground, rewarding observant readers. Dive deeper into creating immersive spaces with our [environmental storytelling guide](/blog/comic-environmental-storytelling-guide).",
+    "faqs": [
+      {
+        "question": "What is the benefit of foreground elements?",
+        "answer": "Foreground elements create a sense of scale and depth, making the reader feel like they are looking *into* the scene rather than just at a flat drawing."
+      },
+      {
+        "question": "How can background depth aid storytelling?",
+        "answer": "It allows the artist to include secondary actions, worldbuilding details, or foreshadowing without distracting from the main focus of the panel."
+      }
+    ],
+    "updatedAt": "2026-10-14",
+    "tags": [
+      "Layout"
+    ]
   }
 ]
