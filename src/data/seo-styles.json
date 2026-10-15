@@ -2144,5 +2144,21 @@
     "tags": [
       "Style"
     ]
+  },
+  {
+    "slug": "creature-concept-art-style",
+    "name": "Creature Concept Art Style – Detailed Biological Focus",
+    "description": "A highly detailed, rendering-heavy style that focuses on the texture, anatomy, and biological realism of non-human characters.",
+    "intro": "## Biological Realism\n\n> **AI Snapshot**: The creature concept art style borrows techniques from video game and film production, utilizing heavy rendering, textured brushes, and anatomical detail to make monsters and aliens look hyper-realistic.\n\nFor creators who want their aliens and monsters to feel viscerally real, the creature concept art style is the perfect choice. This style eschews simple linework in favor of detailed rendering, focusing heavily on textures like scales, fur, slime, and pitted metal.\n\nThis approach grounds the fantastical in reality. By paying close attention to muscle structure and biological plausibility, you make the unbelievable seem possible. It is a time-consuming style but results in incredibly striking visuals. Learn more about designing believable anatomy in our [non-human character design guide](/blog/non-human-character-design-guide).",
+    "updatedAt": "2026-10-15T11:45:17.865Z",
+    "tags": [
+      "Style"
+    ],
+    "faqs": [
+      {
+        "question": "Does my monster need to be biologically accurate?",
+        "answer": "While it doesn't need to be perfectly scientific, basing your creature's anatomy on real-world animals (e.g., using a dog's leg structure for a werewolf) makes it feel much more believable."
+      }
+    ]
   }
 ]

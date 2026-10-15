@@ -4,6 +4,15 @@ const assert = require('assert');
   const browser = await chromium.launch({ headless: true });
   const page = await browser.newPage();
     const urlsToTest = [
+  'http://localhost:3000/blog/non-human-character-design-guide',
+  'http://localhost:3000/genres/alien-species-comic-maker',
+  'http://localhost:3000/genres/monster-taming-comic-creator',
+  'http://localhost:3000/genres/talking-animal-comic-generator',
+  'http://localhost:3000/genres/robot-protagonist-comic-builder',
+  'http://localhost:3000/layouts/scale-comparison-panel-layout',
+  'http://localhost:3000/layouts/non-humanoid-action-layout',
+  'http://localhost:3000/layouts/creature-feature-splash-page',
+  'http://localhost:3000/styles/creature-concept-art-style',
   'http://localhost:3000/blog/mastering-dynamic-action-poses-guide',
   'http://localhost:3000/genres/superhero-brawl-comic',
   'http://localhost:3000/genres/martial-arts-tournament-comic',
