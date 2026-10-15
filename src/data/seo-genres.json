@@ -5972,5 +5972,69 @@
     "tags": [
       "Genre"
     ]
+  },
+  {
+    "slug": "alien-species-comic-maker",
+    "name": "Alien Species Comic Maker – Design Extraterrestrial Worlds",
+    "description": "Create diverse and fascinating alien species with our specialized comic maker. Build extraterrestrial worlds and unique biology.",
+    "intro": "## Explore the Cosmos\n\n> **AI Snapshot**: The alien species comic maker provides the tools to design non-humanoid lifeforms, focusing on varied anatomy, strange environments, and unique cultural expressions to build a believable extraterrestrial setting.\n\nWhen standard human characters aren't enough for your sci-fi epic, it's time to explore the cosmos. An alien species comic maker allows you to design creatures that defy earthly biology. Whether you need a terrifying apex predator or a wise, ancient civilization, the tools are at your fingertips.\n\nFocus on how the alien's environment shaped its evolution. Do they have thick skin for a harsh sun? Large eyes for a dark planet? Use the editor to experiment with unusual proportions and non-standard limbs to make your aliens truly foreign. For a deep dive into designing these creatures, read our [non-human character design guide](/blog/non-human-character-design-guide).",
+    "updatedAt": "2026-10-15T11:45:17.865Z",
+    "tags": [
+      "Genre"
+    ],
+    "faqs": [
+      {
+        "question": "How do I make my aliens look unique?",
+        "answer": "Avoid relying solely on human proportions. Experiment with different types of symmetry, unusual sensory organs, and body plans based on insects, aquatic life, or entirely novel concepts."
+      }
+    ]
+  },
+  {
+    "slug": "monster-taming-comic-creator",
+    "name": "Monster Taming Comic Creator – Catch and Battle",
+    "description": "Design your own monster taming and battling comic. Create unique creatures, trainers, and epic arena showdowns.",
+    "intro": "## Catch Them All\n\n> **AI Snapshot**: A monster taming comic creator focuses on designing a diverse roster of creatures with clear elemental themes and distinct silhouettes, alongside the trainers who capture and battle them.\n\nThe monster taming genre relies heavily on the appeal of its creature designs. You need a massive roster of unique, recognizable monsters. The creator tools allow you to quickly iterate on designs, establishing clear elemental themes—like fiery beasts or aquatic serpents.\n\nShape language is crucial here. Cute, early-stage monsters should utilize round, soft shapes, while powerful, fully-evolved forms should feature sharp, imposing angles. Keep silhouettes distinct so readers can instantly recognize their favorite creatures in battle. Learn more about elemental creature design in our [non-human character design guide](/blog/non-human-character-design-guide).",
+    "updatedAt": "2026-10-15T11:45:17.865Z",
+    "tags": [
+      "Genre"
+    ],
+    "faqs": [
+      {
+        "question": "What makes a good monster design?",
+        "answer": "A good monster design has a clear silhouette, an obvious elemental or thematic inspiration, and a distinct personality that is readable just from its appearance."
+      }
+    ]
+  },
+  {
+    "slug": "talking-animal-comic-generator",
+    "name": "Talking Animal Comic Generator – Anthropomorphic Adventures",
+    "description": "Create humorous or dramatic comics featuring talking animals. Perfect for fables, funny strips, or complex anthropomorphic societies.",
+    "intro": "## Fables and Furry Friends\n\n> **AI Snapshot**: The talking animal comic generator helps you balance animal anatomy with human expressions and posture, perfect for creating everything from humorous gag strips to serious anthropomorphic dramas.\n\nTalking animals have been a staple of comics since the beginning. Whether you are creating a lighthearted funny-animal strip or a gritty, dramatic world populated by anthropomorphic characters, the generator provides the necessary assets.\n\nThe key to this genre is balancing animal features with human expression. Characters need to be able to emote clearly, which often requires tweaking their facial anatomy to allow for human-like eyebrows or mouth shapes. Decide early on how \"human\" your animals will act and stick to that rule. For more on balancing these traits, see our [non-human character design guide](/blog/non-human-character-design-guide).",
+    "updatedAt": "2026-10-15T11:45:17.865Z",
+    "tags": [
+      "Genre"
+    ],
+    "faqs": [
+      {
+        "question": "Should talking animals wear clothes?",
+        "answer": "It depends entirely on the tone of your comic. Clothing can indicate societal status and humanize the characters, while a lack of clothing can emphasize their animal nature."
+      }
+    ]
+  },
+  {
+    "slug": "robot-protagonist-comic-builder",
+    "name": "Robot Protagonist Comic Builder – Mechanical Heroes",
+    "description": "Tell stories from the perspective of artificial intelligence. Design mechanical heroes, androids, and cyberpunk droids.",
+    "intro": "## Heart of Steel\n\n> **AI Snapshot**: A robot protagonist comic builder provides assets for designing mechanical characters, focusing on industrial design, joints, and expressive, non-traditional faces to convey artificial emotion.\n\nTelling a story from the perspective of a robot or AI offers a unique lens on humanity. The robot protagonist comic builder allows you to design characters made of metal and wire, focusing on how their physical form dictates their interaction with the world.\n\nWhen designing a robot hero, consider how they express emotion. Do they have a digital screen for a face, expressive optic sensors, or rely entirely on body language? Ensuring the reader can empathize with a machine is a fun design challenge. Master this with our [non-human character design guide](/blog/non-human-character-design-guide).",
+    "updatedAt": "2026-10-15T11:45:17.865Z",
+    "tags": [
+      "Genre"
+    ],
+    "faqs": [
+      {
+        "question": "How do I show emotion on a robot with no face?",
+        "answer": "Use body language—slumped shoulders for sadness, rigid posture for anger. You can also use glowing lights that change color or intensity based on their internal state."
+      }
+    ]
   }
 ]

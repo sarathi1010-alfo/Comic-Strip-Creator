@@ -4633,5 +4633,53 @@
     "tags": [
       "Layout"
     ]
+  },
+  {
+    "slug": "scale-comparison-panel-layout",
+    "name": "Scale Comparison Panel Layout – Highlighting Massive Differences",
+    "description": "A layout designed specifically to emphasize the size difference between characters, perfect for giant monsters or tiny aliens.",
+    "intro": "## The David and Goliath Effect\n\n> **AI Snapshot**: The scale comparison panel layout uses dramatic perspective and specific framing to emphasize the massive size difference between a human character and a giant (or tiny) non-human creature.\n\nWhen introducing a non-human character that is vastly larger or smaller than a normal person, you must sell that scale to the reader. The scale comparison panel layout is designed to maximize this impact. It often features a low camera angle looking up at a towering beast, with a small human in the foreground for reference.\n\nThis layout is essential for kaiju comics, fantasy epics with dragons, or sci-fi stories with towering mecha. It immediately establishes the physical threat or awe-inspiring nature of the creature. Learn more about portraying massive creatures in our [non-human character design guide](/blog/non-human-character-design-guide).",
+    "updatedAt": "2026-10-15T11:45:17.865Z",
+    "tags": [
+      "Layout"
+    ],
+    "faqs": [
+      {
+        "question": "How do I make a giant monster look truly huge?",
+        "answer": "Always include something of known size in the panel—like a person, a car, or a building—to provide a frame of reference. Use low camera angles to make the creature loom over the reader."
+      }
+    ]
+  },
+  {
+    "slug": "non-humanoid-action-layout",
+    "name": "Non-Humanoid Action Layout – Choreographing Strange Biology",
+    "description": "A dynamic layout optimized for action sequences featuring characters with unusual anatomy, multiple limbs, or non-standard movement.",
+    "intro": "## Alien Kinetics\n\n> **AI Snapshot**: The non-humanoid action layout breaks traditional grid structures to accommodate the unique movement patterns, multiple limbs, or strange attacks of alien or monstrous characters.\n\nAction sequences are challenging enough with human characters, but choreographing a fight involving a multi-limbed alien or a shape-shifting blob requires a different approach. The non-humanoid action layout uses fluid, sometimes overlapping panels to capture the chaotic and unpredictable movement of strange biology.\n\nThis layout allows you to showcase the unique abilities of your non-human characters. Instead of standard punches, you might need wide panels to show a tail sweep or vertical panels for a leaping attack. Understand how anatomy affects action in our [non-human character design guide](/blog/non-human-character-design-guide).",
+    "updatedAt": "2026-10-15T11:45:17.865Z",
+    "tags": [
+      "Layout"
+    ],
+    "faqs": [
+      {
+        "question": "How do I draw an action scene with a character that has no legs?",
+        "answer": "Focus on their method of locomotion—slithering, hovering, or rolling—and use speed lines and panel shapes that complement that specific type of movement."
+      }
+    ]
+  },
+  {
+    "slug": "creature-feature-splash-page",
+    "name": "Creature Feature Splash Page – The Grand Reveal",
+    "description": "A full-page layout dedicated to the dramatic, terrifying, or awe-inspiring first appearance of a major non-human character.",
+    "intro": "## The Grand Reveal\n\n> **AI Snapshot**: The creature feature splash page is a full-bleed, highly detailed single-panel page used exclusively to introduce a significant monster, alien, or robot with maximum visual impact.\n\nWhen you've spent hours designing a horrific monster or a majestic alien queen, you shouldn't introduce them in a tiny background panel. The creature feature splash page dedicates an entire page to their reveal. This stops the reader in their tracks and demands their attention.\n\nThis layout is all about the \"wow\" factor. Use dynamic lighting, dramatic poses, and intricate details to showcase every aspect of your design. The build-up on the preceding pages should make this reveal feel earned. Perfect your creature designs with our [non-human character design guide](/blog/non-human-character-design-guide).",
+    "updatedAt": "2026-10-15T11:45:17.865Z",
+    "tags": [
+      "Layout"
+    ],
+    "faqs": [
+      {
+        "question": "When should I use a creature feature splash page?",
+        "answer": "Save it for the most important, visually striking non-human characters in your story. Overusing splash pages dilutes their impact, so reserve them for moments of true awe or terror."
+      }
+    ]
   }
 ]
