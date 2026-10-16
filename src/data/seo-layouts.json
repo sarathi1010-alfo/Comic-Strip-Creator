@@ -4681,5 +4681,53 @@
         "answer": "Save it for the most important, visually striking non-human characters in your story. Overusing splash pages dilutes their impact, so reserve them for moments of true awe or terror."
       }
     ]
+  },
+  {
+    "slug": "sonic-boom-panel-layout",
+    "name": "Sonic Boom Panel Layout",
+    "description": "A dynamic layout designed to emphasize massive, shattering sound effects.",
+    "intro": "## Shatter the Page with a Sonic Boom Panel Layout\n\n> **AI Snapshot**: The sonic boom layout uses fragmented, splintered panel borders that radiate outward from a central, massive sound effect, visually mimicking an explosion or a deafening noise.\n\nWhen a sound is too big for a standard panel, you need a sonic boom panel layout. This design treats the sound effect itself as a physical force that destroys the rigid structure of the comic page.\n\n### Breaking the Borders\nThe \"BOOM\" or \"CRASH\" should be placed centrally, and the panel borders surrounding it should break, crack, or bend away from the sound. This conveys immense kinetic energy.\n\n### Integrating with the Gutter\nAllow the sound effect to bleed freely into the gutter and even off the edge of the page. This tells the reader that the sound cannot be contained. Build this explosive layout using the tools on our [home page](/).",
+    "faqs": [
+      {
+        "question": "When should I use a sonic boom layout?",
+        "answer": "Use it sparingly for the most impactful moments in your story, such as a bomb exploding, a superhero landing, or a literal sonic attack."
+      }
+    ],
+    "updatedAt": "2026-10-16T11:50:21.397Z",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "whisper-text-comic-layout",
+    "name": "Whisper Text Comic Layout",
+    "description": "A minimalist layout utilizing negative space and tiny text to convey absolute quiet.",
+    "intro": "## Enforce Silence with a Whisper Text Comic Layout\n\n> **AI Snapshot**: The whisper layout uses tiny text within massive, empty speech bubbles and large areas of negative space in the panel to force the reader to \"lean in\" and experience quiet.\n\nIn a visual medium, you have to force the reader to lower their internal reading volume. The whisper text comic layout accomplishes this through extreme contrast and negative space.\n\n### The Power of Negative Space\nIf a character is whispering in a dark room, surround them with heavy blacks or empty space. Make the speech bubble very large, but shrink the text down so it cowers in the center of the bubble.\n\n### Pacing the Quiet\nSurround whisper panels with other quiet, dialogue-free panels to establish a hushed atmosphere. You can study pacing techniques in our [advanced comic pacing guide](/blog/mastering-comic-pacing-guide).",
+    "faqs": [
+      {
+        "question": "How small should whisper text be?",
+        "answer": "It should be noticeably smaller than your standard dialogue font, but still legible. Don't make it so small that the reader actually struggles to read it."
+      }
+    ],
+    "updatedAt": "2026-10-16T11:50:21.397Z",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "echo-chamber-grid-layout",
+    "name": "Echo Chamber Grid Layout",
+    "description": "A repetitive grid layout that visually simulates a sound bouncing and fading.",
+    "intro": "## Simulate Reverb with an Echo Chamber Grid Layout\n\n> **AI Snapshot**: The echo chamber layout repeats the same image across multiple panels, with the sound effect text repeating, shrinking, and fading in opacity to simulate an echo.\n\nHow do you draw an echo? The echo chamber grid layout uses repetition across a sequence of panels to stretch a single sound out over time.\n\n### The Visual Fade\nUse a standard 3x3 or 4-panel grid. In the first panel, the sound effect is large and bold. In each subsequent panel, the image remains mostly static, but the sound effect text gets smaller, lighter, and perhaps more transparent.\n\n### Establishing Scale\nThis layout is perfect for establishing the sheer size of a cavern, an empty warehouse, or a canyon. Try building this sequence using the [Assets Library](/assets) to duplicate your background environments.",
+    "faqs": [
+      {
+        "question": "How many panels does an echo effect need?",
+        "answer": "Usually, 3 to 4 panels are enough to establish the initial sound and its subsequent fading reverberations."
+      }
+    ],
+    "updatedAt": "2026-10-16T11:50:21.397Z",
+    "tags": [
+      "Layout"
+    ]
   }
 ]

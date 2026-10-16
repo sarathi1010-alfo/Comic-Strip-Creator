@@ -2160,5 +2160,21 @@
         "answer": "While it doesn't need to be perfectly scientific, basing your creature's anatomy on real-world animals (e.g., using a dog's leg structure for a werewolf) makes it feel much more believable."
       }
     ]
+  },
+  {
+    "slug": "synesthesia-comic-style",
+    "name": "Synesthesia Comic Style",
+    "description": "A highly stylized aesthetic where sound is represented by abstract colors and shapes.",
+    "intro": "## See the Sound with a Synesthesia Comic Style\n\n> **AI Snapshot**: The synesthesia style abandons literal sound effect text in favor of abstract bursts of color, geometric shapes, and varying textures that represent the emotional and physical impact of a sound.\n\nThe synesthesia comic style is an avant-garde approach to sound design. Instead of writing \"BANG,\" the artist draws the *feeling* of a bang using color and shape.\n\n### Abstract Audio\nA sharp, high-pitched noise might be represented by a jagged, bright yellow starburst. A low, rumbling bass note might be a dark purple, wavy fog that rolls across the bottom of the panel.\n\n### Color Theory in Action\nThis style relies heavily on the psychological impact of color. To master this technique, you must deeply understand how colors evoke emotion. Review our [comic color theory guide](/blog/comic-color-theory-guide) to start designing your abstract audio landscape.",
+    "faqs": [
+      {
+        "question": "What is synesthesia in comics?",
+        "answer": "It is a stylistic choice to represent one sensory experience (sound) using another (visual abstraction, color, and shape) instead of literal text."
+      }
+    ],
+    "updatedAt": "2026-10-16T11:50:21.397Z",
+    "tags": [
+      "Style"
+    ]
   }
 ]

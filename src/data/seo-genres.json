@@ -6036,5 +6036,69 @@
         "answer": "Use body language—slumped shoulders for sadness, rigid posture for anger. You can also use glowing lights that change color or intensity based on their internal state."
       }
     ]
+  },
+  {
+    "slug": "musical-comic-maker",
+    "name": "Musical Comic Maker",
+    "description": "Create comics where music and song drive the narrative and action.",
+    "intro": "## Direct the Symphony with a Musical Comic Maker\n\n> **AI Snapshot**: A musical comic focuses on rhythm, performance, and lyrical storytelling. Use floating musical staves, expressive character acting, and synchronized panel pacing to visually represent song and dance routines.\n\nCreating a musical comic is a unique challenge: you must convey the energy and emotion of a song without any actual audio. A musical comic maker emphasizes the visual representation of sound, turning notes and lyrics into tangible elements that interact with the characters.\n\n### Designing the Performance\nWhen using our [home page](/) to build a musical scene, the layout must reflect the rhythm of the song. Fast, upbeat numbers require quick, staccato panels, while sweeping ballads benefit from large, open splash pages. \n\n### The Visual Symphony\nIncorporate musical elements directly into the art. Lyrics can flow like ribbons around the dancers, and sound effects can burst in time with the percussion. For a deeper understanding of visualizing sound, read our [mastering comic sound design guide](/blog/mastering-comic-sound-design-guide).",
+    "faqs": [
+      {
+        "question": "How do you show a character singing in a comic?",
+        "answer": "Use floating musical notes, distinct stylized speech bubbles (often with wavy tails), and expressive, open-mouthed character poses. Letting lyrics flow outside of bubbles can also indicate singing."
+      }
+    ],
+    "updatedAt": "2026-10-16T11:50:21.397Z",
+    "tags": [
+      "Genre"
+    ]
+  },
+  {
+    "slug": "rhythm-action-comic-creator",
+    "name": "Rhythm Action Comic Creator",
+    "description": "Design high-octane comics where combat is synchronized to a beat.",
+    "intro": "## Feel the Beat with a Rhythm Action Comic Creator\n\n> **AI Snapshot**: Rhythm action comics blend martial arts with musical timing. Structure your panels like sheet music, using repetitive layouts to establish a beat, and use explosive sound effects on the \"downbeat\" of a strike.\n\nIn a rhythm action comic, the fight choreography isn't just about survival; it's a dance. A rhythm action comic creator relies heavily on visual pacing and precisely timed sound effects to make the reader \"hear\" the beat of the battle.\n\n### Establishing the Tempo\nUse your panel layouts to establish a tempo. A classic 4-panel grid can mimic a 4/4 time signature. Break the grid on the \"chorus\" or the climax of the fight. \n\n### Striking on the Downbeat\nEnsure that the moment of impact always corresponds with a massive, stylized sound effect. The visual noise of the hit should mimic the crash of a cymbal. Learn more about pacing these fights in our [advanced comic pacing guide](/blog/mastering-comic-pacing-guide).",
+    "faqs": [
+      {
+        "question": "What is a rhythm action comic?",
+        "answer": "It is a subgenre where action sequences are visually tied to a musical beat, often using synchronized sound effects and panel layouts to simulate a rhythm."
+      }
+    ],
+    "updatedAt": "2026-10-16T11:50:21.397Z",
+    "tags": [
+      "Genre"
+    ]
+  },
+  {
+    "slug": "silent-film-comic-generator",
+    "name": "Silent Film Comic Generator",
+    "description": "Craft expressive, dialogue-free comics inspired by classic silent cinema.",
+    "intro": "## Tell Stories Without Words using a Silent Film Comic Generator\n\n> **AI Snapshot**: Silent film comics rely entirely on exaggerated body language, facial expressions, and occasional title cards. Remove speech bubbles entirely to force the reader to focus on the visual acting.\n\nCreating a silent comic is the ultimate test of a visual storyteller. A silent film comic generator forces you to strip away dialogue and rely entirely on the \"acting\" of your characters and the composition of your panels.\n\n### Mastering Pantomime\nWithout words, your characters' bodies must do all the talking. Use the [Assets Library](/assets) to find characters with exaggerated, theatrical expressions. Every gesture must be clear and deliberate.\n\n### The Title Card\nIf exposition is absolutely necessary, use stylized title cards inserted between panels, just like in the 1920s. This maintains the silent film aesthetic while advancing complex plots. Read our [character expressions guide](/blog/character-expressions-guide) to perfect your visual acting.",
+    "faqs": [
+      {
+        "question": "Can a silent comic use sound effects?",
+        "answer": "Yes, many silent comics use sound effects. However, true pantomime comics often remove even SFX, relying purely on visual motion lines to indicate impact."
+      }
+    ],
+    "updatedAt": "2026-10-16T11:50:21.397Z",
+    "tags": [
+      "Genre"
+    ]
+  },
+  {
+    "slug": "deaf-protagonist-comic-builder",
+    "name": "Deaf Protagonist Comic Builder",
+    "description": "Create authentic stories featuring deaf or hard-of-hearing characters using visual language.",
+    "intro": "## Authentic Representation with a Deaf Protagonist Comic Builder\n\n> **AI Snapshot**: To write a deaf protagonist, visually represent American Sign Language (ASL) or other sign languages accurately. Use visual cues (like vibrations or light flashes) to show how the character perceives sound.\n\nCreating a comic with a deaf protagonist requires a shift in how you portray communication and sensory input. A deaf protagonist comic builder focuses on accurate representation and innovative visual storytelling techniques.\n\n### Visualizing Sign Language\nDon't just write dialogue in a normal bubble and claim the character is signing. Draw the hand shapes accurately, and use specific bubble borders (like a dashed line or hands outlining the bubble) to indicate signed dialogue.\n\n### Perceiving the World\nShow how the character interacts with their environment. If a heavy object drops off-panel, show the character reacting to the vibration in the floorboards (perhaps drawn as radiating lines) rather than the sound. For more on visual metaphors, check our [comic sound design guide](/blog/mastering-comic-sound-design-guide).",
+    "faqs": [
+      {
+        "question": "How do you show a character signing in a comic?",
+        "answer": "Artists often draw the key hand positions of the sign and use motion lines to indicate the movement. The translated dialogue is typically placed in a specially bordered speech bubble."
+      }
+    ],
+    "updatedAt": "2026-10-16T11:50:21.397Z",
+    "tags": [
+      "Genre"
+    ]
   }
 ]
