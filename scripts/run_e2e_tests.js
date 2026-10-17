@@ -4,6 +4,16 @@ const assert = require('assert');
   const browser = await chromium.launch({ headless: true });
   const page = await browser.newPage();
     const urlsToTest = [
+  'http://localhost:3000/blog/mastering-negative-space-comics-guide',
+  'http://localhost:3000/genres/minimalist-sci-fi-comic-maker',
+  'http://localhost:3000/genres/solitary-horror-comic-creator',
+  'http://localhost:3000/genres/introspective-drama-comic-generator',
+  'http://localhost:3000/genres/stark-noir-comic-builder',
+  'http://localhost:3000/layouts/isolated-center-panel-layout',
+  'http://localhost:3000/layouts/heavy-black-border-layout',
+  'http://localhost:3000/layouts/floating-character-page-layout',
+  'http://localhost:3000/styles/high-contrast-minimalist-style',
+
   'http://localhost:3000/blog/non-human-character-design-guide',
   'http://localhost:3000/genres/alien-species-comic-maker',
   'http://localhost:3000/genres/monster-taming-comic-creator',
