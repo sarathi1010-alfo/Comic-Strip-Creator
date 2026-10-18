@@ -713,6 +713,16 @@ const assert = require('assert');
   'http://localhost:3000/layouts/whisper-text-comic-layout',
   'http://localhost:3000/layouts/echo-chamber-grid-layout',
   'http://localhost:3000/styles/synesthesia-comic-style'
+,
+  'http://localhost:3000/blog/suspense-thriller-comic-creation-guide',
+  'http://localhost:3000/genres/psychological-thriller-comic-maker',
+  'http://localhost:3000/genres/murder-mystery-comic-creator',
+  'http://localhost:3000/genres/paranormal-investigation-comic-generator',
+  'http://localhost:3000/genres/survival-horror-comic-builder',
+  'http://localhost:3000/layouts/ticking-clock-panel-layout',
+  'http://localhost:3000/layouts/dutch-angle-tension-layout',
+  'http://localhost:3000/layouts/claustrophobic-grid-layout',
+  'http://localhost:3000/styles/gritty-noir-thriller-style'
 ];
 
   page.on('console', msg => {

@@ -4792,5 +4792,65 @@
     "tags": [
       "Layout"
     ]
+  },
+  {
+    "slug": "ticking-clock-panel-layout",
+    "name": "Ticking Clock Panel Layout",
+    "description": "Increase narrative tension and urgency with the ticking clock panel layout.",
+    "intro": "## Race Against Time: The Ticking Clock Panel Layout\n\n> **AI Snapshot**: The ticking clock panel layout uses a repeating visual motif—like a clock, a bomb fuse, or a setting sun—in a consistent location across multiple panels or pages to establish a relentless, unavoidable deadline.\n\nWhen you need to inject pure adrenaline and panic into your story, the ticking clock panel layout is your best tool. This layout is designed to make the reader feel the pressure of an impending deadline. It forces a frantic reading pace and creates a sense of unavoidable doom if the characters fail to act in time.\n\n### The Repeating Motif\nThe core of this layout is the recurring visual element that represents time running out. It could be a digital timer, sand in an hourglass, or even a shadow creeping across a room. By placing this element in a consistent corner of the page or interspersed regularly between action panels, you ensure the reader never forgets the stakes. You can easily set up this repeating structure using the grid tools on our [home page](/).\n\n### Accelerating the Pace\nAs time runs out, the layout should reflect the increasing panic. Start with larger, structured panels. As the deadline approaches, break those panels down into smaller, more chaotic shapes. This physical fragmentation of the page mirrors the psychological fragmentation of the characters. For more advanced pacing techniques, refer to our [Comic Pacing Guide](/blog/mastering-comic-pacing-guide).",
+    "faqs": [
+      {
+        "question": "What is a ticking clock layout?",
+        "answer": "It is a layout strategy that repeatedly shows a visual representation of time running out (like a bomb timer) alongside the main action to create urgency."
+      },
+      {
+        "question": "How do you increase tension as the clock ticks down?",
+        "answer": "Increase the frequency of the 'clock' panels, make the action panels smaller and more chaotic, and use extreme close-ups of the characters' panicked faces."
+      }
+    ],
+    "updatedAt": "2026-10-18",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "dutch-angle-tension-layout",
+    "name": "Dutch Angle Tension Layout",
+    "description": "Create a sense of unease, disorientation, and psychological distress with the Dutch angle tension layout.",
+    "intro": "## Tilt the World: The Dutch Angle Tension Layout\n\n> **AI Snapshot**: A Dutch angle involves tilting the camera/viewpoint so the horizon line is not parallel to the bottom of the panel, creating a subconscious feeling of wrongness, instability, or psychological tension.\n\nSometimes, the best way to convey that something is wrong is to physically tilt the world. The Dutch angle tension layout is a cinematic technique translated to the comic page. It is used to induce a sense of unease, disorientation, or madness in the reader, perfectly mirroring a character's internal turmoil or the sudden arrival of danger.\n\n### Creating Instability\nBy tilting the horizon line, you remove the reader's sense of balance. The world feels like it is sliding or spinning out of control. This is highly effective in psychological thrillers or moments of sudden realization. You can apply this tilt to individual panels or design an entire page layout on a slant using the tools in our [Assets Library](/assets).\n\n### Use with Caution\nWhile powerful, the Dutch angle should be used sparingly. If every panel is tilted, the effect is lost, and the page simply becomes difficult to read. Save it for the moments of maximum impact: a terrifying revelation, a steep descent into madness, or the climax of a confrontation. Learn more about effective camera placement in our [Comic Framing and Camera Angles Guide](/blog/comic-framing-camera-angles-guide).",
+    "faqs": [
+      {
+        "question": "What is a Dutch angle in comics?",
+        "answer": "A Dutch angle is when the panel's viewpoint is tilted, so the horizontal lines of the scene (like the floor or horizon) are set at an angle to the panel borders."
+      },
+      {
+        "question": "When should I use a Dutch angle?",
+        "answer": "Use it to show psychological distress, disorientation, tension, or a sudden, shocking change in the narrative's reality."
+      }
+    ],
+    "updatedAt": "2026-10-18",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "claustrophobic-grid-layout",
+    "name": "Claustrophobic Grid Layout",
+    "description": "Trap your characters and your readers in tight, oppressive spaces with the claustrophobic grid layout.",
+    "intro": "## Box Them In: The Claustrophobic Grid Layout\n\n> **AI Snapshot**: The claustrophobic grid layout utilizes many small, tightly packed panels (like a 9 or 16-panel grid) with heavy borders to make the page feel dense, restrictive, and inescapable, mirroring a trapped character's experience.\n\nTo make a reader feel trapped, you must trap their eyes. The claustrophobic grid layout is an oppressive structural choice designed to induce a feeling of confinement. It is essential for survival horror, prison dramas, or any scene where a character is backed into a corner with no way out.\n\n### The Power of the Grid\nBy using a rigid, dense grid (such as a 9-panel or even 16-panel grid), you eliminate negative space and 'breathing room' on the page. The heavy borders act like the bars of a cage. Start building these restrictive structures easily on our [home page](/).\n\n### Extreme Close-Ups\nTo maximize the claustrophobia, fill these small panels with extreme close-ups. Don't show the whole room; show just the sweating forehead, the trembling hand, or the locked door handle. By denying the reader a view of the wider environment, you force them into the character's restrictive perspective. For more on mastering this framing, see our [Comic Composition Guide](/blog/comic-composition-perspective-guide).",
+    "faqs": [
+      {
+        "question": "How does a grid layout create claustrophobia?",
+        "answer": "By using many small panels packed tightly together, it removes open space (negative space) from the page, making the reading experience feel dense and restricted."
+      },
+      {
+        "question": "What shots work best in a claustrophobic layout?",
+        "answer": "Extreme close-ups work best because they deny the reader visual information about the surrounding environment, enhancing the feeling of being trapped."
+      }
+    ],
+    "updatedAt": "2026-10-18",
+    "tags": [
+      "Layout"
+    ]
   }
 ]

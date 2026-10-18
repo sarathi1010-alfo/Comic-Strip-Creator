@@ -2197,5 +2197,25 @@
     "tags": [
       "Style"
     ]
+  },
+  {
+    "slug": "gritty-noir-thriller-style",
+    "name": "Gritty Noir Thriller Style",
+    "description": "Embrace the shadows with high contrast, heavy inks, and a cynical tone using the gritty noir thriller style.",
+    "intro": "## Step into the Shadows: Gritty Noir Thriller Style\n\n> **AI Snapshot**: The gritty noir thriller style is characterized by high-contrast chiaroscuro lighting, heavy use of spot blacks, muted or monochromatic color palettes, and themes of moral ambiguity and urban decay.\n\nThe gritty noir thriller style is a timeless aesthetic perfect for crime stories, detective mysteries, and psychological thrillers. It relies heavily on atmosphere and mood, using shadow and light as active participants in the narrative. This style tells the reader immediately that they are entering a dangerous, morally gray world.\n\n### Chiaroscuro and Spot Blacks\nThe defining feature of this style is extreme contrast. You should use large areas of solid black ink (spot blacks) to obscure details and create deep, impenetrable shadows. The light sources should be harsh and directional, creating stark highlights. You can achieve these dramatic lighting effects using the tools on our [home page](/).\n\n### Muted Palettes and Urban Decay\nColor should be used sparingly. Monochromatic palettes (using only shades of gray, blue, or sepia) are very effective. If you use color, keep it muted and desaturated, saving bright colors (like a splash of red blood or a yellow taxi) for specific, shocking emphasis. Incorporate assets from our [Assets Library](/assets) that reflect a gritty, decaying urban environment. To delve deeper into these rendering techniques, read our [Digital Inking and Rendering Techniques Guide](/blog/digital-inking-rendering-guide).",
+    "faqs": [
+      {
+        "question": "What makes a comic look 'noir'?",
+        "answer": "Heavy use of black ink (spot blacks), high contrast lighting, rain-slicked urban environments, and characters often wearing trench coats or fedoras."
+      },
+      {
+        "question": "Should I use color in a noir comic?",
+        "answer": "You can, but it should be highly restricted. Muted, desaturated palettes work best, perhaps with one single color highlighted for dramatic effect."
+      }
+    ],
+    "updatedAt": "2026-10-18",
+    "tags": [
+      "Style"
+    ]
   }
 ]
