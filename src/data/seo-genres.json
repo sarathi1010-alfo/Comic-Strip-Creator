@@ -6184,5 +6184,85 @@
     "tags": [
       "Genre"
     ]
+  },
+  {
+    "slug": "psychological-thriller-comic-maker",
+    "name": "Psychological Thriller Comic Maker",
+    "description": "Dive deep into the minds of your characters with the psychological thriller comic maker. Craft suspenseful narratives built on paranoia and unreliable narrators.",
+    "intro": "## Unravel the Mind with a Psychological Thriller Comic Maker\n\n> **AI Snapshot**: The psychological thriller comic maker equips creators with tools to visualize mental instability, paranoia, and intense internal conflict, relying on distorted perspectives and subjective reality rather than physical threats.\n\nA psychological thriller is a delicate balancing act. It requires the creator to delve into the deepest fears and insecurities of their characters. The psychological thriller comic maker provides the specific visual tools needed to make these internal struggles visible to the reader. It's not about monsters under the bed; it's about the monsters inside the head. \n\n### Visualizing Paranoia\nIn a psychological thriller, the environment should feel oppressive and untrustworthy. You can use the maker's tools to slightly tilt the camera angle (a Dutch angle) to create a subtle sense of wrongness. Use the [Assets Library](/assets) to find character expressions that convey subtle anxiety or wide-eyed terror. The goal is to make the reader question what is real and what is a manifestation of the character's deteriorating mental state.\n\n### The Unreliable Narrator\nOne of the most powerful tools in this genre is the unreliable narrator. The comic maker allows you to create subjective realities. You might draw a scene one way, and then subtly change it in the next panel to reflect a different perspective. For tips on managing these complex narrative structures, consult our [Comic Strip Structure Guide](/blog/comic-strip-structure-guide).",
+    "faqs": [
+      {
+        "question": "What defines a psychological thriller comic?",
+        "answer": "It focuses on the unstable mental states, paranoia, and internal conflicts of its characters, often using an unreliable narrator to blur the line between reality and delusion."
+      },
+      {
+        "question": "How do you show paranoia visually?",
+        "answer": "Use distorted camera angles, heavy shadows, claustrophobic framing, and character expressions that convey fear or suspicion."
+      }
+    ],
+    "updatedAt": "2026-10-18",
+    "tags": [
+      "Genre"
+    ]
+  },
+  {
+    "slug": "murder-mystery-comic-creator",
+    "name": "Murder Mystery Comic Creator",
+    "description": "Construct intricate puzzles and compelling whodunits with the murder mystery comic creator.",
+    "intro": "## Plant Clues and Solve Crimes with the Murder Mystery Comic Creator\n\n> **AI Snapshot**: A murder mystery comic creator provides the structural and visual elements necessary to plant subtle clues, establish motives, and build a compelling investigative narrative that keeps the reader guessing.\n\nThe murder mystery is a classic genre that challenges both the creator and the reader. It requires meticulous planning and a keen eye for detail. The murder mystery comic creator is designed to help you construct these intricate puzzles, ensuring that every panel serves a purpose, whether it's establishing an alibi or hiding a crucial piece of evidence.\n\n### The Art of the Clue\nIn a visual medium, a clue can be anything: a scuff mark on a shoe, a clock showing the wrong time, or a character's nervous sweat. The creator allows you to seamlessly integrate these details into the background. Use the [Assets Library](/assets) to populate your crime scenes with interactive props. The key is to make the clue visible without drawing undue attention to it.\n\n### Pacing the Investigation\nA good mystery is a slow burn. The creator helps you manage the flow of information, pacing the reveals to maintain tension. You can use varied panel layouts to speed up the action during a chase or slow it down during an interrogation. For more on controlling the speed of your story, read our guide on [Mastering Comic Pacing](/blog/mastering-comic-pacing-guide).",
+    "faqs": [
+      {
+        "question": "How do you hide a clue in a comic?",
+        "answer": "Place the clue in the background or edge of a panel where it is visible but not the focal point. Ensure it is drawn consistently so readers can spot it upon reviewing the story."
+      },
+      {
+        "question": "What is the key to a good murder mystery comic?",
+        "answer": "The key is fair play. The reader must be given all the visual clues necessary to solve the mystery before the detective reveals the answer."
+      }
+    ],
+    "updatedAt": "2026-10-18",
+    "tags": [
+      "Genre"
+    ]
+  },
+  {
+    "slug": "paranormal-investigation-comic-generator",
+    "name": "Paranormal Investigation Comic Generator",
+    "description": "Hunt ghosts, demons, and cryptids with the paranormal investigation comic generator.",
+    "intro": "## Seek the Unknown with the Paranormal Investigation Comic Generator\n\n> **AI Snapshot**: The paranormal investigation comic generator combines elements of horror, mystery, and thriller, equipping creators to visualize unseen entities, eerie environments, and the tense process of ghost hunting.\n\nThere is a primal fear associated with the unknown. The paranormal investigation genre taps into that fear, pitting ordinary people (or seasoned experts) against entities that defy logic. The paranormal investigation comic generator gives you the tools to visualize the invisible, creating an atmosphere of dread and anticipation.\n\n### Designing the Unseen\nHow do you draw a ghost that is only felt, not seen? The generator provides tools for manipulating the environment: flickering lights, dropping temperatures (indicated by breath or frost), and objects moving on their own. Use the [Assets Library](/assets) to find eerie props and abandoned locations. The horror often comes from what you *don't* show.\n\n### The Tools of the Trade\nParanormal investigators rely on their gear. EMF meters, spirit boxes, and thermal cameras all have distinct visual signatures. The generator allows you to incorporate these elements seamlessly, adding a layer of pseudo-scientific realism to your supernatural thriller. If you want to lean heavier into the horror aspects, check out our [Survival Horror Comic Guide](/blog/survival-horror-comic-creation-guide).",
+    "faqs": [
+      {
+        "question": "How do you create tension in a paranormal comic?",
+        "answer": "Use heavy shadows, silent panels to emphasize the creeping dread, and focus on the characters' reactions to subtle, unexplainable events before revealing the full entity."
+      },
+      {
+        "question": "What makes a good paranormal investigation story?",
+        "answer": "A blend of grounded investigative procedure (using equipment, researching history) mixed with terrifying, unpredictable supernatural events."
+      }
+    ],
+    "updatedAt": "2026-10-18",
+    "tags": [
+      "Genre"
+    ]
+  },
+  {
+    "slug": "survival-horror-comic-builder",
+    "name": "Survival Horror Comic Builder",
+    "description": "Push your characters to their absolute limits in terrifying scenarios with the survival horror comic builder.",
+    "intro": "## Fight for Your Life with the Survival Horror Comic Builder\n\n> **AI Snapshot**: A survival horror comic builder focuses on extreme vulnerability, resource scarcity, and relentless pursuit, providing the assets and layouts needed to create a sense of inescapable dread and high-stakes action.\n\nSurvival horror is about stripping the protagonist of their power and forcing them to face overwhelming odds. It's a grueling, terrifying experience. The survival horror comic builder is designed to help you construct these nightmares, providing the gritty textures, terrifying monsters, and claustrophobic environments necessary to make the reader feel truly unsafe.\n\n### The Illusion of Safety\nIn survival horror, there is no true safe room. The builder allows you to create environments that feel inherently hostile. Shadows should be deep and impenetrable. Resources (like weapons or light sources) should be scarce, and their depletion should be visually emphasized. Use the [Assets Library](/assets) to find broken, decaying props to set the mood.\n\n### Relentless Pursuit\nThe tension in survival horror often comes from being chased by an unstoppable force. The builder provides dynamic action layouts that convey the panic and exhaustion of the pursuit. You can use blurred action lines and frantic panel transitions to make the chase feel visceral. For tips on drawing intense action, see our [Dynamic Action Poses in Comics Guide](/blog/mastering-dynamic-action-poses-guide).",
+    "faqs": [
+      {
+        "question": "What are the core elements of survival horror in comics?",
+        "answer": "Vulnerability, limited resources (weapons, light, health), claustrophobic environments, and a relentless, overpowering threat."
+      },
+      {
+        "question": "How do you show exhaustion in a comic?",
+        "answer": "Use ragged breath lines, heavy sweat, slumped posture, and blurry or jagged panel borders to indicate a character's failing stamina."
+      }
+    ],
+    "updatedAt": "2026-10-18",
+    "tags": [
+      "Genre"
+    ]
   }
 ]
