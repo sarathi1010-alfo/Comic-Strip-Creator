@@ -1,5 +1,65 @@
 [
   {
+    "slug": "color-transition-panel-layout",
+    "name": "Color Transition Panel Layout",
+    "description": "Guide the reader through emotional or temporal shifts using the color transition panel layout.",
+    "intro": "## Guide the Narrative with a Color Transition Panel Layout\n\n> **AI Snapshot**: A color transition panel layout uses a gradual shift in the dominant color palette across a sequence of panels to visually represent the passage of time, a change in location, or a shift in the character's emotional state.\n\nColor is not just for rendering; it is a pacing tool. The color transition panel layout leverages [Comic Color Theory](/blog/comic-color-theory-guide) to move the reader through a narrative transition without relying entirely on text boxes. By slowly changing the dominant hues across a page, you create a visual rhythm that guides the reader's subconscious understanding of the scene.\n\n### Showing the Passage of Time\nThe most common use of this layout is to show time passing within a single location. The first panel might be bathed in the cool blues of early morning. Over the next several panels, the colors slowly warm up, introducing yellows and oranges, until the final panel is rendered in the stark, high-contrast light of midday. This technique is highly effective when arranged sequentially on the [home page](/).\n\n### Emotional Shifts\nColor transitions can also map a character's internal journey. A character starting a conversation feeling optimistic might be surrounded by warm, bright colors. As the conversation turns negative, the palette across the panels can gradually cool down, shifting to muted greens or blues, visually reinforcing their growing despair. Ensure your character expressions from the [Assets Library](/assets) match these shifting tones.\n\n### The Smooth Fade vs. The Hard Cut\nThe transition can be a smooth gradient spanning multiple panels, or it can be a 'hard cut' where the color shifts dramatically from one panel to the next. A smooth transition feels natural and gradual, while a hard cut feels jarring and sudden, perfect for a sudden realization or shock.",
+    "faqs": [
+      {
+        "question": "What is a color transition in a comic layout?",
+        "answer": "It is the deliberate, gradual change of the dominant color palette across a sequence of panels to visually communicate a change in time, place, or emotion."
+      },
+      {
+        "question": "How do I ensure a color transition looks intentional?",
+        "answer": "Maintain consistency in the underlying drawing and composition while only changing the color palette. This highlights the color shift as the primary narrative device."
+      }
+    ],
+    "updatedAt": "2026-10-19",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "emotional-color-shift-layout",
+    "name": "Emotional Color Shift Layout",
+    "description": "Dramatically highlight a character's internal state with the emotional color shift layout.",
+    "intro": "## Highlight Internal States with an Emotional Color Shift Layout\n\n> **AI Snapshot**: An emotional color shift layout uses a sudden, dramatic change in color palette within a single scene to visually represent a character's sudden realization, intense emotion, or shift in perspective, prioritizing psychological reality over physical reality.\n\nSometimes, what a character is feeling is more important than the physical reality of the room they are in. The emotional color shift layout abandons realistic lighting in favor of psychological impact. This layout uses [Comic Color Theory](/blog/comic-color-theory-guide) to make the invisible visible, abruptly changing the colors to reflect a character's internal state.\n\n### The 'Drop to Red'\nA classic example is a scene bathed in normal, realistic colors until a character receives shocking news. The next panel, focusing on their reaction, abandons the realistic palette entirely, rendering the character and background in stark reds and blacks. This immediately communicates anger or panic far more effectively than dialogue. Test these sudden shifts using the layout tools on our [home page](/).\n\n### Isolating the Character\nColor shifts can be used to isolate a character. If a character feels alienated in a crowded room, you might color the entire background and other characters in muted, cool tones, while rendering the protagonist in a slightly warmer, more saturated palette. They physically share the space, but visually, they are separated. Use the [Assets Library](/assets) to populate the scene, then apply specific color filters to achieve this effect.\n\n### Subjective Reality\nThis layout signals to the reader that they are no longer looking at the objective world; they are seeing the world through the character's emotional lens. It is a powerful tool for building empathy and ensuring the reader feels the impact of the narrative beats.",
+    "faqs": [
+      {
+        "question": "When should I use an emotional color shift?",
+        "answer": "Use it sparingly for moments of intense emotional impact, sudden realization, or severe trauma, where the character's internal feelings overwhelm their perception of reality."
+      },
+      {
+        "question": "Does an emotional color shift need to be realistic?",
+        "answer": "No. The power of this technique comes from abandoning realistic lighting in favor of colors that represent the psychological state of the character."
+      }
+    ],
+    "updatedAt": "2026-10-19",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "high-contrast-climax-layout",
+    "name": "High Contrast Climax Layout",
+    "description": "Deliver maximum visual impact for your story's peak with the high contrast climax layout.",
+    "intro": "## Deliver Maximum Impact with a High Contrast Climax Layout\n\n> **AI Snapshot**: The high contrast climax layout reserves the most extreme differences in value and complementary colors for the story's peak moment, ensuring the climax is visually distinct and impactful compared to the rest of the comic.\n\nThe climax of your story requires the most visual energy. If your entire comic has been loud and colorful, the climax might not stand out. The high contrast climax layout is a strategy of restraint followed by explosion. It utilizes the extremes of [Comic Color Theory](/blog/comic-color-theory-guide) specifically for the most important narrative beat.\n\n### Building Up to the Climax\nTo make this layout work, the pages leading up to the climax must use a more restrained palette. They might be monochromatic, analogous, or generally lower in contrast. This visual restraint builds tension. When the climax hits (e.g., the final blow, the big reveal), you unleash the full power of high contrast. Design this progression carefully on the [home page](/).\n\n### Complementary Clashes\nThe climax panel itself should utilize strong complementary colors (e.g., orange and blue, red and green) or extreme value differences (stark black against bright white). This visual clash mirrors the narrative conflict. The eye is violently drawn to this panel because it is fundamentally different from everything that preceded it.\n\n### Focus Through Contrast\nIn a chaotic climax scene, use high contrast to direct the reader's eye to the specific point of impact or the crucial detail. Everything else in the panel can fall into shadow or be muted, ensuring the critical information is immediately parsed. Utilize the dynamic poses in the [Assets Library](/assets) to maximize the kinetic energy of these high-contrast moments.",
+    "faqs": [
+      {
+        "question": "What is the purpose of a high contrast climax layout?",
+        "answer": "It ensures that the most important moment in the story is visually distinct and carries the maximum amount of energy and impact, separating it from the rest of the narrative."
+      },
+      {
+        "question": "How do I prepare for a high contrast climax?",
+        "answer": "Use a more subdued, lower-contrast color palette in the scenes leading up to the climax, so that the sudden introduction of high contrast feels explosive."
+      }
+    ],
+    "updatedAt": "2026-10-19",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
     "slug": "hero-vs-villain-spread-layout",
     "name": "Hero vs Villain Spread Layout",
     "description": "Create epic, climactic showdowns across two pages with the hero vs villain spread layout.",
