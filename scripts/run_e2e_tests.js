@@ -331,7 +331,7 @@ const assert = require('assert');
     'http://localhost:3000/layouts/4-panel-comic',
     'http://localhost:3000/layouts/6-panel-comic',
     'http://localhost:3000/styles/chibi-character-creator',
-    'http://localhost:3000/blog/comic-color-theory-guide',
+  'http://localhost:3000/blog/comic-color-theory-guide',
     'http://localhost:3000/genres/noir-comic-maker',
     'http://localhost:3000/genres/romance-comic-creator',
     'http://localhost:3000/genres/horror-comic-generator',
@@ -722,7 +722,16 @@ const assert = require('assert');
   'http://localhost:3000/layouts/ticking-clock-panel-layout',
   'http://localhost:3000/layouts/dutch-angle-tension-layout',
   'http://localhost:3000/layouts/claustrophobic-grid-layout',
-  'http://localhost:3000/styles/gritty-noir-thriller-style'
+  'http://localhost:3000/styles/gritty-noir-thriller-style',
+  'http://localhost:3000/blog/comic-color-theory-guide',
+  'http://localhost:3000/genres/neon-cyberpunk-comic-maker',
+  'http://localhost:3000/genres/pastel-fantasy-comic-creator',
+  'http://localhost:3000/genres/monochromatic-noir-comic-generator',
+  'http://localhost:3000/genres/vibrant-superhero-color-builder',
+  'http://localhost:3000/layouts/color-transition-panel-layout',
+  'http://localhost:3000/layouts/emotional-color-shift-layout',
+  'http://localhost:3000/layouts/high-contrast-climax-layout',
+  'http://localhost:3000/styles/pop-art-color-comic-style-guide'
 ];
 
   page.on('console', msg => {
