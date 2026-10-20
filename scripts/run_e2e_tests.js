@@ -731,7 +731,16 @@ const assert = require('assert');
   'http://localhost:3000/layouts/color-transition-panel-layout',
   'http://localhost:3000/layouts/emotional-color-shift-layout',
   'http://localhost:3000/layouts/high-contrast-climax-layout',
-  'http://localhost:3000/styles/pop-art-color-comic-style-guide'
+  'http://localhost:3000/styles/pop-art-color-comic-style-guide',
+  'http://localhost:3000/blog/superhero-team-creation-guide',
+  'http://localhost:3000/genres/mutant-academy-comic-maker',
+  'http://localhost:3000/genres/street-level-defenders-comic-creator',
+  'http://localhost:3000/genres/cosmic-armada-comic-generator',
+  'http://localhost:3000/genres/government-strike-force-comic-builder',
+  'http://localhost:3000/layouts/team-assembly-splash-page',
+  'http://localhost:3000/layouts/combo-attack-panel-layout',
+  'http://localhost:3000/layouts/headquarters-cross-section-layout',
+  'http://localhost:3000/styles/unified-uniform-comic-style'
 ];
 
   page.on('console', msg => {

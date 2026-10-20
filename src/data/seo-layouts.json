@@ -4912,5 +4912,53 @@
     "tags": [
       "Layout"
     ]
+  },
+  {
+    "slug": "team-assembly-splash-page",
+    "name": "Team Assembly Splash Page",
+    "description": "Create an iconic, full-page reveal of your superhero roster with the team assembly splash page layout.",
+    "intro": "## The Iconic Roster Reveal\n\n> **AI Snapshot**: A team assembly splash page uses a full-page layout to introduce the entire roster simultaneously, utilizing forced perspective and dynamic poses to emphasize unity and power.\n\nEvery great team book needs an iconic shot of the full roster standing together, ready for battle. The team assembly splash page layout is designed to maximize the impact of this reveal. This layout is entirely about spectacle and establishing the team's visual identity.\n\nWhen arranging your characters, utilize a \"V\" or wedge formation, placing the leader in the front center. Use forced perspective to make the characters in the foreground appear larger and more imposing. Ensure that each character is striking a pose that reflects their personality and power set. This layout is the visual thesis statement for your team, capturing the aesthetic cohesion discussed in our [Superhero Team Creation Guide](/blog/superhero-team-creation-guide).",
+    "faqs": [
+      {
+        "question": "When should I use a team assembly splash page?",
+        "answer": "Use it sparingly for maximum impact. It is most effective when introducing a newly formed team, revealing a new roster, or right before the final climactic battle."
+      }
+    ],
+    "updatedAt": "2026-10-20",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "combo-attack-panel-layout",
+    "name": "Combo Attack Panel Layout",
+    "description": "Showcase the synergy between teammates with the fast-paced combo attack panel layout.",
+    "intro": "## Synergy in Motion\n\n> **AI Snapshot**: The combo attack panel layout uses a sequence of fast, overlapping panels to illustrate multiple characters combining their powers into a single, devastating maneuver.\n\nThe true test of a superhero team is how well they fight together. The combo attack panel layout is designed to show characters chaining their abilities. This isn't just one hero punching a villain; it's a carefully choreographed sequence of events.\n\nStart with a setup panel (e.g., a telekinetic lifting a boulder). The next panel shows the secondary action (e.g., an energy projector charging the boulder). The final, largest panel shows the devastating result (the glowing, explosive boulder striking the target). Overlapping panel borders and continuous action lines help guide the reader's eye rapidly through the sequence, demonstrating the power synergy essential to team books as noted in our [Superhero Team Creation Guide](/blog/superhero-team-creation-guide).",
+    "faqs": [
+      {
+        "question": "How do I make a combo attack readable?",
+        "answer": "Use clear visual cues like energy trails or motion lines that carry over from one panel to the next, connecting the actions of the different characters."
+      }
+    ],
+    "updatedAt": "2026-10-20",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "headquarters-cross-section-layout",
+    "name": "Headquarters Cross-Section Layout",
+    "description": "Reveal the inner workings of the team's base with the detailed headquarters cross-section layout.",
+    "intro": "## Inside the Base\n\n> **AI Snapshot**: The headquarters cross-section layout uses a single large image divided into \"rooms\" to simultaneously show different team members engaging in various downtime activities within their base.\n\nA team's headquarters is often a character in its own right. The headquarters cross-section layout allows you to show what the team does when they aren't fighting. It's a fantastic tool for establishing character dynamics and injecting humor.\n\nImagine slicing the side off a dollhouse. You might see the Muscle lifting weights in the gym, the Brains experimenting in the lab, and the Wildcard raiding the fridge in the kitchen—all in the same image. This layout requires meticulous attention to background detail and is a perfect way to establish the \"found family\" dynamic highlighted in our [Superhero Team Creation Guide](/blog/superhero-team-creation-guide).",
+    "faqs": [
+      {
+        "question": "What is the purpose of a cross-section layout?",
+        "answer": "It provides exposition about the team's resources and living situation while simultaneously offering multiple character-building moments in a single page."
+      }
+    ],
+    "updatedAt": "2026-10-20",
+    "tags": [
+      "Layout"
+    ]
   }
 ]

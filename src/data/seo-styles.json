@@ -2244,5 +2244,21 @@
     "tags": [
       "Style"
     ]
+  },
+  {
+    "slug": "unified-uniform-comic-style",
+    "name": "Unified Uniform Comic Style",
+    "description": "Give your superhero team a cohesive, militaristic look with the unified uniform comic style.",
+    "intro": "## Cohesion and Discipline\n\n> **AI Snapshot**: The unified uniform comic style applies a consistent color palette, shared insignias, and similar tactical materials across all character designs to emphasize teamwork, discipline, and institutional backing.\n\nWhen a team needs to project authority and absolute unity, individual costumes are discarded in favor of the unified uniform comic style. This aesthetic is favored by government strike forces, space armadas, and highly disciplined mutant academies.\n\nThe key to this style is finding the balance between uniformity and individual distinction. Even if everyone is wearing black tactical gear with a red 'X' insignia, you must still differentiate the characters through silhouette, accessories, and how they wear the uniform. The Muscle might have the sleeves torn off, while the Leader wears it impeccably. This subtle customization is vital for readability, as discussed in our [Superhero Team Creation Guide](/blog/superhero-team-creation-guide).",
+    "faqs": [
+      {
+        "question": "How do I keep unified uniforms from looking boring?",
+        "answer": "Focus on texture (kevlar, leather, armor plating) and allow for slight personal variations in how each character wears the gear to reflect their personality."
+      }
+    ],
+    "updatedAt": "2026-10-20",
+    "tags": [
+      "Style"
+    ]
   }
 ]
