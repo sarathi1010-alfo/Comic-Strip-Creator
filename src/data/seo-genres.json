@@ -6344,5 +6344,69 @@
     "tags": [
       "Genre"
     ]
+  },
+  {
+    "slug": "mutant-academy-comic-maker",
+    "name": "Mutant Academy Comic Maker",
+    "description": "Create stories about young heroes learning to control their powers and navigate social drama with the mutant academy comic maker.",
+    "intro": "## School for the Gifted\n\n> **AI Snapshot**: A mutant academy comic maker focuses on balancing superhero training with teen drama, utilizing school settings, diverse power manifestations, and themes of prejudice and acceptance.\n\nThe \"mutant academy\" is a beloved subgenre that combines high-stakes superhero action with the relatable struggles of coming of age. The mutant academy comic maker provides the tools to build these complex environments, where a pop quiz can be just as stressful as a supervillain attack.\n\nFocus heavily on character design to reflect the awkwardness of uncontrolled powers. A character whose power is constantly active (like being made of fire or having wings) will face different social challenges than one who can pass for \"normal.\" Use the [Assets Library](/assets) to build classrooms, training \"danger rooms,\" and dormitories. The core conflict in these stories often stems from the tension between the students' desire for a normal life and their responsibility to use their powers for good, as explored in our [Superhero Team Creation Guide](/blog/superhero-team-creation-guide).",
+    "faqs": [
+      {
+        "question": "How do I balance the 'school' and 'superhero' elements?",
+        "answer": "Ensure that the superhero conflicts reflect the personal or social conflicts of the characters. A battle against a villain should test a lesson they just learned in class or resolve a rivalry between two students."
+      }
+    ],
+    "updatedAt": "2026-10-20",
+    "tags": [
+      "Genre"
+    ]
+  },
+  {
+    "slug": "street-level-defenders-comic-creator",
+    "name": "Street-Level Defenders Comic Creator",
+    "description": "Craft gritty tales of vigilantes protecting their local neighborhoods with the street-level defenders comic creator.",
+    "intro": "## Protecting the Block\n\n> **AI Snapshot**: The street-level defenders comic creator emphasizes gritty urban environments, practical costumes, hand-to-hand combat, and deeply personal, localized stakes rather than global threats.\n\nNot every superhero team needs a spaceship or a skyscraper headquarters. The street-level defenders comic creator is designed for stories about vigilantes who protect their own neighborhoods. These stories are grittier, more grounded, and often more personal.\n\nWhen designing your team, focus on practical costumes—leather jackets, hoodies, and reinforced boots rather than spandex. Their powers should be lower-tier or rely heavily on martial arts and gadgets. The stakes in these stories aren't about saving the world; they're about saving a single apartment building or taking down a local crime boss. This requires a focus on atmospheric lighting and tight, claustrophobic layouts, principles outlined in our [Superhero Team Creation Guide](/blog/superhero-team-creation-guide).",
+    "faqs": [
+      {
+        "question": "What makes a street-level story compelling?",
+        "answer": "The vulnerability of the heroes. Because they lack god-like powers, every fight is dangerous. The close connection to the community they protect also raises the emotional stakes."
+      }
+    ],
+    "updatedAt": "2026-10-20",
+    "tags": [
+      "Genre"
+    ]
+  },
+  {
+    "slug": "cosmic-armada-comic-generator",
+    "name": "Cosmic Armada Comic Generator",
+    "description": "Build epic space-faring superhero teams guarding the galaxy with the cosmic armada comic generator.",
+    "intro": "## Guardians of the Galaxy\n\n> **AI Snapshot**: A cosmic armada comic generator provides assets for massive scale storytelling, focusing on alien races, intergalactic politics, faster-than-light travel, and cosmic-level threats.\n\nTake your superhero team to the stars. The cosmic armada comic generator is built for stories of epic scale, where the team acts as the last line of defense against galactic empires and world-eating entities. \n\nThis genre demands wildly diverse character designs. Your team might include a human pilot, a crystalline alien, a sentient tree, and a cyborg mercenary. The environments must be equally diverse—neon-lit space stations, desolate moons, and the bridges of massive starships. The challenge here is maintaining relatable character dynamics amidst the overwhelming scale of the setting, a balancing act detailed in our [Superhero Team Creation Guide](/blog/superhero-team-creation-guide).",
+    "faqs": [
+      {
+        "question": "How do I ground a story with cosmic stakes?",
+        "answer": "Focus on the interpersonal relationships of the team. Even if they are fighting to save a galaxy, the emotional core of the story should be about how the team members rely on and care for each other."
+      }
+    ],
+    "updatedAt": "2026-10-20",
+    "tags": [
+      "Genre"
+    ]
+  },
+  {
+    "slug": "government-strike-force-comic-builder",
+    "name": "Government Strike Force Comic Builder",
+    "description": "Create stories about sanctioned, militarized metahuman teams with the government strike force comic builder.",
+    "intro": "## Sanctioned Operations\n\n> **AI Snapshot**: The government strike force comic builder focuses on black-ops missions, military aesthetics, moral ambiguity, and the conflict between heroic ideals and governmental orders.\n\nWhen a team is sponsored by the government, the rules change. The government strike force comic builder helps you create narratives focused on espionage, black-ops, and moral compromise. These aren't traditional heroes; they are soldiers or assets.\n\nVisually, this team should look unified. Use matching tactical gear, specific color codes, and clear rank insignia. The conflict in these stories rarely comes from simple \"good vs. evil\"; it arises when the team's conscience clashes with their orders. This tension between duty and morality is a key element discussed in our [Superhero Team Creation Guide](/blog/superhero-team-creation-guide).",
+    "faqs": [
+      {
+        "question": "What is the key conflict in a strike force comic?",
+        "answer": "The primary conflict is usually authority vs. autonomy. The team must navigate the bureaucracy that controls them while dealing with the ethical implications of the missions they are assigned."
+      }
+    ],
+    "updatedAt": "2026-10-20",
+    "tags": [
+      "Genre"
+    ]
   }
 ]
