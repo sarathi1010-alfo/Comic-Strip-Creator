@@ -741,6 +741,16 @@ const assert = require('assert');
   'http://localhost:3000/layouts/combo-attack-panel-layout',
   'http://localhost:3000/layouts/headquarters-cross-section-layout',
   'http://localhost:3000/styles/unified-uniform-comic-style'
+,
+  'http://localhost:3000/blog/mastering-comic-flashbacks-time-skips-guide',
+  'http://localhost:3000/genres/historical-flashback-comic-maker',
+  'http://localhost:3000/genres/amnesia-mystery-comic-creator',
+  'http://localhost:3000/genres/time-travel-adventure-comic-generator',
+  'http://localhost:3000/genres/generational-saga-comic-builder',
+  'http://localhost:3000/layouts/faded-border-flashback-layout',
+  'http://localhost:3000/layouts/montage-time-skip-layout',
+  'http://localhost:3000/layouts/split-timeline-panel-layout',
+  'http://localhost:3000/styles/sepia-tone-memory-comic-style'
 ];
 
   page.on('console', msg => {
