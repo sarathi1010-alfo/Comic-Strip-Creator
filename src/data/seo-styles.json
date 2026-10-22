@@ -2279,5 +2279,25 @@
       "Style",
       "Technique"
     ]
+  },
+  {
+    "slug": "detailed-armor-design-style",
+    "name": "Detailed Armor Design Style",
+    "description": "Create imposing and realistic fantasy or sci-fi characters using the detailed armor design style, focusing on materials, joints, and functional rendering.",
+    "intro": "## Master the Forge with the Detailed Armor Design Style\n\n> **AI Snapshot**: The detailed armor design style focuses heavily on the realistic rendering of materials (metal, leather, cloth), functional mechanical joints, and intricate plating to create believable and imposing protective gear.\n\nDrawing a character in a simple spandex suit is very different from drawing a space marine or a fantasy paladin. The detailed armor design style requires a specific approach to rendering and an understanding of functional [Costume Design](/blog/comic-character-costume-design-guide). It's about making the character look like they are wearing actual weight, not just a painted-on texture.\n\n### Understanding Materials\nArmor is rarely made of just one material. You must learn to render the difference between brushed steel, polished gold, worn leather straps, and the soft cloth tabard worn underneath. Steel requires high-contrast shading with sharp specular highlights, while leather absorbs light and requires softer, textured shading. Use the varied brush tools on our [home page](/) to practice these different textures.\n\n### The Importance of Articulation\nThe biggest mistake beginners make when drawing armor is ignoring how the character will move. A solid tube of metal over the arm means the character can't bend their elbow. You must design articulated joints—overlapping plates (spaulders, couters, poleyns) that allow for a full range of motion. Studying historical armor or modern robotics is essential for making your designs look functionally plausible.",
+    "faqs": [
+      {
+        "question": "How do I make armor look heavy?",
+        "answer": "Focus on the character's posture. A character wearing heavy armor should look grounded, with a wider stance. The armor itself should have thickness, shown by drawing the edges of the plates where they overlap."
+      },
+      {
+        "question": "What is the easiest way to render shiny metal?",
+        "answer": "Use a stark contrast between very dark shadows and pure white, sharp highlights. The transition between light and dark on shiny metal is often sudden, not a smooth gradient."
+      }
+    ],
+    "updatedAt": "2026-10-22",
+    "tags": [
+      "Style"
+    ]
   }
 ]
