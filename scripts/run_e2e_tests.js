@@ -750,7 +750,16 @@ const assert = require('assert');
   'http://localhost:3000/layouts/faded-border-flashback-layout',
   'http://localhost:3000/layouts/montage-time-skip-layout',
   'http://localhost:3000/layouts/split-timeline-panel-layout',
-  'http://localhost:3000/styles/sepia-tone-memory-comic-style'
+  'http://localhost:3000/styles/sepia-tone-memory-comic-style',
+  'http://localhost:3000/blog/comic-character-costume-design-guide',
+  'http://localhost:3000/genres/magical-girl-comic-maker',
+  'http://localhost:3000/genres/super-sentai-comic-creator',
+  'http://localhost:3000/genres/fantasy-rpg-comic-generator',
+  'http://localhost:3000/genres/sci-fi-armor-comic-builder',
+  'http://localhost:3000/layouts/character-turnaround-layout',
+  'http://localhost:3000/layouts/costume-transformation-panel-layout',
+  'http://localhost:3000/layouts/wardrobe-montage-layout',
+  'http://localhost:3000/styles/detailed-armor-design-style',
 ];
 
   page.on('console', msg => {

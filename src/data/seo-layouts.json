@@ -5017,5 +5017,65 @@
       "Layout",
       "Technique"
     ]
+  },
+  {
+    "slug": "character-turnaround-layout",
+    "name": "Character Turnaround Layout",
+    "description": "Showcase a character's design from multiple angles using a standard character turnaround layout, perfect for concept art or introducing new costumes.",
+    "intro": "## Detail Your Designs with a Character Turnaround Layout\n\n> **AI Snapshot**: A character turnaround layout is a non-narrative structure that presents a character from multiple angles (typically front, side, and back) side-by-side to clearly communicate their complete design and proportions.\n\nWhile not typically used for progressing a narrative story, the character turnaround layout is an essential tool for any comic creator, especially when finalizing [Costume Designs](/blog/comic-character-costume-design-guide). It acts as a reference sheet to ensure you draw the character consistently throughout your comic.\n\n### The Standard Views\nA proper turnaround usually consists of three to five figures lined up horizontally. At minimum, you need a straight-on front view, a direct profile (side view), and a straight-on back view. More detailed turnarounds might include a three-quarter view. Ensure the character is in a neutral pose (like an A-pose or T-pose) so the clothing and proportions are not distorted by movement.\n\n### Utilizing Guidelines\nWhen creating a turnaround, draw horizontal guidelines across the page to ensure the character's height, shoulder width, waistline, and knee placement remain perfectly consistent across all the different angles. This structural discipline is critical before you start posing the character dynamically using the tools on our [home page](/).",
+    "faqs": [
+      {
+        "question": "What is the purpose of a character turnaround?",
+        "answer": "It serves as a master reference sheet for the artist (or a team of artists) to ensure the character's proportions, costume details, and colors are drawn consistently from every angle."
+      },
+      {
+        "question": "Should the character be posed in a turnaround?",
+        "answer": "No, they should be in a neutral, relaxed standing pose (often an A-pose) so that the anatomy and costume details are clearly visible and not hidden by overlapping limbs."
+      }
+    ],
+    "updatedAt": "2026-10-22",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "costume-transformation-panel-layout",
+    "name": "Costume Transformation Panel Layout",
+    "description": "Dramatize a character's change of attire with a costume transformation panel layout, focusing on the magical or mechanical details of the shift.",
+    "intro": "## Highlight the Change with a Costume Transformation Panel Layout\n\n> **AI Snapshot**: A costume transformation panel layout breaks down a rapid change of clothing into a rapid sequence of smaller, detailed panels, culminating in a larger reveal panel to emphasize the dramatic shift in a character's identity.\n\nWhether it's a magical girl donning her battle gear or a superhero stepping into an automated armor gantry, the moment a character changes into their iconic [Costume](/blog/comic-character-costume-design-guide) is a major narrative beat. The costume transformation panel layout is designed to maximize the impact of this moment.\n\n### The Micro-Sequence\nInstead of showing the change in one panel, break it down. Use a grid of smaller, tightly focused panels (often horizontal slivers or a rapid 4-panel grid) to show specific details: a boot snapping into place, a gauntlet powering up, or a ribbon wrapping around a wrist. This builds anticipation and highlights the cool factor of the new design.\n\n### The Final Reveal\nThe rapid-fire micro-sequence must culminate in a large \"reveal\" panel. This should be a significant portion of the page (or a full [Splash Page](/layouts/splash-page-comic)), showing the character fully transformed in a dynamic, powerful pose. Use the special effects available in the [Assets Library](/assets) to add glowing energy or dramatic lighting to this final shot.",
+    "faqs": [
+      {
+        "question": "How do I pace a transformation sequence?",
+        "answer": "Start with fast, small panels focusing on tight details (boots, gloves, chest plate) to build speed and anticipation, then slow down time with a large, full-body reveal panel."
+      },
+      {
+        "question": "Can this layout be used for non-magical characters?",
+        "answer": "Absolutely. It works perfectly for a hero suiting up in tactical gear, focusing on the clicking of buckles, the loading of a weapon, and the final adjustment of a mask."
+      }
+    ],
+    "updatedAt": "2026-10-22",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "wardrobe-montage-layout",
+    "name": "Wardrobe Montage Layout",
+    "description": "Show the passage of time or a character's indecision through a rapid sequence of outfit changes using a wardrobe montage layout.",
+    "intro": "## Show the Options with a Wardrobe Montage Layout\n\n> **AI Snapshot**: A wardrobe montage layout uses a borderless or loosely structured grid to show a character in multiple different outfits in rapid succession, often used for comedic effect or to demonstrate preparation for a specific event.\n\nThe classic \"trying on clothes\" montage is a staple of film, and it translates beautifully to comics. A wardrobe montage layout is a fantastic way to experiment with [Character Design](/blog/comic-character-costume-design-guide) and inject humor or personality into a scene without advancing the plot too heavily.\n\n### Breaking the Borders\nTo convey the rapid, chaotic nature of trying on multiple outfits, abandon rigid panel borders. Draw the character several times across the page, perhaps with overlapping figures or connected by swooping action lines to imply quick movement in and out of a dressing room.\n\n### The Rejection Sequence\nThe humor in a wardrobe montage comes from the rejected outfits. Show the character in absurd, ill-fitting, or wildly inappropriate costumes (which you can easily swap out using the [Assets Library](/assets)) before finally settling on the perfect look in the final, clearly defined panel.",
+    "faqs": [
+      {
+        "question": "What is the purpose of a wardrobe montage?",
+        "answer": "It's used to show a character preparing for an event, to inject humor by showing them in silly outfits, or to establish their personality based on what they choose to wear."
+      },
+      {
+        "question": "Do I need to draw the background for every outfit?",
+        "answer": "No. In a montage, it's often better to drop the background entirely or use a simple, unified color wash behind all the figures to focus the reader's attention solely on the changing costumes."
+      }
+    ],
+    "updatedAt": "2026-10-22",
+    "tags": [
+      "Layout"
+    ]
   }
 ]
