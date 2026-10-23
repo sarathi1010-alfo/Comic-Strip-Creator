@@ -753,3 +753,10 @@ GSC Audit Simulation: 0 new coverage issues. URLs are crawlable and indexable.
 - **Social Posts:** Created 12 native posts in `docs/social-posts-costume-design.md`.
 - **Testing:** Playwright E2E subset returned 100% 200 OK statuses for all 9 new URLs. Core editor verification passed. Zombie scan reported 0 issues.
 - **Indexing:** IndexNow API triggered successfully via cURL. Google ping executed (deprecated).
+
+### Execution Log: Advanced Comic Dialogue Techniques (Current Date)
+- **Status:** Complete (Zero Rollbacks)
+- **Content:** Generated Tier 1 article (`/blog/advanced-comic-dialogue-techniques-guide`) and 8 Tier 2 programmatic pages covering witty banter, dramatic monologue, rapid fire comedy, and subtext heavy drama genres; overlapping dialogue, thought bubble exposition, and staggered speech layouts; and typographic focus style.
+- **Internal Linking:** Added retro links from `visual-comedy-slapstick-comic-guide` and `mastering-comic-speech-bubbles-sound-effects` to the new Tier 1 article. Tier 1 article includes links to homepage (`/`) and assets library (`/assets`).
+- **Tests:** 9 URLs added to `scripts/run_e2e_tests.js`. All headless E2E subset checks passed (HTTP 200). Editor functionality confirmed intact. Zombie scan passed.
+- **IndexNow:** Triggered successfully for the 9 new URLs using `api.indexnow.org`.
