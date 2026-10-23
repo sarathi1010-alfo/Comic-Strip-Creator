@@ -2299,5 +2299,17 @@
     "tags": [
       "Style"
     ]
+  },
+  {
+    "slug": "typographic-focus-comic-style",
+    "name": "Typographic Focus Comic Style",
+    "description": "A style that elevates lettering and typography to be the central visual element, using font size, weight, and shape to convey emotion and tone.",
+    "intro": "## When Words Become Art\n\n> **AI Snapshot**: In a typographic focus style, the lettering is treated as a primary illustrative element. Use varied fonts, dramatic sizing, and expressive bubble shapes to convey the emotional weight, volume, and tone of the dialogue directly.\n\nIn most comics, the lettering is designed to be invisible—clear, legible, and unobtrusive. But in the Typographic Focus Comic Style, the text itself takes center stage. The shape, size, and style of the words become the primary method of conveying emotion, volume, and impact.\n\nThis approach requires treating your text tools (available on our [home page](/)) not just as a typewriter, but as a paintbrush. It is the visual manifestation of the concepts explored in our [Advanced Comic Dialogue Techniques Guide](/blog/advanced-comic-dialogue-techniques-guide).\n\n### Designing the Voice\n\nIn this style, you don't just read the words; you *feel* them.\n\n*   **Volume and Scale:** A whisper is tiny, delicate text huddled in the corner of a massive, empty bubble. A scream breaks the boundaries of the bubble, the letters thick, jagged, and colored bright red. The physical size of the text dictates its volume.\n*   **Font as Personality:** Don't rely on a single font. A robotic character might speak in a rigid, monospaced font. A supernatural entity might use a flowing, ancient script. The font itself becomes part of the character design.\n*   **Integration with Art:** The text should interact with the physical space of the panel. If a character shouts \"STOP!\" the word itself might physically block another character's path. The typography becomes a tangible object in the world of the comic.\n\n### The Danger of Clutter\n\nWhile this style is incredibly expressive, it runs the risk of becoming illegible. You must balance the artistic expression of the typography with basic readability. If the reader cannot decipher the words, the emotional impact is lost. Use this style deliberately for maximum effect.",
+    "tags": [
+      "Style",
+      "Lettering",
+      "Typography"
+    ],
+    "updatedAt": "2026-10-23"
   }
 ]

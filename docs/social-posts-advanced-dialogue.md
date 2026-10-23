@@ -1,26 +1,73 @@
-# Social Media Distribution: Advanced Dialogue Techniques
+# Social Media Distribution: Advanced Comic Dialogue Techniques
 
-## Twitter/X (Quick Tips & Engagement)
-1. **Tweet:** Great comic dialogue isn't just about words; it's about the space between them. Master subtext and pacing with our new guide to Advanced Dialogue Techniques. 💬✨ [Link]
-2. **Tweet:** Do your characters all sound like you? Learn how to give them distinct voices, vocabularies, and verbal tics. Read more: [Link]
-3. **Tweet:** The "Rule of Three" for comic scripting: No more than 3 speech bubbles per panel, no more than 3 sentences per bubble. Keep the art breathing! 🎨🗣️ [Link]
+**Target Article:** `/blog/advanced-comic-dialogue-techniques-guide`
+**Primary Goal:** Drive traffic to the new pillar guide, highlight the importance of realistic and engaging dialogue, and provide actionable tips for comic writers.
 
-## Instagram (Visual Showcase)
-4. **Carousel:**
-   - Slide 1: Title: "Stop Writing Boring Comic Dialogue."
-   - Slide 2: "Show, Don't Tell" (Image: Angry character with a blank speech bubble vs. character saying "I'm angry").
-   - Slide 3: "Use Subtext" (Image: Characters arguing over coffee while clearly mad about something else).
-   - Slide 4: "Pacing with Bubbles" (Image: Showing how bubble placement guides the eye).
-   - Slide 5: CTA: "Read the full guide. Link in bio!"
-5. **Reel:** A 30-second screen recording showing a static, dialogue-heavy panel being transformed into a dynamic "walk and talk" scene using ComicFlow's editor.
-6. **Static Post:** An infographic showing the "Rule of Three" for speech bubbles over a beautiful piece of comic art. Caption: "Don't drown your art in text. Learn how to balance dialogue and visuals."
-7. **Story:** A quick poll: "What's harder to write: Action scenes or emotional dialogue?" followed by a swipe-up link to the new guide.
+---
 
-## Pinterest (Inspiration & Tutorials)
-8. **Pin 1 (Infographic):** "5 Tips for Writing Better Comic Dialogue" (Tall graphic with bullet points on Subtext, Character Voice, Pacing, Formatting, and Action Integration).
-9. **Pin 2 (Comparison Graphic):** "On-the-Nose vs. Subtext" showing two versions of the same conversation to illustrate the power of unspoken tension.
-10. **Pin 3 (Typography Focus):** "Using Fonts to Show Emotion in Comics" (Visual examples of bolding, jagged bubbles, and whisper bubbles).
+## Twitter / X (Quick Tips & Engagement)
 
-## Reddit (Discussion & Value-Add)
-11. **Post in r/ComicBookCollabs / r/writing:** "I put together a comprehensive guide on Advanced Dialogue Techniques specifically for comics. It covers subtext, pacing with speech bubbles, and avoiding the 'talking head' syndrome. Happy to answer any scripting questions!"
-12. **Post in r/comics (if allowed) or r/learnart:** "How do you make your characters sound distinct? I just published a breakdown on vocabulary, rhythm, and verbal tics in comic scripting. What's your favorite technique?"
+**Post 1 (The Hook):**
+Great art can't save bad dialogue. 💬 Do your characters all sound the same? Learn how to master distinct voices and subtext in our new Advanced Comic Dialogue Guide: [Link] #ComicWriting #MakeComics #Storytelling
+
+**Post 2 (Actionable Tip):**
+Writing Tip: The Rule of Thirds for Bubbles. Never let dialogue cover more than 1/3 of your panel art! If it does, break it up or cut it down. ✂️ Learn more pacing tricks here: [Link] #WritingTips #IndieComics
+
+**Post 3 (Engagement Question):**
+Which comic book character has the most distinct, recognizable "voice" in your opinion? (Even without seeing their face, you know it's them). Let's discuss! 👇 #ComicBooks #CharacterDesign
+
+**Post 4 (Tool Highlight):**
+Want to create chaotic, realistic arguments in your comics? Use ComicFlow to overlap speech bubbles and simulate characters talking over each other! 🗯️ Try it out: [Link] #ComicCreator #Webtoon
+
+---
+
+## Instagram (Visual Carousels & Reels)
+
+**Post 5 (Carousel - Subtext Explained):**
+*   **Slide 1 (Graphic):** Bold text: "What is Subtext in Dialogue?"
+*   **Slide 2 (Graphic):** Text: "What they say: 'I'm fine.'" + Image: Character tightly gripping a coffee cup, looking away.
+*   **Slide 3 (Graphic):** Text: "What they mean: 'I am absolutely not fine, but I refuse to talk about it.'"
+*   **Slide 4 (Graphic):** Text: "Subtext creates tension by making the art contradict the words."
+*   **Slide 5 (CTA):** "Read the full Advanced Dialogue Guide at the link in bio!"
+*   **Caption:** Don't let your characters say exactly what they mean. Master the art of subtext. 🤫 Link in bio for the full guide! #WritingCommunity #ComicArt #WebcomicTips
+
+**Post 6 (Reel - The Staggered Speech Trick):**
+*   **Video:** Screen recording showing a massive "wall of text" speech bubble. It is then deleted and replaced with three smaller, staggered panels, each containing a piece of the dialogue and showing a slight change in the character's expression.
+*   **Audio:** Trending, slightly dramatic instrumental.
+*   **Text Overlay:** "Stop using Walls of Text!" -> "Stagger speech for better pacing and acting."
+*   **Caption:** Pacing is everything. Break up those long monologues! ⏱️ Read our full guide on dialogue pacing at the link in bio.
+
+**Post 7 (Static Image - Action & Dialogue):**
+*   **Graphic:** A split image. Left: Two characters standing stiffly in an empty room, talking (marked with an X). Right: The same characters having the same conversation while aggressively sparring (marked with a check).
+*   **Caption:** Say no to "talking heads"! Give your characters something physical to do during serious conversations. It adds visual interest and metaphor. Learn how: Link in bio. 💥 #VisualStorytelling #ComicFlow
+
+---
+
+## Pinterest (Infographics & Inspiration)
+
+**Post 8 (Infographic - Character Voices):**
+*   **Image:** A visual breakdown of three character types (Academic, Brawler, Nervous) with examples of their distinct syntax and vocabulary.
+*   **Title/Pin:** How to Write Distinct Character Voices in Comics.
+*   **Description:** Learn how to use vocabulary, slang, and sentence structure to make every character in your comic sound unique. Click to read the full guide.
+
+**Post 9 (Infographic - Overlapping Speech):**
+*   **Image:** A clear diagram showing how to overlap speech bubbles and use em dashes (—) to show characters interrupting each other.
+*   **Title/Pin:** Formatting Overlapping Comic Dialogue.
+*   **Description:** Make your comic conversations feel chaotic and real! Learn the advanced layout techniques for overlapping speech bubbles.
+
+**Post 10 (Inspiration Board):**
+*   **Image:** A collage of different dialogue-heavy comic styles, including dramatic monologues, witty banter, and subtext-heavy drama.
+*   **Title/Pin:** Comic Dialogue & Lettering Inspiration.
+*   **Description:** From typography as art to perfectly paced banter, explore the advanced techniques of comic book lettering and dialogue.
+
+---
+
+## Reddit (Value-Driven Community Posts)
+
+**Post 11 (r/ComicBookCollabs):**
+*   **Title:** Writers: How do you handle subtext when handing a script to an artist?
+*   **Body:** I just finished writing a massive guide on Advanced Comic Dialogue [Link]. One of the hardest things seems to be writing subtext—when the dialogue says one thing, but the art needs to convey the true emotion. Writers, how do you format this in your scripts? Do you add explicit acting notes for the artist? Let's discuss!
+
+**Post 12 (r/comic_crits):**
+*   **Title:** A guide on Advanced Comic Dialogue Techniques (Pacing, Subtext, Overlapping Speech).
+*   **Body:** We often focus so much on the art that the dialogue gets left behind. I put together a guide [Link] covering how to control pacing with bubble placement, how to write distinct voices, and how to format chaotic, overlapping conversations. Hope this helps some of you refine your scripts!

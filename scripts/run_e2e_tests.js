@@ -760,6 +760,16 @@ const assert = require('assert');
   'http://localhost:3000/layouts/costume-transformation-panel-layout',
   'http://localhost:3000/layouts/wardrobe-montage-layout',
   'http://localhost:3000/styles/detailed-armor-design-style',
+
+  'http://localhost:3000/blog/advanced-comic-dialogue-techniques-guide',
+  'http://localhost:3000/genres/witty-banter-comic-maker',
+  'http://localhost:3000/genres/dramatic-monologue-comic-creator',
+  'http://localhost:3000/genres/rapid-fire-comedy-comic-generator',
+  'http://localhost:3000/genres/subtext-heavy-drama-comic-builder',
+  'http://localhost:3000/layouts/overlapping-dialogue-layout',
+  'http://localhost:3000/layouts/thought-bubble-exposition-layout',
+  'http://localhost:3000/layouts/staggered-speech-panel-layout',
+  'http://localhost:3000/styles/typographic-focus-comic-style'
 ];
 
   page.on('console', msg => {
