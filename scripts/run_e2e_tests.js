@@ -770,6 +770,16 @@ const assert = require('assert');
   'http://localhost:3000/layouts/thought-bubble-exposition-layout',
   'http://localhost:3000/layouts/staggered-speech-panel-layout',
   'http://localhost:3000/styles/typographic-focus-comic-style'
+,
+  'http://localhost:3000/blog/advanced-comic-color-psychology-guide-2026',
+  'http://localhost:3000/genres/cyberpunk-neon-noir-comic-creator',
+  'http://localhost:3000/genres/wholesome-slice-of-life-comic-maker',
+  'http://localhost:3000/genres/lovecraftian-horror-comic-generator',
+  'http://localhost:3000/genres/retro-futuristic-sci-fi-comic-builder',
+  'http://localhost:3000/layouts/mood-based-color-coded-layout',
+  'http://localhost:3000/layouts/nostalgic-sepia-flashback-layout',
+  'http://localhost:3000/layouts/hyper-saturated-action-layout',
+  'http://localhost:3000/styles/soft-pastel-watercolor-style'
 ];
 
   page.on('console', msg => {
