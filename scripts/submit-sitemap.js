@@ -1,4 +1,4 @@
-/**
+const INDEXNOW_KEY = process.env.INDEXNOW_KEY || 'c4d2843d1a8e4e999c0d10b7f8c5f590';/**
  * scripts/submit-sitemap.js
  *
  * Programmatically submits sitemaps to the Google Search Console API.
