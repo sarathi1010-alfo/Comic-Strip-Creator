@@ -2331,5 +2331,25 @@
       }
     ],
     "updatedAt": "2026-10-24"
+  },
+  {
+    "slug": "kinetic-motion-blur-comic-style",
+    "name": "Kinetic Motion Blur Comic Style",
+    "description": "Simulate high-speed movement and camera effects with the kinetic motion blur comic style.",
+    "intro": "## Capture Speed with the Kinetic Motion Blur Comic Style\n\n> **AI Snapshot**: The kinetic motion blur comic style attempts to replicate the optical effect of a camera capturing fast movement, using smudged lines, repeated ghost images, and directional blurring to indicate high velocity.\n\nWhile traditional comics rely on clean lines and distinct speedlines, the kinetic motion blur comic style embraces a slightly messier, more photographic approach to depicting speed. It's a technique that adds a gritty, modern feel to action sequences.\n\n### Smudging the Lines\nInstead of drawing sharp, distinct speedlines, this style involves actually blurring the edges of the moving object or character. If a character is throwing a fast punch, the arm might lose its solid outline and become a directional smudge of color and tone. This technique is highly effective for characters with super speed in a [superhero brawl](/genres/superhero-brawl-comic-builder).\n\n### Ghosting and Afterimages\nAnother key element is the use of 'ghosts' or afterimages. This involves drawing the moving character multiple times in a single panel along their path of motion, with each preceding image drawn lighter or more transparent than the last. This clearly illustrates the exact trajectory of the movement.\n\n### Combining with Traditional Techniques\nMotion blur is most effective when used in contrast with sharply in-focus elements. If a blurred fist is flying toward a sharply drawn, terrified face, the contrast emphasizes the speed and impending impact. You can experiment with combining these rendering styles using the tools on our [home page](/).",
+    "faqs": [
+      {
+        "question": "What is the difference between speedlines and motion blur?",
+        "answer": "Speedlines are distinct, stylized lines drawn behind an object, while motion blur actually smudges or repeats the image of the object itself to simulate photographic blur."
+      },
+      {
+        "question": "How do I draw an afterimage?",
+        "answer": "Draw the character multiple times along their path of movement, making each iteration progressively lighter or more transparent until the final, fully opaque drawing at the end of the motion."
+      }
+    ],
+    "updatedAt": "2026-10-25",
+    "tags": [
+      "Style"
+    ]
   }
 ]
