@@ -5173,5 +5173,65 @@
       }
     ],
     "updatedAt": "2026-10-24"
+  },
+  {
+    "slug": "speedline-action-panel-layout",
+    "name": "Speedline Action Panel Layout",
+    "description": "Enhance the feeling of velocity and direction with the speedline action panel layout.",
+    "intro": "## Inject Velocity with a Speedline Action Panel Layout\n\n> **AI Snapshot**: The speedline action panel layout utilizes heavy, directional lines within and sometimes breaking out of the panels to create a profound sense of high-speed movement and kinetic energy.\n\nWhen a character is moving so fast the background becomes a blur, you need a layout that supports that velocity. The speedline action panel layout is designed to prioritize motion over environment, pulling the reader's eye rapidly in the direction of the action.\n\n### Creating the Tunnel Vision Effect\nIn this layout, the background is often entirely replaced by converging speedlines. This creates a 'tunnel vision' effect, focusing the reader's absolute attention on the moving character or object. The lines should point toward the destination of the movement or converge on the point of impact.\n\n### Breaking the Borders for Speed\nTo truly sell the speed, allow the character or the speedlines themselves to break out of the panel borders. This implies that the action is moving too fast to be contained within the standard grid. You can experiment with this technique using the panel editor on the [home page](/).\n\n### Density and Direction\nThe thickness and spacing of the speedlines matter. Thick, dense lines imply raw power and incredible speed, often seen in [shonen battle manga](/genres/shonen-battle-manga-creator). Thinner, sparser lines might suggest a quick, elegant movement, like a martial artist dodging a strike.",
+    "faqs": [
+      {
+        "question": "What is the primary purpose of speedlines?",
+        "answer": "Speedlines replace or obscure the background to create a visual representation of high-speed motion, directing the reader's eye along the path of movement."
+      },
+      {
+        "question": "How can I make speedlines look more dynamic?",
+        "answer": "Vary the line weight, ensure they all converge logically toward a focal point, and allow them or the moving character to break the panel borders."
+      }
+    ],
+    "updatedAt": "2026-10-25",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "impact-frame-climax-layout",
+    "name": "Impact Frame Climax Layout",
+    "description": "Deliver maximum visual shock for finishing blows with the impact frame climax layout.",
+    "intro": "## Deliver the Final Blow with an Impact Frame Climax Layout\n\n> **AI Snapshot**: An impact frame climax layout uses sudden, extreme contrast—often inverting colors or flashing to stark black and white—for a single panel to visually simulate the concussive force of a major strike.\n\nWhen a fight reaches its conclusion, the final blow needs to feel different from every punch that came before it. The impact frame climax layout borrows a technique from high-octane animation to deliver a visual shock to the reader.\n\n### The Visual Shock of Inversion\nThe core of this layout is a sudden disruption of the established color palette. If the scene has been richly colored, the moment of impact might be rendered entirely in high-contrast black and white, or the colors might be completely inverted. This jarring shift simulates a camera flashing or the momentary blinding effect of a massive concussion.\n\n### Stripping Away the Detail\nDuring an impact frame, less is more. Strip away the background completely. Focus only on the striking limb, the point of contact, and the immediate reaction. Use heavy, jagged shapes (impact stars) to represent the energy transfer. You can find pre-made impact assets in the [Assets Library](/assets).\n\n### Pacing the Build-Up\nAn impact frame only works if it is earned. It must be preceded by panels that build anticipation—the winding up of the punch, the determined look on the character's face. The layout should guide the reader rapidly toward the sudden, visually distinct climax.",
+    "faqs": [
+      {
+        "question": "What is an impact frame in comics?",
+        "answer": "It is a panel that drastically changes the established art style—often by stripping away detail and using extreme, inverted, or monochromatic color—to emphasize the shock and power of a major impact."
+      },
+      {
+        "question": "Why should I remove the background in an impact frame?",
+        "answer": "Removing the background eliminates distractions, forcing the reader to focus entirely on the point of contact and the raw energy of the blow."
+      }
+    ],
+    "updatedAt": "2026-10-25",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "widescreen-cinematic-combat-layout",
+    "name": "Widescreen Cinematic Combat Layout",
+    "description": "Capture the full scale and grandeur of an epic battle with the widescreen cinematic combat layout.",
+    "intro": "## Capture the Epic Scale with a Widescreen Cinematic Combat Layout\n\n> **AI Snapshot**: The widescreen cinematic combat layout utilizes wide, horizontal panels that span the width of the page to emulate a movie screen, perfect for establishing large battlefields and showing multiple characters in action simultaneously.\n\nNot all fights are one-on-one duels in tight spaces. When armies clash or giant monsters attack, you need a layout that can contain the spectacle. The widescreen cinematic combat layout uses the page's width to create a sense of sweeping grandeur.\n\n### Emulating the Silver Screen\nBy using primarily wide, horizontal panels, you force the reader's eye to sweep across the page, much like watching a movie on a wide screen. This format is ideal for establishing shots of a battlefield, showing the sheer number of combatants, or depicting the sprawling destruction of a [mecha combat comic](/genres/mecha-combat-comic-generator).\n\n### Managing Multiple Focal Points\nIn a widescreen panel, you often have more than one thing happening. You must carefully compose the scene so the reader knows where to look first, second, and third. Use the environment, lighting, or the characters' lines of action to guide the eye across the wide space without causing confusion.\n\n### Slowing Down the Pace\nWide panels naturally slow down the reading pace because they contain more information and take longer to scan. This layout is less about frantic, rapid-fire action and more about the heavy, deliberate impact of massive forces colliding. Practice this pacing technique on the [home page](/).",
+    "faqs": [
+      {
+        "question": "When should I use a widescreen panel layout?",
+        "answer": "Use it when you need to show the massive scale of a battle, establish a large environment, or depict multiple characters fighting simultaneously in a wide area."
+      },
+      {
+        "question": "How does a widescreen layout affect pacing?",
+        "answer": "It tends to slow down the reading pace, as the reader's eye must travel across a wider area to absorb all the detailed information presented in the expansive panel."
+      }
+    ],
+    "updatedAt": "2026-10-25",
+    "tags": [
+      "Layout"
+    ]
   }
 ]

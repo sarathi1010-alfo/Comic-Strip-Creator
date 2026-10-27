@@ -6692,5 +6692,85 @@
       }
     ],
     "updatedAt": "2026-10-24"
+  },
+  {
+    "slug": "shonen-battle-manga-creator",
+    "name": "Shonen Battle Manga Creator",
+    "description": "Create high-stakes tournaments and intense fights with the shonen battle manga creator.",
+    "intro": "## Unleash Your Inner Hero with a Shonen Battle Manga Creator\n\n> **AI Snapshot**: A shonen battle manga creator specializes in high-energy, combat-focused narratives characterized by explosive action, deep character power scaling, and themes of friendship and perseverance.\n\nShonen manga is synonymous with epic battles and unstoppable willpower. To effectively tell a story in this genre, your artwork needs to match the intensity of the narrative. A shonen battle manga creator provides the tools to translate raw energy onto the page, focusing heavily on dynamic action sequencing and exaggerated character expressions.\n\n### Mastering the Power Scaling\nA core trope of shonen is the gradual increase in a character's power. This needs to be reflected visually. Early fights might use simpler speedlines and smaller impact stars. As characters unlock new abilities, the visual effects must escalate—larger explosions, more complex energy auras, and panel layouts that barely contain the action. The [widescreen cinematic combat layout](/layouts/widescreen-cinematic-combat-layout) is perfect for these climactic moments.\n\n### The Importance of the Rivalry\nShonen thrives on rivalries. Visually communicating the contrast between the protagonist and their rival is crucial. Use opposing color palettes or distinct visual motifs (e.g., jagged lines vs. smooth curves) to highlight their differences even before they clash. You can build out these contrasting designs using the character customization options in the [Assets Library](/assets).\n\n### Pacing the Tournament Arc\nThe tournament arc is a staple of the genre. When pacing these sequences, remember that not every fight needs to be a drawn-out epic. Use quick, multi-panel spreads for minor bouts, and save the full-page spreads for the main events to ensure the reader doesn't suffer from action fatigue.",
+    "faqs": [
+      {
+        "question": "What defines a shonen battle manga?",
+        "answer": "It is characterized by action-packed storylines, themes of friendship and overcoming insurmountable odds, and a focus on characters growing stronger through combat and training."
+      },
+      {
+        "question": "How do I make my fight scenes look intense?",
+        "answer": "Utilize dynamic poses, heavy speedlines, varied panel sizes to dictate pacing, and strong visual effects for impacts and energy attacks."
+      }
+    ],
+    "updatedAt": "2026-10-25",
+    "tags": [
+      "Genre"
+    ]
+  },
+  {
+    "slug": "martial-arts-action-comic-maker",
+    "name": "Martial Arts Action Comic Maker",
+    "description": "Choreograph intricate hand-to-hand combat sequences with the martial arts action comic maker.",
+    "intro": "## Choreograph Perfection with a Martial Arts Action Comic Maker\n\n> **AI Snapshot**: A martial arts action comic maker focuses on realistic anatomy, precise choreography, and fluid motion to accurately depict hand-to-hand combat styles and techniques.\n\nUnlike stories that rely on magical blasts or giant robots, martial arts comics require a deep understanding of human anatomy and physics. A martial arts action comic maker helps you break down complex, rapid movements into a series of understandable, impactful static images.\n\n### The Importance of Anatomy and Stance\nIf a character's stance is wrong, the entire fight loses credibility. You must understand how weight is distributed during a kick or a punch. The line of action is crucial here; a strong line through the character's body makes the strike look powerful. Utilize our [Dynamic Comic Poses Guide](/blog/dynamic-comic-poses-guide) to ensure your foundational drawings are solid before adding details.\n\n### Fluidity Between Panels\nA martial arts fight is a dance. The reader must be able to follow the flow of movement from one panel to the next. If panel one shows a character winding up a kick, panel two must logically follow that trajectory. Avoid jumping around the scene too much; maintain the 180-degree rule to keep the spatial relationship between fighters clear.\n\n### Focusing on the Details\nSometimes the most impactful moments in a martial arts fight aren't the wide shots of a flying kick, but the close-ups of a pivoting foot, a tightened grip, or a bead of sweat. Use small, insert panels to highlight these details and build tension before the final blow lands. Experiment with these pacing techniques on the [home page](/).",
+    "faqs": [
+      {
+        "question": "How do I draw a realistic martial arts fight?",
+        "answer": "Focus heavily on accurate anatomy, proper weight distribution in stances, and maintaining a clear line of action to ensure strikes look forceful and grounded."
+      },
+      {
+        "question": "Why is panel continuity important in martial arts comics?",
+        "answer": "Because the combat is physical and intricate, readers need to easily track the flow of movement. Poor continuity makes the fight confusing and less impactful."
+      }
+    ],
+    "updatedAt": "2026-10-25",
+    "tags": [
+      "Genre"
+    ]
+  },
+  {
+    "slug": "mecha-combat-comic-generator",
+    "name": "Mecha Combat Comic Generator",
+    "description": "Design giant robots and epic sci-fi battles using the mecha combat comic generator.",
+    "intro": "## Build Giant Robots with a Mecha Combat Comic Generator\n\n> **AI Snapshot**: A mecha combat comic generator provides tools for designing intricate robotic armor and staging massive-scale battles that emphasize the weight, power, and mechanical detail of giant robots.\n\nThe mecha genre is all about scale and mechanical complexity. Whether it's realistic military walkers or fantastical super robots, a mecha combat comic generator helps you manage the intricate details required to make these machines look believable and imposing.\n\n### Conveying Massive Scale\nThe biggest challenge in mecha comics is making the robots look huge. You achieve this through perspective and context. Always include elements of known size—buildings, trees, or tiny human figures—in the frame to establish scale. A low camera angle (looking up at the mecha) instantly makes it appear dominant and massive.\n\n### The Weight of Movement\nGiant robots don't move like humans; they carry immense weight. Their movements should feel deliberate and heavy. When a mecha lands from a jump, the impact should be visually represented by cracked earth, debris, and perhaps a slight blurring of the surrounding area to indicate a shockwave. Utilize the environmental props in the [Assets Library](/assets) to show the collateral damage of their movement.\n\n### Mechanical Detail and Damage\nMecha designs require a high level of mechanical detail—panel lines, joints, thrusters. Furthermore, as battles progress, showing battle damage (scorch marks, torn armor, exposed wiring) is crucial for raising the stakes. The pristine robot in panel one should look battered by the climax, a technique often paired with an [impact frame climax layout](/layouts/impact-frame-climax-layout).",
+    "faqs": [
+      {
+        "question": "How do I make a mecha look giant?",
+        "answer": "Use low camera angles and always include objects of a known, smaller scale (like humans or cars) in the panel for comparison."
+      },
+      {
+        "question": "How should a mecha move differently than a person?",
+        "answer": "A mecha's movement should reflect its massive weight, appearing more deliberate and causing noticeable impact (like tremors or debris) when interacting with the environment."
+      }
+    ],
+    "updatedAt": "2026-10-25",
+    "tags": [
+      "Genre"
+    ]
+  },
+  {
+    "slug": "superhero-brawl-comic-builder",
+    "name": "Superhero Brawl Comic Builder",
+    "description": "Stage epic clashes between super-powered beings with the superhero brawl comic builder.",
+    "intro": "## Clash of Titans with a Superhero Brawl Comic Builder\n\n> **AI Snapshot**: A superhero brawl comic builder facilitates the creation of visually spectacular fights featuring diverse superpowers, combining elements of martial arts, energy projection, and environmental destruction.\n\nSuperhero fights are often chaotic and over-the-top, mixing various combat styles and superhuman abilities. A superhero brawl comic builder helps you balance this chaos, ensuring the action remains readable while still feeling spectacularly powerful.\n\n### Blending Power Sets\nThe key to a great superhero brawl is how different powers interact. How does a speedster fight a character with super strength? You must visually represent these conflicting abilities. A speedster might be drawn with heavy [kinetic motion blur](/styles/kinetic-motion-blur-comic-style), darting around a heavily inked, static powerhouse. Contrast is your best tool for clarity.\n\n### Environmental Destruction\nWhen gods clash, the world breaks. Superhero brawls should cause significant collateral damage. Smashing characters through buildings, throwing cars, and cratering the ground sells the immense power on display. Treat the environment as a secondary combatant in the scene.\n\n### The Splash Page Climax\nSuperhero comics frequently utilize the splash page (a single image taking up a full page or two pages) for the climax of a fight. This is where you pull out all the stops—the biggest explosion, the most dramatic pose, the most intense colors. Use the layout tools on the [home page](/) to practice dedicating maximum real estate to your most important action beats.",
+    "faqs": [
+      {
+        "question": "How do I balance multiple superpowers in one fight?",
+        "answer": "Use distinct visual signatures for each power (e.g., specific colors, line styles, or blur effects) to ensure the reader can clearly distinguish who is doing what."
+      },
+      {
+        "question": "When should I use a splash page?",
+        "answer": "Reserve splash pages for the most critical, high-impact moments of the fight, such as the final finishing blow or a massive reveal of a character's full power."
+      }
+    ],
+    "updatedAt": "2026-10-25",
+    "tags": [
+      "Genre"
+    ]
   }
 ]

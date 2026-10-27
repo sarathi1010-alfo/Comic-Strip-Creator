@@ -781,3 +781,10 @@ GSC Audit Simulation: 0 new coverage issues. URLs are crawlable and indexable.
   * /layouts/hyper-saturated-action-layout
   * /styles/soft-pastel-watercolor-style
 * **Action:** IndexNow API triggered for the above 9 URLs. E2E tests verified 200 OK responses and proper headless rendering. Retroactive inbound links added to 'comic-color-theory-guide' and 'slice-of-life-comic-ideas'.
+
+### Execution Log: Dynamic Action Sequencing in Comics (Current Date)
+- **Status:** Complete (Zero Rollbacks)
+- **Content:** Generated Tier 1 article (`/blog/dynamic-action-sequencing-comics-guide`) and 8 Tier 2 programmatic pages covering shonen battle manga, martial arts action, mecha combat, superhero brawl genres; speedline action, impact frame climax, widescreen cinematic combat layouts; and kinetic motion blur style.
+- **Internal Linking:** Added retro links from `mastering-comic-pacing-guide` and `dynamic-comic-poses-guide` to the new Tier 1 article. Tier 1 article includes links to homepage (`/`) and assets library (`/assets`).
+- **Tests:** 9 URLs added to `scripts/run_e2e_tests.js`. All headless E2E subset checks passed (HTTP 200). Editor functionality confirmed intact. Zombie scan passed.
+- **IndexNow:** Triggered successfully for the 9 new URLs using `api.indexnow.org`.
