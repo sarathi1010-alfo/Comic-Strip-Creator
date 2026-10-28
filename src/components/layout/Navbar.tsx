@@ -51,7 +51,7 @@ export function Navbar() {
           </Link>
 
           <Link href="/editor">
-            <Button size="sm" className="font-bold">Open Editor</Button>
+            <Button size="sm" className="font-bold min-h-[44px] min-w-[44px]">Open Editor</Button>
           </Link>
         </nav>
       </div>

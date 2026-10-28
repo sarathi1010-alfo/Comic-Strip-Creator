@@ -52,9 +52,9 @@ export function Footer() {
         <div>
           <h3 className="font-bold mb-4">Social</h3>
           <ul className="space-y-2 text-sm text-muted-foreground">
-            <li><a href="https://twitter.com/alfo_online" className="hover:text-primary transition-colors">Twitter</a></li>
-            <li><a href="https://github.com" className="hover:text-primary transition-colors">GitHub</a></li>
-            <li><a href="https://linkedin.com" className="hover:text-primary transition-colors">LinkedIn</a></li>
+            <li><a href="https://x.com" target="_blank" rel="noreferrer" className="hover:text-primary transition-colors py-1 inline-block">Twitter / X</a></li>
+            <li><a href="https://github.com" target="_blank" rel="noreferrer" className="hover:text-primary transition-colors py-1 inline-block">GitHub</a></li>
+            <li><a href="https://linkedin.com" target="_blank" rel="noreferrer" className="hover:text-primary transition-colors py-1 inline-block">LinkedIn</a></li>
           </ul>
         </div>
       </div>
