@@ -382,9 +382,7 @@ Allow: /
 ------------------------------------------------------------------------------
 SITEMAPS – COMICFLOW.ALFO.ONLINE
 ------------------------------------------------------------------------------
-Sitemap: ${baseUrl}/sitemap.xml
-Sitemap: ${baseUrl}/sitemap-articles.xml
-Sitemap: ${baseUrl}/sitemap-products.xml`;
+Sitemap: ${baseUrl}/sitemap.xml`;
 
   return new NextResponse(robotsTxt, {
     headers: {
