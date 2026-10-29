@@ -4,6 +4,16 @@ const assert = require('assert');
   const browser = await chromium.launch({ headless: true });
   const page = await browser.newPage();
     const urlsToTest = [
+  'http://localhost:3000/blog/advanced-comic-color-psychology-guide-2026',
+  'http://localhost:3000/genres/cyberpunk-neon-noir-comic-creator',
+  'http://localhost:3000/genres/wholesome-slice-of-life-comic-maker',
+  'http://localhost:3000/genres/lovecraftian-horror-comic-generator',
+  'http://localhost:3000/genres/retro-futuristic-sci-fi-comic-builder',
+  'http://localhost:3000/layouts/mood-based-color-coded-layout',
+  'http://localhost:3000/layouts/nostalgic-sepia-flashback-layout',
+  'http://localhost:3000/layouts/hyper-saturated-action-layout',
+  'http://localhost:3000/styles/soft-pastel-watercolor-style',
+
   'http://localhost:3000/blog/dynamic-action-sequencing-comics-guide',
   'http://localhost:3000/genres/shonen-battle-manga-creator',
   'http://localhost:3000/genres/martial-arts-action-comic-maker',

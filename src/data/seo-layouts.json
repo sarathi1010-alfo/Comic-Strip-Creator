@@ -5233,5 +5233,53 @@
     "tags": [
       "Layout"
     ]
+  },
+  {
+    "slug": "mood-based-color-coded-layout",
+    "name": "Mood-Based Color-Coded Layout",
+    "description": "Use color coding across panels to dictate and shift the mood of the scene.",
+    "intro": "## Utilizing Mood-Based Color-Coding\n\n> **AI Snapshot**: This layout relies on shifts in overall color palette to indicate changes in mood, time, or perspective across different panels, enhancing the emotional impact of the narrative.\n\nThis layout technique provides a unique way to structure your narrative flow on the page.\nBy carefully arranging panels, you can control the pacing, emphasize key moments, and guide the reader's eye effectively.\nUnderstanding the spatial relationships between panels is essential for mastering this layout and elevating your visual storytelling.\nThis layout technique provides a unique way to structure your narrative flow on the page.\nBy carefully arranging panels, you can control the pacing, emphasize key moments, and guide the reader's eye effectively.\nUnderstanding the spatial relationships between panels is essential for mastering this layout and elevating your visual storytelling.\nThis layout technique provides a unique way to structure your narrative flow on the page.\nBy carefully arranging panels, you can control the pacing, emphasize key moments, and guide the reader's eye effectively.\nUnderstanding the spatial relationships between panels is essential for mastering this layout and elevating your visual storytelling.\n",
+    "faqs": [
+      {
+        "question": "How does color coding help a layout?",
+        "answer": "It helps readers immediately grasp the emotional tone or setting of a panel before reading any text."
+      }
+    ],
+    "updatedAt": "2026-10-29",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "nostalgic-sepia-flashback-layout",
+    "name": "Nostalgic Sepia Flashback Layout",
+    "description": "Frame memories and past events effectively using sepia tones and distinct borders.",
+    "intro": "## Framing the Past with Sepia\n\n> **AI Snapshot**: Sepia tones and softened panel borders immediately signal a flashback or memory, visually separating past events from the present narrative timeline.\n\nThis layout technique provides a unique way to structure your narrative flow on the page.\nBy carefully arranging panels, you can control the pacing, emphasize key moments, and guide the reader's eye effectively.\nUnderstanding the spatial relationships between panels is essential for mastering this layout and elevating your visual storytelling.\nThis layout technique provides a unique way to structure your narrative flow on the page.\nBy carefully arranging panels, you can control the pacing, emphasize key moments, and guide the reader's eye effectively.\nUnderstanding the spatial relationships between panels is essential for mastering this layout and elevating your visual storytelling.\nThis layout technique provides a unique way to structure your narrative flow on the page.\nBy carefully arranging panels, you can control the pacing, emphasize key moments, and guide the reader's eye effectively.\nUnderstanding the spatial relationships between panels is essential for mastering this layout and elevating your visual storytelling.\n",
+    "faqs": [
+      {
+        "question": "Why use sepia for flashbacks?",
+        "answer": "Sepia evokes the look of old photographs, creating a strong, intuitive visual association with the past and nostalgia."
+      }
+    ],
+    "updatedAt": "2026-10-29",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "hyper-saturated-action-layout",
+    "name": "Hyper-Saturated Action Layout",
+    "description": "Boost the energy of action sequences using hyper-saturated colors and dynamic panel shapes.",
+    "intro": "## Elevating Action with Hyper-Saturation\n\n> **AI Snapshot**: Pushing the saturation of colors during key action beats increases the visual intensity and energy, making the impacts and movements feel more powerful.\n\nThis layout technique provides a unique way to structure your narrative flow on the page.\nBy carefully arranging panels, you can control the pacing, emphasize key moments, and guide the reader's eye effectively.\nUnderstanding the spatial relationships between panels is essential for mastering this layout and elevating your visual storytelling.\nThis layout technique provides a unique way to structure your narrative flow on the page.\nBy carefully arranging panels, you can control the pacing, emphasize key moments, and guide the reader's eye effectively.\nUnderstanding the spatial relationships between panels is essential for mastering this layout and elevating your visual storytelling.\nThis layout technique provides a unique way to structure your narrative flow on the page.\nBy carefully arranging panels, you can control the pacing, emphasize key moments, and guide the reader's eye effectively.\nUnderstanding the spatial relationships between panels is essential for mastering this layout and elevating your visual storytelling.\n",
+    "faqs": [
+      {
+        "question": "When should I use hyper-saturation?",
+        "answer": "Use it sparingly for the most intense moments of action or conflict to maximize its impact without overwhelming the reader."
+      }
+    ],
+    "updatedAt": "2026-10-29",
+    "tags": [
+      "Layout"
+    ]
   }
 ]
