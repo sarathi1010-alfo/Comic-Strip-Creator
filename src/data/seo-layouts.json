@@ -5281,5 +5281,65 @@
     "tags": [
       "Layout"
     ]
+  },
+  {
+    "slug": "overlapping-dialogue-layout",
+    "name": "Overlapping Dialogue Panel Layout – Chaotic Conversation",
+    "description": "Master the overlapping dialogue panel layout to visually represent chaotic, rapid-fire conversations and interruptions.",
+    "intro": "## Convey Chaos with the Overlapping Dialogue Panel Layout\n\n> **AI Snapshot**: The overlapping dialogue panel layout uses the physical overlapping of speech bubbles to visually simulate characters interrupting each other or talking simultaneously, increasing the perceived speed of the conversation.\n\nWhen characters are arguing, panicked, or just extremely excited, they don't wait for their turn to speak. The overlapping dialogue layout is the visual equivalent of this chaotic communication.\n\n### Breaking the Bubble Border\nTo effectively show an interruption, the interrupting speech bubble must physically break the border of the preceding bubble. This visual intrusion immediately tells the reader that the first speaker was cut off. Practice layering bubbles on the [home page](/).\n\n### Guiding the Eye\nWhile overlapping bubbles convey chaos, they must still be readable. Ensure the order of the bubbles naturally guides the reader's eye (typically left to right, top to bottom), even as they overlap. Use clear tails pointing to the correct characters from the [Assets Library](/assets).",
+    "faqs": [
+      {
+        "question": "How do you show an interruption in a comic?",
+        "answer": "You visually overlap the interrupting character's speech bubble over the original speaker's bubble, often breaking its border."
+      },
+      {
+        "question": "Does overlapping dialogue make a comic hard to read?",
+        "answer": "It can if not done carefully. The overall flow must still guide the eye in the correct reading order, even when bubbles overlap."
+      }
+    ],
+    "updatedAt": "2026-10-30",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "thought-bubble-exposition",
+    "name": "Thought Bubble Exposition Layout – Internal Narrative",
+    "description": "Use the thought bubble exposition layout to seamlessly integrate a character's internal thoughts and backstory into the visual flow.",
+    "intro": "## Reveal Secrets with the Thought Bubble Exposition Layout\n\n> **AI Snapshot**: The thought bubble exposition layout utilizes prominent thought bubbles to deliver internal monologue or backstory, providing subtext and deeper character insight without relying on traditional caption boxes.\n\nWhile caption boxes are great for omniscient narration, thought bubbles provide a more intimate, character-driven way to deliver exposition. They connect the information directly to the character's current emotional state.\n\n### Creating Dramatic Irony\nBy showing what a character is thinking versus what they are saying, you immediately create dramatic irony. This layout is perfect for scenes involving deception, hidden motives, or profound anxiety. Experiment with contrasting dialogue and thoughts on the [home page](/).\n\n### Visualizing Thoughts\nThought bubbles don't have to be just text. You can place smaller images or symbols inside a thought bubble to quickly convey an idea or memory, using assets from the [Assets Library](/assets) to build these internal visual narratives.",
+    "faqs": [
+      {
+        "question": "What is the difference between a thought bubble and a caption box?",
+        "answer": "A thought bubble is tied directly to a specific character's internal thoughts in that moment, while a caption box is often used for broader narration or setting the scene."
+      },
+      {
+        "question": "Can I put pictures in a thought bubble?",
+        "answer": "Yes, using images or symbols inside a thought bubble is a highly effective way to quickly convey a memory, desire, or abstract concept."
+      }
+    ],
+    "updatedAt": "2026-10-30",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "staggered-speech-layout",
+    "name": "Staggered Speech Panel Layout – Controlling Pacing",
+    "description": "Control the rhythm of a conversation with the staggered speech panel layout, using bubble placement to dictate reading speed.",
+    "intro": "## Dictate Rhythm with the Staggered Speech Panel Layout\n\n> **AI Snapshot**: The staggered speech panel layout strategically places speech bubbles across a panel or page to force the reader's eye on a specific path, carefully controlling the timing and pacing of the dialogue.\n\nThe placement of speech bubbles is just as important as the dialogue itself when it comes to pacing. A staggered layout uses the physical distance between bubbles to represent the passage of time.\n\n### Creating Pauses\nIf you want to indicate a long pause between two lines of dialogue, place the bubbles far apart within a large panel. The time it takes the reader's eye to travel between the bubbles simulates the silence in the conversation. Try this technique on the [home page](/).\n\n### The Ping-Pong Effect\nConversely, placing bubbles close together in a zig-zag pattern creates a rapid \"ping-pong\" effect, speeding up the reading pace for quick exchanges. Use the diverse characters in the [Assets Library](/assets) to populate these dynamic conversations.",
+    "faqs": [
+      {
+        "question": "How does bubble placement affect pacing?",
+        "answer": "The physical distance the reader's eye must travel between bubbles correlates to the perceived time passing; greater distance implies a longer pause."
+      },
+      {
+        "question": "What is the ping-pong effect?",
+        "answer": "It's a layout technique where bubbles are placed close together, often alternating sides, to create a fast, back-and-forth reading rhythm."
+      }
+    ],
+    "updatedAt": "2026-10-30",
+    "tags": [
+      "Layout"
+    ]
   }
 ]
