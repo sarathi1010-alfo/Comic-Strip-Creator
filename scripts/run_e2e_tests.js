@@ -808,7 +808,8 @@ const assert = require('assert');
   'http://localhost:3000/layouts/overlapping-dialogue-layout',
   'http://localhost:3000/layouts/thought-bubble-exposition',
   'http://localhost:3000/layouts/staggered-speech-layout',
-  'http://localhost:3000/styles/typographic-focus-style'
+  'http://localhost:3000/styles/typographic-focus-style',
+  'http://localhost:3000/blog/comic-strip-creation-ultimate-guide'
 ];
 
   page.on('console', msg => {
