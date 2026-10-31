@@ -10,7 +10,7 @@ export default function Home() {
       <p className="text-xl max-w-2xl text-muted-foreground">
         Create stunning comic strips in minutes — no design skills required.
       </p>
-        <div className="flex gap-4">
+        <div className="flex flex-col sm:flex-row gap-4 w-full sm:w-auto">
           <Link href="/editor">
             <Button size="lg" className="bg-accent text-accent-foreground hover:bg-accent/90 text-lg font-bold">
               Start Creating Free Comics

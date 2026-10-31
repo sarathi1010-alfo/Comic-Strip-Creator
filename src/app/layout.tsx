@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { Inter, Comic_Neue, Bangers } from "next/font/google";
 import "./globals.css";
 import { TooltipProvider } from "@/components/ui/tooltip";
-import { GoogleAnalytics } from '@next/third-parties/google';
+import Script from "next/script";
 import { resolveMetadata } from "@/lib/seo/resolveMetadata";
 import { buildLandingMeta } from "@/lib/seo/metaFactories";
 import { buildOrganizationSchema, buildWebsiteSchema } from "@/lib/seo/buildSchema";
@@ -58,13 +58,26 @@ export default function RootLayout({
 
         <JsonLd schema={buildOrganizationSchema()} />
         <JsonLd schema={buildWebsiteSchema()} />
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-HZQ3QT11QC"
+          strategy="afterInteractive"
+        />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-HZQ3QT11QC', {
+              cookie_domain: 'auto'
+            });
+          `}
+        </Script>
       </head>
       <body
         className={`${inter.variable} ${comicNeue.variable} ${bangers.variable} antialiased font-sans bg-background text-foreground`}
       >
         <TooltipProvider>{children}</TooltipProvider>
       </body>
-      <GoogleAnalytics gaId="G-HZQ3QT11QC" />
     </html>
   );
 }

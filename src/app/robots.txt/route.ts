@@ -48,6 +48,14 @@ Disallow: /temp/
 Disallow: /private/
 Allow: /
 
+# AhrefsBot Unblocked
+User-agent: AhrefsBot
+Allow: /
+#                                                                           #
+#                                                                           #
+#                                                                           #
+
+
 User-agent: bingbot
 User-agent: msnbot
 User-agent: msnbot-media
@@ -356,7 +364,6 @@ Disallow: /
 ------------------------------------------------------------------------------
 AGGRESSIVE SECURITY SCRAPERS (BLOCKED)
 ------------------------------------------------------------------------------
-User-agent: AhrefsBot
 User-agent: SemrushBot
 User-agent: MajesticBot
 User-agent: rogerbot
@@ -382,9 +389,7 @@ Allow: /
 ------------------------------------------------------------------------------
 SITEMAPS – COMICFLOW.ALFO.ONLINE
 ------------------------------------------------------------------------------
-Sitemap: ${baseUrl}/sitemap.xml
-Sitemap: ${baseUrl}/sitemap-articles.xml
-Sitemap: ${baseUrl}/sitemap-products.xml`;
+Sitemap: ${baseUrl}/sitemap.xml`;
 
   return new NextResponse(robotsTxt, {
     headers: {
