@@ -3483,5 +3483,66 @@
     "tags": [
       "Layout"
     ]
+  },
+  {
+    "slug": "costume-reveal-panel-layout",
+    "name": "Costume Reveal Panel Layout",
+    "description": "Build anticipation and maximize impact with the costume reveal panel layout, perfect for a hero's first appearance.",
+    "intro": "## Maximize Impact with the Costume Reveal Panel Layout\n\n> **AI Snapshot**: The costume reveal panel layout builds anticipation through a series of small, tight focus panels before transitioning to a massive splash page that showcases the character's new design in all its glory.\n\nWhen a character dons their costume for the first time, or debuts a dramatic new look, it needs to be an event. The costume reveal panel layout is specifically designed to build tension and ensure the final reveal has maximum visual impact. It’s a technique used by professionals to make the reader stop and appreciate the design.\n\n### The Slow Build\nStart the page with a series of small, claustrophobic panels. Focus on details: a hand pulling on a glove, a boot hitting the floor, the click of a utility belt. Do not show the full character. This builds immense anticipation. \n\n### The Splash Reveal\nAfter the build-up, turn the page (or use the next major visual beat) for a massive, borderless splash panel. This is where the character is shown in full, striking a dynamic pose that highlights the best features of their new design. You can construct these layouts easily on our [home page](/).\n\n### Lighting the Reveal\nUse dramatic lighting, such as backlighting or a strong spotlight, to make the silhouette pop before revealing the full colors. This emphasizes the shape language discussed in the [Comic Book Costume Design Guide](/blog/comic-book-costume-design-guide).",
+    "faqs": [
+      {
+        "question": "Why not just show the costume immediately?",
+        "answer": "Building anticipation makes the eventual reveal feel earned and significant, rather than just another panel on the page."
+      },
+      {
+        "question": "Should a reveal always be a splash page?",
+        "answer": "Not always, but a larger panel dedicating more real estate to the art signifies to the reader that this is a major, important moment."
+      }
+    ],
+    "updatedAt": "2026-11-01",
+    "tags": [
+      "Layout",
+      "Pillar"
+    ]
+  },
+  {
+    "slug": "armor-up-sequence-layout",
+    "name": "Armor-Up Sequence Layout",
+    "description": "Show the intricate mechanics of your character preparing for battle with the armor-up sequence layout.",
+    "intro": "## Detail the Preparation with the Armor-Up Sequence Layout\n\n> **AI Snapshot**: The armor-up sequence layout uses a dense grid of small panels to meticulously detail the process of a character donning complex gear, building tension before a major conflict.\n\nSometimes, the process of putting on the costume is just as cool as the costume itself. This is especially true for characters who wear complex mechanical armor or intricate magical gear. The armor-up sequence layout is designed to highlight the mechanical or ritualistic nature of preparation.\n\n### The Dense Grid\nUnlike the costume reveal, which relies on a massive splash page, the armor-up sequence often utilizes a tight 9-panel or 12-panel grid. Each panel shows a specific, highly detailed action: locking a gauntlet, tightening a strap, or powering up a core. Use the [Assets Library](/assets) to ensure these details are sharp.\n\n### Rhythmic Pacing\nThe repetitive nature of the grid creates a rhythmic, almost musical pacing. It feels like a drumbeat leading up to a battle. The focus should be entirely on the gear and the character's intense expression. \n\n### The Final \"Locked In\" Panel\nThe sequence should culminate in a slightly larger panel showing the character fully suited and ready, often with a visual cue like glowing eyes or a visor snapping down. This technique perfectly complements the design principles in the [Comic Book Costume Design Guide](/blog/comic-book-costume-design-guide).",
+    "faqs": [
+      {
+        "question": "What is the purpose of showing the suit-up process?",
+        "answer": "It builds tension, demonstrates the complexity of the character's gear, and shows their mental preparation for the coming conflict."
+      },
+      {
+        "question": "How many panels should an armor-up sequence be?",
+        "answer": "A dense grid of 6 to 9 small panels works best to create a fast, rhythmic pace."
+      }
+    ],
+    "updatedAt": "2026-11-01",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "wardrobe-montage-comic-layout",
+    "name": "Wardrobe Montage Comic Layout",
+    "description": "Create lighthearted, fast-paced sequences of characters trying on different outfits with the wardrobe montage layout.",
+    "intro": "## Have Fun with Fashion using the Wardrobe Montage Comic Layout\n\n> **AI Snapshot**: The wardrobe montage comic layout uses a fluid, often borderless structure to show a character rapidly trying on various discarded outfits, usually for comedic effect or to establish their final look.\n\nNot all costume changes are serious, dramatic events. In romantic comedies, slice-of-life, or lighthearted superhero stories, the \"trying on clothes\" montage is a classic trope. The wardrobe montage comic layout is designed to be fast, fluid, and fun, allowing you to showcase multiple discarded designs before settling on the winner.\n\n### Breaking the Grid\nA wardrobe montage often discards rigid panel borders. Instead, characters are drawn in various poses across a single background (like a messy bedroom or a boutique), surrounded by piles of rejected clothing. This creates a chaotic, energetic feel. You can experiment with these free-flowing layouts on our [home page](/).\n\n### Expressive Reactions\nThe comedy comes from the character's reaction to the bad outfits. Use extreme, exaggerated expressions—disgust at a neon leotard, confusion at a complicated cape. \n\n### The Final Choice\nThe chaotic montage should abruptly stop when the character finds \"the one.\" This final panel should re-establish the panel borders and use clean lighting to highlight the successful design, utilizing the principles from our [Comic Book Costume Design Guide](/blog/comic-book-costume-design-guide).",
+    "faqs": [
+      {
+        "question": "Why use a borderless layout for a montage?",
+        "answer": "Removing borders makes the sequence feel faster and more chaotic, emphasizing the rapid passage of time and the comedic frustration of trying on bad outfits."
+      },
+      {
+        "question": "What genres use the wardrobe montage?",
+        "answer": "It is most common in romance, comedy, and slice-of-life comics, but can be used as a lighthearted break in a more serious superhero story."
+      }
+    ],
+    "updatedAt": "2026-11-01",
+    "tags": [
+      "Layout"
+    ]
   }
 ]
