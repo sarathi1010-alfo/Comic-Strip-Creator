@@ -1670,5 +1670,46 @@
     "tags": [
       "Style"
     ]
+  },
+  {
+    "slug": "detailed-armor-comic-style",
+    "name": "Detailed Armor Comic Style",
+    "description": "Master the rendering of complex metals and mechanical joints with the detailed armor comic style.",
+    "intro": "## Render Heavy Metal with the Detailed Armor Comic Style\n\n> **AI Snapshot**: The detailed armor comic style focuses on precise line work, realistic metallic reflections, and visible mechanical joints to create highly believable, heavy-duty character designs.\n\nWhen your character relies on heavy plate or complex sci-fi mecha suits, simple flat colors won't cut it. The detailed armor comic style is all about conveying the weight, texture, and mechanics of metal. This style requires patience and a strong understanding of lighting and rendering techniques.\n\n### Mastering Metallic Reflections\nMetal reflects its environment. You cannot simply color armor grey. You must paint the harsh, high-contrast highlights where light hits the curves, and the deep, sharp shadows where plates overlap. Use crisp, hard-edged brushes rather than soft gradients. You can practice this rendering on items from our [Assets Library](/assets).\n\n### The Devil in the Details\nThe believability of this style comes from the small mechanical details: rivets, seams, hinges, and exhaust vents. These elements show the reader *how* the armor moves and functions, adding a layer of grounded realism to even the most fantastical designs.\n\n### Line Weight Variation\nUse very thin lines for internal details (like panel lines or scratches) and thicker, heavier lines for the outer silhouette and overlapping plates to create a strong sense of 3D volume. This perfectly complements the design theories discussed in the [Comic Book Costume Design Guide](/blog/comic-book-costume-design-guide).",
+    "faqs": [
+      {
+        "question": "How do I make armor look shiny?",
+        "answer": "Use high contrast. Place a bright, pure white highlight directly next to a dark, deep shadow to simulate the reflective properties of polished metal."
+      },
+      {
+        "question": "Why does my armor look flat?",
+        "answer": "It likely lacks detailed reflections or line weight variation. Ensure the overlapping plates cast distinct shadows on the layers beneath them."
+      }
+    ],
+    "updatedAt": "2026-11-01",
+    "tags": [
+      "Style",
+      "Pillar"
+    ]
+  },
+  {
+    "slug": "spandex-and-capes-classic-style",
+    "name": "Spandex and Capes Classic Style",
+    "description": "Capture the nostalgic, clean-line aesthetic of the Silver Age with the spandex and capes classic style.",
+    "intro": "## Embrace Nostalgia with the Spandex and Capes Classic Style\n\n> **AI Snapshot**: The spandex and capes classic style relies on clean, bold line art, flat primary colors, and minimal rendering to capture the iconic, nostalgic feel of Silver and Bronze Age superhero comics.\n\nSometimes, less is more. The spandex and capes classic style intentionally avoids the hyper-detailed, gritty rendering of modern comics in favor of the clean, bold, and highly readable aesthetic of the Silver and Bronze ages. This style is perfect for stories that want to evoke a sense of pure heroism and nostalgia.\n\n### Bold, Clean Inks\nThe foundation of this style is strong, confident line art. Avoid excessive crosshatching or sketchy, loose lines. The forms of the body should be defined cleanly, allowing the colors to do the heavy lifting. You can experiment with this clean look using the tools on our [home page](/).\n\n### Flat, Primary Colors\nColoring should be relatively flat, avoiding complex digital gradients or soft airbrushing. Stick to a bold palette of primary and secondary colors. If you use shading, use simple \"cel shading\" (hard-edged shadows) rather than smooth blends. \n\n### The Importance of the Silhouette\nBecause internal rendering is minimal, the outer shape of the character must be flawless. The flow of a cape or the broadness of a chest must instantly communicate the character's power. This aligns perfectly with the principles in our [Comic Book Costume Design Guide](/blog/comic-book-costume-design-guide).",
+    "faqs": [
+      {
+        "question": "Is the classic style easier to draw than modern styles?",
+        "answer": "Not necessarily. While it has less rendering, it requires excellent foundational anatomy and incredibly confident, precise line work, as there is no grit to hide mistakes."
+      },
+      {
+        "question": "Can I use modern coloring with classic line art?",
+        "answer": "You can, but it often creates a visual clash. The charm of the classic style comes from the cohesion of clean lines and bold, flat colors."
+      }
+    ],
+    "updatedAt": "2026-11-01",
+    "tags": [
+      "Style"
+    ]
   }
 ]

@@ -497,6 +497,16 @@ const assert = require('assert');
     'http://localhost:3000/layouts/zeppelin-view-comic-layout',
     'http://localhost:3000/layouts/brass-border-comic-layout',
     'http://localhost:3000/styles/victorian-etching-comic-style',
+
+    'http://localhost:3000/blog/comic-book-costume-design-guide',
+    'http://localhost:3000/genres/superhero-costume-comic-maker',
+    'http://localhost:3000/genres/fantasy-armor-comic-creator',
+    'http://localhost:3000/genres/cyberpunk-streetwear-comic-maker',
+    'http://localhost:3000/layouts/costume-reveal-panel-layout',
+    'http://localhost:3000/layouts/armor-up-sequence-layout',
+    'http://localhost:3000/layouts/wardrobe-montage-comic-layout',
+    'http://localhost:3000/styles/detailed-armor-comic-style',
+    'http://localhost:3000/styles/spandex-and-capes-classic-style',
 ];
   page.on('console', msg => {
     if (msg.type() === 'error') {
