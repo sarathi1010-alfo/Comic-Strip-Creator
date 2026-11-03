@@ -1711,5 +1711,25 @@
     "tags": [
       "Style"
     ]
+  },
+  {
+    "slug": "loose-sketch-comic-style",
+    "name": "Loose Sketch Comic Style",
+    "description": "Embrace the energy, movement, and raw creativity of the planning phase with the loose sketch comic style.",
+    "intro": "## Capture Raw Energy with the Loose Sketch Comic Style\n\n> **AI Snapshot**: The loose sketch comic style retains the raw, unpolished energy of the thumbnail phase, utilizing rough lines and simple forms to prioritize movement and emotion over rigid detail.\n\nSometimes, the finished, heavily inked art loses the kinetic energy of the original rough drawing. The loose sketch comic style aims to preserve that raw vitality. It is a style that looks intentional in its roughness, celebrating the act of drawing itself.\n\n### The Beauty of the 'Search Line'\nIn a loose sketch style, you don't use single, perfect lines. You use multiple 'search lines'—rough, quick strokes that build up the form. This gives the artwork a sense of vibration and life, making it feel less static and more dynamic. You can replicate this energetic feel when arranging elements from the [Assets Library](/assets).\n\n### Prioritizing Emotion Over Polish\nThis style is excellent for stories that require raw emotion, rapid action, or a gritty, unrefined atmosphere. Because the art isn't perfectly polished, the reader's imagination works harder to fill in the gaps, often resulting in a more engaging experience. The foundation of this energetic style is taught in our [Comic Book Thumbnail Sketching Guide](/blog/comic-thumbnail-sketching-guide).",
+    "faqs": [
+      {
+        "question": "What characterizes a loose sketch comic style?",
+        "answer": "It uses rough, multiple lines (search lines), prioritizes movement and emotion over perfect details, and retains a raw, unpolished aesthetic."
+      },
+      {
+        "question": "Why choose a loose sketch style for a finished comic?",
+        "answer": "It can convey a sense of kinetic energy, speed, or raw emotion that is sometimes lost in heavily inked and highly polished artwork."
+      }
+    ],
+    "updatedAt": "2026-11-03",
+    "tags": [
+      "Style"
+    ]
   }
 ]

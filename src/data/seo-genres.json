@@ -4490,5 +4490,85 @@
     "tags": [
       "Genre"
     ]
+  },
+  {
+    "slug": "action-thumbnail-comic-maker",
+    "name": "Action Thumbnail Comic Maker",
+    "description": "Block out high-octane fight scenes and dynamic motion before committing to details with the action thumbnail comic maker.",
+    "intro": "## Map Out High-Octane Scenes with the Action Thumbnail Comic Maker\n\n> **AI Snapshot**: The action thumbnail comic maker helps you visualize intense motion, dynamic camera angles, and explosive pacing using quick, rough layouts before you start drawing details.\n\nAction sequences require impeccable pacing and clear choreography. If the reader can't follow the punches, the scene fails. An action thumbnail comic maker is the essential first step for any high-octane story, allowing you to rapidly block out movement and impact.\n\n### Focusing on the Line of Action\nIn action thumbnails, detail is irrelevant. The focus should be entirely on the 'line of action'—the sweeping curve that defines the character's movement. Stick figures are perfectly acceptable here. You are plotting the trajectory of the fight, ensuring that the momentum carries the reader's eye from one panel to the next. You can experiment with basic shapes to represent this momentum in our [Assets Library](/assets).\n\n### Dynamic Camera Angles\nAction scenes thrive on extreme perspectives. Use your thumbnails to experiment with high angles looking down on a defeated foe, or low angles looking up at a towering threat. Thumbnails allow you to test these dramatic angles without the commitment of a full drawing.\n\n### Pacing the Fight\nThe size of your panels controls the speed of the action. A series of small, rapid-fire panels can simulate a flurry of quick strikes, while a large, page-wide panel (a splash) stops time for a massive impact. Thumbnailing lets you adjust this rhythm until it feels just right. For more on structuring the overall flow, read our [Comic Book Thumbnail Sketching Guide](/blog/comic-thumbnail-sketching-guide).",
+    "faqs": [
+      {
+        "question": "What is the most important element in an action thumbnail?",
+        "answer": "The line of action. It defines the character's movement and the direction of the force in the panel."
+      },
+      {
+        "question": "How do panel sizes affect action scenes?",
+        "answer": "Small panels speed up the perceived time, making action feel fast and frantic, while large panels slow down time for major impacts or dramatic pauses."
+      }
+    ],
+    "updatedAt": "2026-11-03",
+    "tags": [
+      "Genre"
+    ]
+  },
+  {
+    "slug": "drama-thumbnail-comic-creator",
+    "name": "Drama Thumbnail Comic Creator",
+    "description": "Plan intense emotional beats, character spacing, and subtext using the drama thumbnail comic creator for tense storytelling.",
+    "intro": "## Structure Emotional Beats with the Drama Thumbnail Comic Creator\n\n> **AI Snapshot**: The drama thumbnail comic creator allows you to plot the emotional rhythm of a scene, focusing on character proximity, body language, and the strategic use of silence.\n\nDramatic storytelling relies on nuance. It's about what is said, what is unsaid, and the physical space between characters. A drama thumbnail comic creator helps you map out these subtle interactions before you focus on facial expressions and rendering.\n\n### Blocking the Scene\nIn a drama, the physical distance between characters speaks volumes. Are they standing far apart, signifying emotional distance? Or are they uncomfortably close, signifying tension or intimacy? Thumbnails are where you 'block' the scene, deciding where everyone stands in the room and how they move in relation to one another. Use simple shapes from the [Assets Library](/assets) to represent your actors on the stage.\n\n### The Importance of Silence\nNot every panel needs dialogue. The thumbnail stage is where you plan for 'beats'—silent panels that let an emotion linger or a realization sink in. By mapping out the speech bubbles first, you can see where the conversation needs room to breathe.\n\n### Framing the Emotion\nEven with stick figures, you can decide on the framing. A wide shot can make a character look isolated, while an extreme close-up forces the reader to confront their emotion. Thumbnails let you choose the right 'camera lens' for the scene. Learn more about the overall process in our [Comic Book Thumbnail Sketching Guide](/blog/comic-thumbnail-sketching-guide).",
+    "faqs": [
+      {
+        "question": "Why are thumbnails important for dramatic comics?",
+        "answer": "They allow creators to plan the emotional pacing, the physical distance between characters, and the strategic use of silent panels."
+      },
+      {
+        "question": "How do you show emotion in a thumbnail?",
+        "answer": "Through composition and body language (even basic stick figure posture), rather than detailed facial expressions."
+      }
+    ],
+    "updatedAt": "2026-11-03",
+    "tags": [
+      "Genre"
+    ]
+  },
+  {
+    "slug": "horror-thumbnail-comic-generator",
+    "name": "Horror Thumbnail Comic Generator",
+    "description": "Build tension, plan jump scares, and design claustrophobic layouts with the horror thumbnail comic generator.",
+    "intro": "## Construct Terrifying Layouts with the Horror Thumbnail Comic Generator\n\n> **AI Snapshot**: The horror thumbnail comic generator is essential for pacing scares, controlling the reader's eye to build dread, and planning the reveal of the monster.\n\nHorror is all about control. You must control what the reader sees, when they see it, and how fast they read. The horror thumbnail comic generator is your tool for designing the architecture of fear, ensuring your scares land with maximum impact.\n\n### Building the Dread\nTension is built through pacing. You can use a series of slowly tightening panels—moving from a wide shot of a dark hallway to a close-up of a turning doorknob—to build anticipation. Thumbnails let you test this visual rhythm. You can experiment with basic pacing structures using placeholders from our [Assets Library](/assets).\n\n### The Page Turn Reveal\nThe most powerful tool in a horror comic is the page turn. You want the buildup to happen on the right-hand page (the recto), forcing the reader to turn the page to see the horrific reveal on the left-hand page (the verso). You must plan this structure during the thumbnail stage; otherwise, the scare might appear on the wrong page, ruining the surprise.\n\n### Claustrophobic Composition\nHorror often relies on making the characters (and the reader) feel trapped. Use your thumbnails to design claustrophobic framing—low ceilings, tight angles, and heavy shadows closing in. For more on planning these sequences, read our [Comic Book Thumbnail Sketching Guide](/blog/comic-thumbnail-sketching-guide).",
+    "faqs": [
+      {
+        "question": "What is the 'page turn reveal' in horror comics?",
+        "answer": "It is the technique of placing the buildup to a scare on the right page, so the reader must physically turn the page to see the frightening reveal on the left page."
+      },
+      {
+        "question": "How do you build tension in a thumbnail?",
+        "answer": "By using a progression of panels that slowly zoom in on a detail or by deliberately slowing down the pacing of the scene."
+      }
+    ],
+    "updatedAt": "2026-11-03",
+    "tags": [
+      "Genre"
+    ]
+  },
+  {
+    "slug": "comedy-thumbnail-comic-builder",
+    "name": "Comedy Thumbnail Comic Builder",
+    "description": "Nail your comedic timing, plan visual gags, and perfect the setup and punchline rhythm with the comedy thumbnail comic builder.",
+    "intro": "## Perfect Your Timing with the Comedy Thumbnail Comic Builder\n\n> **AI Snapshot**: The comedy thumbnail comic builder is crucial for testing the rhythm of jokes, ensuring the punchline lands effectively, and planning visual gags before drawing.\n\nIn comedy, timing is everything. A joke can fall flat if the delivery is too fast or too slow. The comedy thumbnail comic builder allows you to map out the beats of your joke, ensuring the setup, the escalation, and the punchline flow perfectly.\n\n### The Setup and the Beat\nA classic comic strip joke requires a clear setup. Thumbnails help you establish the scene quickly. More importantly, they help you plan 'the beat'—often a silent panel right before the punchline that builds anticipation. This pause is where the comedic tension lives. You can easily test different timings using simple shapes from our [Assets Library](/assets).\n\n### Visual Gags and Exaggeration\nSome jokes rely entirely on visual humor. Thumbnails are the perfect place to test the readability of a visual gag. If the joke isn't clear when it's just a stick figure slipping on a banana peel, it won't be clearer when it's fully rendered. You can also plan the degree of exaggeration needed for the punchline.\n\n### Leaving Room for the Punchline\nComedy often requires specific dialogue delivery. By mapping out your speech bubbles in the thumbnail stage, you ensure that the punchline text isn't crammed into a tiny corner, which ruins the delivery. For more on planning your strips, read our [Comic Book Thumbnail Sketching Guide](/blog/comic-thumbnail-sketching-guide).",
+    "faqs": [
+      {
+        "question": "Why is timing important in a comic thumbnail?",
+        "answer": "Timing dictates how a joke is read. The arrangement and size of panels determine the speed of the delivery and the impact of the punchline."
+      },
+      {
+        "question": "What is a 'beat' panel in comedy?",
+        "answer": "A beat panel is often a wordless panel used to create a pause, building anticipation right before the punchline."
+      }
+    ],
+    "updatedAt": "2026-11-03",
+    "tags": [
+      "Genre"
+    ]
   }
 ]

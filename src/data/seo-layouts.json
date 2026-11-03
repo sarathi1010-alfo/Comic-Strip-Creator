@@ -3544,5 +3544,65 @@
     "tags": [
       "Layout"
     ]
+  },
+  {
+    "slug": "rough-draft-panel-layout",
+    "name": "Rough Draft Panel Layout",
+    "description": "Quickly visualize your page structure and text flow without worrying about details using the rough draft panel layout.",
+    "intro": "## Map the Page Quickly with the Rough Draft Panel Layout\n\n> **AI Snapshot**: The rough draft panel layout emphasizes speed and structural planning, allowing creators to rapidly block out panels, composition, and speech bubbles to solve storytelling problems early.\n\nThe blank page is intimidating. The rough draft panel layout is designed to break that paralysis. It is about getting the bones of the story down on paper (or screen) as quickly as possible, focusing entirely on structure rather than aesthetics.\n\n### The 'Box and Stick' Method\nIn this layout style, you should only be using boxes for panels and stick figures for characters. The goal is to determine if the scene requires four panels or six, and if the focal point is clear. It is a rapid prototyping phase. You can practice this rapid blocking using basic shapes in the [Assets Library](/assets).\n\n### Prioritizing Readability\nThe most critical function of the rough draft is to ensure the page is readable. This is where you map out the Z-pattern reading path and place your speech bubbles. If the text flow is confusing in the rough draft, it will be unreadable in the final art. Solve the flow problems here. For more details on this process, see our [Comic Book Thumbnail Sketching Guide](/blog/comic-thumbnail-sketching-guide).",
+    "faqs": [
+      {
+        "question": "What should be included in a rough draft layout?",
+        "answer": "Only the bare essentials: panel borders, rough speech bubble placement, and stick figures or basic shapes to represent characters and key objects."
+      },
+      {
+        "question": "Why focus on text flow in the rough draft?",
+        "answer": "Because adjusting the layout to accommodate text is easy in the rough draft stage, but incredibly difficult and time-consuming once the art is drawn."
+      }
+    ],
+    "updatedAt": "2026-11-03",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "storyboard-sketch-comic-layout",
+    "name": "Storyboard Sketch Comic Layout",
+    "description": "Plan cinematic sequences, camera movements, and scene transitions with the storyboard sketch comic layout.",
+    "intro": "## Plan Cinematic Sequences with the Storyboard Sketch Comic Layout\n\n> **AI Snapshot**: The storyboard sketch comic layout treats the comic page like a film sequence, focusing on camera angles, framing, and the visual flow from one 'shot' to the next.\n\nComics and film share a lot of visual DNA. The storyboard sketch comic layout approaches the page as if you are a director planning a movie scene. It focuses heavily on 'camera' placement and how the framing tells the story emotionally.\n\n### Choosing the Lens\nEven in a sketch, you must decide what 'lens' you are using. Are you using a wide establishing shot to show the environment? Are you using an extreme close-up to show a bead of sweat on a character's face? The storyboard layout maps these cinematic choices. You can experiment with different framings using the [Assets Library](/assets).\n\n### The 180-Degree Rule\nJust like in film, comics must maintain spatial continuity. If Character A is on the left and Character B is on the right, they should remain in those positions across panels unless the 'camera' explicitly moves. The storyboard sketch is where you verify you haven't broken this rule and confused the reader. Learn more about visual planning in our [Comic Book Thumbnail Sketching Guide](/blog/comic-thumbnail-sketching-guide).",
+    "faqs": [
+      {
+        "question": "How is a storyboard layout different from a standard thumbnail?",
+        "answer": "A storyboard layout tends to focus more heavily on cinematic framing, camera angles, and the specific 'shots' used to tell the story."
+      },
+      {
+        "question": "What is spatial continuity in comics?",
+        "answer": "It is maintaining the consistent relative positions of characters and objects from panel to panel so the reader doesn't become confused about where things are in the scene."
+      }
+    ],
+    "updatedAt": "2026-11-03",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "quick-thumbnail-comic-layout",
+    "name": "Quick Thumbnail Comic Layout",
+    "description": "Generate multiple rapid iterations of a page to find the best possible composition using the quick thumbnail comic layout.",
+    "intro": "## Iterate Rapidly with the Quick Thumbnail Comic Layout\n\n> **AI Snapshot**: The quick thumbnail comic layout is all about volume and experimentation. By drawing multiple tiny, rapid versions of a page, creators can discover the most dynamic and effective storytelling solution.\n\nYour first idea is rarely your best idea. The quick thumbnail comic layout embraces this philosophy by encouraging rapid, tiny iterations. It's about brainstorming visually, generating several options for a single page before committing to one.\n\n### The Power of Small Scale\nThese thumbnails should be tiny—perhaps only two inches tall on a piece of paper. Drawing at this scale forces you to ignore detail and focus entirely on the macro composition: the balance of dark and light masses, the overall panel structure, and the flow. You can quickly generate these digital 'post-it note' sized sketches in the [Assets Library](/assets).\n\n### Finding the Best Option\nDraw three different versions of the page. Make one a 9-panel grid. Make one a massive splash page. Make one with slanted, dynamic panels. By comparing these quick iterations side-by-side, the strongest storytelling option will naturally emerge. For a deeper dive into this planning phase, read our [Comic Book Thumbnail Sketching Guide](/blog/comic-thumbnail-sketching-guide).",
+    "faqs": [
+      {
+        "question": "Why should quick thumbnails be drawn very small?",
+        "answer": "Drawing small prevents you from adding unnecessary details and forces you to focus strictly on the overall composition, panel layout, and readability."
+      },
+      {
+        "question": "What is the benefit of drawing multiple thumbnails for one page?",
+        "answer": "It allows you to experiment with different pacing and layouts, ensuring you choose the most effective visual storytelling solution rather than just going with your first idea."
+      }
+    ],
+    "updatedAt": "2026-11-03",
+    "tags": [
+      "Layout"
+    ]
   }
 ]
