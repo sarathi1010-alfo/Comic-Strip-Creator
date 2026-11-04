@@ -4,7 +4,7 @@ const assert = require('assert');
   const browser = await chromium.launch({ headless: true });
   const page = await browser.newPage();
     const urlsToTest = [
-    'http://localhost:3000/blog/comic-thumbnail-sketching-guide',
+  'http://localhost:3000/blog/comic-thumbnail-sketching-guide',
     'http://localhost:3000/genres/action-thumbnail-comic-maker',
     'http://localhost:3000/genres/drama-thumbnail-comic-creator',
     'http://localhost:3000/genres/horror-thumbnail-comic-generator',
@@ -516,6 +516,15 @@ const assert = require('assert');
     'http://localhost:3000/layouts/wardrobe-montage-comic-layout',
     'http://localhost:3000/styles/detailed-armor-comic-style',
     'http://localhost:3000/styles/spandex-and-capes-classic-style',
+  'http://localhost:3000/blog/comic-strip-guide',
+  'http://localhost:3000/genres/superhero-comic-maker',
+  'http://localhost:3000/genres/manga-style-comic',
+  'http://localhost:3000/genres/humor-comic-strip',
+  'http://localhost:3000/genres/fantasy-adventure-comic',
+  'http://localhost:3000/layouts/3-panel-comic',
+  'http://localhost:3000/layouts/4-panel-comic',
+  'http://localhost:3000/layouts/6-panel-comic',
+  'http://localhost:3000/styles/chibi-character-creator'
 ];
   page.on('console', msg => {
     if (msg.type() === 'error') {
