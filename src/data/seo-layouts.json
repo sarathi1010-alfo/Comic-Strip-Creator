@@ -3664,5 +3664,45 @@
         "answer": "Use this layout when you need specific pacing that fits within the 6-panel structure."
       }
     ]
+  },
+  {
+    "slug": "silent-3-panel-comic-layout",
+    "name": "Silent 3-Panel Comic Layout",
+    "description": "Master the classic setup, action, and reaction structure with the silent 3-panel comic layout.",
+    "intro": "## The Elegance of the Silent 3-Panel Comic Layout\n\n> **AI Snapshot**: The silent 3-panel comic layout forces maximum efficiency in storytelling, requiring a clear establishment of the scene in panel one, an inciting action in panel two, and a definitive visual punchline or resolution in panel three.\n\nThe 3-panel structure is the bedrock of comic pacing, and it becomes even more vital when words are removed. The silent 3-panel comic layout is perfect for quick gags, brief observations, or poignant moments that require zero exposition. It is an exercise in narrative efficiency.\n\n### Panel 1: The Setup\nThe first panel must do all the heavy lifting of establishing context. The reader must instantly recognize the characters, the location, and the initial status quo. Use clear, unambiguous backgrounds from the [Assets Library](/assets) to set the stage immediately.\n\n### Panel 2: The Catalyst\nThe second panel introduces the conflict or action. A character slips, an object falls, or a sudden realization occurs. Because there is no dialogue to bridge the gap, the visual transition between panel one and panel two must be flawless. Ensure the \"camera\" remains consistent to avoid confusing the reader.\n\n### Panel 3: The Payoff\nThe final panel delivers the resolution or the punchline. In a silent format, this often relies on an exaggerated facial expression or a dramatic change in posture. The layout tools on the [home page](/) allow you to adjust the size of this final panel—making it slightly larger can give the visual punchline more impact.",
+    "faqs": [
+      {
+        "question": "What is the biggest challenge of a silent 3-panel comic?",
+        "answer": "Efficiency. You have extremely limited space to establish context, introduce action, and deliver a resolution without confusing the reader."
+      },
+      {
+        "question": "How do I ensure the joke lands without dialogue?",
+        "answer": "Focus entirely on the physical reaction in the final panel. The contrast between the setup and the exaggerated response is the core of the humor."
+      }
+    ],
+    "updatedAt": "2026-11-06",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "wordless-4-panel-comic-layout",
+    "name": "Wordless 4-Panel Comic Layout",
+    "description": "Explore the rhythmic flow of setup, build, pause, and punchline in a wordless 4-panel format.",
+    "intro": "## Timing the Perfect Gag in a Wordless 4-Panel Comic Layout\n\n> **AI Snapshot**: The wordless 4-panel comic layout allows for a more nuanced comedic or dramatic rhythm than the 3-panel structure, often utilizing the third panel as a crucial \"beat\" or pause before the final visual payoff.\n\nThe 4-panel structure, similar to the traditional Yonkoma format, offers a specific, highly controlled rhythm. The wordless 4-panel comic layout gives you the space to let a moment breathe before delivering the final visual impact, making it ideal for both complex physical comedy and subtle emotional beats.\n\n### The Importance of the Pause\nThe defining feature of a 4-panel layout is often the third panel. In a silent comic, this is the perfect place for a \"beat panel\"—a moment where a character simply processes what has just happened. This slight delay builds anticipation and makes the final reaction in panel four much more effective.\n\n### Maintaining Visual Flow\nWhen working with four sequential panels, visual flow is paramount. The reader's eye must move naturally from left to right, top to bottom. Ensure that character sightlines and the direction of action constantly push the reader toward the next panel. You can experiment with these flows using the editor on the [home page](/).\n\n### Expanding the Narrative\nWhile still a short format, four panels allow for slightly more complex situations than three. You can introduce a secondary prop or a more involved physical interaction using elements from the [Assets Library](/assets). Just ensure every element introduced is strictly necessary for the final payoff.",
+    "faqs": [
+      {
+        "question": "Why use a 4-panel layout instead of a 3-panel one?",
+        "answer": "The 4-panel layout provides an extra beat, which is excellent for comedic timing (the 'pause before the reaction') or for adding a small layer of complexity to the setup."
+      },
+      {
+        "question": "What is a 'beat panel'?",
+        "answer": "A beat panel is often a silent, nearly static panel used to indicate a pause in time, usually placed right before the climax or punchline to build tension."
+      }
+    ],
+    "updatedAt": "2026-11-06",
+    "tags": [
+      "Layout"
+    ]
   }
 ]
