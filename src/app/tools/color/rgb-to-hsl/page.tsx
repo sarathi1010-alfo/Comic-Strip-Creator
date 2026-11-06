@@ -32,7 +32,7 @@ export default function RgbToHslPage() {
       {/* Breadcrumbs */}
       <nav className="max-w-3xl mx-auto mb-8 text-sm text-slate-500">
         <Link href="/" className="hover:text-violet-400">Home</Link> &gt;{' '}
-        <Link href="/tools/color" className="hover:text-violet-400">Color Tools</Link> &gt;{' '}
+        <a href="https://paletteflow.alfo.online/tools" target="_blank" rel="noopener" className="hover:text-violet-400">Color Tools</a> &gt;{' '}
         <span className="text-slate-300">RGB to HSL</span>
       </nav>
 

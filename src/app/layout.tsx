@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { Inter, Comic_Neue, Bangers } from "next/font/google";
 import "./globals.css";
 import { TooltipProvider } from "@/components/ui/tooltip";
-import { GoogleAnalytics } from '@next/third-parties/google';
+import Script from "next/script";
 import { buildOrganizationSchema, buildWebsiteSchema } from "@/lib/seo/buildSchema";
 import { JsonLd } from "@/components/JsonLd";
 
@@ -196,13 +196,33 @@ export default function RootLayout({
         <JsonLd schema={howToSchema} />
         <JsonLd schema={faqSchema} />
         <JsonLd schema={breadcrumbSchema} />
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-HZQ3QT11QC"
+          strategy="afterInteractive"
+        />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            if (typeof window !== 'undefined' && (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1')) {
+              window['ga-disable-G-HZQ3QT11QC'] = true;
+            } else {
+              gtag('config', 'G-HZQ3QT11QC', {
+                cookie_domain: 'auto',
+                linker: { domains: ['alfo.online', 'sm-clinics.vercel.app', 'pdfutility.app'] },
+                cookie_flags: 'SameSite=None;Secure'
+              });
+            }
+          `}
+        </Script>
       </head>
       <body
         className={`${inter.variable} ${comicNeue.variable} ${bangers.variable} antialiased font-sans bg-background text-foreground`}
       >
         <TooltipProvider>{children}</TooltipProvider>
       </body>
-      <GoogleAnalytics gaId="G-HZQ3QT11QC" />
     </html>
   );
 }

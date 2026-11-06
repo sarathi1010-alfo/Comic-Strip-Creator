@@ -28,13 +28,13 @@ export function Navbar() {
             </DropdownMenuTrigger>
             <DropdownMenuContent align="end" className="w-56">
               {siteConfig.relatedTools.map((tool) => (
-                <DropdownMenuItem key={tool.name} render={<a href={tool.url} target="_blank" rel="noreferrer" className="w-full flex-col items-start" />}>
+                <DropdownMenuItem key={tool.name} render={<a href={tool.url} target="_blank" rel="noopener" className="w-full flex-col items-start" />}>
                   <span className="font-semibold block">{tool.name}</span>
                   <span className="text-xs text-muted-foreground block">{tool.description}</span>
                 </DropdownMenuItem>
               ))}
               <div className="h-px bg-border my-1" />
-              <DropdownMenuItem render={<a href="https://hub.alfo.online" target="_blank" rel="noreferrer" className="font-medium text-primary w-full" />}>
+              <DropdownMenuItem render={<a href="https://hub.alfo.online" target="_blank" rel="noopener" className="font-medium text-primary w-full" />}>
                 View All Tools →
               </DropdownMenuItem>
             </DropdownMenuContent>

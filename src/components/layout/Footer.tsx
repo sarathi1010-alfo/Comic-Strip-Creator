@@ -22,13 +22,13 @@ export function Footer() {
           <ul className="space-y-2 text-sm text-muted-foreground">
             {siteConfig.relatedTools.map((tool) => (
               <li key={tool.name}>
-                <a href={tool.url} target="_blank" rel="noreferrer" className="hover:text-primary transition-colors">
+                <a href={tool.url} target="_blank" rel="noopener" className="hover:text-primary transition-colors">
                   {tool.name}
                 </a>
               </li>
             ))}
             <li>
-              <a href="https://hub.alfo.online" target="_blank" rel="noreferrer" className="hover:text-primary transition-colors font-medium">
+              <a href="https://hub.alfo.online" target="_blank" rel="noopener" className="hover:text-primary transition-colors font-medium">
                 View All Tools &rarr;
               </a>
             </li>
@@ -52,9 +52,9 @@ export function Footer() {
         <div>
           <h3 className="font-bold mb-4">Social</h3>
           <ul className="space-y-2 text-sm text-muted-foreground">
-            <li><a href="https://x.com" target="_blank" rel="noreferrer" className="hover:text-primary transition-colors py-1 inline-block">Twitter / X</a></li>
-            <li><a href="https://github.com" target="_blank" rel="noreferrer" className="hover:text-primary transition-colors py-1 inline-block">GitHub</a></li>
-            <li><a href="https://linkedin.com" target="_blank" rel="noreferrer" className="hover:text-primary transition-colors py-1 inline-block">LinkedIn</a></li>
+            <li><a href="https://x.com" target="_blank" rel="noopener" className="hover:text-primary transition-colors py-1 inline-block">Twitter / X</a></li>
+            <li><a href="https://github.com" target="_blank" rel="noopener" className="hover:text-primary transition-colors py-1 inline-block">GitHub</a></li>
+            <li><a href="https://linkedin.com" target="_blank" rel="noopener" className="hover:text-primary transition-colors py-1 inline-block">LinkedIn</a></li>
           </ul>
         </div>
       </div>

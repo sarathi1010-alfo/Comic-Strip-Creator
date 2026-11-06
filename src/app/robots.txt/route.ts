@@ -20,23 +20,23 @@ Disallow: /
 
   const baseUrl = buildCanonical('').replace(/\/$/, '');
 
-  const robotsTxt = `==============================================================================
-ROBOTS.TXT – COMICFLOW.ALFO.ONLINE
-JUNE 2026 SPECIFICATION – COMPREHENSIVE CRAWLER CONTROL
-==============================================================================
-This document defines access permissions for search indexers and AI agents.
-It allows crawl paths for high‑value indexing and live retrieval engines,
-while explicitly blocking foundational model training crawlers.
-==============================================================================
+  const robotsTxt = `# ==============================================================================
+# ROBOTS.TXT – COMICFLOW.ALFO.ONLINE
+# JUNE 2026 SPECIFICATION – COMPREHENSIVE CRAWLER CONTROL
+# ==============================================================================
+# This document defines access permissions for search indexers and AI agents.
+# It allows crawl paths for high‑value indexing and live retrieval engines,
+# while explicitly blocking foundational model training crawlers.
+# ==============================================================================
 
-------------------------------------------------------------------------------
-METADATA & CONTENT DISCOVERY DIRECTIVES
-------------------------------------------------------------------------------
+# ------------------------------------------------------------------------------
+# METADATA & CONTENT DISCOVERY DIRECTIVES
+# ------------------------------------------------------------------------------
 Content-Signal: ai-train=no, search=yes, ai-input=yes
 
-------------------------------------------------------------------------------
-TIER 1 – GLOBAL SEARCH ENGINES
-------------------------------------------------------------------------------
+# ------------------------------------------------------------------------------
+# TIER 1 – GLOBAL SEARCH ENGINES
+# ------------------------------------------------------------------------------
 User-agent: Googlebot
 User-agent: Google-InspectionTool
 User-agent: Googlebot-Image
@@ -57,9 +57,17 @@ Disallow: /temp/
 Disallow: /private/
 Allow: /
 
-------------------------------------------------------------------------------
-TIER 2 – REGIONAL & ALTERNATIVE SEARCH ENGINES
-------------------------------------------------------------------------------
+User-agent: AhrefsBot
+User-agent: AhrefsSiteAudit
+Disallow: /admin/
+Disallow: /api/
+Disallow: /temp/
+Disallow: /private/
+Allow: /
+
+# ------------------------------------------------------------------------------
+# TIER 2 – REGIONAL & ALTERNATIVE SEARCH ENGINES
+# ------------------------------------------------------------------------------
 User-agent: Baiduspider
 User-agent: SogouBot
 User-agent: YiyanBot
@@ -96,9 +104,9 @@ Disallow: /admin/
 Disallow: /private/
 Allow: /
 
-------------------------------------------------------------------------------
-TIER 3 – PRIVACY-FIRST & INDEPENDENT SEARCH ENGINES
-------------------------------------------------------------------------------
+# ------------------------------------------------------------------------------
+# TIER 3 – PRIVACY-FIRST & INDEPENDENT SEARCH ENGINES
+# ------------------------------------------------------------------------------
 User-agent: Bravebot
 Disallow: /admin/
 Disallow: /private/
@@ -204,9 +212,9 @@ Disallow: /admin/
 Disallow: /private/
 Allow: /
 
-------------------------------------------------------------------------------
-TIER 4 – AI SEARCH INDEXERS & CITATION RETRIEVERS
-------------------------------------------------------------------------------
+# ------------------------------------------------------------------------------
+# TIER 4 – AI SEARCH INDEXERS & CITATION RETRIEVERS
+# ------------------------------------------------------------------------------
 User-agent: OAI-SearchBot
 Disallow: /admin/
 Disallow: /private/
@@ -244,9 +252,9 @@ Disallow: /admin/
 Disallow: /private/
 Allow: /
 
-------------------------------------------------------------------------------
-TIER 5 – USER-TRIGGERED RUNTIME FETCHERS
-------------------------------------------------------------------------------
+# ------------------------------------------------------------------------------
+# TIER 5 – USER-TRIGGERED RUNTIME FETCHERS
+# ------------------------------------------------------------------------------
 User-agent: ChatGPT-User
 Disallow: /admin/
 Disallow: /private/
@@ -287,9 +295,9 @@ Disallow: /admin/
 Disallow: /private/
 Allow: /
 
-------------------------------------------------------------------------------
-TIER 6 – FOUNDATIONAL AI TRAINING HARVESTERS (BLOCKED)
-------------------------------------------------------------------------------
+# ------------------------------------------------------------------------------
+# TIER 6 – FOUNDATIONAL AI TRAINING HARVESTERS (BLOCKED)
+# ------------------------------------------------------------------------------
 User-agent: GPTBot
 Disallow: /
 
@@ -353,10 +361,9 @@ Disallow: /
 User-agent: AI-TrainingBot
 Disallow: /
 
-------------------------------------------------------------------------------
-AGGRESSIVE SECURITY SCRAPERS (BLOCKED)
-------------------------------------------------------------------------------
-User-agent: AhrefsBot
+# ------------------------------------------------------------------------------
+# AGGRESSIVE SECURITY SCRAPERS (BLOCKED)
+# ------------------------------------------------------------------------------
 User-agent: SemrushBot
 User-agent: MajesticBot
 User-agent: rogerbot
@@ -369,9 +376,9 @@ User-agent: zgrab
 User-agent: Masscan
 Disallow: /
 
-------------------------------------------------------------------------------
-GLOBAL WILD-CARD BACKUP
-------------------------------------------------------------------------------
+# ------------------------------------------------------------------------------
+# GLOBAL WILD-CARD BACKUP
+# ------------------------------------------------------------------------------
 User-agent: *
 Disallow: /admin/
 Disallow: /api/
@@ -379,9 +386,9 @@ Disallow: /temp/
 Disallow: /private/
 Allow: /
 
-------------------------------------------------------------------------------
-SITEMAPS – COMICFLOW.ALFO.ONLINE
-------------------------------------------------------------------------------
+# ------------------------------------------------------------------------------
+# SITEMAPS – COMICFLOW.ALFO.ONLINE
+# ------------------------------------------------------------------------------
 Sitemap: ${baseUrl}/sitemap.xml`;
 
   return new NextResponse(robotsTxt, {

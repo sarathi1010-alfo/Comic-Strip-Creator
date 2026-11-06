@@ -8,6 +8,7 @@ import { createPortal } from "react-dom";
 import { toPng } from "html-to-image";
 import { saveAs } from "file-saver";
 import jsPDF from "jspdf";
+import { trackEvent } from "@/lib/gtag";
 
 export function EditorHeaderActions() {
   const { comic, updateComicTitle, selectedPanelId, removePanel, selectPanel, selectElement, applyLayoutPreset, distributeEvenly } = useEditorStore();
@@ -30,6 +31,8 @@ export function EditorHeaderActions() {
     if (!exportNode) return;
 
     setIsExporting(true);
+    trackEvent('save_comic', { format, title: comic.title, panels: comic.panels.length });
+    trackEvent('export_strip', { format, title: comic.title, panels: comic.panels.length });
 
     try {
       // Configuration for high quality

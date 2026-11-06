@@ -1,6 +1,6 @@
 import type { SeoMeta } from '@/types/seo';
 
-const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? 'http://comicflow.alfo.online';
+const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://comicflow.alfo.online';
 const SITE_NAME = process.env.NEXT_PUBLIC_SITE_NAME ?? 'Comic Strip Creator';
 
 export function buildOrganizationSchema() {

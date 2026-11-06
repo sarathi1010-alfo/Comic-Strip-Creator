@@ -1,7 +1,7 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import type { SeoMeta } from '@/types/seo';
 
-const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? 'http://comicflow.alfo.online';
+const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://comicflow.alfo.online';
 
 export function buildBlogPostMeta(post: any): SeoMeta {
   return {

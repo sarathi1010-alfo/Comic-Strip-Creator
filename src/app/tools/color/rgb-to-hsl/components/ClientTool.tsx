@@ -2,7 +2,6 @@
 
 import React, { useState } from 'react';
 import { Converter } from '@/components/tools/Converter';
-import Link from 'next/link';
 
 // Mathematical conversion function
 function rgbToHsl(r: number, g: number, b: number) {
@@ -144,12 +143,12 @@ export function ClientRgbToHslTool() {
       <section className="mt-16 border-t border-slate-800 pt-8">
         <h3 className="text-lg font-medium text-slate-300 mb-4">Related Color Tools</h3>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-          <Link href="/tools/color/hex-to-rgb" className="block p-4 bg-slate-900 border border-slate-800 rounded-lg hover:border-violet-500 transition-colors">
-            HEX to RGB Converter
-          </Link>
-          <Link href="/tools/color/hsl-to-hex" className="block p-4 bg-slate-900 border border-slate-800 rounded-lg hover:border-violet-500 transition-colors">
-            HSL to HEX Converter
-          </Link>
+          <a href="https://paletteflow.alfo.online/tools/gradient-generator" target="_blank" rel="noopener" className="block p-4 bg-slate-900 border border-slate-800 rounded-lg hover:border-violet-500 transition-colors">
+            Gradient Generator
+          </a>
+          <a href="https://paletteflow.alfo.online/tools/contrast-checker" target="_blank" rel="noopener" className="block p-4 bg-slate-900 border border-slate-800 rounded-lg hover:border-violet-500 transition-colors">
+            Contrast Checker
+          </a>
         </div>
       </section>
     </main>
