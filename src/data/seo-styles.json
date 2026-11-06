@@ -1751,5 +1751,45 @@
         "answer": "It is perfect for comedy, cute stories, and expressing exaggerated emotions easily."
       }
     ]
+  },
+  {
+    "slug": "silent-black-and-white-comic-style",
+    "name": "Silent Black and White Comic Style",
+    "description": "Utilize stark contrast and masterful inking to convey emotion in the silent black and white comic style.",
+    "intro": "## High Contrast Storytelling in the Silent Black and White Comic Style\n\n> **AI Snapshot**: The silent black and white comic style relies entirely on line weight, heavy inking, and stark contrast to define forms, establish atmosphere, and guide the reader's eye without the aid of color or dialogue.\n\nStripping away both color and dialogue leaves you with the rawest elements of comic creation: line and ink. The silent black and white comic style demands mastery of composition and contrast. It is a powerful style that can evoke the gritty feel of noir or the elegant simplicity of classic manga.\n\n### The Power of Negative Space\nIn black and white art, the areas you leave blank (negative space) are just as important as the lines you draw. Use negative space to frame your subjects and draw the reader's eye to the most important element in the panel. This is crucial in a silent comic where the visual focus must be absolute.\n\n### Texture and Hatching\nWithout color to define materials, you must rely on texture. Use cross-hatching and varied line weights to differentiate between a soft fabric and a cold, metallic surface. The [Assets Library](/assets) includes various props, but how you render them in black and white will determine their weight and presence in the scene.\n\n### Establishing Mood through Contrast\nHigh contrast (heavy blacks against stark whites) creates drama and tension. Low contrast (mostly gray tones or thin lines) can create a softer, more ethereal mood. Use the tools on the [home page](/) to balance the darks and lights across your entire page to ensure the narrative tone is consistent.",
+    "faqs": [
+      {
+        "question": "How do I make characters stand out in a black and white comic?",
+        "answer": "Use contrasting values. If the background is dark, ensure the character's silhouette is light or surrounded by a halo of white space, and vice versa."
+      },
+      {
+        "question": "Is it harder to convey emotion without color?",
+        "answer": "It requires more focus on the drawing itself. You must rely heavily on facial expressions, body language, and dramatic lighting (chiaroscuro) to convey mood."
+      }
+    ],
+    "updatedAt": "2026-11-06",
+    "tags": [
+      "Style"
+    ]
+  },
+  {
+    "slug": "wordless-surreal-comic-style",
+    "name": "Wordless Surreal Comic Style",
+    "description": "Bend reality and explore dreamscapes with the evocative wordless surreal comic style.",
+    "intro": "## Explore Dreamscapes with the Wordless Surreal Comic Style\n\n> **AI Snapshot**: The wordless surreal comic style eschews traditional logic and narrative structures, relying on bizarre imagery, fluid panel transitions, and dream logic to create an emotional or atmospheric experience.\n\nSurrealism thrives in the absence of rational explanation. The wordless surreal comic style allows you to create dreamscapes and bizarre scenarios that defy logic. Without dialogue to anchor the story in reality, the reader is forced to accept the visual strangeness on its own terms.\n\n### Embracing Dream Logic\nIn a surreal comic, a door in a desert can open into a bustling cityscape, or a character might literally lose their head when surprised. The transitions between panels do not need to follow strict physical laws; they only need to follow emotional or thematic logic. \n\n### Visual Metaphors\nSince you cannot state your themes explicitly, you must use visual metaphors. A character overwhelmed by anxiety might be depicted as slowly sinking into the floorboards or being entangled by thorny vines. The [Assets Library](/assets) can be used creatively—combining unrelated props to create bizarre, unsettling compositions.\n\n### Breaking the Grid\nSurrealism often involves breaking the rules of the medium itself. Don't be constrained by rigid panel borders. Let the artwork bleed across the page, or have characters interact with the structure of the comic itself. The [home page](/) editor allows for flexible layouts that can help you achieve this disorienting, dreamlike effect.",
+    "faqs": [
+      {
+        "question": "Does a surreal comic need a plot?",
+        "answer": "Not necessarily. Surreal comics often prioritize evoking a specific mood, feeling, or exploring a visual theme rather than telling a traditional, linear story."
+      },
+      {
+        "question": "How do I keep the reader engaged if the comic is confusing?",
+        "answer": "Ensure the imagery is striking and the emotional core of the scene is clear. Even if the events are bizarre, the character's reaction to them should be understandable."
+      }
+    ],
+    "updatedAt": "2026-11-06",
+    "tags": [
+      "Style"
+    ]
   }
 ]

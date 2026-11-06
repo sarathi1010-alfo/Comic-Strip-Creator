@@ -4650,5 +4650,85 @@
         "answer": "Begin by planning your core story, then use our asset library to find the right characters and backgrounds."
       }
     ]
+  },
+  {
+    "slug": "silent-action-comic-maker",
+    "name": "Silent Action Comic Maker",
+    "description": "Create adrenaline-fueled, wordless action sequences using our silent action comic maker.",
+    "intro": "## Master Kinetic Storytelling with a Silent Action Comic Maker\n\n> **AI Snapshot**: A silent action comic maker emphasizes dynamic posing, clear action lines, and impactful panel transitions to convey fast-paced combat or chases entirely through visuals, without relying on sound effects or dialogue.\n\nCreating an action comic without words is one of the most exhilarating challenges a creator can face. It forces you to rely entirely on the visual language of motion and impact. The silent action comic maker provides the necessary assets to create high-octane sequences that rely on pure kinetic energy.\n\n### Designing for Impact\nIn a silent action scene, the \"hit\" must be felt through the drawing itself. Use exaggerated perspectives and foreshortening to make punches and kicks burst out of the panel. The [Assets Library](/assets) provides various action poses that you can use as a foundation. Remember, a silent hit needs to look twice as hard as a hit accompanied by a \"WHAM!\" sound effect.\n\n### The Importance of Choreography\nWithout dialogue to explain the stakes or the strategy, the physical choreography must be crystal clear. The reader must understand the spatial relationship between the combatants and their environment. Keep the \"camera\" steady and ensure the flow of action reads naturally from left to right.\n\n### Pacing the Fight\nA fight is a conversation told through violence. Use the [home page](/) layout tools to control the rhythm. Fast, small panels can simulate a flurry of blows, while a large splash page can capture the decisive finishing move. Use these pacing tools to build tension and deliver a satisfying climax to the confrontation.",
+    "faqs": [
+      {
+        "question": "How do I show sound in a silent action comic?",
+        "answer": "You don't. Instead, you show the visual result of the sound: debris flying, characters flinching, or the intense, radiating lines of an impact."
+      },
+      {
+        "question": "What makes a silent fight scene easy to read?",
+        "answer": "Clear silhouettes and consistent spatial geography. The reader should always know exactly where characters are relative to one another."
+      }
+    ],
+    "updatedAt": "2026-11-06",
+    "tags": [
+      "Genre"
+    ]
+  },
+  {
+    "slug": "wordless-horror-comic-creator",
+    "name": "Wordless Horror Comic Creator",
+    "description": "Build terrifying atmospheres and psychological dread with our wordless horror comic creator.",
+    "intro": "## Cultivate Dread with a Wordless Horror Comic Creator\n\n> **AI Snapshot**: A wordless horror comic creator focuses on atmosphere, shadow, pacing, and grotesque or unsettling imagery, relying on the reader's imagination to fill in the silence and amplify the fear.\n\nSilence is inherently unsettling. In the horror genre, the absence of sound can be far more terrifying than a monster's roar. A wordless horror comic creator allows you to lean into this psychological dread, using atmosphere and pacing to craft a truly chilling experience.\n\n### The Power of Shadow\nWhat you don't show is just as important as what you do show. Use heavy shadows (chiaroscuro lighting) to obscure threats and let the reader's imagination run wild. The [Assets Library](/assets) offers darker, grittier backgrounds perfect for establishing a foreboding setting. If a monster is lurking, showing only its silhouette or a single glowing eye can be incredibly effective.\n\n### Pacing for the Scare\nHorror relies heavily on timing. Use the panel layout tools on the [home page](/) to draw out the tension. A long sequence of slow, methodical panels showing a character creeping down a dark hallway builds agonizing suspense. Then, turn the page to reveal a sudden, horrific image.\n\n### Uncanny Imagery\nWithout words to explain a situation, the visuals must carry the weight of the unnatural. Focus on uncanny valley elements—things that are almost human but slightly wrong. Exaggerated expressions of pure terror on your protagonist's face will mirror the reaction you want from your reader.",
+    "faqs": [
+      {
+        "question": "Why are silent horror comics effective?",
+        "answer": "Silence forces the reader to focus intensely on the visuals, making them more vulnerable to sudden scares or unsettling imagery."
+      },
+      {
+        "question": "How do I build tension without dialogue?",
+        "answer": "Use slow pacing with a high panel count leading up to a scare, and utilize heavy shadows to obscure the threat until the final reveal."
+      }
+    ],
+    "updatedAt": "2026-11-06",
+    "tags": [
+      "Genre"
+    ]
+  },
+  {
+    "slug": "silent-comedy-comic-builder",
+    "name": "Silent Comedy Comic Builder",
+    "description": "Craft hilarious physical gags and slapstick routines with the silent comedy comic builder.",
+    "intro": "## Master Slapstick with a Silent Comedy Comic Builder\n\n> **AI Snapshot**: A silent comedy comic builder provides tools for creating exaggerated physical gags, precise comedic timing through panel layouts, and expressive character reactions, reminiscent of classic pantomime.\n\nComedy is notoriously difficult to translate to a silent format, but when it works, it transcends language and culture. The silent comedy comic builder helps you focus on physical humor, visual puns, and the meticulous timing required to land a punchline without a single word.\n\n### The Anatomy of a Gag\nA visual gag needs a clear setup and payoff. The reader must understand the initial situation perfectly before the comedic subversion occurs. Use the [Assets Library](/assets) to establish simple, recognizable props—a banana peel, a falling anvil, an open manhole—that serve as the catalyst for the humor.\n\n### Comedic Timing via Panels\nIn silent comedy, the panel border is your drumbeat. The [home page](/) editor allows you to control the exact pacing of the joke. A slow buildup over three panels followed by a sudden, chaotic fourth panel can create a classic comedic rhythm. The pause before the reaction is often funnier than the action itself.\n\n### Expressive Reactions\nThe punchline in a silent comic often comes from a character's reaction to an absurd event. Emphasize wide eyes, dropped jaws, or perfectly deadpan stares. The contrast between a chaotic event and a character's understated reaction is a staple of physical comedy.",
+    "faqs": [
+      {
+        "question": "What is the key to silent comedy?",
+        "answer": "Clear setups and exaggerated physical reactions. The reader must understand the situation instantly for the visual punchline to work."
+      },
+      {
+        "question": "How do panel layouts affect a visual joke?",
+        "answer": "Panels control timing. Adding an extra, static panel before a reaction can act as a comedic pause, enhancing the eventual punchline."
+      }
+    ],
+    "updatedAt": "2026-11-06",
+    "tags": [
+      "Genre"
+    ]
+  },
+  {
+    "slug": "pantomime-fantasy-comic-generator",
+    "name": "Pantomime Fantasy Comic Generator",
+    "description": "Explore magical realms and epic quests through visual storytelling with the pantomime fantasy comic generator.",
+    "intro": "## Build Magical Worlds with a Pantomime Fantasy Comic Generator\n\n> **AI Snapshot**: A pantomime fantasy comic generator focuses on world-building through intricate environments, expressive creature design, and visual magic systems, allowing readers to discover a fantasy world without exposition dumps.\n\nFantasy stories are often burdened by heavy exposition to explain complex lore and magic systems. A pantomime fantasy comic throws all that out the window, forcing the creator to show rather than tell. The pantomime fantasy comic generator encourages you to build a world that is visually self-explanatory and filled with wonder.\n\n### Visual World-Building\nYour environment must communicate the history and culture of your fantasy realm. The [Assets Library](/assets) offers sweeping landscapes, ancient ruins, and bizarre flora. If a society is advanced, show it through their architecture. If they are oppressed, show it through their tattered clothing and grim expressions. \n\n### Defining Magic Visually\nHow does magic work in your world? Without words to explain the rules, you must define them through consistent visual cues. Perhaps healing magic is always warm and glowing, while destructive magic is jagged and dark. Establishing these visual rules early on is crucial for reader comprehension.\n\n### The Hero's Journey in Silence\nThe classic quest narrative works beautifully in a silent format. Use the [home page](/) tools to track the protagonist's physical journey across sweeping vistas, and show their internal growth through subtle changes in posture and expression as they face increasingly difficult trials.",
+    "faqs": [
+      {
+        "question": "How do I explain lore in a silent fantasy comic?",
+        "answer": "You must embed the lore into the environment. Use statues, ruins, tapestries, and character interactions to imply history and culture visually."
+      },
+      {
+        "question": "Can magic be understood without verbal explanation?",
+        "answer": "Yes, by establishing strict visual rules. Consistency in color, shape, and consequence when magic is used will teach the reader how the system works."
+      }
+    ],
+    "updatedAt": "2026-11-06",
+    "tags": [
+      "Genre"
+    ]
   }
 ]

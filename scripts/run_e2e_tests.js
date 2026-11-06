@@ -524,7 +524,16 @@ const assert = require('assert');
   'http://localhost:3000/layouts/3-panel-comic',
   'http://localhost:3000/layouts/4-panel-comic',
   'http://localhost:3000/layouts/6-panel-comic',
-  'http://localhost:3000/styles/chibi-character-creator'
+  'http://localhost:3000/styles/chibi-character-creator',
+  'http://localhost:3000/blog/mastering-silent-comics',
+  'http://localhost:3000/genres/silent-action-comic-maker',
+  'http://localhost:3000/genres/wordless-horror-comic-creator',
+  'http://localhost:3000/genres/silent-comedy-comic-builder',
+  'http://localhost:3000/genres/pantomime-fantasy-comic-generator',
+  'http://localhost:3000/layouts/silent-3-panel-comic-layout',
+  'http://localhost:3000/layouts/wordless-4-panel-comic-layout',
+  'http://localhost:3000/styles/silent-black-and-white-comic-style',
+  'http://localhost:3000/styles/wordless-surreal-comic-style'
 ];
   page.on('console', msg => {
     if (msg.type() === 'error') {
