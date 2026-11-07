@@ -4730,5 +4730,85 @@
     "tags": [
       "Genre"
     ]
+  },
+  {
+    "slug": "indie-comic-publisher-maker",
+    "name": "Indie Comic Publisher Maker",
+    "description": "Launch your own independent comic titles with the indie comic publisher maker.",
+    "intro": "## Take Control with the Indie Comic Publisher Maker\n\n> **AI Snapshot**: The indie comic publisher maker provides tools for independent creators to assemble, format, and organize their comics for self-publishing, focusing on print-ready layouts, branding elements, and streamlined distribution preparation.\n\nThe independent comic scene is thriving, offering creators total control over their narratives and profits. However, self-publishing requires wearing many hats. The indie comic publisher maker is designed to streamline the technical aspects of creating your book, allowing you to focus on the art and story while ensuring the final product meets professional printing standards.\n\n### Formatting for Print\nOne of the biggest hurdles for new publishers is formatting. The maker provides pre-set templates that automatically calculate bleed, trim, and safe areas for standard comic book sizes. This ensures your artwork isn't cut off during the printing process. You can design your pages directly within these constraints using the editor on our [home page](/), ensuring your physical book looks as good as your digital files.\n\n### Branding and Logos\nEstablishing a recognizable brand is crucial for an indie publisher. The maker includes tools and assets for designing custom publisher logos, trade dress, and title treatments. Consistent branding across your covers and marketing materials helps build reader trust and recognition. Explore the [Assets Library](/assets) for typographic elements and iconography to build your unique publisher identity.\n\n### Preparing the Pitch\nEven if you plan to self-publish, you still need to \"pitch\" your book to potential readers and crowdfunding backers. The maker allows you to easily extract high-resolution sample pages, character designs, and promotional banners to build compelling Kickstarter pages or press kits. Remember, presenting your work professionally is half the battle in the indie market.",
+    "faqs": [
+      {
+        "question": "What is bleed in comic printing?",
+        "answer": "Bleed is the extra artwork that extends beyond the trim line of the page. It ensures that when the printer cuts the paper, the art goes all the way to the edge without leaving a white border."
+      },
+      {
+        "question": "How important is a publisher logo for self-publishing?",
+        "answer": "A professional publisher logo builds credibility. It tells readers that you take your work seriously and helps establish a brand identity that can span multiple different comic titles."
+      }
+    ],
+    "updatedAt": "2026-11-06",
+    "tags": [
+      "Genre"
+    ]
+  },
+  {
+    "slug": "webcomic-syndication-creator",
+    "name": "Webcomic Syndication Creator",
+    "description": "Optimize and format your strips for online platforms with the webcomic syndication creator.",
+    "intro": "## Reach Millions with the Webcomic Syndication Creator\n\n> **AI Snapshot**: The webcomic syndication creator optimizes comic artwork for digital platforms, focusing on vertical scrolling formats, mobile-friendly text sizes, and easy slicing tools for uploading to sites like Webtoon or Tapas.\n\nDigital platforms have revolutionized how comics are consumed, with millions of readers scrolling through stories on their phones every day. The webcomic syndication creator is specifically tailored for this digital-first approach, providing the formatting and optimization tools necessary to thrive on modern webcomic platforms.\n\n### The Vertical Scroll\nUnlike traditional printed pages, modern webcomics are designed for the \"infinite scroll.\" The creator allows you to build long, vertical canvases that dictate the pacing of the story through the physical act of scrolling. You can easily manage the spacing between panels (the \"gutter\") to build tension or indicate the passage of time. Start building your scroll on our [home page](/).\n\n### Mobile-Optimized Lettering\nA common mistake when moving from print to digital is using font sizes that are unreadable on a smartphone. The creator includes tools to ensure your speech bubbles and text remain legible on smaller screens. The [Assets Library](/assets) offers a variety of fonts specifically designed for digital clarity, ensuring your dialogue always hits the mark.\n\n### Slicing and Exporting\nPlatforms like Webtoon have strict file size and dimension limits for uploads. The syndication creator automates the process of slicing your massive vertical canvas into appropriately sized image files, saving you hours of tedious manual cropping and ensuring a seamless upload process.",
+    "faqs": [
+      {
+        "question": "Why do webcomics use a vertical format?",
+        "answer": "The vertical format is designed specifically for reading on mobile phones. It allows for a continuous, seamless reading experience simply by scrolling down with your thumb."
+      },
+      {
+        "question": "How big should my text be for a webcomic?",
+        "answer": "Text should be significantly larger than in a printed comic to ensure legibility on small smartphone screens. Always test your exported files on a mobile device before publishing."
+      }
+    ],
+    "updatedAt": "2026-11-06",
+    "tags": [
+      "Genre"
+    ]
+  },
+  {
+    "slug": "self-publishing-comic-generator",
+    "name": "Self-Publishing Comic Generator",
+    "description": "Manage the entire creation pipeline from script to final PDF with the self-publishing comic generator.",
+    "intro": "## Own Your IP with the Self-Publishing Comic Generator\n\n> **AI Snapshot**: The self-publishing comic generator provides an end-to-end suite for creators, integrating layout, lettering, and export tools to produce professional-grade PDFs ready for print-on-demand services or digital storefronts.\n\nSelf-publishing is the ultimate path to retaining full creative control and ownership of your intellectual property. However, it demands a high level of professionalism in the final product. The self-publishing comic generator acts as your digital production studio, ensuring every page meets the rigorous standards required by modern print and digital distributors.\n\n### Streamlined Workflow\nMoving between sketching, inking, coloring, and lettering across different software can be inefficient. The generator centralizes this workflow. You can block out your initial layouts using the tools on our [home page](/), refine the art, and add final lettering all within one ecosystem, drastically reducing production time.\n\n### Professional Export Options\nWhether you are uploading to Amazon KDP, a local offset printer, or selling digital PDFs directly to fans, your files must be perfect. The generator offers robust export settings, allowing you to generate CMYK files for print or optimized RGB files for digital screens, complete with crop marks and bleed areas. Ensure your characters from the [Assets Library](/assets) look just as vibrant in print as they do on screen.\n\n### Crowdfunding Preparation\nA successful self-publishing run often starts with crowdfunding. The generator makes it easy to pull high-quality promotional images, cover mockups, and preview pages to build a compelling campaign page that will attract backers and fund your print run.",
+    "faqs": [
+      {
+        "question": "What format do printers need for self-published comics?",
+        "answer": "Most commercial printers require high-resolution (300 DPI) PDF files in the CMYK color space, with all fonts outlined or embedded, and proper bleed margins included."
+      },
+      {
+        "question": "Can I sell the PDFs I make directly to readers?",
+        "answer": "Yes! Many self-published creators sell DRM-free PDFs directly through their own websites or platforms like Gumroad, which often yields the highest profit margin per sale."
+      }
+    ],
+    "updatedAt": "2026-11-06",
+    "tags": [
+      "Genre"
+    ]
+  },
+  {
+    "slug": "zine-comic-builder",
+    "name": "Zine Comic Builder",
+    "description": "Create raw, punk-aesthetic mini-comics and fanzines with the zine comic builder.",
+    "intro": "## Embrace the Underground with the Zine Comic Builder\n\n> **AI Snapshot**: The zine comic builder celebrates the DIY aesthetic, offering tools for creating lo-fi, black-and-white mini-comics optimized for quick home printing, folding, and stapling.\n\nZines (short for fanzines or magazines) are the beating heart of underground comic culture. They are cheap to produce, easy to distribute, and unconstrained by mainstream editorial standards. The zine comic builder is designed to capture this raw, DIY energy, providing the specific tools needed to create impactful mini-comics from your desktop.\n\n### The Lo-Fi Aesthetic\nZines are traditionally photocopied in black and white. The builder leans into this aesthetic, offering high-contrast filters, halftone patterns, and gritty textures that mimic the look of cheap toner on standard printer paper. You can apply these effects to any character or prop from the [Assets Library](/assets) to instantly give them a punk-rock edge.\n\n### Imposition and Folding\nOne of the trickiest parts of making a physical zine is \"imposition\"—arranging the pages so that when the paper is folded and stapled, the story reads in the correct order. The builder handles this automatically. You simply create your pages in order using the editor on our [home page](/), and the builder outputs a file formatted specifically for folding into a booklet.\n\n### Fast and Expressive\nZines are about getting your ideas out quickly. They don't require hyper-polished rendering. The builder encourages a fast, expressive workflow, allowing you to focus on raw emotion, political commentary, or avant-garde storytelling without getting bogged down in complex digital painting techniques.",
+    "faqs": [
+      {
+        "question": "What is a comic zine?",
+        "answer": "A comic zine is a small-circulation, self-published work of original or appropriated texts and images, usually reproduced via a photocopier on standard paper and folded into a booklet."
+      },
+      {
+        "question": "Do zines have to be black and white?",
+        "answer": "While traditionally black and white due to the cost of photocopying, modern zines can be full color. However, the black-and-white, high-contrast look remains a defining aesthetic of the zine culture."
+      }
+    ],
+    "updatedAt": "2026-11-06",
+    "tags": [
+      "Genre"
+    ]
   }
 ]
