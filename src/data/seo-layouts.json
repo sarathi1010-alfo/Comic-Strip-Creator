@@ -3704,5 +3704,65 @@
     "tags": [
       "Layout"
     ]
+  },
+  {
+    "slug": "print-ready-bleed-layout",
+    "name": "Print Ready Bleed Layout",
+    "description": "Ensure your comic prints perfectly with the print-ready bleed layout.",
+    "intro": "## Prepare for the Press: Print Ready Bleed Layout\n\n> **AI Snapshot**: The print-ready bleed layout provides a template that clearly defines the bleed area, trim line, and safe zone, ensuring that artwork prints all the way to the edge of the physical page without losing important text or details.\n\nWhen transitioning a comic from a digital screen to a physical book, the most critical technical challenge is managing the edges of the page. The print-ready bleed layout is an essential template that visually guides you through the printing parameters, ensuring your final physical book looks exactly as you intended.\n\n### Understanding the Margins\nThe layout provides three distinct guides. The **Bleed Area** is the outermost edge where your background art must extend to ensure there are no white borders after printing. The **Trim Line** is where the paper will actually be cut. The **Safe Zone** is the innermost area; all crucial artwork and lettering must remain inside this box so it doesn't get sliced off or lost in the binding. You can set up these guides easily on our [home page](/).\n\n### Managing Full-Bleed Artwork\n\"Full-bleed\" refers to panels where the art extends all the way off the edge of the page. This technique creates a sense of scale and immersion. When using elements from the [Assets Library](/assets) for a full-bleed panel, always ensure they are scaled large enough to push past the trim line into the bleed area.\n\n### Preventing Lettering Disasters\nThe most common printing mistake is placing speech bubbles too close to the edge. If the printer's cut shifts even a millimeter, half of your dialogue could be lost. The safe zone guide in this layout prevents this catastrophe, ensuring your lettering is always legible.",
+    "faqs": [
+      {
+        "question": "What is the standard bleed size for a comic book?",
+        "answer": "The industry standard for bleed is typically 0.125 inches (1/8 inch) on all four sides of the page."
+      },
+      {
+        "question": "Why do I need a safe zone if I know where the trim line is?",
+        "answer": "The trimming process in commercial printing is not perfectly precise. The paper can shift slightly during cutting. The safe zone provides a buffer to account for this mechanical variance."
+      }
+    ],
+    "updatedAt": "2026-11-06",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "double-page-print-spread",
+    "name": "Double Page Print Spread",
+    "description": "Design massive, impactful scenes that span across two physical pages with the double-page print spread layout.",
+    "intro": "## Maximize Impact with the Double Page Print Spread\n\n> **AI Snapshot**: The double-page print spread layout allows creators to treat two facing pages as a single, massive canvas. It requires careful management of the center 'gutter' to ensure crucial artwork isn't lost in the book's binding.\n\nWhen a single page isn't enough to capture the epic scale of your story—a massive fleet of spaceships, a sprawling fantasy city, or the climax of a superhero battle—you need the double-page print spread. This layout treats two facing pages as one continuous image, delivering the maximum possible visual impact to the reader.\n\n### Managing the Gutter (Binding)\nThe biggest technical challenge with a double-page spread is the center fold, where the book is bound (the gutter). Artwork and text that fall exactly in the center will be sucked into the binding and rendered unreadable. The layout guides on our [home page](/) help you visualize this \"danger zone,\" ensuring you keep faces and speech bubbles safely to the left or right of the crease.\n\n### Designing for Flow\nEven though it's one massive image, the reader's eye still needs to be guided. Use leading lines, action flows, and character placement to pull the reader across the spread from the top left to the bottom right, ensuring they take in the full scope of the scene. Utilize the [Assets Library](/assets) to populate the background and add depth to the composition.\n\n### The Page Turn Reveal\nThe double-page spread is most effective when it follows a moment of high tension built on the previous page. The physical act of turning the page to reveal the massive spread creates a visceral \"wow\" factor that cannot be replicated in a scrolling webcomic format.",
+    "faqs": [
+      {
+        "question": "How do I avoid losing art in the middle of a two-page spread?",
+        "answer": "Never place important elements like character faces, focal points of action, or lettering directly in the exact center line where the pages will be bound together."
+      },
+      {
+        "question": "Can I use a double-page spread for dialogue-heavy scenes?",
+        "answer": "It is generally not recommended. Spreads are best used for visual spectacle. Heavy dialogue can clutter the massive image and confuse the reading order across the two pages."
+      }
+    ],
+    "updatedAt": "2026-11-06",
+    "tags": [
+      "Layout"
+    ]
+  },
+  {
+    "slug": "web-to-print-comic-layout",
+    "name": "Web to Print Comic Layout",
+    "description": "Seamlessly convert your vertical scrolling webcomics into standard printed pages with the web-to-print layout.",
+    "intro": "## Bridge the Gap with the Web to Print Comic Layout\n\n> **AI Snapshot**: The web-to-print layout assists creators in reformatting their infinite-scroll webcomics into standard, constrained page dimensions for physical printing, focusing on panel rearrangement and pacing adjustments.\n\nMany of today's most successful printed graphic novels began as vertical scrolling webcomics. However, taking a story designed for a smartphone screen and forcing it onto a standard 6.625\" x 10.25\" piece of paper requires careful reformatting. The web-to-print layout provides the tools and grids necessary to make this transition seamlessly.\n\n### Restructuring the Pace\nWebcomics use massive vertical gutters to control pacing and tension. In print, space is at a premium. This layout helps you condense the vertical scroll by allowing you to rearrange panels into traditional grids on our [home page](/), maintaining the story's rhythm without wasting expensive paper.\n\n### Resizing and Resolution\nArt created specifically for low-resolution mobile screens may look blurry when printed at 300 DPI. The web-to-print layout highlights resolution issues and provides a canvas where you can swap out low-res assets with high-quality, print-ready elements from the [Assets Library](/assets).\n\n### Preserving the Cliffhangers\nIn a webcomic, the \"page turn\" happens constantly as the user scrolls. In print, the page turn is a physical mechanism for suspense. When reformatting your layout, you must strategically place your most suspenseful panels at the bottom right corner of the right-hand page to encourage the reader to turn to the next spread.",
+    "faqs": [
+      {
+        "question": "Why is it hard to print a webtoon?",
+        "answer": "Webtoons are designed as one continuous vertical image with very large gaps between panels. Printing this directly would result in mostly blank pages. The panels must be rearranged into a grid to fit a standard book format."
+      },
+      {
+        "question": "Do I need to redraw my art to print a webcomic?",
+        "answer": "Not necessarily, but you may need to adjust the framing, extend backgrounds to create bleed, or increase the resolution of the files if they were drawn on a very small digital canvas."
+      }
+    ],
+    "updatedAt": "2026-11-06",
+    "tags": [
+      "Layout"
+    ]
   }
 ]
